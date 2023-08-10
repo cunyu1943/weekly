@@ -46,18 +46,28 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '主页', link: '/' },
-    { text: '2023', link: '/2023/0415-0421' }
+    { text: '2023 年刊', link: '/2023/0415-0421' }
   ]
 }
 
 function sidebarCurrent(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: '2023 年刊',
-      collapsed: false,
+      text: '五月',
+      collapsed: true,
       items: [
-        { text: '周刊#2（0422-0428）', link: '0422-0428' },
-        { text: '周刊#1（0415-0421）', link: '0415-0421' }
+        { text: '周刊#5：前端开发必备资源站', link: '0513-0519' },
+        { text: '周刊#4：每天一条 JS 小技巧', link: '0506-0512' },
+        { text: '周刊#3：Java 学习 + 面试指南', link: '0429-0505' },
       ]
-    }]
+    },
+    {
+      text: '四月',
+      collapsed: true,
+      items: [
+        { text: '周刊#2：AI 写作助手', link: '0422-0428' },
+        { text: '周刊#1：提示工程师养成指南', link: '0415-0421' }
+      ]
+    }
+  ]
 }

@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: 最新年刊
-      link: /2023/2
+      link: /2023/0415-0421
 
 features:
   - title: Feature A
