@@ -56,7 +56,8 @@ function sidebarCurrent(): DefaultTheme.SidebarItem[] {
       text: '2023 年刊',
       collapsed: false,
       items: [
-        { text: '周刊#1（0415-0421）', link: '0415-0421' },
+        { text: '周刊#2（0422-0505）', link: '0422-0505' },
+        { text: '周刊#1（0415-0421）', link: '0415-0421' }
       ]
     }]
 }
