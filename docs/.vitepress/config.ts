@@ -53,18 +53,18 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarCurrent(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: '五月',
-      collapsed: true,
+      text: '2023 年刊',
+      collapsed: false,
       items: [
+        { text: '周刊#11：远程桌面软件对对碰', link: '0624-0630' },
+        { text: '周刊#10：算法学习必备', link: '0617-0623' },
+        { text: '周刊#9：AI 学习必备资料', link: '0610-0616' },
+        { text: '周刊#8：开源镜像站', link: '0603-0609' },
+        { text: '周刊#7：标签页也可以很酷', link: '0527-0602' },
+        { text: '周刊#6：系统下载最优解', link: '0520-0526' },
         { text: '周刊#5：前端开发必备资源站', link: '0513-0519' },
         { text: '周刊#4：每天一条 JS 小技巧', link: '0506-0512' },
         { text: '周刊#3：Java 学习 + 面试指南', link: '0429-0505' },
-      ]
-    },
-    {
-      text: '四月',
-      collapsed: true,
-      items: [
         { text: '周刊#2：AI 写作助手', link: '0422-0428' },
         { text: '周刊#1：提示工程师养成指南', link: '0415-0421' }
       ]
