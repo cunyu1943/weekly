@@ -10,7 +10,8 @@ export default defineConfig({
   cleanUrls: true,
 
   head: [
-    ['link', { rel: 'icon', href: '/site/logo.png' }]
+    ['link', { rel: 'icon', href: '/site/logo.png' }],
+    ['meta', { name: 'theme-color', content: '#3c8772' }],
   ],
 
   themeConfig: {
