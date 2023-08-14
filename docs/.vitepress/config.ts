@@ -57,6 +57,12 @@ function sidebarCurrent(): DefaultTheme.SidebarItem[] {
       text: '2023 年刊',
       collapsed: false,
       items: [
+        { text: '周刊#17：美图合集 App', link: '0805-0811' },
+        { text: '周刊#16：别致的二维码', link: '0729-0804' },
+        { text: '周刊#15：别样清晰的远程控制软件', link: '0722-0728' },
+        { text: '周刊#14：壁纸下载网站', link: '0715-0721' },
+        { text: '周刊#13：免费下载软件', link: '0708-0714' },
+        { text: '周刊#12：计算机考研资料', link: '0701-0707' },
         { text: '周刊#11：远程桌面软件对对碰', link: '0624-0630' },
         { text: '周刊#10：算法学习必备', link: '0617-0623' },
         { text: '周刊#9：AI 学习必备资料', link: '0610-0616' },
