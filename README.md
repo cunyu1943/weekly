@@ -5,7 +5,7 @@
 
 村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域，每周五发布。专栏目的在于记录让自己有印象的信息做一个备份及分享，阅读渠道如下：
 
-- [博客](https://cunyu1943.github.io/) | [博客(国内)](https://cunyu1943.github.io/)
+- [博客](https://cunyu1943.github.io/) | [博客(国内)](https://cunyu1943.gitee.io/)
 - [JavaPark](https://github.com/cunyu1943/JavaPark)
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)：移动端推荐
 
@@ -44,6 +44,8 @@
 13. [好物周刊#13：免费下载软件](docs/2023/0708-0714.md)
 14. [好物周刊#14：壁纸下载网站](docs/2023/0715-0721.md)
 15. [好物周刊#15：别样清晰的远程控制软件](docs/2023/0722-0728.md)
+16. [好物周刊#16：别致的二维码](docs/2023/0729-0804.md)
+17. [好物周刊#17：美图合集 App](docs/2023/0805-0811.md)
 
 
 ## 交流
