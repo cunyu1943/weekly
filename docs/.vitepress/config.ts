@@ -9,6 +9,10 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
 
+  sitemap: {
+    hostname: 'https://cunyu1943.github.io/weekly'
+  },
+
   head: [
     ['link', { rel: 'icon', href: '/site/logo.png' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
@@ -47,7 +51,10 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '主页', link: '/' },
-    { text: '2023 年刊', link: '/2023/0415-0421' }
+    { text: '2023 年刊', link: '/2023/0415-0421' },
+    { text: '博客', link: 'https://cunyu1943.github.io' },
+    { text: '订阅', link: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247498416&from_itemidx=1&count=3&nolastread=1#wechat_redirect' },
+    { text: 'RSS', link: 'sitemap.xml' }
   ]
 }
 
