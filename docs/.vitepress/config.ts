@@ -4,13 +4,14 @@ import { type DefaultTheme, defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/weekly/',
   title: "村雨遥的好物周刊",
+  titleTemplate: '村雨遥',
   description: "村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域，包含项目、插件、资源、网站、软件等方面内容，每周五发布。",
 
   lastUpdated: true,
   cleanUrls: true,
 
   sitemap: {
-    hostname: 'https://cunyu1943.github.io/weekly'
+    hostname: 'https://cunyu1943.github.io/'
   },
 
   head: [
@@ -43,7 +44,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/cunyu1943/weekly' }
+      { icon: 'github', link: 'https://github.com/cunyu1943/weekly' },
     ]
   }
 })
