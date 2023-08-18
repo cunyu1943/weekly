@@ -65,7 +65,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.4.2
         with:
           token: ${{ secrets.TOKEN }}
-          repository-name: cunyu1943/weekly
+          # repository-name: cunyu1943/weekly
           branch: gh-pages
-          # folder: docs/.vitepress/dist
+          folder: docs/.vitepress/dist
           commit-message: "${{ github.event.head_commit.message }}"
