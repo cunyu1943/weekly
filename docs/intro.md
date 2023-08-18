@@ -6,14 +6,14 @@
 
 村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域，每周五发布。专栏目的在于记录让自己有印象的信息做一个备份及分享，阅读渠道如下：
 
-- [博客](https://cunyu1943.github.io/) | [博客(国内)](https://cunyu1943.github.io/)
+- [博客](https://cunyu1943.github.io/weekly) | [博客(国内)](https://cunyu1943.gitee.io/)
 - [JavaPark](https://github.com/cunyu1943/JavaPark)
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)：移动端推荐
 
 如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：cunyu1943](./public/contact/wechat.png)** 和我交流。
 
 <center>
-<img src="./contact/wechat.png" width="100" />
+<img src="./public/contact/wechat.png" width="100" />
 </center>
 
 ## 介绍
@@ -33,7 +33,7 @@
 欢迎关注[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)|[博客](https://cunyu1943.github.io/)一起交流（每周在公众号首发）：
 
 <center>
-<img src="./contact/wechatpublic.png" width="100" />
+<img src="./public/contact/wechatpublic.png" width="100" />
 </center>
 
 
@@ -41,9 +41,9 @@
 
 开源不易，如果你觉得本仓库对你有帮助，或许可以请我喝杯咖啡 ☕️
 
-| 支付宝                                         | 微信                                              |
-| ---------------------------------------------- | ------------------------------------------------- |
-| <img src="./award/alipay.png" width="100px" /> | <img src="./award/wechatpay.png" width="100px" /> |
+| 支付宝                                                | 微信                                                     |
+| ----------------------------------------------------- | -------------------------------------------------------- |
+| <img src="./public/award/alipay.png" width="100px" /> | <img src="./public/award/wechatpay.png" width="100px" /> |
 
 
 
