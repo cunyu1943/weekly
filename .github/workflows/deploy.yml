@@ -61,9 +61,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+      - name: 部署到 Github
+        uses: JamesIves/github-pages-deploy-action@v4.4.2
         with:
           token: ${{ secrets.TOKEN }}
           repository-name: cunyu1943/weekly
           branch: gh-pages
-          folder: public
+          folder: docs/.vitepress/dist
           commit-message: "${{ github.event.head_commit.message }}"
