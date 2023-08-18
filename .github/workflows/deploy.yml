@@ -67,5 +67,5 @@ jobs:
           token: ${{ secrets.TOKEN }}
           # repository-name: cunyu1943/weekly
           branch: gh-pages
-          folder: ../docs/.vitepress/dist
+          folder: .vitepress/dist
           commit-message: "${{ github.event.head_commit.message }}"
