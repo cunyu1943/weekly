@@ -50,17 +50,17 @@ jobs:
           path: dist # docs/.vitepress/dist
           branch: gh-pages
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          # GitHub 密钥
-          ACCESS_TOKEN: ${{ secrets.TOKEN }}
-          # 指定仓库
-          REPOSITORY_NAME: cunyu1943/weekly
-          # GitHub Pages 读取的分支
-          BRANCH: gh-pages
-          # 静态文件所在目录
-          FOLDER: dist
+      # - name: Deploy
+      #   uses: JamesIves/github-pages-deploy-action@releases/v3
+      #   with:
+      #     # GitHub 密钥
+      #     ACCESS_TOKEN: ${{ secrets.TOKEN }}
+      #     # 指定仓库
+      #     REPOSITORY_NAME: cunyu1943/weekly
+      #     # GitHub Pages 读取的分支
+      #     BRANCH: gh-pages
+      #     # 静态文件所在目录
+      #     FOLDER: dist
 
   # Deployment job
   deploy:
