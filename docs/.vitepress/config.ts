@@ -2,6 +2,7 @@ import { type DefaultTheme, defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  outDir: '../dist',
   base: '/weekly/',
   title: "村雨遥的好物周刊",
   titleTemplate: '村雨遥',
