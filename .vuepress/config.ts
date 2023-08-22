@@ -8,7 +8,6 @@ export default defineUserConfig({
   dest: "public",
   theme: recoTheme({
     primaryColor: '#3aa675',
-    home: "/home",
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
     author: "村雨遥",
@@ -50,7 +49,7 @@ export default defineUserConfig({
     },
 
     navbar: [
-      { text: "主页", icon: "Home", link: "/home" },
+      { text: "主页", icon: "Home", link: "/" },
       { text: "创刊寄语", icon: "Compass", link: "/docs/intro" },
       { text: "2023 年刊", icon: "DocumentAttachment", link: "/docs/2023/0415-0421" },
       {

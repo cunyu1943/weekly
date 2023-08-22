@@ -1,4 +1,27 @@
-# weekly
+---
+home: true
+modules:
+  - BannerBrand
+  - MdContent
+  - Footer
+bannerBrand:
+  bgImage: '/bg.svg'
+  title: 村雨遥的好物周刊
+  description: 记录每周看到的有价值的信息，主要针对计算机领域，每周五发布。
+  tagline: 村雨遥的好物周刊，收集项目、软件、网站、插件、资料等方面内容。如果本项目对你有所帮助，还请留下个 Star 再走。
+  buttons:
+    - { text: 创刊寄语, link: '/docs/intro' }
+    - { text: 源码仓库, link: 'https://github.com/cunyu1943/weekly', type: 'plain' }
+  socialLinks:
+    - { icon: 'LogoGithub', link: 'https://github.com/cunyu1943/weekly' }
+# blog:
+#   socialLinks:
+#     - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
+isShowTitleInHome: true
+actionText: About
+actionLink: /views/other/about
+---
+# 好物周刊
 ## 前言
 
 > 不要哀求，学会争取。若是如此，终有所获。
