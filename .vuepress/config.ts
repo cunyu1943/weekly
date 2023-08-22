@@ -14,7 +14,7 @@ export default defineUserConfig({
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/cunyu1943/weekly",
     docsBranch: "main",
-    // docsDir: "example",
+    docsDir: "docs",
     lastUpdatedText: "上次更新时间",
 
     // series 为原 sidebar
