@@ -33,6 +33,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.4.2
         with:
           token: ${{ secrets.TOKEN }}
+          repository-name: cunyu1943/weekly
           branch: reco
           folder: public
           commit-message: "${{ github.event.head_commit.message }}"
