@@ -58,7 +58,7 @@
 
 <!-- ## ✨ Star 趋势图
 
-> 🎈 [JavaPark](https://github.com/cunyu1943/weekly)
+> [JavaPark](https://github.com/cunyu1943/weekly)
 
 如果您觉得本项目对您有所帮助，那就去 Github **Star** 收藏一下吧！
 

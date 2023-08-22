@@ -1,76 +1,38 @@
-# Sample workflow for building and deploying a VitePress site to GitHub Pages
-#
-name: Deploy VitePress site to Pages
+name: Github Pages 部署
 
 on:
-  # Runs on pushes targeting the `main` branch. Change this to `master` if you're
-  # using the `master` branch as the default branch.
   push:
-    branches: [main]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: pages
-  cancel-in-progress: false
+    branches: ["main"]
 
 jobs:
-  # Build job
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0 # Not needed if lastUpdated is not enabled
-      # - uses: pnpm/action-setup@v2 # Uncomment this if you're using pnpm
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: npm # or pnpm / yarn
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Install dependencies
-        run: npm ci # or pnpm install / yarn install
-      - name: Build with VitePress
-        run: npm run docs:build # or pnpm docs:build / yarn docs:build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: dist # docs/.vitepress/dist
-          branch: gh-pages
+          cache: npm
+      - run: npm install
 
-      # - name: Deploy
-      #   uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Build
+        run: npm run build
+
+      # - name: Deploy to GitHub Pages
+      #   uses: crazy-max/ghaction-github-pages@v3
       #   with:
-      #     # GitHub 密钥
-      #     ACCESS_TOKEN: ${{ secrets.TOKEN }}
-      #     # 指定仓库
-      #     REPOSITORY_NAME: cunyu1943/weekly
-      #     # GitHub Pages 读取的分支
-      #     BRANCH: gh-pages
-      #     # 静态文件所在目录
-      #     FOLDER: dist
+      #     target_branch: gh-pages
+      #     build_dir: public
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      - name: 部署到 Github
+        uses: JamesIves/github-pages-deploy-action@v4.4.2
+        with:
+          token: ${{ secrets.TOKEN }}
+          branch: reco
+          folder: public
+          commit-message: "${{ github.event.head_commit.message }}"
