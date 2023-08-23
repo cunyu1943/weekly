@@ -1,27 +1,4 @@
----
-home: true
-modules:
-  - BannerBrand
-  - MdContent
-  - Footer
-bannerBrand:
-  bgImage: '/bg.svg'
-  title: 村雨遥的好物周刊
-  description: 记录每周看到的有价值的信息，主要针对计算机领域，每周五发布。
-  tagline: 村雨遥的好物周刊，收集项目、软件、网站、插件、资料等方面内容。如果本项目对你有所帮助，还请留下个 Star 再走。
-  buttons:
-    - { text: 创刊寄语, link: '/docs/intro' }
-    - { text: 源码仓库, link: 'https://github.com/cunyu1943/weekly', type: 'plain' }
-  socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/cunyu1943/weekly' }
-# blog:
-#   socialLinks:
-#     - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
-isShowTitleInHome: true
-actionText: About
-actionLink: /views/other/about
----
-# 好物周刊
+# weekly
 ## 前言
 
 > 不要哀求，学会争取。若是如此，终有所获。
@@ -32,10 +9,10 @@ actionLink: /views/other/about
 - [JavaPark](https://github.com/cunyu1943/JavaPark)
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)：移动端推荐
 
-如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：cunyu1943](/contact/wechat.png)** 和我交流。
+如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：cunyu1943](./docs/public/contact/wechat.png)** 和我交流。
 
 <center>
-<img src="/contact/wechat.png" width="150" />
+<img src="./docs/public/contact/wechat.png" width="150" />
 </center>
 
 ## 介绍
@@ -76,12 +53,12 @@ actionLink: /views/other/about
 欢迎关注[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)|[博客](https://cunyu1943.github.io/)一起交流（每周在公众号首发）：
 
 <center>
-<img src="/contact/wechatpublic.png" width="150" />
+<img src="./docs/public/contact/wechatpublic.png" width="150" />
 </center>
 
 <!-- ## ✨ Star 趋势图
 
-> [JavaPark](https://github.com/cunyu1943/weekly)
+> 🎈 [JavaPark](https://github.com/cunyu1943/weekly)
 
 如果您觉得本项目对您有所帮助，那就去 Github **Star** 收藏一下吧！
 
@@ -93,9 +70,9 @@ actionLink: /views/other/about
 
 <center>
 
-|                    支付宝                     |                       微信                       |
-| :-------------------------------------------: | :----------------------------------------------: |
-| <img src="/award/alipay.png" width="150px" /> | <img src="/award/wechatpay.png" width="150px" /> |
+|                           支付宝                           |                             微信                              |
+| :--------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="./docs/public/award/alipay.png" width="150px" /> | <img src="./docs/public/award/wechatpay.png" width="150px" /> |
 
 </center>
 
