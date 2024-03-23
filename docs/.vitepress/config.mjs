@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
-
+import { tokenize } from './search'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // 语言
-  lang: 'zh-cn',
+  lang: 'zh-CN',
   // 网站标题
   title: "村雨遥的好物周刊",
   // 网站描述
@@ -35,34 +35,25 @@ export default defineConfig({
 
     // 搜索
     search: {
-      //   // provider: 'local',
-      //   // options: {
-      //   //   miniSearch: {
-      //   //     /**
-      //   //      * @type {Pick<import('minisearch').Options, 'extractField' | 'tokenize' | 'processTerm'>}
-      //   //      */
-      //   //     options: {
-      //   //       /* ... */
-      //   //     },
-      //   //     /**
-      //   //      * @type {import('minisearch').SearchOptions}
-      //   //      * @default
-      //   //      * { fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } }
-      //   //      */
-      //   //     searchOptions: {
-      //   //       /* ... */
-      //   //     }
-      //   //   }
-      //   // }
-
-      provider: 'algolia',
+      provider: 'local',
       options: {
-        appId: 'OJO63PZUXX',
-        apiKey: '51d1b131546da9a32d736aacb82e5933',
-        indexName: 'weekly',
-        placeholder: '请输入关键词',
-        buttonText: '搜索'
-      }
+        detailedView: true,
+        miniSearch: {
+          // https://lucaong.github.io/minisearch/modules/MiniSearch.html
+          options: {
+            tokenize
+          },
+          searchOptions: {
+            combineWith: "AND",
+            fuzzy: 0.1,
+            prefix: true,
+            boost: {
+              title: 4,
+              text: 2,
+            },
+          }
+        },
+      },
     },
 
     // 编辑链接
