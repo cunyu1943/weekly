@@ -7,7 +7,8 @@ hero:
   text: "好物周刊"
   tagline: 发现好用的网站、软件、项目、资料、插件等资源
   image:
-    src: contact/contact.png # logo.png
+    # src: contact/contact.png # 
+    src: logo.png
   actions:
     - theme: brand
       text: 最新年刊
@@ -19,13 +20,20 @@ hero:
       text: Github
       link: https://github.com/cunyu1943/weekly
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: JavaPark 
+    details: Java 学习指南
+    icon: ☕️
+    theme: brand
+    link: https://github.com/cunyu1943/JavaPark
+  - title: ebooks
+    details: 电子书
+    icon: 📚
+    link: https://github.com/cunyu1943/JavaPark
+  - title: 数字花园
+    details: 语雀
+    icon: 💐
+    link: https://yuque.com/cunyu1943
 ---
 <!-- 
 村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域，每周五首发于同名公众号「村雨遥」，专栏目的在于记录让自己有印象的信息做一个备份及分享。
