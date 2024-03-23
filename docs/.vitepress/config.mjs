@@ -1,9 +1,10 @@
 import { defineConfig } from 'vitepress'
+import { chineseSearchOptimize,pagefindPlugin } from "vitepress-plugin-pagefind";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // 语言
-  // lang: 'zh-Hans',
+  lang: 'zh-cn',
   // 网站标题
   title: "村雨遥的好物周刊",
   // 网站描述
@@ -25,6 +26,13 @@ export default defineConfig({
     }
   },
 
+  // 搜索
+  vite: {
+    plugins: [pagefindPlugin({
+      customSearchQuery: chineseSearchOptimize
+    })],
+  },
+
   themeConfig: {
     logo: 'logo.png',
 
@@ -34,27 +42,36 @@ export default defineConfig({
     },
 
     // 本地搜索
-    search: {
-      provider: 'local',
-      options: {
-        miniSearch: {
-          /**
-           * @type {Pick<import('minisearch').Options, 'extractField' | 'tokenize' | 'processTerm'>}
-           */
-          options: {
-            /* ... */
-          },
-          /**
-           * @type {import('minisearch').SearchOptions}
-           * @default
-           * { fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } }
-           */
-          searchOptions: {
-            /* ... */
-          }
-        }
-      }
-    },
+    // search: {
+    //   // provider: 'local',
+    //   // options: {
+    //   //   miniSearch: {
+    //   //     /**
+    //   //      * @type {Pick<import('minisearch').Options, 'extractField' | 'tokenize' | 'processTerm'>}
+    //   //      */
+    //   //     options: {
+    //   //       /* ... */
+    //   //     },
+    //   //     /**
+    //   //      * @type {import('minisearch').SearchOptions}
+    //   //      * @default
+    //   //      * { fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } }
+    //   //      */
+    //   //     searchOptions: {
+    //   //       /* ... */
+    //   //     }
+    //   //   }
+    //   // }
+
+    //   provider: 'algolia',
+    //   options: {
+    //     appId: 'OJO63PZUXX',
+    //     apiKey: '51d1b131546da9a32d736aacb82e5933',
+    //     indexName: 'weekly',
+    //     "placeholder": "请输入关键词",
+    //     "buttonText": "搜索"
+    //   }
+    // },
 
     // 编辑链接
     editLink: {
