@@ -33,7 +33,7 @@ isOriginal: true
 
 针对这个问题，给我个人感觉非常不好，不知道你是否也会有这样的感觉呢？于是 **好物周刊** 诞生了，周刊于我而言既是一种留存，也是一种分享，希望我能一直坚持下去，欢迎大家监督。
 
-如果大家感兴趣，请持续关注我的的周刊专栏[电子书](https://cunyu1943.github.io/)，也请移步[Github](https://github.com/cunyu1943/JavaPark/) | [Gitee](https://gitee.com/cunyu1943/JavaPark/) 给我一个`Star`支持下吧。
+如果大家感兴趣，请持续关注我的的周刊专栏[电子书](https://cunyu1943.github.io/)，也请移步[Github](https://github.com/cunyu1943/weekly)给我一个`Star`支持下吧。
 
 好物周刊开始于 **2023.04.15**，如果看到这篇文章时我依旧在坚持更新，那就是最好的消息。
 
