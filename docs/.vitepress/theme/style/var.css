@@ -1,0 +1,22 @@
+/* var.css */
+:root {
+    --vp-c-brand-1: #3eaf7c;
+    --vp-c-brand-2: #299764;
+    --vp-c-brand-3: #30a46c;
+}
+
+.dark {
+    --vp-c-brand-1: #3dd68c;
+    --vp-c-brand-2: #30a46c;
+    --vp-c-brand-3: #298459;
+}
+
+/* 以前的vp-c-brand已弃用 */
+/* .vitepress\theme\style\var.css */
+h1 {
+    background: -webkit-linear-gradient(-45deg, #3eaf7c 30%, #30a46c 15%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
