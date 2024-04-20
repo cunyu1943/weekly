@@ -10,10 +10,10 @@
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [数字花园](https://yuque.com/cunyu1943/weekly)
 
-如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：cunyu1943](./docs/src/public/contact/wechat.png)** 和我交流。
+如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：coder_cunYu](./docs/src/public/contact/wechat.svg)** 和我交流。
 
 <center>
-<img src="./docs/src/public/contact/wechat.png" width="150" />
+<img src="./docs/src/public/contact/wechat.svg" width="150" />
 </center>
 
 ## 介绍
@@ -33,7 +33,7 @@
 欢迎关注[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)|[博客](https://cunyu1943.github.io/weekly)一起交流（每周在公众号首发）：
 
 <center>
-<img src="./docs/src/public/contact/wechatpublic.png" width="150" />
+<img src="./docs/src/public/contact/wechatpublic.svg" width="150" />
 </center>
 <!-- ## ✨ Star 趋势图
 
@@ -49,8 +49,8 @@
 
 <center>
 
-|                            支付宝                            |                             微信                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                             支付宝                             |                               微信                                |
+| :------------------------------------------------------------: | :---------------------------------------------------------------: |
 | <img src="./docs/src/public/award/alipay.png" width="150px" /> | <img src="./docs/src/public/award/wechatpay.png" width="150px" /> |
 
 </center>
