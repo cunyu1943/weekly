@@ -32,12 +32,12 @@ export default defineConfig({
     // 大纲标题级别
     outline: {
       level: [2, 3],
-      label: '本页大纲'
+      label: '页面导航'
     },
 
     docFooter: {
-      prev: '上一篇',
-      next: '下一篇'
+      prev: '上一页',
+      next: '下一页'
     },
 
     // 搜索
