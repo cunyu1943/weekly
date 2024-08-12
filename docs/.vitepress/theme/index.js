@@ -10,7 +10,7 @@ export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
-      'aside-ads-before': () => h(DocAsideLogo, { Aside_Data })
+      'aside-outline-before': () => h(DocAsideLogo, { Aside_Data })
     })
   },
   enhanceApp: ({ app }) => {
