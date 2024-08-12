@@ -3,7 +3,7 @@
 export const Aside_Data = [
     {
         link: 'https://yuque.com/cunyu1943',
-        icon: 'https://cunyu1943.github.com/weekly/icon/yuque.svg',
+        icon: 'https://cunyu1943.github.io/weekly/icon/yuque.svg',
         Activity: '注册填邀请码即送30天会员',
         info1: '邀请码 VUFNKN',
         // info2: '年付 64折 优惠码  2461880'
