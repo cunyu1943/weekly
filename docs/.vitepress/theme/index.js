@@ -4,7 +4,9 @@ import DefaultTheme from 'vitepress/theme'
 import './style/index.css'
 import { DocBox, DocLinks, DocBoxCube, HomeUnderline, DocAsideLogo } from '@theo-messi/tm-fe'
 import { Aside_Data } from '../data/AsideData'
+// theme/index.ts
 
+import '@theojs/lumen/theme'
 /** @type {import('vitepress').Theme} */
 export default {
   extends: DefaultTheme,
