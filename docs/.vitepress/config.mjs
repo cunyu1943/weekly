@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { tokenize } from './search'
-import { head } from './configs/head'
+// import { head } from './configs/head'
 import { nav } from './configs/nav'
 import { sidebar } from './configs/sidebar'
 // https://vitepress.dev/reference/site-config
@@ -15,8 +15,8 @@ export default defineConfig({
   base: "/weekly/",
   // 源目录
   srcDir: "src",
-  // head
-  head,
+
+  // head,
   // 公式
   markdown: {
     math: true,
@@ -44,7 +44,7 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
-        
+
         locales: {
           zh: {
             translations: {

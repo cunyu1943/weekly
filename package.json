@@ -9,8 +9,8 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@theo-messi/tm-fe": "^2.4.2",
-    "@theojs/lumen": "^2.4.5",
+    "@theo-messi/tm-fe": "^2.4.3",
+    "@theojs/lumen": "^2.5.0",
     "pnpm": "^9.7.0"
   }
 }
