@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { tokenize } from './search'
+import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 // import { head } from './configs/head'
 import { nav } from './configs/nav'
 import { sidebar } from './configs/sidebar'
@@ -24,6 +25,16 @@ export default defineConfig({
     image: {
       lazyLoading: true
     }
+  },
+
+  vite: {
+    plugins: [
+      GitChangelog({
+        // 填写在此处填写您的仓库链接
+        repoURL: () => 'https://github.com/cunyu1943/weekly',
+      }),
+      GitChangelogMarkdownSection(),
+    ],
   },
 
   themeConfig: {
