@@ -52,6 +52,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         {
             text: '2024 年刊',
             items: [
+                { text: '第 72 期', link: '/2024/0831-0906' },
                 { text: '第 71 期', link: '/2024/0824-0830' },
                 { text: '第 70 期', link: '/2024/0817-0823' },
                 { text: '第 69 期', link: '/2024/0810-0816' },
