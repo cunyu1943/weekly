@@ -1,6 +1,6 @@
-import { defineConfig } from 'vitepress'
-import { tokenize } from './search'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
+import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-inline-link-preview/markdown-it'
+import { defineConfig } from 'vitepress'
 // import { head } from './configs/head'
 import { nav } from './configs/nav'
 import { sidebar } from './configs/sidebar'
@@ -24,6 +24,10 @@ export default defineConfig({
     lineNumbers: true,
     image: {
       lazyLoading: true
+    },
+    config(md) {
+      // 其他 markdown-it 配置...
+      md.use(InlineLinkPreviewElementTransform)
     }
   },
 
