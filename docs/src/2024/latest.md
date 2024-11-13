@@ -12,125 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#80：玩机手册
+# 好物周刊#81：力扣 101
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/06l4esFcy44JAKMUmPX4Eg
+> 原文：https://mp.weixin.qq.com/s/RJf4mumjoj-w8P7VlFq0Sg
 
 ## 一、项目
 
-### 1. [莫提网盘](https://github.com/373675032/moti-cloud)
+### 1. [wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
 
-一个基于 SpringBoot 开发的标准 Java Web 项目。存储模式支持 FTP、阿里云 OSS 对象存储。项目选题新颖，完成度较高，前后端不分离的单体架构，非常适合刚刚接触学习 SpringBoot 的技术小白学习，也非常适合学校中的项目答辩或者毕业设计。
+在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可 100% 还原文章样式，支持私有部署。
 
-![](assets/1026-1101/1729555637086-b4819380-3003-490c-9c56-b025f63854ac.webp)
+![](assets/1102-1108/1730765053650-3e32ece2-f563-4da4-be26-08a18e43672e.webp)
 
-### 2. [Spring Boot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)
+### 2. [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
 
-提供一套基于 Spring Boot-Shiro-Vue 的权限管理思路。前后端都加以控制，做到按钮 / 接口级别的权限。
+循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2 等相关框架源码。
 
-![](assets/1026-1101/1729555865079-d69a8862-ebaf-4a60-997c-c8131bd772c2.webp)
+![](assets/1102-1108/1730765014413-4780c31c-9583-43c3-bc8a-0e2add83e621.webp)
 
-### 3. [暹罗点餐](https://github.com/siam1026/siam-server)
+### 3. [二手书交易系统](https://github.com/DanielLin07/bookshop)
 
-一款 Java 餐饮点餐系统，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。该系统包含用户端、商家端、配送端以及总管理后台，美食下单、外卖配送、连锁餐饮和扫码点餐等核心功能，同时提供积分商城、会员中心和邀请好友注册返现等增值服务，以拓展客源。基于 Spring Boot + MyBatis Plus + Vue & Element + uni-app 技术栈进行开发。
+功能简单，使用 Spring + Spring MVC + Mybatis 搭建的二手书交易系统。
 
-![](assets/1026-1101/1729685559806-fa65fc30-5607-4ccf-8d65-b63daf9977e5.webp)
+![](assets/1102-1108/1730765559919-e45e8a28-147a-4e67-ace7-1c19c06df2f5.webp)
 
 ## 二、软件
 
-### 1. [CodeApp](https://github.com/thebaselab/codeapp)
+### 1. [ToastFish](https://github.com/Uahh/ToastFish)
 
-适用于 iPad 的代码编辑软件，具有以下特性：
+一个利用 Windows 通知栏背单词的软件，可以让你在上班、上课等恶劣环境下安全隐蔽地背单词，简直就是摸鱼神器。
 
-- 多种语言支持
-- 集成版本控制
-- SSH 远程连接
-- 强大的编辑功能
+![](assets/1102-1108/1730765908971-ed732c69-7a2c-4951-aa7f-6029146b52b2.webp)
 
-![](assets/1026-1101/1730160889148-280bf7df-ef70-4ee3-ae7b-8b05e6c61fac.webp)
+### 2. [LinkAndroid](https://github.com/modstart-lib/linkandroid)
 
-### 2. [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
+一个全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4 录屏、截屏、文件管理、手机操作等功能。
 
-一款开源的 API 开发协作平台，它为开发者提供了便捷的方式来测试和开发 API，具有以下功能：
+![](assets/1102-1108/1730766276653-9e2c8188-8dde-4919-b1c4-057325104fbd.webp)
 
-- API 测试
-- 环境管理
-- 团队协作
-- 插件系统
+### 3. [钱迹](https://qianjiapp.com/)
 
-![](assets/1026-1101/1730160105519-83feb53b-eaf9-48fc-8d4d-c317066f184a.webp)
+一个强大的个人记账软件。它主要为您提供：个人理财产品——钱迹相关的 IPhone、Android、鸿蒙客户端。让您随时随地记账，查账。同时可以帮您分析开销的走向和比例，通过预算功能还可以有效的减少乱花钱的习惯！
 
-### 3. [Krisp](https://krisp.ai/)
-
-提供 AI 语音消噪功能，支持任何在线会议 App，记录、转录和总结会议和通话内容，增强沟通体验。
-
-![](assets/1026-1101/1730198650277-76e8dcfd-a641-44c9-83b1-779e36e0804a.webp)
+![](assets/1102-1108/1730804246804-cecebcdc-f8e8-4ffa-88fa-d5b0327c2582.webp)
 
 ## 三、网站
 
-### 1. [设计秀](https://shejishow.cn/)
+### 1. [AI 工具集](https://ai-bot.cn)
 
-设计秀工具箱，免费公益网站！探索最新的设计软件、资源，涵盖 Adobe 全家桶、Mac 和 Windows 平台。免费下载各种设计资源，包括 PS、PR 等专业工具、字体等、助你激发创意，畅享设计之旅！
+收录了国内外数百多个不同类型的 AI 工具，而且每日更新。除此之外，还推荐了 AI 学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务。
 
-![](assets/1026-1101/1729642393884-4efcdb3f-3566-4c3d-81f3-ad9b32f53cc4.webp)
+![](assets/1102-1108/1730160306271-f8b1e4b2-7e62-4f06-b5d3-524492fb8d55.webp)
 
-### 2. [玩机手册](https://www.rjsos.com)
+### 2. [TTSMaker](https://ttsmaker.cn)
 
-整合软件安装教程：Office、PS、PR、AE、C4D、Axure、CAD、3DMax 等常用办公、平面设计、室内设计软件等商业软件激活，提供 Windows 和 Mac 版本免费下载资源、安装使用教程分享。
+一款免费的文本转语音工具，提供语音合成服务，支持多种语言，包括中文、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等 50 多种语言，以及超过 300 种语音风格。您可以用它制作视频配音，也可用于有声书朗读，或下载音频文件用于商业用途
 
-![](assets/1026-1101/1729642496316-3ce086eb-ab93-4096-ba4e-5d95938c35d3.webp)
+![](assets/1102-1108/1730805672981-e50caed1-e8f5-49fb-9bb3-c88d5359f6a0.webp)
 
+### 3. [阿里翻译](https://translate.alibaba.com)
 
+由阿里巴巴提供的多语种在线实时翻译网站，支持多种领域、覆盖 200+ 语言的智能机器翻译服务。阿里翻译还支持文档翻译、图片翻译、视频翻译、语音翻译等多模态翻译能力。
 
-### 3. [openbookshongkong](https://openbookshongkong.com/)
-
-由香港中文大学、香港城市大学和香港大学三家高等教育院校的图书馆与出版社联合发起，是香港首个开放取用图书计划。后续将陆续推出三家大学出版社出版的中文学术著作，免费开放予公众阅览、下载、取用和传播。
-
-![](assets/1026-1101/1730159853392-87a96208-fd5b-4ddf-9e00-8496b5f614b7.webp)
+![](assets/1102-1108/1730805828664-7be67438-0b15-479c-a389-e2df8e9b6ff6.webp)
 
 ## 四、插件
 
-### 1. [Evernote Web Clipper](https://chromewebstore.google.com/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)
+### 1. [B 站空降助手](https://chromewebstore.google.com/detail/b站空降助手/eaoelafamejbnggahofapllmfhlhajdd)
 
-随时随地轻松管捕捉想法和灵感。将文章、网页和屏幕截图直接保存至 Evernote。
+带你精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，让其他人从您的贡献中受益。
 
-![](assets/1026-1101/1730199731364-29a54eac-efbe-4fa1-8e8f-0838739c5b23.webp)
+![](assets/1102-1108/1730764803856-8ee363dd-3323-4533-9ffd-cfa6fa59c324.webp)
 
-### 2. [WPS PDF](https://chromewebstore.google.com/detail/wps-pdf-轻松阅读、编辑、填写表单、转换pd/kdpelmjpfafjppnhbloffcjpeomlnpah)
+### 2. [Wikiwand](https://chromewebstore.google.com/detail/wikiwand-wikipedia-and-be/emffkefkbkpkgpdeeooapgaicgmcbolj)
 
-便捷 PDF 工具，可在浏览器中对 PDF 文件进行查看、编辑、转换、填充、添加电子签名等。
+基于 Wiki 已有的数据进行页面优化，相当于 Wiki 的增强主题，给用户带来更好的阅读体验。
 
-![](assets/1026-1101/1730246633325-56c89da1-5d01-4f77-824b-84803aee748d.webp)
+![](assets/1102-1108/1730852188601-4bdcb738-1475-41c2-8144-1ca1a1c769ea.webp)
 
-### 3. [Ubersuggest](https://chromewebstore.google.com/detail/ubersuggest-seo与关键词神器/nmpgaoofmjlimabncmnmnopjabbflegf)
+### 3. [Get Favicon](https://chromewebstore.google.com/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe)
 
-一款免费的 Chrome 扩展程序、强大的 SEO 工具，为您显示关键词每月搜索量、CPC 以及竞争对手数据。
+一键获取网站的 favicon 信息，扩展显示当前网站的 favicon 以及 favicon的下载 URL 和尺寸大小。
 
-![](assets/1026-1101/1730246785377-e9b1b823-efd8-43e9-bcc5-80873fa526c1.webp)
+![](assets/1102-1108/1730852473061-dffd2025-b623-43ad-b02c-277880ddd889.webp)
 
 ## 五、资料
 
-### 1. [The Swift Programming Language](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
+### 1. [我的世界开发者中文指南](https://github.com/mouse0w0/MinecraftDeveloperGuide)
 
-中文版 Apple 官方 Swift 教程《The Swift Programming Language》。
+我的世界开发者中文指南，库里包含了开发相关教程、资料、文档、类库等各类资料。
 
-![](assets/1026-1101/1730160505897-7d03ee88-1bdd-4c0d-b6e6-daa0bea9997c.webp)
+![](assets/1102-1108/1730765395921-c3460128-edd5-4823-b32f-51fd672040c6.webp)
 
-### 2. [learn_python3_spider](https://github.com/wistbean/learn_python3_spider)
+### 2. [prometheus-book](https://github.com/yunlzheng/prometheus-book)
 
-Python 爬虫教程系列、从 0 到 1 学习 Python 爬虫，包括浏览器抓包，手机 APP 抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy 等，以及 IP 代理，验证码识别，Mysql，MongoDB 数据库的 Python 使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS 爬虫逆向，分布式爬虫，爬虫项目实战实例等。
+Prometheus 操作指南，全书分为三卷，分别从基础、进阶、实战来带领你学习 Prometheus。
 
-![](assets/1026-1101/1730160615730-155c6524-c5c4-4d04-8449-5041967eb839.webp)
+![](assets/1102-1108/1730851774171-60c5c30a-7805-4a90-b7a3-19b13dc05610.webp)
 
-### 3. [数学建模资源](https://github.com/zhanwen/MathModel)
+### 3. [LeetCode 101](https://github.com/changgyhub/leetcode_101)
 
-仓库收集了研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX 论文模板，算法思维导图，参考书籍，Matlab 软件教程，PPT 等相关资料。
+LeetCode 刷题指南， 一个面向有一定的编程基础，但缺乏刷题经验的读者的教科书和工具书，提供 C++ 和 Python 双题解。
 
-![](assets/1026-1101/1730160850368-4e522e61-b8f0-4abe-86ac-2fe580661aaf.webp)
+![](assets/1102-1108/1730851991539-af68b515-b3c0-409b-bbfb-a98fb04c53eb.webp)
 
 ## ✍️ 说明
 
