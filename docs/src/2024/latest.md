@@ -12,113 +12,119 @@ tag:
 
 ---
 
-# 好物周刊#81：力扣 101
+# 好物周刊#82：远程游戏专家
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/RJf4mumjoj-w8P7VlFq0Sg
+> 原文：https://mp.weixin.qq.com/s/chZThCfziIC9c8pL-o-lGw
+
+
 
 ## 一、项目
 
-### 1. [wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
+### 1. [办公自动化系统](https://github.com/BerserkerHercules/OfficeAutomatic-System)
 
-在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可 100% 还原文章样式，支持私有部署。
+基于 Spring Boot + Vue + Element UI 的办公自动化系统设计，主要功能有：
 
-![](assets/1102-1108/1730765053650-3e32ece2-f563-4da4-be26-08a18e43672e.webp)
+- 统一信息发布平台
+- 统一文件管理平台
+- 办公自动化
 
-### 2. [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
+![](assets/1109-1115/1731370017978-5630006a-3ee5-42f3-8597-93a5a9153c5a.webp)
 
-循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2 等相关框架源码。
+### 2. [BallCat](https://github.com/ballcat-projects/ballcat)
 
-![](assets/1102-1108/1730765014413-4780c31c-9583-43c3-bc8a-0e2add83e621.webp)
+一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷 starter 进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS 过滤，SQL 防注入，国际化等多种功能。
 
-### 3. [二手书交易系统](https://github.com/DanielLin07/bookshop)
+![](assets/1109-1115/1731370216745-90870b3a-07eb-485f-adc8-6bd9d65ac07c.webp)
 
-功能简单，使用 Spring + Spring MVC + Mybatis 搭建的二手书交易系统。
+### 3. [SMS4J](https://gitee.com/dromara/SMS4J)
 
-![](assets/1102-1108/1730765559919-e45e8a28-147a-4e67-ace7-1c19c06df2f5.webp)
+SMS4J 为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 SDK 的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。
+
+![](assets/1109-1115/1731457107657-d16085c5-4758-4c44-a0fb-21f19e00d0be.webp)
 
 ## 二、软件
 
-### 1. [ToastFish](https://github.com/Uahh/ToastFish)
+### 1. [雨燕输入法](https://github.com/gurecn/YuyanIme)
 
-一个利用 Windows 通知栏背单词的软件，可以让你在上班、上课等恶劣环境下安全隐蔽地背单词，简直就是摸鱼神器。
+一款基于 Rime 定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法。
 
-![](assets/1102-1108/1730765908971-ed732c69-7a2c-4951-aa7f-6029146b52b2.webp)
+![](assets/1109-1115/1730939118263-8a25b02a-0287-42d7-babe-eb0ce6ed1c9d.webp)
 
-### 2. [LinkAndroid](https://github.com/modstart-lib/linkandroid)
+### 2. [Mu Mu 模拟器](https://mumu.163.com/)
 
-一个全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4 录屏、截屏、文件管理、手机操作等功能。
+搭载行业领先的安卓 12 操作系统，兼容更多游戏及应用的同时，运行稳定流畅！完美运行热门手游如《明日方舟》、《梦幻西游》、《阴阳师》、《光遇》等，凭借最高 240 帧及电影级画质表现，在众多模拟器中脱颖而出。轻量化的产品界面速度更快、稳定性更高、资源占用低，玩游戏流畅不卡顿。多开、同步操作、操作录制、智能键鼠、录屏、虚拟定位等功能满足你不同的游戏需求，让你享受到电脑玩手游的快乐！
 
-![](assets/1102-1108/1730766276653-9e2c8188-8dde-4919-b1c4-057325104fbd.webp)
+![](assets/1109-1115/1731507529203-4f38324f-1d3d-4545-b362-d3b96621d207.webp)
 
-### 3. [钱迹](https://qianjiapp.com/)
+### 3. [GameViewer](https://gv.163.com/)
 
-一个强大的个人记账软件。它主要为您提供：个人理财产品——钱迹相关的 IPhone、Android、鸿蒙客户端。让您随时随地记账，查账。同时可以帮您分析开销的走向和比例，通过预算功能还可以有效的减少乱花钱的习惯！
+一款远程游戏工具，可通过手机随时随地快速连接电脑，也支持多端设备登录进行远程操控，为广大游戏玩家创造“与游戏跨空间、跨平台连接”的乐趣。当前已经支持远程操控 MuMu 模拟器，为用户提供高效、稳定的私有云手机服务，用 PC 的非凡性能畅玩手游。
 
-![](assets/1102-1108/1730804246804-cecebcdc-f8e8-4ffa-88fa-d5b0327c2582.webp)
+![](assets/1109-1115/1731507621365-b1162013-a358-48e5-b57d-9b20cfeef312.webp)
 
 ## 三、网站
 
-### 1. [AI 工具集](https://ai-bot.cn)
+### 1. [在线生成身份证正反面](https://www.socarchina.com/m/sfz/index.php)
 
-收录了国内外数百多个不同类型的 AI 工具，而且每日更新。除此之外，还推荐了 AI 学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务。
+支持在线制作身份证正反面图片，用于我们日常的测试工作，免去反复 P 图的烦恼。
 
-![](assets/1102-1108/1730160306271-f8b1e4b2-7e62-4f06-b5d3-524492fb8d55.webp)
+![](assets/1109-1115/1730938365743-2d96be86-4454-456e-84be-09cc003a06fb.webp)
 
-### 2. [TTSMaker](https://ttsmaker.cn)
+### 2. [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
 
-一款免费的文本转语音工具，提供语音合成服务，支持多种语言，包括中文、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等 50 多种语言，以及超过 300 种语音风格。您可以用它制作视频配音，也可用于有声书朗读，或下载音频文件用于商业用途
+简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面。
 
-![](assets/1102-1108/1730805672981-e50caed1-e8f5-49fb-9bb3-c88d5359f6a0.webp)
+![](assets/1109-1115/1730938547670-0b20cfcb-55c7-4e09-ad02-6dc6999be039.webp)
 
-### 3. [阿里翻译](https://translate.alibaba.com)
+### 3. [Yesicon](https://yesicon.app)
 
-由阿里巴巴提供的多语种在线实时翻译网站，支持多种领域、覆盖 200+ 语言的智能机器翻译服务。阿里翻译还支持文档翻译、图片翻译、视频翻译、语音翻译等多模态翻译能力。
+汇聚来自全球顶尖设计团队的  240,517 枚高品质矢量图标。共有 185 组开源、免费的图标库。是开发者和设计师的 CV 好帮手。
 
-![](assets/1102-1108/1730805828664-7be67438-0b15-479c-a389-e2df8e9b6ff6.webp)
+![](assets/1109-1115/1730938762795-36dc836a-9c4c-4a71-9de7-d7643f4bed46.webp)
 
 ## 四、插件
 
-### 1. [B 站空降助手](https://chromewebstore.google.com/detail/b站空降助手/eaoelafamejbnggahofapllmfhlhajdd)
+### 1. [AG 智能助手](https://chromewebstore.google.com/detail/ag智能助手-gpt聊天，绘图，vision，联网/cpggpmmbmacgemcffkapmeadpnfnmkbm)
 
-带你精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，让其他人从您的贡献中受益。
+由GPT-4 Turbo/GPT-4 O 等模型驱动的私人 AI 工作助手！支持 GPT 联网、PDF 分析、GPT-4 Vision、SD 绘图、dall·e3 绘图等多种功能为一体，是您最强大的 AI 工作助手！
 
-![](assets/1102-1108/1730764803856-8ee363dd-3323-4533-9ffd-cfa6fa59c324.webp)
+![](assets/1109-1115/1731456677013-0a7e08df-82a7-4f9d-88be-a1536b402683.webp)
 
-### 2. [Wikiwand](https://chromewebstore.google.com/detail/wikiwand-wikipedia-and-be/emffkefkbkpkgpdeeooapgaicgmcbolj)
+### 2. [URL Auto Redirector](https://chromewebstore.google.com/detail/url-auto-redirector/mckfcfnegaimgcgepikhdnajpkkhdnkn)
 
-基于 Wiki 已有的数据进行页面优化，相当于 Wiki 的增强主题，给用户带来更好的阅读体验。
+一个让你通过自定义跳转规则，跳过特定网页的工具。它支持完全匹配和正则表达式匹配。插件初始预设了一些规则作为演示，也可以根据自己的需要自行添加规则。
 
-![](assets/1102-1108/1730852188601-4bdcb738-1475-41c2-8144-1ca1a1c769ea.webp)
+![](assets/1109-1115/1731498881032-94618e5f-59d0-43df-ac66-9e843f0626f5.webp)
 
-### 3. [Get Favicon](https://chromewebstore.google.com/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe)
+### 3. [Speech Translator](https://chromewebstore.google.com/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn)
 
-一键获取网站的 favicon 信息，扩展显示当前网站的 favicon 以及 favicon的下载 URL 和尺寸大小。
+插件使用由 Google 提供支持的语音识别技术，将来自任何来源的语音转换为文本，然后使用所选服务将文本从一种语言翻译成另一种语言。
 
-![](assets/1102-1108/1730852473061-dffd2025-b623-43ad-b02c-277880ddd889.webp)
+![](assets/1109-1115/1731507321287-70580df2-0d65-487b-b54b-d1fafc5f6d63.webp)
 
 ## 五、资料
 
-### 1. [我的世界开发者中文指南](https://github.com/mouse0w0/MinecraftDeveloperGuide)
+### 1. [中国历朝代历史视频讲解](https://github.com/liujuntao123/chines-history-video)
 
-我的世界开发者中文指南，库里包含了开发相关教程、资料、文档、类库等各类资料。
+汇聚了 B 站上综合数据（点赞，播放，投币，收藏）最高的一个 / 几个视频。
 
-![](assets/1102-1108/1730765395921-c3460128-edd5-4823-b32f-51fd672040c6.webp)
+![](assets/1109-1115/1731369929325-8db1054e-f1a2-4c87-8748-23c862a7b962.webp)
 
-### 2. [prometheus-book](https://github.com/yunlzheng/prometheus-book)
+### 2. [系统设计面试：内幕指南](https://github.com/Admol/SystemDesign)
 
-Prometheus 操作指南，全书分为三卷，分别从基础、进阶、实战来带领你学习 Prometheus。
+《System Design Interview: An Insider's Guide》的中文翻译版，书中介绍了如何设计不同目的的软件系统，可用于面试准备。
 
-![](assets/1102-1108/1730851774171-60c5c30a-7805-4a90-b7a3-19b13dc05610.webp)
+![](assets/1109-1115/1731457470773-a158e26e-0e66-488b-b7d6-fed06d819fcb.webp)
 
-### 3. [LeetCode 101](https://github.com/changgyhub/leetcode_101)
+### 3. [软考中级教程](https://github.com/luckyzhz/Software-Designer)
 
-LeetCode 刷题指南， 一个面向有一定的编程基础，但缺乏刷题经验的读者的教科书和工具书，提供 C++ 和 Python 双题解。
+一份“软件设计师”的学习路径，含有 APP、真题、课本、参考文档等内容。
 
-![](assets/1102-1108/1730851991539-af68b515-b3c0-409b-bbfb-a98fb04c53eb.webp)
+![](assets/1109-1115/1731499169994-62c4fe13-d1a9-402a-abbd-bf4f85a7bca7.webp)
 
 ## ✍️ 说明
 
