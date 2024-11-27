@@ -12,119 +12,127 @@ tag:
 
 ---
 
-# 好物周刊#82：远程游戏专家
+# 好物周刊#83：学术科研必备插件
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/chZThCfziIC9c8pL-o-lGw
-
-
+> 原文：https://mp.weixin.qq.com/s/Bry73r07pC5UTiiboykW4g
 
 ## 一、项目
 
-### 1. [办公自动化系统](https://github.com/BerserkerHercules/OfficeAutomatic-System)
+### 1. [野火 IM 解决方案](https://github.com/wildfirechat/im-server)
 
-基于 Spring Boot + Vue + Element UI 的办公自动化系统设计，主要功能有：
+一套通用的即时通讯和实时音视频组件，能够更加容易地赋予客户 IM 和 RTC 能力，使客户可以快速的在自有产品上添加聊天和通话功能或者直接使用野火提供的应用。使用野火可以替代云通讯产品或减少自研即时通讯和实时音视频的工作量，降低客户研发成本和难度。具有以下特性：
 
-- 统一信息发布平台
-- 统一文件管理平台
-- 办公自动化
+- 极致地硬件利用率，IM 服务最低 128M 内存即可运行，上不封顶。
+- 协议先进，采用 MQTT+Protobuf 组合，流量和性能极致优化
+- 性能强大，专业版 IM 服务支持百万在线和集群部署，业内顶尖性能水平，详情参考野火性能报告。
+- 部署运维简单，依赖服务少，稍加配置一键启动。
+- ……
 
-![](assets/1109-1115/1731370017978-5630006a-3ee5-42f3-8597-93a5a9153c5a.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147071928-18d1c152-46cc-403f-8498-e9dd8aa31ed8.webp)
 
-### 2. [BallCat](https://github.com/ballcat-projects/ballcat)
+### 2. [调问开源问卷系统](https://github.com/wkeyuan/DWSurvey)
 
-一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷 starter 进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS 过滤，SQL 防注入，国际化等多种功能。
+一款简单、高效、成熟、稳定、专业的开源问卷系统，自 2012 年启动至今经过 9 年的积累，已经形成一套完善的基于 Java Web 的开源问卷表单解决方案。
 
-![](assets/1109-1115/1731370216745-90870b3a-07eb-485f-adc8-6bd9d65ac07c.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147126420-84f571da-e982-4eb7-8bfe-91619fb0be8b.webp)
 
-### 3. [SMS4J](https://gitee.com/dromara/SMS4J)
+### 3. [Nodeclub](https://github.com/cnodejs/nodeclub)
 
-SMS4J 为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 SDK 的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。
+使用 Node.js 和 MongoDB 开发的社区系统，界面优雅，功能丰富，小巧迅速， 已在 Node.js 中文技术社区 CNode 得到应用，你也完全可以用它来搭建自己的社区。
 
-![](assets/1109-1115/1731457107657-d16085c5-4758-4c44-a0fb-21f19e00d0be.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147273872-4ad7d6f0-1bab-4006-be5a-a7ec401a752e.webp)
 
 ## 二、软件
 
-### 1. [雨燕输入法](https://github.com/gurecn/YuyanIme)
+### 1. [fadetop](http://www.fadetop.com/)
 
-一款基于 Rime 定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法。
+定时提醒护眼屏保软件，设置后，可以在一定时间弹出屏保，提醒我们让眼睛休息一会儿。
 
-![](assets/1109-1115/1730939118263-8a25b02a-0287-42d7-babe-eb0ce6ed1c9d.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732061064875-f899301e-3e05-458c-bfce-48dfddf085bf.webp)
 
-### 2. [Mu Mu 模拟器](https://mumu.163.com/)
+### 2. [极品输入法](http://www.jpwb.net/index.asp)
 
-搭载行业领先的安卓 12 操作系统，兼容更多游戏及应用的同时，运行稳定流畅！完美运行热门手游如《明日方舟》、《梦幻西游》、《阴阳师》、《光遇》等，凭借最高 240 帧及电影级画质表现，在众多模拟器中脱颖而出。轻量化的产品界面速度更快、稳定性更高、资源占用低，玩游戏流畅不卡顿。多开、同步操作、操作录制、智能键鼠、录屏、虚拟定位等功能满足你不同的游戏需求，让你享受到电脑玩手游的快乐！
+一款免费的五笔输入法，也是五笔用户的首选。
 
-![](assets/1109-1115/1731507529203-4f38324f-1d3d-4545-b362-d3b96621d207.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732060899235-6fb75121-b8eb-44a9-8995-3d93bba2f42d.webp)
 
-### 3. [GameViewer](https://gv.163.com/)
+### 3. [图吧工具箱](https://www.tbtool.cn/)
 
-一款远程游戏工具，可通过手机随时随地快速连接电脑，也支持多端设备登录进行远程操控，为广大游戏玩家创造“与游戏跨空间、跨平台连接”的乐趣。当前已经支持远程操控 MuMu 模拟器，为用户提供高效、稳定的私有云手机服务，用 PC 的非凡性能畅玩手游。
+开源、免费、绿色、纯净的硬件检测工具合集，专为所有计算机硬件极客、DIY 爱好者、各路大神及小白制作。集成大量常见硬件检测、评分工具，一键下载、方便使用。
 
-![](assets/1109-1115/1731507621365-b1162013-a358-48e5-b57d-9b20cfeef312.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732060915523-493bfdac-5875-4c16-80b6-cc37c586daf5.webp)
 
 ## 三、网站
 
-### 1. [在线生成身份证正反面](https://www.socarchina.com/m/sfz/index.php)
+### 1. [域名备案查询网](https://www.beiancx.com/)
 
-支持在线制作身份证正反面图片，用于我们日常的测试工作，免去反复 P 图的烦恼。
+提供 icp 备案查询、域名备案查询、网站备案号查询等备案信息查询。使用便捷高效，备案查询更快!
 
-![](assets/1109-1115/1730938365743-2d96be86-4454-456e-84be-09cc003a06fb.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1730938931317-0b30b4b4-be66-48ac-97b5-cfb4f5315552.webp)
 
-### 2. [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
+### 2. [知末](https://www.znzmo.com/)
 
-简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面。
+拥有近 500 万效果图作品，提供 3d 模型，su 模型，材质贴图，cad 图纸，软件，插件等素材下载。是一个帮助设计师提升工作效率，学习成长和开拓眼界的交流社区。
 
-![](assets/1109-1115/1730938547670-0b20cfcb-55c7-4e09-ad02-6dc6999be039.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732061343341-d7b8065a-dbfa-4e84-9361-ef6bd7f0fb9f.webp)
 
-### 3. [Yesicon](https://yesicon.app)
+### 3. [软仓](https://ruancang.net/)
 
-汇聚来自全球顶尖设计团队的  240,517 枚高品质矢量图标。共有 185 组开源、免费的图标库。是开发者和设计师的 CV 好帮手。
+一个集合专业软件的导航网站，免费下载供学习使用，站点承诺无毒无广告，纯公益项目。
 
-![](assets/1109-1115/1730938762795-36dc836a-9c4c-4a71-9de7-d7643f4bed46.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732061220781-f3be464d-1888-45c0-9b16-91f32d6ecfde.webp)
 
 ## 四、插件
 
-### 1. [AG 智能助手](https://chromewebstore.google.com/detail/ag智能助手-gpt聊天，绘图，vision，联网/cpggpmmbmacgemcffkapmeadpnfnmkbm)
+### 1. [GoingMed](https://chromewebstore.google.com/detail/goingmed/hopmhonnajbjjdkagglbfmffmdhocbmf)
 
-由GPT-4 Turbo/GPT-4 O 等模型驱动的私人 AI 工作助手！支持 GPT 联网、PDF 分析、GPT-4 Vision、SD 绘图、dall·e3 绘图等多种功能为一体，是您最强大的 AI 工作助手！
+使用 GoingPub 团队和 MikerTom 联合开发的一款插件。该插件可以自动加载 PubMed 期刊的影响因子，帮助用户筛选有用的期刊，还可以在详情页面一键下载 sci-hub 论文。
 
-![](assets/1109-1115/1731456677013-0a7e08df-82a7-4f9d-88be-a1536b402683.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732098451651-59201f61-7510-4835-98a6-cfde5a926e2c.webp)
 
-### 2. [URL Auto Redirector](https://chromewebstore.google.com/detail/url-auto-redirector/mckfcfnegaimgcgepikhdnajpkkhdnkn)
+### 2. [SciHub Addon](https://chromewebstore.google.com/detail/scihub-addon/hfcbmognahkfhdhfhfgiioafohojeolh)
 
-一个让你通过自定义跳转规则，跳过特定网页的工具。它支持完全匹配和正则表达式匹配。插件初始预设了一些规则作为演示，也可以根据自己的需要自行添加规则。
+超级好用的学术科研插件，全方位提高科研工作者的科研效率，支持显示详细文章信息、期刊等级信息、大学分类排名信息、网页翻译、文章引用等功能。
 
-![](assets/1109-1115/1731498881032-94618e5f-59d0-43df-ac66-9e843f0626f5.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732098593360-905564b3-97d8-4d9c-91c6-3824bede5c41.webp)
 
-### 3. [Speech Translator](https://chromewebstore.google.com/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn)
+### 3. [PaperPanda](https://chromewebstore.google.com/detail/paperpanda/ggjlkinaanncojaippgbndimlhcdlohf)
 
-插件使用由 Google 提供支持的语音识别技术，将来自任何来源的语音转换为文本，然后使用所选服务将文本从一种语言翻译成另一种语言。
+点击数千个学术网站即可访问数百万篇研究论文的 pdf 文件。节省浏览付费墙、登录和重定向的时间。Paper Panda 会在网上搜索 pdf 文件，这样你就不用自己搜索了。
 
-![](assets/1109-1115/1731507321287-70580df2-0d65-487b-b54b-d1fafc5f6d63.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732098651189-88f64442-591a-4986-b69e-c12222b6d152.webp)
 
 ## 五、资料
 
-### 1. [中国历朝代历史视频讲解](https://github.com/liujuntao123/chines-history-video)
+### 1. [逆向工程教程](https://github.com/0xInfection/reversing)
 
-汇聚了 B 站上综合数据（点赞，播放，投币，收藏）最高的一个 / 几个视频。
+逆向工程英文电子书，内容涵盖了 x86 和 ARM 架构，十分适合初学者入门。
 
-![](assets/1109-1115/1731369929325-8db1054e-f1a2-4c87-8748-23c862a7b962.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147501139-728e1065-16ad-4ba9-9db8-ad36c96a2301.webp)
 
-### 2. [系统设计面试：内幕指南](https://github.com/Admol/SystemDesign)
+### 2. [Go 语言定制指南](https://github.com/chai2010/go-ast-book)
 
-《System Design Interview: An Insider's Guide》的中文翻译版，书中介绍了如何设计不同目的的软件系统，可用于面试准备。
+原名《Go 语法树入门》，是一本开源免费图书，涵盖 Go 语言进阶、掌握抽象语法树以及 Go 语言 AST 等内容。
 
-![](assets/1109-1115/1731457470773-a158e26e-0e66-488b-b7d6-fed06d819fcb.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147657541-4cc3f9ce-9edf-47c1-a00b-b6b3d27549d8.webp)
 
-### 3. [软考中级教程](https://github.com/luckyzhz/Software-Designer)
+### 3. [AI Agent 开发实战](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
 
-一份“软件设计师”的学习路径，含有 APP、真题、课本、参考文档等内容。
+书中涵盖了 AI Agent 开发的各个方面:
 
-![](assets/1109-1115/1731499169994-62c4fe13-d1a9-402a-abbd-bf4f85a7bca7.webp)
+- 从基础理论到核心技术，为读者建立了扎实的知识基础。
+- 详细介绍了 AI Agent 的设计与开发过程，包括架构设计、环境构建、学习优化等关键环节。
+- 提供了多个实战案例，涵盖对话系统、游戏 AI、机器人、推荐系统和自动驾驶等热门应用领域。
+- 探讨了多智能体系统、可解释 AI、伦理与安全等高级主题，拓展了读者的视野。
+- 最后展望了 AI Agent 的未来发展趋势，激发读者的思考。
+
+全文逻辑清晰，由浅入深，既适合 AI 领域的初学者，也能为有经验的开发者提供深入的技术洞察。
+
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147798305-41f01836-31ab-4c49-a0ef-d694b52bae76.webp)
 
 ## ✍️ 说明
 
