@@ -12,113 +12,132 @@ tag:
 
 ---
 
-# 好物周刊#84：什么值得读
+# 好物周刊#85：文件蜈蚣
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/RPYo0xnrX1R-hndVS6Kjkw
+> 原文：https://mp.weixin.qq.com/s/kD2xcVoaYPmwa_ppuYiR_A
 
 ## 一、项目
 
-### 1. [Sequoia 选股系统](https://github.com/sngyai/Sequoia)
+### 1. [InStock 股票系统](https://github.com/myhhub/stock)
 
-A 股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态。
+抓取每日股票、ETF 关键数据，计算股票各种指标，识别 K 线各种形态，综合选股，内置多种选股策略，支持选股验证回测，支持自动交易，支持批量时间，运行高效，支持 PC、平板、手机移动设备显示，同时提供 Docker 镜像方便安装，是量化投资的好帮手。
 
-![](assets/1123-1129/1732666093141-6d1c84a1-ca9d-49f9-97f9-5e89bb111f2e.webp)
+![](assets/1130-1206/1733136103708-81641099-bc78-46e4-af33-99e9289efc8b.webp)
 
-### 2. [Seckill](https://github.com/hfbin/Seckill)
+### 2. [ApiHug](https://apihug.com/)
 
-基于 SpringBoot + Mybatis + Redis + RabbitMQ 搭建的秒杀系统。
+API 设计 & 开发 新范式，一体化 分发、 监控、 管理 您的 API 资产。具有以下特点：
 
-![](assets/1123-1129/1732666387146-78a66e9a-307b-4aa9-aaac-ff29528a523a.webp)
+- 统一设计，实现，测试，管理，发布 API
+- DSL 模块化设计
+- 可视化设计
+- 工具链集成
+- 代码生成
 
-### 3. [LibraPlatform](https://github.com/hfbin/LibraPlatform)
+![](assets/1130-1206/1733137346214-672ddaf9-da78-4a7b-bbfb-30b29cb18e6d.webp)
 
-基于 SpringCloud & SpringCloudAlibaba & SpringBoot & Vue3 开发，基于多租户 SaaS 模式的设计，拥有强大的用户中心（一个账号对应多业务身份），权限基于 RBAC 设计，支持蓝绿灰度发布、网关动态路由、服务治理（流量控制、熔断降级、系统自适应保护、服务鉴权）等功能。
+### 3. [XIAOJUSURVEY](https://github.com/didi/xiaoju-survey)
 
-![](assets/1123-1129/1732666353780-adba585a-cea0-46b9-943b-2c693f2d2a27.webp)
+一套轻量、安全的调研系统，提供面向个人和企业的一站式产品级解决方案，用于构建各类问卷、考试、测评和复杂表单，快速满足各类线上调研场景。
+
+![](assets/1130-1206/1733270277933-b5d5b682-8c95-4fe3-b70d-6effe743dd50.webp)
 
 ## 二、软件
 
-### 1. [4DDiG DLL Fixer](https://4ddig.tenorshare.com/dll-fixer.html)
+### 1. [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 
-一款专为修复 Windows 操作系统中丢失或损坏的 DLL（动态链接库）文件而设计的软件工具。DLL 文件是 Windows 系统和应用程序运行时的重要组件，损坏或丢失的 DLL 文件会导致系统错误、应用程序崩溃或某些功能无法正常使用。软件通过自动检测和修复这些问题，帮助用户恢复系统和应用程序的正常运行。
+一款开源跨平台的时间和任务管理工具，用于跟踪和处理任务。
 
-![](assets/1123-1129/1732665857349-3a26280b-b2b9-4a0a-82a2-e3d385c252ae.webp)
+![](assets/1130-1206/1733137599194-1fdf98a7-c4fb-4d32-9495-e6f8518b2989.webp)
 
-### 2. [Tai](https://github.com/Planshit/Tai)
+### 2. [文件蜈蚣](https://www.filecxx.com/)
 
-在 Windows 上统计软件使用时长和网站浏览时长，帮助你了解自己把时间花在了什么地方，从而更好地做一些计划。或者，为了每周回顾自己的摸鱼成果。
+一个全能网络文件上传 / 下载器，BitTorrent 客户端，WebDAV 客户端，FTP 客户端，和 SSH 客户端。
 
-![](assets/1123-1129/1732665911521-1dd45fa8-e684-4e1a-8bfd-2bfba5a3f527.webp)
+它快速，可定制，用户友好，多协议支持，同时也包含了很多有用的辅助工具如: HTTP 请求器，文件合并工具，编码 / 解码工具等。
 
-### 3. [Reqable](https://reqable.com/)
+和网页浏览器进行集成，你可以从网页上下载音频和视频，甚至是加密视频。
 
-新一代 API 开发工具，集代理调试 + 请求测试的一站式解决方案。有了它，就相当于同时拥有了 Fiddler + Charles + Postman。
+![](assets/1130-1206/1733137920364-10481cf9-90ef-4def-9149-1a8b145f5610.webp)
 
-![](assets/1123-1129/1732706154344-b2116287-f60a-41fa-a622-cb0c33768a87.webp)
+### 3. [录播姬](https://github.com/BililiveRecorder/BililiveRecorder)
+
+一个简单好用免费开源的直播录制工具，支持如下功能：
+
+- 主播开播后自动开始录制
+- 同时录制多个直播间
+- 自动修复 mikufans 直播服务器导致的各种问题
+- 工具箱模式，用于修复旧版录播姬或其他软件录的视频文件
+- 纯 C# 实现，无 ffmpeg 等 native 依赖 
+
+![](assets/1130-1206/1733138051811-dcccfe38-0765-4acb-af38-1ad5a5880a78.webp)
 
 ## 三、网站
 
-### 1. [简单设计](https://jiandan.link/)
+### 1. [海外兔](https://osjobs.net)
 
-一款专业强大的在线设计工具，图片处理工具，包含海报设计、封面图片设计、LOGO 设计、图片压缩、图片裁剪、图片格式转换等功能，是一款良心好用的设计神器。
+海内外工作的经验交流，信息分享。主要包含求职课程、高频面试题、求职指南、经验采访、系统设计课程、失信学员名单等模块内容。
 
-![](assets/1123-1129/1732707156742-23b723dd-2f55-473e-abcc-8c088811e273.webp)
+![](assets/1130-1206/1733135976856-0583ca2a-ac7e-476d-a074-8777a5b96de7.webp)
 
-### 2. [什么值得读](https://book.jiandan.link/)
+### 2. [今日热榜](https://rebang.today/)
 
-专注于书单的好书推荐网站，内容包括书单、视频书、电子书下载导航、专栏好文。网站持续更新优质书单、读书笔记、读书心得、创业思考、资源网站等内容，包含名人推荐书单、知乎豆瓣高分好书、高分小说等。当你不知道读什么的时候，就来什么值得读吧，这里有高质量书籍推荐，也有超过 10万人的读书社群！在这里，你可以发现真正值得读的内容，找到你想读的那本书。
+今日热榜汇聚全网热搜：知乎热榜、微博热搜、百度热搜、IT之家、36氪、少数派、豆瓣、小红书、百度贴吧、虎扑、虎嗅、天涯、哔哩哔哩、小众软件、抖音、吾爱破解、GitHub 等各大站点的头条，实属效率神器。
 
-![](assets/1123-1129/1732707254606-340bee02-1a90-4aa9-bb5f-d886bde24d40.webp)
+![](assets/1130-1206/1733136279022-4c950ca7-1b88-49a7-b8ab-a71f97727faa.webp)
 
-### 3. [希赛网](https://www.educity.cn)
+### 3. [黑点工具](https://hddtool.com/)
 
-集软件水平考试（软考）、PMP、通信工程师、一级建造师、二级建造师、经济师、金融、考研、考博英语等考试培训及企业内训辅导机构，提供软考（信息系统项目管理师、系统集成项目管理工程师、网络工程师等软考所有级别科目）、PMP、通信工程师、一建和二建、经济师等考试的报名时间及入口、成绩查询入口、历年真题库及答案、直播课堂、面授培训、出版辅导教材、视频教程和讲师答疑等于一体的在线职业教育服务平台。
+在线工具导航网站，免费使用无需注册，快速使用无门槛。提供多达 387 款在线工具，无论你是自媒体、设计师、运营人员还是学生，都能满足你在不同场景下的需求。
 
-![](assets/1123-1129/1732708248555-b18405c9-61ae-41a5-b87c-bef033388030.webp)
+![](assets/1130-1206/1733136455753-8f37c1c7-59e1-417d-b3db-210beb703b7f.webp)
 
 ## 四、插件
 
-### 1. [GS Helper](https://chromewebstore.google.com/detail/gs-helper-谷歌搜索和谷歌学术助手/jknbccibkbeiakegoengboimefmadcpn)
+### 1. [Jiffy Reader](https://chromewebstore.google.com/detail/jiffy-reader/lljedihjnnjjefafchaljkhbpfhfkdic)
 
-专为科研人员、学术组织、高校学生提供科学研究、学术查询，进行论文、文献、期刊等资料查询、研究学习的一款免费工具。
+插件通过对单词的首字母部分进行加粗，从而提高阅读效率，实现更轻松、快速地浏览英文网站、文章等内容。
 
-![](assets/1123-1129/1732706827577-79d5034b-87f0-46fc-96c4-30c1c44509db.webp)
+![](assets/1130-1206/1733270393842-4b270ca7-d2b1-4999-b7a7-2c0aec69faa0.webp)
 
-### 2. [酷学术](https://chromewebstore.google.com/detail/酷学术/angphjdghkpkjdbljdfabiphhkolenbn)
+### 2. [Material You NewTab](https://chromewebstore.google.com/detail/material-you-newtab/glloabhodjfmeoccmdngmhkpmdlakfbn)
 
-智能在线辅助工具是专业的自主学习和学术研究辅助工具，该工具可以实现智能化的文献检索、即时翻译服务以及高效的引用管理功能适用于多种学习和研究应用场景。
+一款受 Google 的 Material 设计语言启发的新标签页浏览器插件，注重简约和实用，拒绝花里胡哨。为用户提供了一个清新美观的浏览器新标签页，支持多种主题和实用工具。
 
-![](assets/1123-1129/1732706923343-d393ce29-f76f-41b6-885f-39d1dca86707.webp)
+![](assets/1130-1206/1733270539152-e82fd741-475a-4bb6-bd91-cba6addc416c.webp)
 
-### 3. [CCFrank](https://chromewebstore.google.com/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie)
+### 3. [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
 
-会添加一个网页标记，以便用户可以从 dblp、Google 学术、Connected Papers、Semantic Scholar 和 Web of Science 轻松查询学术文章的类别，在结果中显示中国计算机学会推荐的会议和期刊排名。
+一个简化 GitHub 界面，并添加了移除页面多余元素、空白字符可见、一键合并修复冲突和放弃 PR 中某个文件的所有修改等实用功能的插件，进一步提升了 GitHub 的使用体验。
 
-![](assets/1123-1129/1732707003206-d78143aa-8247-4e0d-9633-3aa396a7a72f.webp)
+![](assets/1130-1206/1733270648886-529b3206-b4de-48a7-88c6-93ebfa2822e8.webp)
 
 ## 五、资料
 
-### 1. [AI 绘画最全资料合集](https://github.com/hua1995116/awesome-ai-painting)
+### 1. [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 
-AI 绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）。
+收集所有区块链 (BlockChain) 技术开发相关资料，包括 Fabric 和 Ethereum 开发资料的一个资源开源库。
 
-![](assets/1123-1129/1732665837085-c53cb19f-6b96-485b-9593-6994a0b5429f.webp)
+![](assets/1130-1206/1733270987032-f64c5e8d-d8d5-43c0-b7c0-6ec2ee6ce5df.webp)
 
-### 2. [简单粗暴 TensorFlow 2](https://tf.wiki/zh_hans/)
+### 2. [remote-working](https://github.com/greatghoul/remote-working)
 
-一本简明的 TensorFlow 2 入门指导手册，基于 Keras 和即时执行模式（Eager Execution），力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2。
+收集整理远程工作相关的资料，用于整理中国国内的资源或者对国内受众友好的国外资源。
 
-![](assets/1123-1129/1732707669646-e5cf1cee-bb39-413d-b2eb-5281701344ac.webp)
+![](assets/1130-1206/1733271125639-d3a0428c-1b7c-47e8-bee5-bfddc188d438.webp)
 
-### 3. [程序员快看](https://cxykk.com/)
+### 3. [Algorithm Guide](https://github.com/Xunzhuo/Algorithm-Guide)
 
-程序员编程资料站，网站涵盖了 Java 核心、J2EE 框架、ORM 框架、前端框架、安全框架、API 网关、消息队列、作业调度、注册中心、配置中心、链路追踪、服务保障、搜索引擎、容器服务、开发工具、监控工具、设计模式、架构设计、工作流框架、服务器框架、大数据框架、分布式事务、缓存 - 数据库、数据库连接池、数据库中间件、XML 语言等教程。
+仓库带你系统掌握程序员必知必会的算法和数据结构，主要分为两部分内容：
 
-![](assets/1123-1129/1732708329860-ff392fc0-0885-4231-9c80-9ff9f8cc7ae8.webp)
+- 算法和数据结构的教程
+- 算法和数据结构的资料
+
+![](assets/1130-1206/1733271334674-5dd31e44-f633-4b36-935f-a22a315bd498.webp)
 
 
 ## ✍️ 说明
