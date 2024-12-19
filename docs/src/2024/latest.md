@@ -12,133 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#85：文件蜈蚣
+# 好物周刊#86：打工人租房指南
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/kD2xcVoaYPmwa_ppuYiR_A
+> 原文：
 
 ## 一、项目
 
-### 1. [InStock 股票系统](https://github.com/myhhub/stock)
+### 1. [paascloud-master](https://github.com/paascloud/paascloud-master)
 
-抓取每日股票、ETF 关键数据，计算股票各种指标，识别 K 线各种形态，综合选股，内置多种选股策略，支持选股验证回测，支持自动交易，支持批量时间，运行高效，支持 PC、平板、手机移动设备显示，同时提供 Docker 镜像方便安装，是量化投资的好帮手。
+Spring Cloud + Vue + oAuth2.0 全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
 
-![](assets/1130-1206/1733136103708-81641099-bc78-46e4-af33-99e9289efc8b.webp)
+![](assets/1207-1213/1733961900967-0b96c8cb-a4cf-4d93-865d-e2091f266852.webp)
 
-### 2. [ApiHug](https://apihug.com/)
+### 2. [Spring Boot API Project Seed](https://github.com/lihengming/spring-boot-api-project-seed)
 
-API 设计 & 开发 新范式，一体化 分发、 监控、 管理 您的 API 资产。具有以下特点：
+一个基于 Spring Boot & MyBatis 的种子项目，用于快速构建中小型 API、RESTful API 项目，该种子项目已经有过多个真实项目的实践，稳定、简单、快速，使我们摆脱那些重复劳动，专注于业务代码的编写，减少加班。下面是一个简单的使用演示，看如何基于本项目在短短几十秒钟内实现一套简单的 API，并运行提供服务。
 
-- 统一设计，实现，测试，管理，发布 API
-- DSL 模块化设计
-- 可视化设计
-- 工具链集成
-- 代码生成
+![](assets/1207-1213/1733961977800-887ca8d7-6ea7-4612-ab8c-27feebbf3af9.webp)
 
-![](assets/1130-1206/1733137346214-672ddaf9-da78-4a7b-bbfb-30b29cb18e6d.webp)
+### 3. [Opensabre ](https://github.com/opensabre/opensabre-framework)
 
-### 3. [XIAOJUSURVEY](https://github.com/didi/xiaoju-survey)
+基于 SpringCloud2021 的微服务开发平台，整合了 Spring Security、Springcloud Alibaba 等组件。 包含了基础的 RBAC 权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。 定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持 Docker、Kubenetes 的部署。 让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。 目标是建立一套金融级、高安全性的微服务解决方案。
 
-一套轻量、安全的调研系统，提供面向个人和企业的一站式产品级解决方案，用于构建各类问卷、考试、测评和复杂表单，快速满足各类线上调研场景。
+![](assets/1207-1213/1733962097411-45918e64-04c0-4c5d-bd00-a0183a861623.webp)
 
-![](assets/1130-1206/1733270277933-b5d5b682-8c95-4fe3-b70d-6effe743dd50.webp)
+## 二、软件	
 
-## 二、软件
+### 1. [狮子笔记](https://www.lionote.com/)
 
-### 1. [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
+是一款全平台、可手写、Ai问答、保护隐私的笔记软件。自由使用众多信息形式记录和创作（文字、手写白板、思维导图、流程图、时序图、Markdown、AI问答、录音、图片、文件等），基于笔记但超越笔记。支持本地存储、可离线使用、所有设备自动加密同步、任何人都无法看到您的笔记。满足学习、工作、日记加密、教学、演示、备忘录、待办等场景。
 
-一款开源跨平台的时间和任务管理工具，用于跟踪和处理任务。
+![](assets/1207-1213/1733184626151-31e464d6-bf9a-4c2c-94a7-e453502c9fdf.webp)
 
-![](assets/1130-1206/1733137599194-1fdf98a7-c4fb-4d32-9495-e6f8518b2989.webp)
+### 2. [汉王扫描王](https://www.hanvonscanner.com/)
 
-### 2. [文件蜈蚣](https://www.filecxx.com/)
+汉王扫描王，让工作学习更高效。汉王扫描王解决了很多用户在学习或办公中的一个痛点，就是将一些无法复制的图片文字信息，更快地转化为文档，大大节约了人力和时间成本。此外还提供多种文档模式供用户选择（文档扫描、表格提取、文字识别、版式分析、PDF 格式转换等）。
 
-一个全能网络文件上传 / 下载器，BitTorrent 客户端，WebDAV 客户端，FTP 客户端，和 SSH 客户端。
+![](assets/1207-1213/1733876406526-cec54599-ddf7-459f-be50-93f039042be9.webp)
 
-它快速，可定制，用户友好，多协议支持，同时也包含了很多有用的辅助工具如: HTTP 请求器，文件合并工具，编码 / 解码工具等。
+### 3. [布丁扫描](https://www.budingscan.com/)
 
-和网页浏览器进行集成，你可以从网页上下载音频和视频，甚至是加密视频。
+一款专业的扫描 APP，具有识别准、处理快、无广告、无水印的特点。
 
-![](assets/1130-1206/1733137920364-10481cf9-90ef-4def-9149-1a8b145f5610.webp)
-
-### 3. [录播姬](https://github.com/BililiveRecorder/BililiveRecorder)
-
-一个简单好用免费开源的直播录制工具，支持如下功能：
-
-- 主播开播后自动开始录制
-- 同时录制多个直播间
-- 自动修复 mikufans 直播服务器导致的各种问题
-- 工具箱模式，用于修复旧版录播姬或其他软件录的视频文件
-- 纯 C# 实现，无 ffmpeg 等 native 依赖 
-
-![](assets/1130-1206/1733138051811-dcccfe38-0765-4acb-af38-1ad5a5880a78.webp)
+![](assets/1207-1213/1733876444761-e72e6e60-e65b-4ccc-8729-a9a0a62481f7.webp)
 
 ## 三、网站
 
-### 1. [海外兔](https://osjobs.net)
+### 1. [PubScholar](https://pubscholar.cn/)
 
-海内外工作的经验交流，信息分享。主要包含求职课程、高频面试题、求职指南、经验采访、系统设计课程、失信学员名单等模块内容。
+PubScholar 公益学术平台是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足全国科技界和全社会科技创新的学术资源基础保障需求，建设的提供公益性学术资源的检索发现、内容获取和交流共享等服务的平台。平台在尊重知识产权和国际通行规范的前提下，发挥中国科学院自身拥有丰富且高质量学术资源的优势，带动国内外的学术资源机构积极合作，最大限度地开放优质学术资源。目前，平台整合集成了中国科学院的科技成果资源、科技出版资源和学术交流资源；OA环境下允许集成服务的学术资源；以及通过协议授权或其它合作共建模式获得授权许可的学术资源。
 
-![](assets/1130-1206/1733135976856-0583ca2a-ac7e-476d-a074-8777a5b96de7.webp)
+![](assets/1207-1213/1733875319775-f0c82746-2157-48db-908e-4d5eac0d7484.webp)
 
-### 2. [今日热榜](https://rebang.today/)
+### 2. [Note.Re](https://note.re/)
 
-今日热榜汇聚全网热搜：知乎热榜、微博热搜、百度热搜、IT之家、36氪、少数派、豆瓣、小红书、百度贴吧、虎扑、虎嗅、天涯、哔哩哔哩、小众软件、抖音、吾爱破解、GitHub 等各大站点的头条，实属效率神器。
+一个打开即用的在线记事本。
 
-![](assets/1130-1206/1733136279022-4c950ca7-1b88-49a7-b8ab-a71f97727faa.webp)
+![](assets/1207-1213/1733875409871-49ed4caf-ce4f-480f-af12-b4df5247cd2c.webp)
 
-### 3. [黑点工具](https://hddtool.com/)
+### 3. [Azure Text to Speech](https://tts.femoon.top/)
 
-在线工具导航网站，免费使用无需注册，快速使用无门槛。提供多达 387 款在线工具，无论你是自媒体、设计师、运营人员还是学生，都能满足你在不同场景下的需求。
+Azure 提供的在线文字转语音工具，支持多种语言、男女不同音色，多种风格随意切换，甚至还能调整语速语调。
 
-![](assets/1130-1206/1733136455753-8f37c1c7-59e1-417d-b3db-210beb703b7f.webp)
+![](assets/1207-1213/1733875509132-1d0441a4-2153-42ab-bfdc-b0ed8c15d112.webp)
 
 ## 四、插件
 
-### 1. [Jiffy Reader](https://chromewebstore.google.com/detail/jiffy-reader/lljedihjnnjjefafchaljkhbpfhfkdic)
+### 1. [ReadTick](https://chromewebstore.google.com/detail/readtick-汇集读书笔记，构建知识体系/jglnmkgipeainmikejfmhpjkpknedfbj)
 
-插件通过对单词的首字母部分进行加粗，从而提高阅读效率，实现更轻松、快速地浏览英文网站、文章等内容。
+ReadTick 支持从外部读书软件中导入笔记，集中组织与回顾，帮您将碎片化的笔记转化为完整的知识体系！与流行的读书软件进行集成，从各处汇集您的读书笔记，将“海绵阅读法”应用于数字化阅读。
 
-![](assets/1130-1206/1733270393842-4b270ca7-d2b1-4999-b7a7-2c0aec69faa0.webp)
+![](assets/1207-1213/1733961379598-0a9e76d7-b2a1-4f78-811a-bf1af0b29d9d.webp)
 
-### 2. [Material You NewTab](https://chromewebstore.google.com/detail/material-you-newtab/glloabhodjfmeoccmdngmhkpmdlakfbn)
+### 2. [AI 课代表](https://chromewebstore.google.com/detail/ai课代表-b站学习助手-视频总结-字幕列表-gp/jgilkmapjeaikiboajahmeiadceioobc)
 
-一款受 Google 的 Material 设计语言启发的新标签页浏览器插件，注重简约和实用，拒绝花里胡哨。为用户提供了一个清新美观的浏览器新标签页，支持多种主题和实用工具。
+Bilibili 视频总结插件，您在 B 站最专业的人工智能助手。基于 GPT4 的知识提问 + 视频总结 + 字幕搜索。
 
-![](assets/1130-1206/1733270539152-e82fd741-475a-4bb6-bd91-cba6addc416c.webp)
+![](assets/1207-1213/1733961463996-76b8c6e7-6030-41f3-9161-4ed4370fb0bb.webp)
 
-### 3. [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+### 3. [AI 伴读卡片](https://chromewebstore.google.com/detail/ai伴读卡片/eacddhhclhfopgdecadpdonpfemndaeo)
 
-一个简化 GitHub 界面，并添加了移除页面多余元素、空白字符可见、一键合并修复冲突和放弃 PR 中某个文件的所有修改等实用功能的插件，进一步提升了 GitHub 的使用体验。
+借助先进的 AI 技术，自动提取音视频或者网页文章内容，生成个性化卡片，助您高效整理结构化知识。
 
-![](assets/1130-1206/1733270648886-529b3206-b4de-48a7-88c6-93ebfa2822e8.webp)
+![](assets/1207-1213/1733961591796-b528ad72-63f9-4324-88ff-054b663ac39a.webp)
 
 ## 五、资料
 
-### 1. [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
+### 1. [Java-Interview](https://github.com/gzc426/Java-Interview)
 
-收集所有区块链 (BlockChain) 技术开发相关资料，包括 Fabric 和 Ethereum 开发资料的一个资源开源库。
+Java 面试必知必会知识点总结，直通 BAT 面试现场。
 
-![](assets/1130-1206/1733270987032-f64c5e8d-d8d5-43c0-b7c0-6ec2ee6ce5df.webp)
+![](assets/1207-1213/1733789127649-41b8da1c-2a97-4223-a35e-0da921edd8a8.webp)
 
-### 2. [remote-working](https://github.com/greatghoul/remote-working)
+### 2. [城市租房指南](https://zufang.ababtools.com)
 
-收集整理远程工作相关的资料，用于整理中国国内的资源或者对国内受众友好的国外资源。
+省钱、安心、避坑是宗旨，一份租房小白修炼手册，掌握租房硬核知识，帮助我们找到理想住所！![](assets/1207-1213/1733875684670-f10b8124-06ee-4347-89cc-31590ab5d362.webp)
 
-![](assets/1130-1206/1733271125639-d3a0428c-1b7c-47e8-bee5-bfddc188d438.webp)
+### 3. [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)
 
-### 3. [Algorithm Guide](https://github.com/Xunzhuo/Algorithm-Guide)
+对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
 
-仓库带你系统掌握程序员必知必会的算法和数据结构，主要分为两部分内容：
+![](assets/1207-1213/1733875792265-2a07b877-ccb7-444b-b35a-46e1c4e98c96.webp)
 
-- 算法和数据结构的教程
-- 算法和数据结构的资料
-
-![](assets/1130-1206/1733271334674-5dd31e44-f633-4b36-935f-a22a315bd498.webp)
-
+## 
 
 ## ✍️ 说明
 
