@@ -12,113 +12,116 @@ tag:
 
 ---
 
-# 好物周刊#86：打工人租房指南
+# 好物周刊#87：颜人颜语
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：
+> 原文：https://mp.weixin.qq.com/s/Qa-9YCN5QT8bkE07rP1tlQ
 
 ## 一、项目
 
-### 1. [paascloud-master](https://github.com/paascloud/paascloud-master)
+### 1. [PairDrop](https://github.com/schlagmichdoch/PairDrop)
 
-Spring Cloud + Vue + oAuth2.0 全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
+无需下载任何软件，也无需登录即可实现跨平台之间的文件共享，不过需要传输文件的设备之间处于同一局域网。
 
-![](assets/1207-1213/1733961900967-0b96c8cb-a4cf-4d93-865d-e2091f266852.webp)
+![](assets/1214-1220/1734393454930-7d6aae55-0260-4e9d-8dd2-24a62d85e415.webp)
 
-### 2. [Spring Boot API Project Seed](https://github.com/lihengming/spring-boot-api-project-seed)
+### 2. [WatchAlert](https://github.com/opsre/WatchAlert)
 
-一个基于 Spring Boot & MyBatis 的种子项目，用于快速构建中小型 API、RESTful API 项目，该种子项目已经有过多个真实项目的实践，稳定、简单、快速，使我们摆脱那些重复劳动，专注于业务代码的编写，减少加班。下面是一个简单的使用演示，看如何基于本项目在短短几十秒钟内实现一套简单的 API，并运行提供服务。
+基于 Go + React 实现，一款为云原生环境量身打造的轻量级监控告警引擎，专注于可观测稳定性主题，提供全面的监控与告警支持。
 
-![](assets/1207-1213/1733961977800-887ca8d7-6ea7-4612-ab8c-27feebbf3af9.webp)
+![](assets/1214-1220/1734394415656-b68bdff9-cd00-4b8f-b673-bb03e0838cb7.webp)
 
-### 3. [Opensabre ](https://github.com/opensabre/opensabre-framework)
+### 3. [小红书笔记生成器](https://github.com/whotto/Video_note_generator)
 
-基于 SpringCloud2021 的微服务开发平台，整合了 Spring Security、Springcloud Alibaba 等组件。 包含了基础的 RBAC 权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。 定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持 Docker、Kubenetes 的部署。 让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。 目标是建立一套金融级、高安全性的微服务解决方案。
+一键将视频转换为优质小红书笔记，自动优化内容和配图。
 
-![](assets/1207-1213/1733962097411-45918e64-04c0-4c5d-bd00-a0183a861623.webp)
+![](assets/1214-1220/1734522222904-87555a2c-cbaa-4fc1-9baf-6475cc38d23c.webp)
 
-## 二、软件	
+## 二、软件
 
-### 1. [狮子笔记](https://www.lionote.com/)
+### 1. [IconEase](https://github.com/JiuRanYa/IconEase)
 
-是一款全平台、可手写、Ai问答、保护隐私的笔记软件。自由使用众多信息形式记录和创作（文字、手写白板、思维导图、流程图、时序图、Markdown、AI问答、录音、图片、文件等），基于笔记但超越笔记。支持本地存储、可离线使用、所有设备自动加密同步、任何人都无法看到您的笔记。满足学习、工作、日记加密、教学、演示、备忘录、待办等场景。
+一款现代化的图标管理桌面应用程序，用于组织和管理您的图标集合。专为需要快速访问图标库的设计师、开发者和数字艺术家打造。
 
-![](assets/1207-1213/1733184626151-31e464d6-bf9a-4c2c-94a7-e453502c9fdf.webp)
+![](assets/1214-1220/1734394311151-be63fbb7-df64-4bee-98af-7edb3849dfe5.webp)
 
-### 2. [汉王扫描王](https://www.hanvonscanner.com/)
+### 2. [BlueStacks Air](https://www.bluestacks.com/tw/mac)
 
-汉王扫描王，让工作学习更高效。汉王扫描王解决了很多用户在学习或办公中的一个痛点，就是将一些无法复制的图片文字信息，更快地转化为文档，大大节约了人力和时间成本。此外还提供多种文档模式供用户选择（文档扫描、表格提取、文字识别、版式分析、PDF 格式转换等）。
+转为苹果公司 M 系列芯片打造的安卓模拟器，让你在 Mac 上也能运行安卓 App。
 
-![](assets/1207-1213/1733876406526-cec54599-ddf7-459f-be50-93f039042be9.webp)
+![](assets/1214-1220/1734481128920-e2e988c6-45c6-4e48-869d-fce2f1f3177d.webp)
 
-### 3. [布丁扫描](https://www.budingscan.com/)
+### 3. [Yōkai](https://github.com/null2264/yokai)
 
-一款专业的扫描 APP，具有识别准、处理快、无广告、无水印的特点。
+一款免费开源的安卓漫画阅读器，漫画爱好者的福音。
 
-![](assets/1207-1213/1733876444761-e72e6e60-e65b-4ccc-8729-a9a0a62481f7.webp)
+![](assets/1214-1220/1734566089712-1a0f9545-e629-4aa2-8514-1c7564889722.webp)
 
 ## 三、网站
 
-### 1. [PubScholar](https://pubscholar.cn/)
+### 1. [法行宝](https://ailegal.baidu.com/)
 
-PubScholar 公益学术平台是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足全国科技界和全社会科技创新的学术资源基础保障需求，建设的提供公益性学术资源的检索发现、内容获取和交流共享等服务的平台。平台在尊重知识产权和国际通行规范的前提下，发挥中国科学院自身拥有丰富且高质量学术资源的优势，带动国内外的学术资源机构积极合作，最大限度地开放优质学术资源。目前，平台整合集成了中国科学院的科技成果资源、科技出版资源和学术交流资源；OA环境下允许集成服务的学术资源；以及通过协议授权或其它合作共建模式获得授权许可的学术资源。
+您的免费 AI 律师，作为专业法律助手，它可以解释法律法规、解答法律问题，根据您的问题，给出专业的法律意见。
 
-![](assets/1207-1213/1733875319775-f0c82746-2157-48db-908e-4d5eac0d7484.webp)
+![](assets/1214-1220/1733875951787-9de28586-e2b0-4b8c-b40d-1b1410193591.webp)
 
-### 2. [Note.Re](https://note.re/)
+### 2. [颜语](https://yan.ognai.com/)
 
-一个打开即用的在线记事本。
+可以生成精美的卡片，用于书摘/笔记/备忘的分享，仅需在输入框中输入内容，即可实时生效预览。
 
-![](assets/1207-1213/1733875409871-49ed4caf-ce4f-480f-af12-b4df5247cd2c.webp)
+![](assets/1214-1220/1733876091188-708e0b62-6b5c-4077-b432-57e952543da0.webp)
 
-### 3. [Azure Text to Speech](https://tts.femoon.top/)
+### 3. [互乐吧](https://huleba.com/)
 
-Azure 提供的在线文字转语音工具，支持多种语言、男女不同音色，多种风格随意切换，甚至还能调整语速语调。
+在这里分享各种免费的资源，包括但不限于：工具、网站、教程、游戏、素材等。
 
-![](assets/1207-1213/1733875509132-1d0441a4-2153-42ab-bfdc-b0ed8c15d112.webp)
+![](assets/1214-1220/1733876262602-6c51ca00-8f89-4900-aaee-47c2dc67914e.webp)
 
 ## 四、插件
 
-### 1. [ReadTick](https://chromewebstore.google.com/detail/readtick-汇集读书笔记，构建知识体系/jglnmkgipeainmikejfmhpjkpknedfbj)
+### 1. [易笺](https://chromewebstore.google.com/detail/易笺/dbanahlbopbjpgdkecmclbbonhpohcaf)
 
-ReadTick 支持从外部读书软件中导入笔记，集中组织与回顾，帮您将碎片化的笔记转化为完整的知识体系！与流行的读书软件进行集成，从各处汇集您的读书笔记，将“海绵阅读法”应用于数字化阅读。
+支持秒开本地的所有 txt 文件，自动排版，自动分页，自动生成目录，记录阅读进度。
 
-![](assets/1207-1213/1733961379598-0a9e76d7-b2a1-4f78-811a-bf1af0b29d9d.webp)
+![](assets/1214-1220/1734480499713-d4375dd8-1298-4b76-9c1f-434de6d5bd9f.webp)
 
-### 2. [AI 课代表](https://chromewebstore.google.com/detail/ai课代表-b站学习助手-视频总结-字幕列表-gp/jgilkmapjeaikiboajahmeiadceioobc)
+### 2. [Speed dial 2](https://chromewebstore.google.com/detail/speed-dial-2-新标签/jpfpebmajhhopeonhlcgidhclcccjcik?hl=zh-CN)
 
-Bilibili 视频总结插件，您在 B 站最专业的人工智能助手。基于 GPT4 的知识提问 + 视频总结 + 字幕搜索。
+一个简单、快速、直观的新标签页，支持保存和组织收藏的网站。彻底改进的新标签页！利用独特的工具提升我们的工作空间，使得更高效。还能根据我们的喜好来改造和定制新标签页体验。
 
-![](assets/1207-1213/1733961463996-76b8c6e7-6030-41f3-9161-4ed4370fb0bb.webp)
+![](assets/1214-1220/1734480746237-d617fc12-ce73-4717-a8c0-d37c80b89174.webp)
 
-### 3. [AI 伴读卡片](https://chromewebstore.google.com/detail/ai伴读卡片/eacddhhclhfopgdecadpdonpfemndaeo)
+### 3. [Notion 中文版](https://chromewebstore.google.com/detail/notion中文版/ljlhpcabhpjdlcjhbmgjigfceppgabmk)
 
-借助先进的 AI 技术，自动提取音视频或者网页文章内容，生成个性化卡片，助您高效整理结构化知识。
+一键即可汉化你的 Notion，同时安装插件还可以免费使用 Notion AI。
 
-![](assets/1207-1213/1733961591796-b528ad72-63f9-4324-88ff-054b663ac39a.webp)
+![](assets/1214-1220/1734566300458-1ee70b83-a488-4eb4-8364-a46cafa6c259.webp)
 
 ## 五、资料
 
-### 1. [Java-Interview](https://github.com/gzc426/Java-Interview)
+### 1. [Uber Go 语言编码规范中文版](https://github.com/xxjwxc/uber_go_guide_cn)
 
-Java 面试必知必会知识点总结，直通 BAT 面试现场。
+2018 年年末 Uber 将内部的 Go 风格规范开源，经过一年的积累和更新，该规范已经初具规模，并受到广大 Gopher 的关注，本仓库即为该规范的中文版本。
 
-![](assets/1207-1213/1733789127649-41b8da1c-2a97-4223-a35e-0da921edd8a8.webp)
+![](assets/1214-1220/1734393680739-e2403902-96cb-4c8c-8f8e-4a9191794207.webp)
 
-### 2. [城市租房指南](https://zufang.ababtools.com)
+### 2. [看见概率论](https://probability.visualized.fun)
 
-省钱、安心、避坑是宗旨，一份租房小白修炼手册，掌握租房硬核知识，帮助我们找到理想住所！![](assets/1207-1213/1733875684670-f10b8124-06ee-4347-89cc-31590ab5d362.webp)
+让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 
-### 3. [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)
+![](assets/1214-1220/1734394068175-61cdad1b-e037-4ee0-bb1d-4919d4555b52.webp)
 
-对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
+### 3. [PHP 之道](https://learnku.com/docs/php-the-right-way)
 
-![](assets/1207-1213/1733875792265-2a07b877-ccb7-444b-b35a-46e1c4e98c96.webp)
+PHP 最佳实践、编码规范和权威学习指南，PHP 开发者必读。
 
-## 
+![](assets/1214-1220/1734396546938-b7106a14-11e3-44b2-a5b4-602aed6c7e7f.webp)
+
+
+
 
 ## ✍️ 说明
 
