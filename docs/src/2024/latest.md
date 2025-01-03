@@ -12,120 +12,115 @@ tag:
 
 ---
 
-# 好物周刊#88：Github 2024 年度总结
+# 好物周刊#89：习惯点点
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/AWebQe3qfWgm-UPXTmdQTQ
+> 原文：https://mp.weixin.qq.com/s/mKV3fNQxiVR7IykYg0mg-Q
 
 ## 一、项目
 
-### 1. [水印宝](https://github.com/chilohwei/watermark-tool)
+### 1. [cat](https://github.com/dianping/cat)
 
-专业的在线图片水印工具。
+作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC 框架，RPC 框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 
-![](assets/1221-1227/1734606088483-020b986a-be03-4d6d-b4f2-36118add0761.webp)
+![](assets/1228-0103/1735776870419-394fa4cc-e4e2-45dc-a76d-c250870f9064.webp)
 
-### 2. [My Github 2024](https://github.com/WCY-dt/my-github-2024)
+### 2. [惺惺](https://github.com/cherish-chat/xxim-server)
 
-登录你的 Github 并授权，即可统计 2024 年你在 GitHub 上的活动。
+属于你的社交地盘！惺惺是一个 100% 开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。
 
-![](assets/1221-1227/1734912558030-82b72a42-ddf3-4fb3-b909-075ab9e67398.webp)
+![](assets/1228-0103/1735776978234-539e7e66-64a2-4f93-87ef-913fbc024911.webp)
 
-### 3. [EhTagTranslation 译文数据库](https://github.com/EhTagTranslation/Database)
+### 3. [goodsKill](https://github.com/techa03/goodsKill)
 
-EhTagTranslation 项目的翻译数据。
+基于 SpringCloud 2023.x + Dubbo 3.x + AI 构建的模拟秒杀微服务项目，集成了 Elasticsearch、Gateway、Mybatis-Plus、Sharding-JDBC 等常用开源组件。
 
-![](assets/1221-1227/1734999131190-dbd053a1-b8eb-425a-aa19-3850fcaf98e6.webp)
+![](assets/1228-0103/1735777134845-955400ba-43e4-4cb4-819b-d756639391c0.webp)
 
 ## 二、软件
 
-### 1. [Tran](https://github.com/Borber/Tran)
+### 1. [vivo 听说](https://accessibility.vivo.com/accessibility/hear)
 
-一个跨桌面的简洁，快速，划词翻译软件。
+一款集实时语音转文字、文字播报等功能的专业 App，可满足用户在不方便说话或倾听情况下， 实现无障碍沟通；文字放大查看更便捷，让沟通更简单。
 
-![](assets/1221-1227/1734605935947-fcdcf323-ebd7-46d8-863f-a0e693611500.webp)
+![](assets/1228-0103/1734998418546-9e843eda-7a44-46f5-ae57-c4e62cc9d3f8.webp)
 
-### 2. [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
+### 2. [习惯点点](https://habitdots.com)
 
-一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用，具有以下特点：
+帮你培养每日学习、工作、锻炼、读书、早睡、喝水、运动、减肥打卡等微习惯。
 
-- 简单易用: 文件应用，一键隐藏。
-- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
-- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
-- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
-- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
-- 赏心悦目的界面: 简洁干净的 Material3 设计。
+![](assets/1228-0103/1735602978448-2ae6e32f-a865-4b98-a9aa-886c14eae16f.webp)
 
-![](assets/1221-1227/1734606798467-65294210-9d7c-4711-88ba-0364e13f2797.webp)
+### 3. [Zotero](https://www.zotero.org/)
 
-### 3. [Buzee](https://github.com/gsidhu/buzee-tauri)
+开源文献管理工具，支持插件，集成浏览器插件一起使用更方便。
 
-支持对本地文件的全文搜索功能，支持 Mac 和 Windows 平台。
-
-![](assets/1221-1227/1734912753892-bf13aea2-4806-454f-ac91-a1bd150c5119.webp)
+![](assets/1228-0103/1735603076785-aba7f47e-a98c-43b9-b698-795911bf7171.webp)
 
 ## 三、网站
 
-### 1. [BYLO AI](https://bylo.ai)
+### 1. [帽子云](https://www.maoziyun.com)
 
-免费 AI 文本生成图像，使用 Bylo.ai 的高级 AI 图像生成器，将您的想法转化为高质量图像，而且免费快速，支持定制化。
+国产 GitHub Pages / Cloudflare Pages 替代方案，旨在解决国内用户部署网站时面临的种种困难。技术上，帽子云采用领先的云原生架构，结合 CDN 加速与持续集成功能，提供高效、便捷的静态网站部署体验。同时，通过自建 CDN 节点，针对中国大陆优化精品线路，支持智能化节点选择，大幅降低网络延迟，让页面加载更快，为用户提供流畅的访问体验。
 
-![](assets/1221-1227/1734394163956-9c550118-5894-4bd8-ae15-38e5716d25a4.webp)
+![](assets/1228-0103/1735603413791-ec6c798d-e260-42cc-879b-bc7f2adaa0ac.webp)
 
-### 2. [纳米 AI 搜索](https://www.n.cn/)
+### 2. [Cloudflare](https://www.cloudflare.com/zh-cn/)
 
-新一代智能答案引擎，值得信赖的智能搜索伙伴，为复杂搜索提供专业支持，解锁更相关、更全面的答案。AI 对用户提问进行精准语义分析，并通过追问获取更多有价值信息，将问题拆分为多组关键词后再进行搜索引擎检索，深度阅读网页内容，最终呈现逻辑清晰、准确无误的答案。
+一个全球性的云平台，它为世界各地的各种规模的企业提供广泛的网络服务，从而使企业更加安全，同时提高其关键互联网资产的性能和可靠性。
 
-![](assets/1221-1227/1734481674802-74a1bb38-acc9-482f-a754-8d50418c43f3.webp)
+![](assets/1228-0103/1735603885642-a2d6a602-b712-46a3-b762-96b3016b0eaf.webp)
 
-### 3. [智客翻译](https://zhike.in/)
+### 3. [又拍云](https://console.upyun.com/register/?invite=9LfDr1C_y)
 
-一个基于谷歌翻译的在线翻译工具，翻译结果实时同步自 Google Translate，它支持超过 100 种语言，能为用户提供准确的翻译结果。
+国内知名企业级云服务商，全球 1100 多个自建 CDN 节点，10TB 保有带宽，为 25 万用户提供 CDN 加速，数据云存储，HTTPS／SSL 证书，WebP，云处理，视频图片存储，短视频开发SDK，直播开发SDK，DDos 高防等一站式加速解决方案！
 
-![](assets/1221-1227/1734481812242-efcfab0e-5167-476b-af80-249742fa2d76.webp)
+![](assets/1228-0103/1735603863813-6016d5dc-b0e2-45fb-94fc-679440f66d33.webp)
 
 ## 四、插件
 
-### 1. [CouponBirds](https://chromewebstore.google.com/detail/couponbirds-smartcoupon-c/pnedebpjhiaidlbbhmogocmffpdolnek?hl=zh-CN)
+### 1. [Google 学术搜索 PDF 阅读器](https://chromewebstore.google.com/detail/google-学术搜索-pdf-阅读器/dahenjhkoodjbpjheillcadbppiidmhp?hl=zh-CN)
 
-自动寻找优惠券，并推荐适合你的优惠券，为你的网上购物省钱。
+提升论文阅读体验：追踪参考文献、重点浏览大纲、跳转到图表、引用并保存。安装学术搜索阅读器后，就能在 Chrome 中以全新方式查看所有网站上的 PDF 文件。
 
-![](assets/1221-1227/1735085089946-83c18455-d78d-428b-b796-5157c4817185.webp)
+![](assets/1228-0103/1735776417017-e2c9d09d-fcd0-4cd2-822a-c96cdc029e16.webp)
 
-### 2. [允许复制](https://chromewebstore.google.com/detail/允许复制-启用右键/mmpljcghnbpkokhbkmfdmoagllopfmlm)
+### 2. [文献泡泡](https://chromewebstore.google.com/detail/文献泡泡-pubmed、google学术、知网等多/pdmgonafkgopgipcmgfpfobgknbofnpn)
 
-在受保护的网站上启用复制：允许右键，解锁上下文菜单，启用文本高亮并允许复制。
+安装后即可显示期刊影响因子、分区等级，还支持一键排序和导出 Excel。
 
-![](assets/1221-1227/1735085328287-306eed2c-e2e2-4433-a791-930dad1c115c.webp)
+![](assets/1228-0103/1735776537710-faa27f90-7f2f-4faa-a6b9-ce7a825f40a4.webp)
 
-### 3. [Sidebar](https://chromewebstore.google.com/detail/sidebar-chatgpt-书签-gpt-4o/fnfdomooadjpfohbepiaonnbdmkdjiog)
+### 3. [AI 论文写作生成器](https://chromewebstore.google.com/detail/ai论文写作生成器：学术写作/lnpeflilbcimmlbenlpphfbpmocmjpgk)
 
-终极侧边栏 ChatGPT 助理，人工智能帮助你整理书签，规划日常任务。
+ 免费最佳 AI 论文写作生成器：适合学生和专业人士，提高论文和报告的创作。
 
-![](assets/1221-1227/1735085481816-6434e8ad-04b1-40a1-b416-a9619815c5ab.webp)
+![](assets/1228-0103/1735776712921-0d236f7e-e28e-420a-ae32-fa02a8a571c8.webp)
 
 ## 五、资料
 
-### 1. [SQL 样式指南](https://www.sqlstyle.guide/)
+### 1. [Go 程序员宝典](https://github.com/shgopher/GOFamily)
 
-教你如何写出规范的 SQL 语句，用于规范项目中代码的一致性，使得代码简单、可读和易于维护，从一定程度上提高代码质量。
+项目中包含了 Go 基础语法，Go 并发模式，Go runtime 实现原理 ，企业级 Go 语言项目经验等方面内容。
 
-![](assets/1221-1227/1734915566907-41f6386c-a9d1-4bce-84d1-be66ddf61a2b.webp)
+![](assets/1228-0103/1735777282505-83d8ea30-1f27-4529-8a24-66c3364f4b63.webp)
 
-### 2. [Go 语言原本](https://github.com/golang-design/under-the-hood)
+### 2. [学习周刊](https://github.com/eryajf/learning-weekly)
 
-一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍。
+周刊内容以运维技术和 Golang 为主，以及 GitHub 上优秀项目或经验。
 
-![](assets/1221-1227/1734998535720-a745b41d-4c62-4860-a2c4-003f22c28655.webp)
+![](assets/1228-0103/1735777580933-2581aeb1-b02e-4fcf-9062-566a8e383941.webp)
 
-### 3. [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React)
+### 3. [电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)
 
-30 天学会系列之 React 篇，一份免费的开源教程，值得一看。
+仓库内容包括电子科技大学的各类课程复习资料，为非营利、永久免费的开源项目，仓库目的在于推动知识传播、提高资源质量、减少获取成本、提倡无纸化资料、促进教育公平，让电科学子在备考、复习之时不必再苦寻资料。目前已收录 110 余门课程，1300 多个资源。
 
-![](assets/1221-1227/1734998958393-12dcdd1a-6266-4fc5-9433-bcbd95d4698c.webp)
+![](assets/1228-0103/1735778978498-d9e6896a-1641-48e1-b0c2-9a1eb30ca685.webp)
+
+## 
 
 ## ✍️ 说明
 
