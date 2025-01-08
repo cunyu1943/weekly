@@ -2,6 +2,13 @@
 
 export const Aside_Data = [
     {
+        link: 'https://ym.ksjhaoka.com/?s=Ltxbbs9W330131',
+        icon: 'https://cunyu1943.github.io/weekly/icon/sim.svg',
+        Activity: '点击办理超大流量卡',
+        info1: '官方正规卡号',
+        // info2: '年付 64折 优惠码  2461880'
+    },
+    {
         link: 'https://yuque.com/cunyu1943',
         icon: 'https://cunyu1943.github.io/weekly/icon/yuque.svg',
         Activity: '注册填邀请码即送30天会员',
