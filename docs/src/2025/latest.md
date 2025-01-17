@@ -12,113 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#90：浏览器书签整理
+# 好物周刊#91：白日梦
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/qTeoAnqay1i8Fz1tdkKFmg
+> 原文：https://mp.weixin.qq.com/s/2tb2FD6PmgoqxitDKNVCqQ
 
 ## 一、项目
 
-### 1. [花折](https://github.com/CassInfra/KubeDoor)
+### 1. [留白](https://github.com/yenche123/liubai)
 
-一个使用 Python + Vue 开发，基于 K8S 准入控制机制的微服务资源管控平台。专注微服务每日高峰时段的资源视角，实现了微服务的资源分析统计与强管控，确保微服务资源的资源申请率和真实使用率一致。
+你的笔记 + 日程 + 待办清单 + 任务 with AI。支持在微信上任意调度 7 个 AI 来管理你的笔记、任务、日程和待办清单。
 
-![](assets/0104-0110/1736208567041-1b4ed21d-2536-4793-93fe-eb8f6485c8cc.webp)
+![](assets/0111-0117/1736726942515-bc561644-0d5f-46c1-9144-d65fb28ecf1a.webp)
 
-### 2. [WX-DUMP-4J](https://github.com/xuchengsheng/wx-dump-4j)
+### 2. [lumon](https://github.com/Theo-Messi/lumen)
 
-一款基于 Java 开发的微信数据分析工具。它准确显示好友数、群聊数和当日消息总量，提供过去 15 天每日消息统计，了解社交活跃度。识别展示最近一个月内互动频繁的前 10 位联系人。支持导出聊天记录、联系人、群聊信息，及查看超过三天限制的朋友圈历史记录和找回微信好友。
+集成 Vue 功能组件和主题美化的 VitePress 插件。
 
-![](assets/0104-0110/1736208732739-6b8f8c34-f93f-464e-a164-8a667835a8a5.webp)
+![](assets/0111-0117/1736727098292-33e8657c-4327-4d9e-abdd-e3dddbcaf7f8.webp)
 
-### 3. [冰淇淋内容管理系统](https://github.com/Thecosy/IceCMS)
+### 3. [Graceful Response](https://github.com/feiniaojin/graceful-response)
 
-实现 MacWK 资源站，社区图片视频圈子 CMS，支持网页端移动端小程序。适合用于搭建资讯商城，社区论坛，聊天交友社区，博客，圈子，论坛，图片，视频，社交网站等。
+一个 Spring Boot 技术栈下的优雅响应处理组件，可以帮助开发者完成响应数据封装、异常处理、错误码填充等过程，提高开发效率，提高代码质量。
 
-![](assets/0104-0110/1736209217943-604e3de0-c430-429b-b7e1-b9fd5a0148a0.webp)
+![](assets/0111-0117/1736727244460-7e7ff7d4-1f99-4605-b986-e08cc07bddba.webp)
 
 ## 二、软件
 
-### 1. [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+### 1. [网易爆米花](https://bmh.163.com/)
 
-一款支持 macOS 的免费开源的 Markdown 编辑器，软件体积小，功能简单不复杂。
+聚合影片资源，智能识别影片信息，自动刮削封面海报，无需下载视频，流畅在线播放，跨平台跨设备同步，优雅打造私人影视库。
 
-![](assets/0104-0110/1736246816657-28946273-03eb-4df6-94fa-4ccf2e462e82.webp)
+![](assets/0111-0117/1736727937683-059252b0-d8c0-466b-a0c8-dc68fc0e2ea3.webp)
 
-### 2. [File Pilot](https://filepilot.tech/)
+### 2. [Flix](https://flix.center/)
 
-第三方 Windows 文件管理器，号称能够取代官方，功能更加强大。
+高颜值全平台局域网传输工具，功能简单易用，有了它，传文件就跟聊天一样简单。
 
-![](assets/0104-0110/1736294642368-d6e1cec2-f7f6-427e-8cee-f49a743ab60a.webp)
+![](assets/0111-0117/1736812946405-df9cf6b9-fb8a-49da-be69-3e3d5bb4dca4.webp)
 
-### 3. [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+### 3. [椒盐音乐](https://github.com/Moriafly/SaltPlayerSource)
 
-功能强大又易用的文件批量重命名软件，支持在线和本地客户端使用。
+数十万用户选择的本地音乐播放器，不过当前仅支持安卓平台。
 
-![](assets/0104-0110/1736391771196-21854c26-32cc-44c5-a1f7-f168c3adf29d.webp)
+![](assets/0111-0117/1736813176392-94ab24a5-5745-4ffe-abd9-d400417e71e5.webp)
 
 ## 三、网站
 
-### 1. [快点软件镜像站](https://mirrors.quickso.cn/)
+### 1. [快查](https://www.kuaicha365.com/)
 
-由欢哥科技建立，提供提供开源软件国内镜像信息服务。
+快查是同花顺推出的企业信用查询工具,，提供企业风险的查询服务，包括当前最新的工商注册、公司地址、公司邮箱等基本信息。以及经营风险、经营状况、知识产权、公司治理、新闻公告、舆情信息、司法风险等多个维度信息。
 
-![](assets/0104-0110/1736246472852-16785592-5165-424e-b604-6cb70ab068ec.webp)
+![](assets/0111-0117/1736247363368-11f8e06a-32d2-4609-ac33-f67d3543d808.webp)
 
-### 2. [QuickCDN](https://cdn.quickso.cn/)
+### 2. [快豹速览](https://kuaibao.me)
 
-稳定、快速、免费的前端开源项目 CDN 加速服务，截止目前已收录了 4265 个前端开源项目。
+一个资讯聚合网站，为您精选来自微博、百度、知乎等全网最新热点话题和热搜排行榜。在这里，您可以快速了解当天的热点资讯，确保您不错过任何一个新鲜事，让您在最短的时间内掌握最全面的信息动态。
 
-![](assets/0104-0110/1736246694776-2196ea2d-2363-4576-98ab-c4bb18432dda.webp)
+![](assets/0111-0117/1736727736381-9c8945d9-76a0-40d1-a81b-c55e8c32bce9.webp)
 
-### 3. [TempMail100](https://tempmail100.com/)
+### 3. [白日梦](https://aibrm.com)
 
-无需注册即可获得临时邮箱地址！享受安全、匿名的通信，同时保护您的隐私并轻松消除垃圾邮件。
+一款领先的文生视频类 AIGC 创作平台，专注于 AI 视频内容生成，提供 AI 生成视频教程、AI 文生视频、AI 动态画面、AI 形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。
 
-![](assets/0104-0110/1736246901642-1c7f782d-5826-4ff6-86ec-e171afd53b95.webp)
+![](assets/0111-0117/1736813303003-757aa25a-e9d8-40ba-9225-049478d7b254.webp)
 
 ## 四、插件
 
-### 1. [懒猫书签清理](https://chromewebstore.google.com/detail/懒猫书签清理/aeehapalakdoclgmfeondmephgiandef)
+### 1. [社媒助手](https://chromewebstore.google.com/detail/社媒助手-小红书、抖音数据采集工具/dbichmdlbjdeplpkhcejgkakobjbjalc)
 
-一键清理失效链接和空文件夹，让您的书签井井有条。支持 Chrome 和 Edge 浏览器，提供智能分析、隐私保护等功能。
+一款专为小红书、抖音等社媒平台用户打造的高效数据收集工具。它能够快速收集各平台的作品、评论等数据，以及相关视频、图片等媒体文件！
 
-![](assets/0104-0110/1736294496109-a2e99691-1c61-48ae-bd1c-d30660443151.webp)
+![](assets/0111-0117/1736727657161-29375bac-d22c-45d5-8e80-b4273eb26587.webp)
 
-### 2. [MarkMagic](https://chromewebstore.google.com/detail/markmagic-智能书签管理器/efpddbdnjokoakknlfljkcndcaonilpg)
+### 2. [FocusGuard](https://chromewebstore.google.com/detail/focusguard-网站和专注模式屏蔽/ifdepgnnjpnbkcgempionjablajancjc)
 
-浏览器的智能书签管理解决方案。享受无缝链接检查、内容合规性保障和智能排序。而且目前也在不断增加新功能，如重复链接检测和 AI 内容分析。
+免费网站屏蔽器，提高生产力。自定义屏蔽列表和密码保护。旨在帮助您专注于学习、学习和重要的工作。 阻止所有时间西进的网站，让您保持高效并远离互联网必须提供的所有干扰。
 
-![](assets/0104-0110/1736294846843-fbba2601-f281-4c7e-8b75-7be31dee1cbd.webp)
+![](assets/0111-0117/1736813466442-051ae033-dfd9-4390-b677-66dea670ad49.webp)
 
-### 3. [Markoob](https://chromewebstore.google.com/detail/markoob-书签启动器/lnhnllkaacmnkffnjgcnokifakeckido)
+### 3. [网站阻止器](https://chromewebstore.google.com/detail/网站阻止器-阻止网站和专注模式/pgoeobojimoocdnilcajmjihiabcmabn)
 
-一款书签启动器/新标签页，根据您的使用习惯推荐书签并支持完善的书签管理功能，为您的上网体验带来便利和高效。
+网站拦截器旨在提高生产力和消除干扰，它将从你的生活中删除所有浪费时间的网站，使你能够专注于学习，学习，和工作。只需设置一个密码，选择你想访问的网站，剩下的就交给屏蔽器吧。如果你需要访问被屏蔽的网站，输入密码即可打开并决定你想在该网站上停留多长时间。
 
-![](assets/0104-0110/1736295034315-484a36a9-3086-444c-983e-4a873442e7cc.webp)
+![](assets/0111-0117/1736813628332-be0fe89b-37a7-4a2b-9bbb-c39b9799a46d.webp)
 
 ## 五、资料
 
-### 1. [Docker 入门教程](https://github.com/jaywcjlove/docker-tutorial)
+### 1. [急救指南](https://m.youlai.cn/jijiu)
 
-Docker 入门学习笔记，涵盖了新旧版本安装、命令介绍、服务 & 镜像 & 容器管理、文件拷贝、私仓搭建等相关内容。
+有来医生旗下的生活急救指南，帮你掌握日常生活中常见的急救小知识。
 
-![](assets/0104-0110/1736208239778-2b9b7f80-c953-40fd-aec7-31c53a747a02.webp)
+![](assets/0111-0117/1736813943051-5b9c9607-d75f-40a0-8398-0189016522b9.webp)
 
-### 2. [新概念学习笔记](https://github.com/andylee1890/NewConceptEnglish)
+### 2. [PyTorchDocs](https://github.com/fendouai/PyTorchDocs)
 
-记录了作者从第 2 册开始学习新概念英语的学习笔记，记录整理后进行分享，方便大家一起学习。
+PyTorch 官方中文教程包含 60 分钟快速入门教程，强化教程，计算机视觉，自然语言处理，生成对抗网络，强化学习。
 
-![](assets/0104-0110/1736208838807-5f824765-8411-4419-a375-a6187285aa4c.webp)
+![](assets/0111-0117/1736985568967-51d39699-9f86-4533-a995-5f28ef178a80.webp)
 
-### 3. [JavaHome](https://github.com/whx123/JavaHome)
+### 3. [南京大学计算机考研 408+845 科目资料合集](https://github.com/JackeyLea/NJUCS)
 
-一份超级详细的 Java 面试题【大厂面试真题 + Java 学习指南 + 工作总结】。
+2023 南京大学计算机科学与技术 845 考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析 - 包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等。
 
-![](assets/0104-0110/1736387230329-c4ea3edc-38ff-4a0b-b889-775871377a49.webp)
+![](assets/0111-0117/1736985702489-39805486-2833-4efa-9697-735f948c7272.webp)
 
 ## ✍️ 说明
 
