@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@theojs/lumen": "^2.6.3",
-    "pnpm": "^9.15.3"
+    "pnpm": "^9.15.4"
   }
 }
