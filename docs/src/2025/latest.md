@@ -12,113 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#91：白日梦
+# 好物周刊#92：闪电藤
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/2tb2FD6PmgoqxitDKNVCqQ
+> 原文：https://mp.weixin.qq.com/s/I5lxqBzZrcF4EcTvTF_sAg
 
 ## 一、项目
 
-### 1. [留白](https://github.com/yenche123/liubai)
+### 1. [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)
 
-你的笔记 + 日程 + 待办清单 + 任务 with AI。支持在微信上任意调度 7 个 AI 来管理你的笔记、任务、日程和待办清单。
+提供交互式的 Web UI 用于生成兼容 mybatis-plus 框架的相关功能代码，包括 Entity、Mapper、Mapper.xml、Service、Controller 等 ，可以自定义模板以及各类输出参数，也可通过 SQL 查询语句直接生成代码。
 
-![](assets/0111-0117/1736726942515-bc561644-0d5f-46c1-9144-d65fb28ecf1a.webp)
+![](assets/0201-0207/1738799965282-e5b256cd-2100-40d1-8f3b-73179e7dddbc.webp)
 
-### 2. [lumon](https://github.com/Theo-Messi/lumen)
+### 2. [Bili23-Downloader-GUI](https://github.com/ScottSloan/Bili23-Downloader)
 
-集成 Vue 功能组件和主题美化的 VitePress 插件。
+跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片 等资源。
 
-![](assets/0111-0117/1736727098292-33e8657c-4327-4d9e-abdd-e3dddbcaf7f8.webp)
+![](assets/0201-0207/1738800286787-14e0925f-db34-48df-b07d-bc862501a8e6.webp)
 
-### 3. [Graceful Response](https://github.com/feiniaojin/graceful-response)
+### 3. [stock](https://github.com/Rockyzsu/stock)
 
-一个 Spring Boot 技术栈下的优雅响应处理组件，可以帮助开发者完成响应数据封装、异常处理、错误码填充等过程，提高开发效率，提高代码质量。
+30 天掌握量化交易，帮助你更好的炒股。
 
-![](assets/0111-0117/1736727244460-7e7ff7d4-1f99-4605-b986-e08cc07bddba.webp)
+![](assets/0201-0207/1738800477925-7bdd5bc3-e7c9-437a-970d-06fed883b388.webp)
 
 ## 二、软件
 
-### 1. [网易爆米花](https://bmh.163.com/)
+### 1. [闪电藤](https://sdt.zishu.life/)
 
-聚合影片资源，智能识别影片信息，自动刮削封面海报，无需下载视频，流畅在线播放，跨平台跨设备同步，优雅打造私人影视库。
+基于 LocalSend 的二次开发产品，在原有局域网文件传输基础上，增加了 webdav 传输和云传输的能力，是一个万能的文件传输助手。目前已支持安卓、iOS、Mac、Windows 和 Linux。
 
-![](assets/0111-0117/1736727937683-059252b0-d8c0-466b-a0c8-dc68fc0e2ea3.webp)
+![](assets/0201-0207/1737016344201-8e33517a-0116-4f7e-b493-17e2419df1bb.webp)
 
-### 2. [Flix](https://flix.center/)
+### 2. [一叶日记](https://www.oneleaf.fun/)
 
-高颜值全平台局域网传输工具，功能简单易用，有了它，传文件就跟聊天一样简单。
+一款操作简单、界面简洁但又不失美感的极简卡片日记软件。
 
-![](assets/0111-0117/1736812946405-df9cf6b9-fb8a-49da-be69-3e3d5bb4dca4.webp)
+![](assets/0201-0207/1737021019041-ddc96011-acb6-40f4-be63-3cc394809068.webp)
 
-### 3. [椒盐音乐](https://github.com/Moriafly/SaltPlayerSource)
+### 3. [享咖小记](https://coffee-note.xiangshikeji.com/)
 
-数十万用户选择的本地音乐播放器，不过当前仅支持安卓平台。
+从咖啡豆、冲煮器具、研磨器三个基础数据再配合上冲煮过程中使用的各个器材的设置、水温、时长、注水量等参数，系统的记录下每一杯咖啡的冲煮过程。
 
-![](assets/0111-0117/1736813176392-94ab24a5-5745-4ffe-abd9-d400417e71e5.webp)
+![](assets/0201-0207/1737021102273-8f80da48-0d8a-4fba-a175-0dfb94a7f5be.webp)
 
 ## 三、网站
 
-### 1. [快查](https://www.kuaicha365.com/)
+### 1. [Mapify](https://mapify.so/)
 
-快查是同花顺推出的企业信用查询工具,，提供企业风险的查询服务，包括当前最新的工商注册、公司地址、公司邮箱等基本信息。以及经营风险、经营状况、知识产权、公司治理、新闻公告、舆情信息、司法风险等多个维度信息。
+AI 思维导图总结工具，仅需几秒即可将 YouTube、PDF、文档、网址、长邮件、会议录音 总结成思维导图。
 
-![](assets/0111-0117/1736247363368-11f8e06a-32d2-4609-ac33-f67d3543d808.webp)
+![](assets/0201-0207/1736849723619-e6be3def-bdc4-471a-8d56-579e8df9de33.webp)
 
-### 2. [快豹速览](https://kuaibao.me)
+### 2. [讯飞智文](https://zhiwen.xfyun.cn/)
 
-一个资讯聚合网站，为您精选来自微博、百度、知乎等全网最新热点话题和热搜排行榜。在这里，您可以快速了解当天的热点资讯，确保您不错过任何一个新鲜事，让您在最短的时间内掌握最全面的信息动态。
+由科大讯飞推出的一键生成 PPT/Word 产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让 AI 全流程服务到底。
 
-![](assets/0111-0117/1736727736381-9c8945d9-76a0-40d1-a81b-c55e8c32bce9.webp)
+![](assets/0201-0207/1736849794928-76c1cd08-818a-4400-935b-5247734d004f.webp)
 
-### 3. [白日梦](https://aibrm.com)
+### 3. [扣扣图](https://www.koukoutu.com/)
 
-一款领先的文生视频类 AIGC 创作平台，专注于 AI 视频内容生成，提供 AI 生成视频教程、AI 文生视频、AI 动态画面、AI 形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。
+永久免费在线抠图、免费在线批量抠图，无需专业设计技能，只需轻点鼠标，智能算法即刻为您精准识别图像边缘， 无论是复杂背景还是细腻发丝，都能轻松剥离.
 
-![](assets/0111-0117/1736813303003-757aa25a-e9d8-40ba-9225-049478d7b254.webp)
+![](assets/0201-0207/1736849898393-6ebe0538-84ab-4d9c-bf3b-e9f9fa74960e.webp)
 
 ## 四、插件
 
-### 1. [社媒助手](https://chromewebstore.google.com/detail/社媒助手-小红书、抖音数据采集工具/dbichmdlbjdeplpkhcejgkakobjbjalc)
+### 1. [画 - 简单的画](https://chromewebstore.google.com/detail/画-简单的画/doiiaejbgndnnnomcdhefcbfnbbjfbib?hl=zh-CN)
 
-一款专为小红书、抖音等社媒平台用户打造的高效数据收集工具。它能够快速收集各平台的作品、评论等数据，以及相关视频、图片等媒体文件！
+使用画图扩展进行简单的绘图，该工具允许在屏幕上描绘并使用截图功能捕捉。
 
-![](assets/0111-0117/1736727657161-29375bac-d22c-45d5-8e80-b4273eb26587.webp)
+![](assets/0201-0207/1738799423125-326d7c97-6081-4f7d-9a4f-256f5281fa53.webp)
 
-### 2. [FocusGuard](https://chromewebstore.google.com/detail/focusguard-网站和专注模式屏蔽/ifdepgnnjpnbkcgempionjablajancjc)
+### 2. [SQLite 浏览器](https://chromewebstore.google.com/detail/sqlite-浏览器/iclckldkfemlnecocpphinnplnmijkol)
 
-免费网站屏蔽器，提高生产力。自定义屏蔽列表和密码保护。旨在帮助您专注于学习、学习和重要的工作。 阻止所有时间西进的网站，让您保持高效并远离互联网必须提供的所有干扰。
+在浏览器中即可实现轻松管理 SQLite 数据库。
 
-![](assets/0111-0117/1736813466442-051ae033-dfd9-4390-b677-66dea670ad49.webp)
+![](assets/0201-0207/1738799590819-820f5a77-2485-4067-ab01-9fda0807ab71.webp)
 
-### 3. [网站阻止器](https://chromewebstore.google.com/detail/网站阻止器-阻止网站和专注模式/pgoeobojimoocdnilcajmjihiabcmabn)
+### 3. [Vimium C - 全键盘操作浏览器](https://chromewebstore.google.com/detail/vimium-c-全键盘操作浏览器/hfjbmagddngcpeloejdejnfgbamkjaeg)
 
-网站拦截器旨在提高生产力和消除干扰，它将从你的生活中删除所有浪费时间的网站，使你能够专注于学习，学习，和工作。只需设置一个密码，选择你想访问的网站，剩下的就交给屏蔽器吧。如果你需要访问被屏蔽的网站，输入密码即可打开并决定你想在该网站上停留多长时间。
+一款开源、免费的键盘增强类浏览器扩展，支持为多种多样的命令任意设置快捷键。只要有一个键盘，您就能自由点击网页中的链接和按钮、选择和复制文字和网址，也能轻松操作浏览器标签页，还能在一个便捷的搜索框中随意搜索历史记录、收藏夹或打开的标签等等。
 
-![](assets/0111-0117/1736813628332-be0fe89b-37a7-4a2b-9bbb-c39b9799a46d.webp)
+![](assets/0201-0207/1738799724454-c4103be8-a3b1-4a6a-8519-99c195a1beb0.webp)
 
 ## 五、资料
 
-### 1. [急救指南](https://m.youlai.cn/jijiu)
+### 1. [1000 行代码的操作系统](https://github.com/nuta/operating-system-in-1000-lines)
 
-有来医生旗下的生活急救指南，帮你掌握日常生活中常见的急救小知识。
+本书从零开始一步一步去构建一个小型操作系统，用 C 语言来实现基础的上下文切换、分页、用户态、命令行 shell、磁盘驱动以及文件读写操作，而且仅有 1000 代码！
 
-![](assets/0111-0117/1736813943051-5b9c9607-d75f-40a0-8398-0189016522b9.webp)
+![](assets/0201-0207/1738799278951-174a891d-21ff-4fb5-af1c-0970484d4bf3.webp)
 
-### 2. [PyTorchDocs](https://github.com/fendouai/PyTorchDocs)
+### 2. [springcloud-learning](https://github.com/macrozheng/springcloud-learning)
 
-PyTorch 官方中文教程包含 60 分钟快速入门教程，强化教程，计算机视觉，自然语言处理，生成对抗网络，强化学习。
+2024 最新微服务实战教程，Spring Cloud 组件、微服务项目实战、Kubernetes 容器化部署全方位解析。
 
-![](assets/0111-0117/1736985568967-51d39699-9f86-4533-a995-5f28ef178a80.webp)
+![](assets/0201-0207/1738800117594-8b85c568-da86-4dd5-9c0a-2646d3b89e87.webp)
 
-### 3. [南京大学计算机考研 408+845 科目资料合集](https://github.com/JackeyLea/NJUCS)
+### 3. [Python 实用教程](https://github.com/shibing624/python-tutorial)
 
-2023 南京大学计算机科学与技术 845 考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析 - 包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等。
+基于 Python 3 实现，内容包括 Python 基础，Python 高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。同时教程中包含了一些范例，涵盖了大多数 Python 日常脚本任务，是入门 Python 的学习资料，也可以作为工作中编写 Python 脚本的参考实现。
 
-![](assets/0111-0117/1736985702489-39805486-2833-4efa-9697-735f948c7272.webp)
+![](assets/0201-0207/1738800802914-87ab176c-5597-4b3f-a52e-04b8979a0221.webp)
 
 ## ✍️ 说明
 
