@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { tokenize } from './search'
+import { chineseSearchOptimize, pagefindPlugin } from 'vitepress-plugin-pagefind'
 import { AnnouncementPlugin } from 'vitepress-plugin-announcement'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 // import { head } from './configs/head'
@@ -30,6 +30,14 @@ export default defineConfig({
 
   vite: {
     plugins: [
+      // 搜索
+      pagefindPlugin({
+        customSearchQuery: chineseSearchOptimize,
+        btnPlaceholder: '搜索',
+        placeholder: '搜索文档',
+        emptyText: '空空如也',
+        heading: '共: {{searchResult}} 条结果',
+      }),
       GitChangelog({
         // 填写在此处填写您的仓库链接
         repoURL: () => 'https://github.com/cunyu1943/weekly',
@@ -89,30 +97,30 @@ export default defineConfig({
     },
 
     // 搜索
-    search: {
-      provider: 'local',
-      options: {
+    // search: {
+    //   provider: 'local',
+    //   options: {
 
-        locales: {
-          zh: {
-            translations: {
-              button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
-              },
-              modal: {
-                noResultsText: '无法找到相关结果',
-                resetButtonTitle: '清除查询条件',
-                footer: {
-                  selectText: '选择',
-                  navigateText: '切换'
-                },
-              },
-            },
-          },
-        },
-      },
-    },
+    //     locales: {
+    //       zh: {
+    //         translations: {
+    //           button: {
+    //             buttonText: '搜索文档',
+    //             buttonAriaLabel: '搜索文档'
+    //           },
+    //           modal: {
+    //             noResultsText: '无法找到相关结果',
+    //             resetButtonTitle: '清除查询条件',
+    //             footer: {
+    //               selectText: '选择',
+    //               navigateText: '切换'
+    //             },
+    //           },
+    //         },
+    //       },
+    //     },
+    //   },
+    // },
 
     // 编辑链接
     editLink: {
