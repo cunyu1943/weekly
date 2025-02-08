@@ -3,6 +3,7 @@ import { chineseSearchOptimize, pagefindPlugin } from 'vitepress-plugin-pagefind
 import { AnnouncementPlugin } from 'vitepress-plugin-announcement'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 // import { head } from './configs/head'
+import { La51Plugin } from 'vitepress-plugin-51la'
 import { nav } from './configs/nav'
 import { sidebar } from './configs/sidebar'
 // https://vitepress.dev/reference/site-config
@@ -30,6 +31,11 @@ export default defineConfig({
 
   vite: {
     plugins: [
+      // 51La 统计
+      La51Plugin({
+        id: 'KibDLhcbnUfZXiUS',
+        ck: 'KibDLhcbnUfZXiUS'
+      }),
       // 搜索
       pagefindPlugin({
         customSearchQuery: chineseSearchOptimize,
