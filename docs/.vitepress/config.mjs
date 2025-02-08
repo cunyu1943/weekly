@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { tokenize } from './search'
+import { AnnouncementPlugin } from 'vitepress-plugin-announcement'
 import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-plugin-git-changelog/vite'
 // import { head } from './configs/head'
 import { nav } from './configs/nav'
@@ -34,6 +35,42 @@ export default defineConfig({
         repoURL: () => 'https://github.com/cunyu1943/weekly',
       }),
       GitChangelogMarkdownSection(),
+
+      AnnouncementPlugin({
+        title: '公告',
+        body: [
+          { type: 'text', content: '👇微信👇 <----> 👇 赞赏 👇' },
+          {
+            type: 'image',
+            src: 'https://cunyu1943.github.io/weekly/contact/wechat.jpg',
+            style: 'display: inline-block;width:46%;padding-right:6px'
+          },
+          {
+            type: 'image',
+            src: 'https://cunyu1943.github.io/weekly/award/donate.jpg',
+            style: 'display: inline-block;width:46%;padding-left:6px'
+          }
+        ],
+        // footer: [
+        //   // {
+        //   //   type: 'text',
+        //   //   content: 'footer content'
+        //   // },
+        //   {
+        //     type: 'button',
+        //     content: '已添加',
+        //     // link: 'https://sugarat.top'
+        //   },
+        //   {
+        //     type: 'button',
+        //     content: '已关注',
+        //     // link: 'https://theme.sugarat.top',
+        //     props: {
+        //       type: 'success'
+        //     }
+        //   },
+        // ],
+      })
     ],
   },
 
