@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@nolebase/vitepress-plugin-git-changelog": "^2.13.0",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.13.2",
     "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^1.6.3"
   },
