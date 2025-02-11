@@ -22,18 +22,24 @@ hero:
 
 features:
   - title: JavaPark 
-    details: Java 学习指南
-    icon: ☕️
+    details: Java 学习进阶之路
+    icon: 
+      src: /icon/java.svg
     theme: brand
     link: https://github.com/cunyu1943/JavaPark
+    linkText: 前往 Star
   - title: ebooks
-    details: 电子书
-    icon: 📚
+    details: 编程学习电子书
+    icon: 
+      src: /icon/book.svg
     link: https://github.com/cunyu1943/JavaPark
-  - title: 数字花园
-    details: 语雀
-    icon: 💐
+    linkText: 获取下载链接
+  - title: 语雀
+    details: 我的数字花园，移动端内容合辑
+    icon: 
+      src: /icon/yuque.svg
     link: https://yuque.com/cunyu1943
+    linkText: 逛逛
 ---
 
 <Home />
