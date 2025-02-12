@@ -53,7 +53,7 @@ export default defineConfig({
       AnnouncementPlugin({
         title: '公告',
         body: [
-          { type: 'text', content: '👇微信👇 <----> 👇 赞赏 👇' },
+          { type: 'text', content: '👇 微信 👇 <----> 👇 赞赏 👇' },
           {
             type: 'image',
             src: 'contact/wechat.jpg',
