@@ -12,113 +12,114 @@ tag:
 
 ---
 
-# 好物周刊#92：闪电藤
+# 好物周刊#93：打打工，摸摸鱼
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/I5lxqBzZrcF4EcTvTF_sAg
+> 原文：https://mp.weixin.qq.com/s/AU4ZsG1Lhr77sBz7qJz8UQ
 
 ## 一、项目
 
-### 1. [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)
+### 1. [Curve](https://github.com/imsyy/vitepress-theme-curve)
 
-提供交互式的 Web UI 用于生成兼容 mybatis-plus 框架的相关功能代码，包括 Entity、Mapper、Mapper.xml、Service、Controller 等 ，可以自定义模板以及各类输出参数，也可通过 SQL 查询语句直接生成代码。
+一个基于 VitePress 从零开发类似于 Heo 的博客主题。
 
-![](assets/0201-0207/1738799965282-e5b256cd-2100-40d1-8f3b-73179e7dddbc.webp)
+![](assets/0208-0214/1739145482679-42a7190d-e233-4bdf-a541-2fdc5bfa0c2a.webp)
 
-### 2. [Bili23-Downloader-GUI](https://github.com/ScottSloan/Bili23-Downloader)
+### 2. [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 
-跨平台的 B 站视频下载工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片 等资源。
+支持 ocr 识别 PDF 文件内容，并允许复制粘贴和搜索识别出的结果信息。
 
-![](assets/0201-0207/1738800286787-14e0925f-db34-48df-b07d-bc862501a8e6.webp)
+![](assets/0208-0214/1739146163406-7730ff0d-6c2d-42f2-b222-6380617fbe0e.webp)
 
-### 3. [stock](https://github.com/Rockyzsu/stock)
+### 3. [AI as Workspace](https://github.com/NitroRCr/AIaW)
 
-30 天掌握量化交易，帮助你更好的炒股。
+精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先 + 实时云同步、Artifacts。
 
-![](assets/0201-0207/1738800477925-7bdd5bc3-e7c9-437a-970d-06fed883b388.webp)
+![](assets/0208-0214/1739318400735-a3080824-f547-4754-86d8-d77ac1b680ae.webp)
 
 ## 二、软件
 
-### 1. [闪电藤](https://sdt.zishu.life/)
+### 1. [标记狮](https://www.marklion.cn)
 
-基于 LocalSend 的二次开发产品，在原有局域网文件传输基础上，增加了 webdav 传输和云传输的能力，是一个万能的文件传输助手。目前已支持安卓、iOS、Mac、Windows 和 Linux。
+支持私有云部署的 UI 设计一站式协作平台，支持生成 Figma、Sketch、Adobe xd 自动标注切图,支持源文件版本管理，支持免费多端多设备实时预览设计稿，标记狮一键私有云部署在企业自有局域网或公有云服务器，让 UI 设计与开发更轻松高效地协作。
 
-![](assets/0201-0207/1737016344201-8e33517a-0116-4f7e-b493-17e2419df1bb.webp)
+![](assets/0208-0214/1738912091965-5446381e-2b56-4693-b640-a7ef0a1a53ae.webp)
 
-### 2. [一叶日记](https://www.oneleaf.fun/)
+### 2. [圆周旅迹](https://www.pitravel.cn/)
 
-一款操作简单、界面简洁但又不失美感的极简卡片日记软件。
+一款专注于智能旅行规划的应用程序，旨在帮助用户高效完成行程规划、记录旅行足迹，并通过多种创新功能提升旅行体验。
 
-![](assets/0201-0207/1737021019041-ddc96011-acb6-40f4-be63-3cc394809068.webp)
+![](assets/0208-0214/1738913344155-31d69148-c1f7-4f23-87df-f851b6b67041.webp)
 
-### 3. [享咖小记](https://coffee-note.xiangshikeji.com/)
+### 3. [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3)
 
-从咖啡豆、冲煮器具、研磨器三个基础数据再配合上冲煮过程中使用的各个器材的设置、水温、时长、注水量等参数，系统的记录下每一杯咖啡的冲煮过程。
+AI 赋能的新一代跨平台多线程下载器，特点是能像 IDM 一样智能分块但又不需要合并文件，以及 AI 智能加速。
 
-![](assets/0201-0207/1737021102273-8f80da48-0d8a-4fba-a175-0dfb94a7f5be.webp)
+![](assets/0208-0214/1739146927141-fa6e1444-d4b9-434c-8871-69653c1ce556.webp)
+
 
 ## 三、网站
 
-### 1. [Mapify](https://mapify.so/)
+### 1. [羽燕招标](https://yuyan888.cn/)
 
-AI 思维导图总结工具，仅需几秒即可将 YouTube、PDF、文档、网址、长邮件、会议录音 总结成思维导图。
+提供全面的招标信息、中标公告、采购信息。每日更新超 2 万条标讯，涵盖全国各地区、各行业的招投标项目。
 
-![](assets/0201-0207/1736849723619-e6be3def-bdc4-471a-8d56-579e8df9de33.webp)
+![](assets/0208-0214/20250207105524714.webp)
 
-### 2. [讯飞智文](https://zhiwen.xfyun.cn/)
+### 2. [松果 AI 写作](https://songguoai.com/)
 
-由科大讯飞推出的一键生成 PPT/Word 产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让 AI 全流程服务到底。
+专为写作设计的智能工具，帮助用户快速生成高质量的文本内容。无论是文章、报告还是创意文案，都能提供个性化的写作辅助，提升写作效率。
 
-![](assets/0201-0207/1736849794928-76c1cd08-818a-4400-935b-5247734d004f.webp)
+![](assets/0208-0214/20250207105429754.webp)
 
-### 3. [扣扣图](https://www.koukoutu.com/)
+### 3. [摸摸鱼热榜](https://momoyu.cc/)
 
-永久免费在线抠图、免费在线批量抠图，无需专业设计技能，只需轻点鼠标，智能算法即刻为您精准识别图像边缘， 无论是复杂背景还是细腻发丝，都能轻松剥离.
+提供了各大热门网站的聚合信息、热榜、榜单，包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等，一分钟轻松了解全网最新资讯。
 
-![](assets/0201-0207/1736849898393-6ebe0538-84ab-4d9c-bf3b-e9f9fa74960e.webp)
+![](assets/0208-0214/20250207105304624.webp)
 
 ## 四、插件
 
-### 1. [画 - 简单的画](https://chromewebstore.google.com/detail/画-简单的画/doiiaejbgndnnnomcdhefcbfnbbjfbib?hl=zh-CN)
+### 1. [Chrome Capture](https://chromewebstore.google.com/detail/chrome-capture-屏幕截图和gif/ggaabchcecdbomdcnbahdfddfikjmphe)
 
-使用画图扩展进行简单的绘图，该工具允许在屏幕上描绘并使用截图功能捕捉。
+使用 Chrome Capture 捕捉、编辑和分享视觉内容，一款帮助您提高效率和有效进行视觉沟通的 Chrome 扩展。
 
-![](assets/0201-0207/1738799423125-326d7c97-6081-4f7d-9a4f-256f5281fa53.webp)
+![](assets/0208-0214/1739145687648-135af688-5ff6-42b3-ab08-ec4d0c1ced6a.webp)
 
-### 2. [SQLite 浏览器](https://chromewebstore.google.com/detail/sqlite-浏览器/iclckldkfemlnecocpphinnplnmijkol)
+### 2. [Mailtrack 和邮件合并](https://chromewebstore.google.com/detail/gmail-的-mailtrack-和邮件合并/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=zh-CN)
 
-在浏览器中即可实现轻松管理 SQLite 数据库。
+一款 Gmail 和 Inbox 电子邮件跟踪扩展程序，可是让你了解你发送的电子邮件是否为已读或未读。拥有超过 200 万活跃用户，免费且无限制。
 
-![](assets/0201-0207/1738799590819-820f5a77-2485-4067-ab01-9fda0807ab71.webp)
+![](assets/0208-0214/1739145838489-51f0ef51-2480-4a8e-96c7-8aae8a85d70e.webp)
 
-### 3. [Vimium C - 全键盘操作浏览器](https://chromewebstore.google.com/detail/vimium-c-全键盘操作浏览器/hfjbmagddngcpeloejdejnfgbamkjaeg)
+### 3. [学习计时器](https://chromewebstore.google.com/detail/学习计时器/ihdnneiaaelmjhaajpajjkedfimcmpgj)
 
-一款开源、免费的键盘增强类浏览器扩展，支持为多种多样的命令任意设置快捷键。只要有一个键盘，您就能自由点击网页中的链接和按钮、选择和复制文字和网址，也能轻松操作浏览器标签页，还能在一个便捷的搜索框中随意搜索历史记录、收藏夹或打开的标签等等。
+通过番茄工作法和任务计时器提升时间专注，实现最高生产力，旨在将您的学习和工作日常转变为高效和专注力的动力源。
 
-![](assets/0201-0207/1738799724454-c4103be8-a3b1-4a6a-8519-99c195a1beb0.webp)
+![](assets/0208-0214/1739318277718-3d766386-7f65-4c2f-9c61-6ebdfe639fb2.webp)
 
 ## 五、资料
 
-### 1. [1000 行代码的操作系统](https://github.com/nuta/operating-system-in-1000-lines)
+### 1. [One Small Step](https://github.com/karminski/one-small-step)
 
-本书从零开始一步一步去构建一个小型操作系统，用 C 语言来实现基础的上下文切换、分页、用户态、命令行 shell、磁盘驱动以及文件读写操作，而且仅有 1000 代码！
+一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理，每篇文章都力求在 5 分钟内阅读完成。
 
-![](assets/0201-0207/1738799278951-174a891d-21ff-4fb5-af1c-0970484d4bf3.webp)
+![](assets/0208-0214/1739145348333-0ab895af-532a-499b-b42c-cc0fb77d76a8.webp)
 
-### 2. [springcloud-learning](https://github.com/macrozheng/springcloud-learning)
+### 2. [数据结构与算法译文集](https://github.com/apachecn/apachecn-algo-zh)
 
-2024 最新微服务实战教程，Spring Cloud 组件、微服务项目实战、Kubernetes 容器化部署全方位解析。
+ApacheCN 数据结构与算法译文集，主要包括数据结构思维中文版、LeetCode C++/Java/JavaScript/Python、剑指 Offer Java 题解。
 
-![](assets/0201-0207/1738800117594-8b85c568-da86-4dd5-9c0a-2646d3b89e87.webp)
+![](assets/0208-0214/1739318772047-d9ff0c95-2bf9-4e1b-9db7-23827cf73dcb.webp)
 
-### 3. [Python 实用教程](https://github.com/shibing624/python-tutorial)
+### 3. [前端九部入门者手册](https://www.yuque.com/fe9/basic)
 
-基于 Python 3 实现，内容包括 Python 基础，Python 高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。同时教程中包含了一些范例，涵盖了大多数 Python 日常脚本任务，是入门 Python 的学习资料，也可以作为工作中编写 Python 脚本的参考实现。
+前端入门者手册，主要包括前端入门、开发工具、前端构建、代码规范、代码调试、React 技术栈、Vue 技术栈、Augular、TypeScript 等方面的内容。
 
-![](assets/0201-0207/1738800802914-87ab176c-5597-4b3f-a52e-04b8979a0221.webp)
+![](assets/0208-0214/1739319127507-fdd2fdcb-12b8-4cd2-998e-9d5384366367.webp)
 
 ## ✍️ 说明
 
