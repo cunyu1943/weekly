@@ -12,114 +12,122 @@ tag:
 
 ---
 
-# 好物周刊#93：打打工，摸摸鱼
+# 好物周刊#94：硬核指南
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/AU4ZsG1Lhr77sBz7qJz8UQ
+> 原文：https://mp.weixin.qq.com/s/ldXaorc5ptcAtCKaZcHMVQ
 
 ## 一、项目
 
-### 1. [Curve](https://github.com/imsyy/vitepress-theme-curve)
+### 1. [ChatWiki](https://github.com/zhimaAi/chatwiki)
 
-一个基于 VitePress 从零开发类似于 Heo 的博客主题。
+一款开源的知识库 AI 问答系统。系统基于大语言模型（LLM ）和检索增强生成（RAG）技术构建，提供开箱即用的数据处理、模型调用等能力，可以帮助企业快速搭建自己的知识库 AI 问答系统。
 
-![](assets/0208-0214/1739145482679-42a7190d-e233-4bdf-a541-2fdc5bfa0c2a.webp)
+![](assets/0215-0221/1739444854714-abb48669-10c8-427f-ade3-abdebdb3f17a.webp)
 
-### 2. [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+### 2. [LiberSonora](https://github.com/LiberSonora/LiberSonora)
 
-支持 ocr 识别 PDF 文件内容，并允许复制粘贴和搜索识别出的结果信息。
+一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI 标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理。
 
-![](assets/0208-0214/1739146163406-7730ff0d-6c2d-42f2-b222-6380617fbe0e.webp)
+![](assets/0215-0221/1739491115412-47b1f5b0-2797-4933-99cf-8ca9cff70f09.webp)
 
-### 3. [AI as Workspace](https://github.com/NitroRCr/AIaW)
+### 3. [Tale Book](https://github.com/talebook/talebook)
 
-精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先 + 实时云同步、Artifacts。
+一个简洁但强大的私人书籍管理系统。它基于 calibre 项目构建，具备书籍管理、在线阅读与推送、用户管理、SSO 登录、从百度 / 豆瓣拉取书籍信息等功能。
 
-![](assets/0208-0214/1739318400735-a3080824-f547-4754-86d8-d77ac1b680ae.webp)
+![](assets/0215-0221/1739750512209-d50adab0-ebce-44d9-92f1-03187831605c.webp)
 
 ## 二、软件
 
-### 1. [标记狮](https://www.marklion.cn)
+### 1. [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
 
-支持私有云部署的 UI 设计一站式协作平台，支持生成 Figma、Sketch、Adobe xd 自动标注切图,支持源文件版本管理，支持免费多端多设备实时预览设计稿，标记狮一键私有云部署在企业自有局域网或公有云服务器，让 UI 设计与开发更轻松高效地协作。
+批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。跨平台支持 macOS 和 Windows 系统，支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务。
 
-![](assets/0208-0214/1738912091965-5446381e-2b56-4693-b640-a7ef0a1a53ae.webp)
+![](assets/0215-0221/1739490929936-3cc868ba-a188-49fd-bec9-ab561f85feeb.webp)
 
-### 2. [圆周旅迹](https://www.pitravel.cn/)
+### 2. [MediaGo](https://github.com/caorushizi/mediago)
 
-一款专注于智能旅行规划的应用程序，旨在帮助用户高效完成行程规划、记录旅行足迹，并通过多种创新功能提升旅行体验。
+跨平台视频提取工具，支持流媒体下载、视频下载、m3u8 下载及 B 站视频下载，支持 Windows 和 macOS 双平台。
 
-![](assets/0208-0214/1738913344155-31d69148-c1f7-4f23-87df-f851b6b67041.webp)
+![](assets/0215-0221/1739750961139-3f2895ac-8130-4f9e-bb39-b825b9037691.webp)
 
-### 3. [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+### 3. [Alook 浏览器](https://www.alookweb.com/)
 
-AI 赋能的新一代跨平台多线程下载器，特点是能像 IDM 一样智能分块但又不需要合并文件，以及 AI 智能加速。
+支持视频 8 倍速，极简且强大的移动手机浏览器，目前支持 iOS 和安卓平台。
 
-![](assets/0208-0214/1739146927141-fa6e1444-d4b9-434c-8871-69653c1ce556.webp)
-
+![](assets/0215-0221/1739759292053-340c87e5-29d0-469a-b933-a910b0741f12.webp)
 
 ## 三、网站
 
-### 1. [羽燕招标](https://yuyan888.cn/)
+### 1. [硬核指南](https://yinghezhinan.com/)
 
-提供全面的招标信息、中标公告、采购信息。每日更新超 2 万条标讯，涵盖全国各地区、各行业的招投标项目。
+专注收录免费且优质的影音娱乐网站，精选全网高清电影、二次元、音乐、游戏、壁纸、电子书的免费网站和 APP，让你的娱乐生活「硬核」起来！硬核指南，够高清才是真硬核！
 
-![](assets/0208-0214/20250207105524714.webp)
+![](assets/0215-0221/1739491774151-8d888a22-8c31-4faf-9640-4c0f931889af.webp)
 
-### 2. [松果 AI 写作](https://songguoai.com/)
+### 2. [家庭药房](https://apothecary.tips/zh)
 
-专为写作设计的智能工具，帮助用户快速生成高质量的文本内容。无论是文章、报告还是创意文案，都能提供个性化的写作辅助，提升写作效率。
+探索传统中医疗法和天然健康解决方案。根据食谱即可在家轻松制作养生饮品，提升睡眠质量、血压、心脏健康和血糖管理。
 
-![](assets/0208-0214/20250207105429754.webp)
+![](assets/0215-0221/1739751180692-3571a91e-061f-4a63-8fb2-24d1c1e60af4.webp)
 
-### 3. [摸摸鱼热榜](https://momoyu.cc/)
+### 3. [TopTimeline](https://toptimeline.net/zh)
 
-提供了各大热门网站的聚合信息、热榜、榜单，包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等，一分钟轻松了解全网最新资讯。
+发现世界最著名的流行歌手、运动员和历史人物的关键事件和个人里程碑。揭示塑造他们传奇的重要成就。
 
-![](assets/0208-0214/20250207105304624.webp)
+![](assets/0215-0221/1739751484043-228e3b63-9a52-4256-b5e3-b63a6a70a4ff.webp)
 
 ## 四、插件
 
-### 1. [Chrome Capture](https://chromewebstore.google.com/detail/chrome-capture-屏幕截图和gif/ggaabchcecdbomdcnbahdfddfikjmphe)
+### 1. [QuestionAI](https://chromewebstore.google.com/detail/questionai/hajphibbdloomfdkeoejchiikjggnaif?hl=zh-CN)
 
-使用 Chrome Capture 捕捉、编辑和分享视觉内容，一款帮助您提高效率和有效进行视觉沟通的 Chrome 扩展。
+由 GPT 驱动，支持截图查询并协助写作、总结、翻译和语法检查，回答复杂问题并处理任何任务。
 
-![](assets/0208-0214/1739145687648-135af688-5ff6-42b3-ab08-ec4d0c1ced6a.webp)
+![](assets/0215-0221/1739836863220-4c5de83d-8d92-407e-845d-d0d086c6b47c.webp)
 
-### 2. [Mailtrack 和邮件合并](https://chromewebstore.google.com/detail/gmail-的-mailtrack-和邮件合并/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=zh-CN)
+### 2. [XTranslate](https://chromewebstore.google.com/detail/xtranslate/gfgpkepllngchpmcippidfhmbhlljhoo)
 
-一款 Gmail 和 Inbox 电子邮件跟踪扩展程序，可是让你了解你发送的电子邮件是否为已读或未读。拥有超过 200 万活跃用户，免费且无限制。
+轻松翻译网页上的文本，支持 100 多种语言。支持如下功能：
 
-![](assets/0208-0214/1739145838489-51f0ef51-2480-4a8e-96c7-8aae8a85d70e.webp)
+-   翻译 PDF 文件中的文本
+-   听取所有支持的翻译供应商的文本到语音
+-   调整翻译文本弹出窗口的独特设计
+-   在设置中自定义获取翻译的方式和其他选项
+-   在应用程序窗口中输入任何文本（默认为 Alt + X 热键）并获得带字典支持的句子或单词的翻译
+-   将你喜欢的翻译作为快速书签保存到历史记录中
+-   查看和编辑翻译历史
 
-### 3. [学习计时器](https://chromewebstore.google.com/detail/学习计时器/ihdnneiaaelmjhaajpajjkedfimcmpgj)
+![](assets/0215-0221/1739837013133-826de0f8-a811-4ddc-8392-c45cb10da9ec.webp)
 
-通过番茄工作法和任务计时器提升时间专注，实现最高生产力，旨在将您的学习和工作日常转变为高效和专注力的动力源。
+### 3. [Jump Cutter](https://chromewebstore.google.com/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp)
 
-![](assets/0208-0214/1739318277718-3d766386-7f65-4c2f-9c61-6ebdfe639fb2.webp)
+通过缩短句子之间的停顿时间，加快语速，从而提高观看讲座的速度。
+
+![](assets/0215-0221/1739837246815-533c56d4-9ab4-4992-afdd-3db7e1a3a298.webp)
 
 ## 五、资料
 
-### 1. [One Small Step](https://github.com/karminski/one-small-step)
+### 1. [开源的中文量化百科](https://github.com/LLMQuant/quant-wiki)
 
-一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理，每篇文章都力求在 5 分钟内阅读完成。
+仓库致力于打造一个免费开放、持续更新的 量化金融（quantitative finance） 知识分享平台。在这里，可以学习量化交易的核心知识、常用模型、算法设计，以及交易中的实战策略。同时也准备了丰富的资料，包括因子模型、事件驱动策略、执行成本优化等内容，帮助快速掌握量化投资领域的核心技能，迈向专业化道路。
 
-![](assets/0208-0214/1739145348333-0ab895af-532a-499b-b42c-cc0fb77d76a8.webp)
+![](assets/0215-0221/1739837514150-ddb8a4ae-1f62-402c-a522-4eb4d9df81e6.webp)
 
-### 2. [数据结构与算法译文集](https://github.com/apachecn/apachecn-algo-zh)
+### 2. [王慧文的清华产品课笔记](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
 
-ApacheCN 数据结构与算法译文集，主要包括数据结构思维中文版、LeetCode C++/Java/JavaScript/Python、剑指 Offer Java 题解。
+《王慧文清华产品课》的整理笔记笔记，保函战略、运营经营、需求、供需关系等多个方面的内容。
 
-![](assets/0208-0214/1739318772047-d9ff0c95-2bf9-4e1b-9db7-23827cf73dcb.webp)
+![](assets/0215-0221/1739837670873-8f955a02-973c-4680-95b1-b183847dc57e.webp)
 
-### 3. [前端九部入门者手册](https://www.yuque.com/fe9/basic)
+### 3. [Cursor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-前端入门者手册，主要包括前端入门、开发工具、前端构建、代码规范、代码调试、React 技术栈、Vue 技术栈、Augular、TypeScript 等方面的内容。
+从零开始学习 Cursor AI 编辑器，主要分为引言、基础教程、进阶教程、高阶教程、使用技巧等方面内容。
 
-![](assets/0208-0214/1739319127507-fdd2fdcb-12b8-4cd2-998e-9d5384366367.webp)
+![](assets/0215-0221/1739837957687-69d91710-2dcc-401f-b3a7-0a3607340d45.webp)
+
 
 ## ✍️ 说明
 
