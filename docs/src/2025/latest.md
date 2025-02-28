@@ -12,122 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#94：硬核指南
+# 好物周刊#95：数字名片
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/ldXaorc5ptcAtCKaZcHMVQ
+> 原文：https://mp.weixin.qq.com/s/gk_FkPGB2h1Qp8c0AB-Kcw
 
 ## 一、项目
 
-### 1. [ChatWiki](https://github.com/zhimaAi/chatwiki)
+### 1. [Azure TTS Importer](https://github.com/yy4382/tts-importer)
 
-一款开源的知识库 AI 问答系统。系统基于大语言模型（LLM ）和检索增强生成（RAG）技术构建，提供开箱即用的数据处理、模型调用等能力，可以帮助企业快速搭建自己的知识库 AI 问答系统。
+轻松将 Azure TTS 语音合成服务导入阅读软件。现支持阅读（legado）、爱阅记、服务器端阅读 (hectorqin/reader)、爱阅书香、源阅读、源阅。
 
-![](assets/0215-0221/1739444854714-abb48669-10c8-427f-ade3-abdebdb3f17a.webp)
+![](assets/0222-0228/1739750824207-780b0a8c-a6cd-4f05-9283-4f951e98231d.webp)
 
-### 2. [LiberSonora](https://github.com/LiberSonora/LiberSonora)
+### 2. [XiaoMusic](https://github.com/hanxi/xiaomusic)
 
-一个 AI 赋能的、强大的、开源有声书工具集，包含智能字幕提取、AI 标题生成、多语言翻译等功能，支持 GPU 加速、批量离线处理。
+解放小爱音箱，使用小爱音箱无限播放音乐，音乐使用 yt-dlp 下载。
 
-![](assets/0215-0221/1739491115412-47b1f5b0-2797-4933-99cf-8ca9cff70f09.webp)
+![](assets/0222-0228/1740096871986-442a24ff-25d2-4e3a-b561-a9ffd718411b.webp)
 
-### 3. [Tale Book](https://github.com/talebook/talebook)
+### 3. [Valaxy](https://github.com/YunYouJun/valaxy)
 
-一个简洁但强大的私人书籍管理系统。它基于 calibre 项目构建，具备书籍管理、在线阅读与推送、用户管理、SSO 登录、从百度 / 豆瓣拉取书籍信息等功能。
+下一代静态博客框架，支持页面/配置热重载。
 
-![](assets/0215-0221/1739750512209-d50adab0-ebce-44d9-92f1-03187831605c.webp)
+![](assets/0222-0228/1740356154583-84d59cb0-23b6-41b8-adee-9d5838e550be.webp)
 
 ## 二、软件
 
-### 1. [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
+### 1. [讯飞绘镜](https://typemovie.art)
 
-批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。跨平台支持 macOS 和 Windows 系统，支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务。
+一款 AI 视频创作平台。输入创意，即可生成脚本和分镜图片，并将静态分镜化为动态视频。支持快速生成图片与视频，帮助创作者高效捕捉灵感，轻松实现创意表达。
 
-![](assets/0215-0221/1739490929936-3cc868ba-a188-49fd-bec9-ab561f85feeb.webp)
+![](assets/0222-0228/1740096533097-f52cc4cc-541f-4bc6-85eb-ae7224400e87.webp)
 
-### 2. [MediaGo](https://github.com/caorushizi/mediago)
+### 2. [雀乐](https://www.indie.cn)
 
-跨平台视频提取工具，支持流媒体下载、视频下载、m3u8 下载及 B 站视频下载，支持 Windows 和 macOS 双平台。
+由一群喜欢并热爱独立音乐的人共同创建的，致力于传播来自世界各地的独立音乐。秉着音乐里独立自主的精神表达内核，希望把雀乐建设成为泛华语地区最好的独立音乐传播平台。
 
-![](assets/0215-0221/1739750961139-3f2895ac-8130-4f9e-bb39-b825b9037691.webp)
+![](assets/0222-0228/1740096657567-c3543c9f-3694-49ea-a5ba-be954af06562.webp)
 
-### 3. [Alook 浏览器](https://www.alookweb.com/)
+### 3. [ima](https://ima.qq.com)
 
-支持视频 8 倍速，极简且强大的移动手机浏览器，目前支持 iOS 和安卓平台。
+一款以知识库为核心的智能工作台产品，已接入腾讯混元大模型和 DeepSeek R1 模型满血版。它是集搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。
 
-![](assets/0215-0221/1739759292053-340c87e5-29d0-469a-b933-a910b0741f12.webp)
+![](assets/0222-0228/1740356403791-5ad06b85-4de6-4023-bd84-a3d91c4b97f8.webp)
 
 ## 三、网站
 
-### 1. [硬核指南](https://yinghezhinan.com/)
+### 1. [MuseLink](https://muselink.cc/)
 
-专注收录免费且优质的影音娱乐网站，精选全网高清电影、二次元、音乐、游戏、壁纸、电子书的免费网站和 APP，让你的娱乐生活「硬核」起来！硬核指南，够高清才是真硬核！
+一个专为创作者打造的数字名片生成工具，一分钟即可制作一张极简潮酷的数字名片。一个链接，即可分享你所有的社交主页。
 
-![](assets/0215-0221/1739491774151-8d888a22-8c31-4faf-9640-4c0f931889af.webp)
+![](assets/0222-0228/1740097299231-9397b50e-7f8f-417a-bdc3-58804227440f.webp)
 
-### 2. [家庭药房](https://apothecary.tips/zh)
+### 2. [链接树](https://linktree.cn/)
 
-探索传统中医疗法和天然健康解决方案。根据食谱即可在家轻松制作养生饮品，提升睡眠质量、血压、心脏健康和血糖管理。
+快速搭建一个创作者数字名片，通过一个链接，分享所有社交主页，并还拥有强大的数据分析功能，统计粉丝的行为导向，为数字营销助力。
 
-![](assets/0215-0221/1739751180692-3571a91e-061f-4a63-8fb2-24d1c1e60af4.webp)
+![](assets/0222-0228/1740097251650-34f224cd-9927-499a-ad1c-2baf6f252197.webp)
 
-### 3. [TopTimeline](https://toptimeline.net/zh)
+### 3. [Link3](https://www.link3.cc)
 
-发现世界最著名的流行歌手、运动员和历史人物的关键事件和个人里程碑。揭示塑造他们传奇的重要成就。
+仅需一个链接，就可以聚合、分享你的所有信息。一次注册，终身受益。
 
-![](assets/0215-0221/1739751484043-228e3b63-9a52-4256-b5e3-b63a6a70a4ff.webp)
+![](assets/0222-0228/1740097232462-937f0c9b-6860-4f75-8002-57cc8b61c9b6.webp)
 
 ## 四、插件
 
-### 1. [QuestionAI](https://chromewebstore.google.com/detail/questionai/hajphibbdloomfdkeoejchiikjggnaif?hl=zh-CN)
+### 1. [DeepSeek AI](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)
 
-由 GPT 驱动，支持截图查询并协助写作、总结、翻译和语法检查，回答复杂问题并处理任何任务。
+使用深度搜索 AI 助手，您可以轻松尝试深度搜索模型，以快速获取有关新中文 AI 的答案和创意。
 
-![](assets/0215-0221/1739836863220-4c5de83d-8d92-407e-845d-d0d086c6b47c.webp)
+![](assets/0222-0228/1740441752182-682ddc95-347a-4213-8ce5-3ec7dcda61f9.webp)
 
-### 2. [XTranslate](https://chromewebstore.google.com/detail/xtranslate/gfgpkepllngchpmcippidfhmbhlljhoo)
+### 2. [Google 艺术与文化](https://chromewebstore.google.com/detail/google-艺术与文化/akimgimeeoiognljlfchpbkpfbmeapkh)
 
-轻松翻译网页上的文本，支持 100 多种语言。支持如下功能：
+在浏览器标签页中欣赏谷歌艺术与文化项目中“艺术”下的佳作。
 
--   翻译 PDF 文件中的文本
--   听取所有支持的翻译供应商的文本到语音
--   调整翻译文本弹出窗口的独特设计
--   在设置中自定义获取翻译的方式和其他选项
--   在应用程序窗口中输入任何文本（默认为 Alt + X 热键）并获得带字典支持的句子或单词的翻译
--   将你喜欢的翻译作为快速书签保存到历史记录中
--   查看和编辑翻译历史
+![](assets/0222-0228/1740441943325-2ebfa4e3-3c3f-4338-a80f-982f80b42684.webp)
 
-![](assets/0215-0221/1739837013133-826de0f8-a811-4ddc-8392-c45cb10da9ec.webp)
+### 3. [守候购物小助手](https://chromewebstore.google.com/detail/守候购物小助手/eafefjbddnbamfophdiiiemfkfocaahm)
 
-### 3. [Jump Cutter](https://chromewebstore.google.com/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp)
+插件提供了多项实用功能，包括快速搜索，快速跳转，快速复制、查库存，查地区价，查多种渠道价，查隐藏券、查隐藏促销、查生产日期、网页时钟、购买分析、价格走势、列表筛选、购物车增强、返利功能以及辅助评价等，支持京东、淘宝、天猫、苏宁、国美等购物平台。
 
-通过缩短句子之间的停顿时间，加快语速，从而提高观看讲座的速度。
-
-![](assets/0215-0221/1739837246815-533c56d4-9ab4-4992-afdd-3db7e1a3a298.webp)
+![](assets/0222-0228/1740442143609-3af5424d-2ada-4273-a456-d32260e4ca1b.webp)
 
 ## 五、资料
 
-### 1. [开源的中文量化百科](https://github.com/LLMQuant/quant-wiki)
+### 1. [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-仓库致力于打造一个免费开放、持续更新的 量化金融（quantitative finance） 知识分享平台。在这里，可以学习量化交易的核心知识、常用模型、算法设计，以及交易中的实战策略。同时也准备了丰富的资料，包括因子模型、事件驱动策略、执行成本优化等内容，帮助快速掌握量化投资领域的核心技能，迈向专业化道路。
+design-patterns-for-humans 的中文翻译版，设计模式超简单的解释，搭配设计模式 45 种 design-patterns-php 和使用起来效果更好哦。
 
-![](assets/0215-0221/1739837514150-ddb8a4ae-1f62-402c-a522-4eb4d9df81e6.webp)
+![](assets/0222-0228/1740442580568-17ddbcb0-4242-40f3-b410-a0ab1d5736d0.webp)
 
-### 2. [王慧文的清华产品课笔记](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
+### 2. [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-《王慧文清华产品课》的整理笔记笔记，保函战略、运营经营、需求、供需关系等多个方面的内容。
+一本对用户极其友善的 Pytorch 入门工具书，主要是在参考 Pytorch 官方文档和函数 doc 文档基础上整理写成的。面向的读者需要有一定的机器学习和深度学习基础，使用过 Keras 或 TensorFlow 或 Pytorch 搭建训练过简单的模型。
 
-![](assets/0215-0221/1739837670873-8f955a02-973c-4680-95b1-b183847dc57e.webp)
+![](assets/0222-0228/1740527398074-8a70820a-246c-43ac-a2ce-cefee14bd822.webp)
 
-### 3. [Cursor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
+### 3. [认知偏差知识手册](https://imzl.com/cognitive-bias)
 
-从零开始学习 Cursor AI 编辑器，主要分为引言、基础教程、进阶教程、高阶教程、使用技巧等方面内容。
+由字节跳动飞书设计团队推出，总结人在思考和决策时容易犯的 67 种行为偏差和示例解析，运用好这些知识，让你设计的产品在用户在使用时更好的决策。
 
-![](assets/0215-0221/1739837957687-69d91710-2dcc-401f-b3a7-0a3607340d45.webp)
-
+![](assets/0222-0228/1740527685272-2019d3ea-c1e3-45cd-a63f-f02f1b736210.webp)
 
 ## ✍️ 说明
 
