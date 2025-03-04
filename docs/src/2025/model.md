@@ -1,5 +1,5 @@
 ---
-index: false
+publish: false
 isOriginal: true
 category:
   - 好物周刊

@@ -6,7 +6,16 @@ import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-p
 import { La51Plugin } from 'vitepress-plugin-51la'
 import { nav } from './configs/nav'
 import { sidebar } from './configs/sidebar'
+import {  RssPlugin } from 'vitepress-plugin-rss'
+
+const baseUrl = 'https://cunyu1943.github.io'
+// const RSS: RSSOptions = {
+//   title: '粥里有勺糖',
+//   baseUrl,
+//   copyright: 'Copyright (c) 2018-present, 粥里有勺糖',
+// }
 // https://vitepress.dev/reference/site-config
+
 export default defineConfig({
   // 语言
   lang: 'zh-CN',
@@ -31,6 +40,11 @@ export default defineConfig({
 
   vite: {
     plugins: [
+      RssPlugin({
+        title: '村雨遥的好物周刊',
+        baseUrl,
+        copyright: 'Copyright @ 村雨遥',
+      }),
       // 51La 统计
       La51Plugin({
         id: 'KibDLhcbnUfZXiUS',

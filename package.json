@@ -15,6 +15,7 @@
     "pnpm": "^9.15.6",
     "vitepress-plugin-51la": "^0.1.0",
     "vitepress-plugin-announcement": "^0.1.4",
-    "vitepress-plugin-pagefind": "^0.4.13"
+    "vitepress-plugin-pagefind": "^0.4.13",
+    "vitepress-plugin-rss": "^0.3.1"
   }
 }
