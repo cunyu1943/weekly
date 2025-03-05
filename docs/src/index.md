@@ -33,7 +33,7 @@ features:
     details: 编程学习电子书
     icon: 
       src: /icon/book.svg
-    link: https://github.com/cunyu1943/JavaPark
+    link: https://github.com/cunyu1943/ebooks
     linkText: 获取下载链接
   - title: 语雀
     details: 我的数字花园，移动端内容合辑
