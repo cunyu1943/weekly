@@ -12,113 +12,127 @@ tag:
 
 ---
 
-# 好物周刊#95：数字名片
+# 好物周刊#96：AI IDE
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/gk_FkPGB2h1Qp8c0AB-Kcw
+> 原文：https://mp.weixin.qq.com/s/-phlN9Cx2kytrWxFBxOT0w
 
 ## 一、项目
 
-### 1. [Azure TTS Importer](https://github.com/yy4382/tts-importer)
+### 1. [MinDoc](https://github.com/mindoc-org/mindoc)
 
-轻松将 Azure TTS 语音合成服务导入阅读软件。现支持阅读（legado）、爱阅记、服务器端阅读 (hectorqin/reader)、爱阅书香、源阅读、源阅。
+一款针对 IT 团队开发的简单好用的文档管理系统，前身是 SmartWiki 文档系统。SmartWiki 是基于 PHP 框架 laravel 开发的一款文档管理系统。因 PHP 的部署对普通用户来说太复杂，所以改用 Golang 开发，方便用户部署和实用。
 
-![](assets/0222-0228/1739750824207-780b0a8c-a6cd-4f05-9283-4f951e98231d.webp)
+![](assets/0301-0307/1740396519959-ecb47737-3140-418a-82aa-ea292db0feaa.webp)
 
-### 2. [XiaoMusic](https://github.com/hanxi/xiaomusic)
+### 2. [CloudMark](https://github.com/wesleyel/cloudmark)
 
-解放小爱音箱，使用小爱音箱无限播放音乐，音乐使用 yt-dlp 下载。
+你的通用书签管理器，一键保存和整理书签，随时随地访问，支持如下特性：
 
-![](assets/0222-0228/1740096871986-442a24ff-25d2-4e3a-b561-a9ffd718411b.webp)
+-   一键收藏
+-   智能分类
+-   随处访问
+-   分享协作
 
-### 3. [Valaxy](https://github.com/YunYouJun/valaxy)
+![](assets/0301-0307/1740614739326-90a36663-3af9-4da0-89ed-cc642d001997.webp)
 
-下一代静态博客框架，支持页面/配置热重载。
+### 3. [小雅全家桶部署](https://github.com/monlor/docker-xiaoya)
 
-![](assets/0222-0228/1740356154583-84d59cb0-23b6-41b8-adee-9d5838e550be.webp)
+使用 Docker Compose 一键部署服务，兼容群晖，Linux，Windows，Mac，包含所有 X86 和 Arm 架构。部署 alist + 下载元数据 + 部署 emby 服务全流程自动，无需人工干预。
+
+![](assets/0301-0307/1741046573601-9f0c6c84-af7b-4019-b835-7f73a17fb235.webp)
 
 ## 二、软件
 
-### 1. [讯飞绘镜](https://typemovie.art)
+### 1. [悟墨](https://oomol.com/zh-CN/)
 
-一款 AI 视频创作平台。输入创意，即可生成脚本和分镜图片，并将静态分镜化为动态视频。支持快速生成图片与视频，帮助创作者高效捕捉灵感，轻松实现创意表达。
+通过直观的视觉交互轻松连接代码片段和 API 服务，帮助用户缩短从想法到产品的距离。
 
-![](assets/0222-0228/1740096533097-f52cc4cc-541f-4bc6-85eb-ae7224400e87.webp)
+![](assets/0301-0307/1740356710532-9740f32f-1d93-4ba8-9783-a7068d4407bc.webp)
 
-### 2. [雀乐](https://www.indie.cn)
+### 2. [X Studio](https://xstudio.music.163.com/)
 
-由一群喜欢并热爱独立音乐的人共同创建的，致力于传播来自世界各地的独立音乐。秉着音乐里独立自主的精神表达内核，希望把雀乐建设成为泛华语地区最好的独立音乐传播平台。
+网易和微软小冰联合出品的语音合成软件，为热爱音乐的你带来时刻在线的 AI 歌手伙伴。
 
-![](assets/0222-0228/1740096657567-c3543c9f-3694-49ea-a5ba-be954af06562.webp)
+![](assets/0301-0307/1740615099214-a8365b70-af04-4587-b9e0-a8eff1ebbb34.webp)
 
-### 3. [ima](https://ima.qq.com)
+### 3. [Trae](https://www.trae.com.cn)
 
-一款以知识库为核心的智能工作台产品，已接入腾讯混元大模型和 DeepSeek R1 模型满血版。它是集搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。
+国内首个 AI IDE，深度理解中文开发场景。AI 高度集成于 IDE 环境之中，为你带来比 AI 插件更加流畅、准确、优质的开发体验。
 
-![](assets/0222-0228/1740356403791-5ad06b85-4de6-4023-bd84-a3d91c4b97f8.webp)
+![](assets/0301-0307/1741132598463-3769adc4-6872-4590-b448-a755192fc10b.webp)
 
 ## 三、网站
 
-### 1. [MuseLink](https://muselink.cc/)
+### 1. [法律时代导航](https://yesen.cn/)
 
-一个专为创作者打造的数字名片生成工具，一分钟即可制作一张极简潮酷的数字名片。一个链接，即可分享你所有的社交主页。
+法律人的专属导航，一站式法律导航。
 
-![](assets/0222-0228/1740097299231-9397b50e-7f8f-417a-bdc3-58804227440f.webp)
+![](assets/0301-0307/1740395880407-718f2649-9b79-4cdc-9588-8bee0c2f82a4.webp)
 
-### 2. [链接树](https://linktree.cn/)
+### 2. [唐韵诗词](https://www.chinesepoems.org/)
 
-快速搭建一个创作者数字名片，通过一个链接，分享所有社交主页，并还拥有强大的数据分析功能，统计粉丝的行为导向，为数字营销助力。
+探索中国古典诗词之美，提供诗词，古书等内容的赏析、注释、翻译，在线学习中国传统诗词文化。
 
-![](assets/0222-0228/1740097251650-34f224cd-9927-499a-ad1c-2baf6f252197.webp)
+![](assets/0301-0307/1740614910693-b71daf8a-b753-44cc-bad3-7a7194d8a837.webp)
 
-### 3. [Link3](https://www.link3.cc)
+### 3. [答案之书](https://answerbook.org)
 
-仅需一个链接，就可以聚合、分享你的所有信息。一次注册，终身受益。
+在这里，你可以找到生活中的答案。每一个答案都来自于宇宙的回响，为你指引方向。同时，AI 助手会帮助你解读这个答案，为你提供更深层的思考和建议。
 
-![](assets/0222-0228/1740097232462-937f0c9b-6860-4f75-8002-57cc8b61c9b6.webp)
+![](assets/0301-0307/1740615520403-08e7695a-59cf-4376-a803-81f791c29f62.webp)
 
 ## 四、插件
 
-### 1. [DeepSeek AI](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)
+### 1. [酸柠檬新标签页](https://chromewebstore.google.com/detail/酸柠檬新标签页/ooghegmmicmicongpdbojbjmcpmghkjb?hl=zh-CN)
 
-使用深度搜索 AI 助手，您可以轻松尝试深度搜索模型，以快速获取有关新中文 AI 的答案和创意。
+极简纯粹、云同步、可自定义的新标签页。为您带来简约的视觉体验，告别臃肿、繁琐的页面设计。支持自定义网站、自定义搜索引擎、页面个性化定制...更可通过云同步在所有浏览器、所有设备间畅快使用！
 
-![](assets/0222-0228/1740441752182-682ddc95-347a-4213-8ce5-3ec7dcda61f9.webp)
+![](assets/0301-0307/1741046824190-866f4c70-7ae7-4406-bba3-6c8effd46093.webp)
 
-### 2. [Google 艺术与文化](https://chromewebstore.google.com/detail/google-艺术与文化/akimgimeeoiognljlfchpbkpfbmeapkh)
+### 2. [Bookmarks search](https://chromewebstore.google.com/detail/bookmarks-search/pobcmdgggpihlbihebdeofjhkgmebndb?authuser=0&hl=zh-CN)
 
-在浏览器标签页中欣赏谷歌艺术与文化项目中“艺术”下的佳作。
+一个帮助你在浏览器收藏夹中快速搜索的浏览器插件。通过关键词，你可以在指定的网站范围内快速找到所查询的关键词。 
 
-![](assets/0222-0228/1740441943325-2ebfa4e3-3c3f-4338-a80f-982f80b42684.webp)
+![](assets/0301-0307/1741046986157-d7db9ebb-0bdb-4d0a-979b-f4c5f190f6dd.webp)
 
-### 3. [守候购物小助手](https://chromewebstore.google.com/detail/守候购物小助手/eafefjbddnbamfophdiiiemfkfocaahm)
+### 3. [v2ex plus](https://chromewebstore.google.com/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo)
 
-插件提供了多项实用功能，包括快速搜索，快速跳转，快速复制、查库存，查地区价，查多种渠道价，查隐藏券、查隐藏促销、查生产日期、网页时钟、购买分析、价格走势、列表筛选、购物车增强、返利功能以及辅助评价等，支持京东、淘宝、天猫、苏宁、国美等购物平台。
+优雅便捷的 V2EX 扩展，支持如下功能：
 
-![](assets/0222-0228/1740442143609-3af5424d-2ada-4273-a456-d32260e4ca1b.webp)
+-   通知功能：更新提醒、未读消息
+-   登录态判断：未登录 icon 提醒
+-   半小时自动签到
+-   主题列表预览及忽略功能
+-   新窗口浏览主题
+-   ……
+
+![](assets/0301-0307/1741085022781-3d4f35f3-2daf-4267-98ec-b27e7bad5575.webp)
 
 ## 五、资料
 
-### 1. [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### 1. [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)
 
-design-patterns-for-humans 的中文翻译版，设计模式超简单的解释，搭配设计模式 45 种 design-patterns-php 和使用起来效果更好哦。
+开源 C++ 教程，课程针对那些已经熟悉 C 和面向对象编程的人，从而快速熟练掌握 C++ 编程。内容涵盖了 C++ 编程的基础知识，以及 C++ 高级语义和概念。
 
-![](assets/0222-0228/1740442580568-17ddbcb0-4242-40f3-b410-a0ab1d5736d0.webp)
+![](assets/0301-0307/1741133087123-128134db-d2dd-4b27-8f8e-08939e20c167.webp)
 
-### 2. [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### 2. [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-一本对用户极其友善的 Pytorch 入门工具书，主要是在参考 Pytorch 官方文档和函数 doc 文档基础上整理写成的。面向的读者需要有一定的机器学习和深度学习基础，使用过 Keras 或 TensorFlow 或 Pytorch 搭建训练过简单的模型。
+使用 Python 和 Flask 开发你的第一个 Web 程序，本书基于 Flask 2.1.x，支持 Python 3.6 及以上版本和全平台。
 
-![](assets/0222-0228/1740527398074-8a70820a-246c-43ac-a2ce-cefee14bd822.webp)
+![](assets/0301-0307/1741133188353-6855970b-27e9-422c-893b-13b683b40428.webp)
 
-### 3. [认知偏差知识手册](https://imzl.com/cognitive-bias)
+### 3. [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-由字节跳动飞书设计团队推出，总结人在思考和决策时容易犯的 67 种行为偏差和示例解析，运用好这些知识，让你设计的产品在用户在使用时更好的决策。
+陈皓发表在 CSDN 上的系列文章，翻译自《GNU Make Manual》 ，广受读者推荐。
 
-![](assets/0222-0228/1740527685272-2019d3ea-c1e3-45cd-a63f-f02f1b736210.webp)
+![](assets/0301-0307/1741133476579-33932828-4d02-452b-87c7-fa7ae27008dd.webp)
+
+
 
 ## ✍️ 说明
 
