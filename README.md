@@ -42,7 +42,7 @@
 
 如果您觉得本项目对您有所帮助，那就去 Github **Star** 收藏一下吧！
 
-<img src="https://api.star-history.com/svg?repos=cunyu1943/weekly&type=Date" width="50%"/>
+<img src="https://api.star-history.com/svg?repos=cunyu1943/weekly&type=Date" width="70%"/>
 
 ## 赞助
 
@@ -50,9 +50,9 @@
 
 <center>
 
-|                             支付宝                             |                               微信                                |
-| :------------------------------------------------------------: | :---------------------------------------------------------------: |
-| <img src="./docs/src/public/award/alipay.png" width="150px" /> | <img src="./docs/src/public/award/wechatpay.png" width="150px" /> |
+|                            支付宝                            |                             赞赏                             |                             微信                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="./docs/src/public/award/alipay.png" width="150px" /> | <img src="./docs/src/public/award/donate.jpg" width="150px" /> | <img src="./docs/src/public/award/wechatpay.png" width="150px" /> |
 
 </center>
 
