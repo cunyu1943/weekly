@@ -1,5 +1,4 @@
 ---
-publish: true
 isOriginal: true
 category:
   - 好物周刊
@@ -12,127 +11,113 @@ tag:
 
 ---
 
-# 好物周刊#96：AI IDE
+# 好物周刊#97：SCI 文献阅读
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/-phlN9Cx2kytrWxFBxOT0w
+> 原文：https://mp.weixin.qq.com/s/8YncnfvZTiKHlUITW6qklw
 
 ## 一、项目
 
-### 1. [MinDoc](https://github.com/mindoc-org/mindoc)
+### 1. [hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
 
-一款针对 IT 团队开发的简单好用的文档管理系统，前身是 SmartWiki 文档系统。SmartWiki 是基于 PHP 框架 laravel 开发的一款文档管理系统。因 PHP 的部署对普通用户来说太复杂，所以改用 Golang 开发，方便用户部署和实用。
+通过简单配置，即可为 Hexo 博客添加哔哩哔哩/Bangumi 追番/追剧页面，让你的博客不再单调。
 
-![](assets/0301-0307/1740396519959-ecb47737-3140-418a-82aa-ea292db0feaa.webp)
+![](assets/0308-0314/1741650710901-27ec4f8e-7e0a-408f-b55a-44200739224a.webp)
 
-### 2. [CloudMark](https://github.com/wesleyel/cloudmark)
+### 2. [story-flicks](https://github.com/alecm20/story-flicks)
 
-你的通用书签管理器，一键保存和整理书签，随时随地访问，支持如下特性：
+输入一个故事主题，使用大语言模型生成故事视频，视频中包含大模型生成的图片、故事内容，以及音频和字幕信息。项目后端技术栈为 Python + Fastapi 框架，前端为 React + Antd + Vite。
 
--   一键收藏
--   智能分类
--   随处访问
--   分享协作
+![](assets/0308-0314/1741651034978-e8075bc8-b4f7-474b-869c-a3f99b3e4af7.webp)
 
-![](assets/0301-0307/1740614739326-90a36663-3af9-4da0-89ed-cc642d001997.webp)
+### 3. [中秋贺卡](https://github.com/xiaoli1999/moon-card)
 
-### 3. [小雅全家桶部署](https://github.com/monlor/docker-xiaoya)
+支持定制中秋贺卡，上传你的头像以及自定义文案，然后再将做好的贺卡分享给你的朋友们。
 
-使用 Docker Compose 一键部署服务，兼容群晖，Linux，Windows，Mac，包含所有 X86 和 Arm 架构。部署 alist + 下载元数据 + 部署 emby 服务全流程自动，无需人工干预。
-
-![](assets/0301-0307/1741046573601-9f0c6c84-af7b-4019-b835-7f73a17fb235.webp)
+![](assets/0308-0314/1741651163196-7a395138-5f09-40a4-915f-2cf9eca5c6f7.webp)
 
 ## 二、软件
 
-### 1. [悟墨](https://oomol.com/zh-CN/)
+### 1. [Vivetool](https://github.com/thebookisclosed/ViVe)
 
-通过直观的视觉交互轻松连接代码片段和 API 服务，帮助用户缩短从想法到产品的距离。
+一款可用于强制开启 Windows 测试版的工具，适合喜欢捣腾的朋友。
 
-![](assets/0301-0307/1740356710532-9740f32f-1d93-4ba8-9783-a7068d4407bc.webp)
+![](assets/0308-0314/1741651893780-8165974c-e0e7-49c8-acc4-5d8384c71ff6.webp)
 
-### 2. [X Studio](https://xstudio.music.163.com/)
+### 2. [小绿鲸英文文献阅读器](https://www.xljsci.com?regCode=7dOjVN)
 
-网易和微软小冰联合出品的语音合成软件，为热爱音乐的你带来时刻在线的 AI 歌手伙伴。
+一款集翻译、笔记、文献管理、文献汇报、写作功能于一体的云端英文文献阅读器，专注提高英文文献阅读效率，专为科研人员阅读文献而准备。
 
-![](assets/0301-0307/1740615099214-a8365b70-af04-4587-b9e0-a8eff1ebbb34.webp)
+![](assets/0308-0314/1741652315796-3fa27c4c-ebf0-4ba0-a0d9-b30a98e97c72.webp)
 
-### 3. [Trae](https://www.trae.com.cn)
+### 3. [知云文献翻译](https://www.zhiyunwenxian.cn/)
 
-国内首个 AI IDE，深度理解中文开发场景。AI 高度集成于 IDE 环境之中，为你带来比 AI 插件更加流畅、准确、优质的开发体验。
+一款 Windows 平台下的划选翻译软件，自带 PDF 阅读器同时包含几乎所有主流翻译引擎，支持中英互译，帮助提高您的英语科研文献或书籍阅读效率！
 
-![](assets/0301-0307/1741132598463-3769adc4-6872-4590-b448-a755192fc10b.webp)
+![](assets/0308-0314/1741652665564-9c39eff3-0f5a-4407-9f1a-bc035ee6d866.webp)
 
 ## 三、网站
 
-### 1. [法律时代导航](https://yesen.cn/)
+### 1. [全球艺术天气](https://todayaiweather.com/)
 
-法律人的专属导航，一站式法律导航。
+每小时更新几个城市的艺术天气，从 250+ 国家的 15w+ 城市中筛选，根据当地天气情况生成实时艺术天气图像。
 
-![](assets/0301-0307/1740395880407-718f2649-9b79-4cdc-9588-8bee0c2f82a4.webp)
+![](assets/0308-0314/1741140889764-6aeeb3f8-29a2-4aac-bf65-9a71b38f9350.webp)
 
-### 2. [唐韵诗词](https://www.chinesepoems.org/)
+### 2. [心晴网](http://www.ixinqing.com)
 
-探索中国古典诗词之美，提供诗词，古书等内容的赏析、注释、翻译，在线学习中国传统诗词文化。
+专注于心理学入门与自我成长，与 66546 名心理学爱好者分享、交流心理学入门学习心得。当前共有心理学书籍 7595 本，而且还在不断增长中。
 
-![](assets/0301-0307/1740614910693-b71daf8a-b753-44cc-bad3-7a7194d8a837.webp)
+![](assets/0308-0314/1741174018082-f399e785-a5fd-4763-a2ac-6dac5ae12fb2.webp)
 
-### 3. [答案之书](https://answerbook.org)
+### 3. [纸由我](https://paperme.toolooz.com/)
 
-在这里，你可以找到生活中的答案。每一个答案都来自于宇宙的回响，为你指引方向。同时，AI 助手会帮助你解读这个答案，为你提供更深层的思考和建议。
+包含常用的纸张模板，比如横线纸、方格纸、点阵纸等，而且支持自定义，无论你是学生、教师、设计师还是办公人士，都能找到或创建最适合自己需求的纸张。
 
-![](assets/0301-0307/1740615520403-08e7695a-59cf-4376-a803-81f791c29f62.webp)
+![](assets/0308-0314/1741222090835-95f9ab6d-d947-4321-8d0d-e4752fc5acc8.webp)
 
 ## 四、插件
 
-### 1. [酸柠檬新标签页](https://chromewebstore.google.com/detail/酸柠檬新标签页/ooghegmmicmicongpdbojbjmcpmghkjb?hl=zh-CN)
+### 1. [Nice Tab Manager | 标签页管理器](https://chromewebstore.google.com/detail/nice-tab-manager-标签页管理器/fonflmjnjbkigocpoommgmhljdpljain)
 
-极简纯粹、云同步、可自定义的新标签页。为您带来简约的视觉体验，告别臃肿、繁琐的页面设计。支持自定义网站、自定义搜索引擎、页面个性化定制...更可通过云同步在所有浏览器、所有设备间畅快使用！
+一个方便快捷管理浏览器标签页的浏览器插件，可以当做 OneTab、Toby、N-Tab、KepTab 等扩展的升级替代品，功能丰富易用。
 
-![](assets/0301-0307/1741046824190-866f4c70-7ae7-4406-bba3-6c8effd46093.webp)
+![](assets/0308-0314/1741651487477-d00d82aa-1ee9-4381-b99c-078e70e5f30b.webp)
 
-### 2. [Bookmarks search](https://chromewebstore.google.com/detail/bookmarks-search/pobcmdgggpihlbihebdeofjhkgmebndb?authuser=0&hl=zh-CN)
+### 2. [改写工具](https://chromewebstore.google.com/detail/改写工具/chpmagmpblpebnbpegbcllmgijcgflgo)
 
-一个帮助你在浏览器收藏夹中快速搜索的浏览器插件。通过关键词，你可以在指定的网站范围内快速找到所查询的关键词。 
+您的AI写作助手，可以即时改写，轻松简化、增强和改写文本！专为赋能作家、学生和专业人士而设计。
 
-![](assets/0301-0307/1741046986157-d7db9ebb-0bdb-4d0a-979b-f4c5f190f6dd.webp)
+![](assets/0308-0314/1741737317829-292e4643-135a-416b-b8d9-25ff51e7c830.webp)
 
-### 3. [v2ex plus](https://chromewebstore.google.com/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo)
+### 3. [TextCortex](https://chromewebstore.google.com/detail/textcortex：个人ai助手ai作家/hahkojdegblcccihngmgndhdfheheofe)
 
-优雅便捷的 V2EX 扩展，支持如下功能：
+一款旨在了解您和您的写作需求的 AI 伴侣：它会主动提供有关如何使您的内容更真实的选项，并从头到尾在您的创作过程中为您提供帮助。是专业人士、营销人员、作家、开发人员和学生的理想选择。
 
--   通知功能：更新提醒、未读消息
--   登录态判断：未登录 icon 提醒
--   半小时自动签到
--   主题列表预览及忽略功能
--   新窗口浏览主题
--   ……
-
-![](assets/0301-0307/1741085022781-3d4f35f3-2daf-4267-98ec-b27e7bad5575.webp)
+![](assets/0308-0314/1741737474049-d6863ca2-3ef6-48ef-b220-88a878323632.webp)
 
 ## 五、资料
 
-### 1. [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)
+### 1. [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-开源 C++ 教程，课程针对那些已经熟悉 C 和面向对象编程的人，从而快速熟练掌握 C++ 编程。内容涵盖了 C++ 编程的基础知识，以及 C++ 高级语义和概念。
+关于 MongoDB 的免费学习向导，含有学习资源、第三方库以及各种工具资源。
 
-![](assets/0301-0307/1741133087123-128134db-d2dd-4b27-8f8e-08939e20c167.webp)
+![](assets/0308-0314/1741736538824-766525cb-d4e4-42c9-a371-2dd5e25977de.webp)
 
-### 2. [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### 2. [计算机体系结构基础](https://github.com/foxsen/archbase)
 
-使用 Python 和 Flask 开发你的第一个 Web 程序，本书基于 Flask 2.1.x，支持 Python 3.6 及以上版本和全平台。
+龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分 12  章，包括指令系统结构、计算机硬件结构、CPU 微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含 CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![](assets/0301-0307/1741133188353-6855970b-27e9-422c-893b-13b683b40428.webp)
+![](assets/0308-0314/1741736851507-0c051dc6-2b1e-4dbf-86b0-cc19cc0b77bf.webp)
 
-### 3. [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/)
+### 3. [深入浅出现代 Web 编程全栈公开课](https://fullstackopen.com/)
 
-陈皓发表在 CSDN 上的系列文章，翻译自《GNU Make Manual》 ，广受读者推荐。
+一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 开发技术。重点是利用 ReactJS 搭建单页面应用程序（SPA：Single Page Application），并使用Node.js构建REST API。
 
-![](assets/0301-0307/1741133476579-33932828-4d02-452b-87c7-fa7ae27008dd.webp)
-
-
+![](assets/0308-0314/1741737046077-9aaa2516-4c2f-4fb6-b9ea-86acf527b766.webp)
 
 ## ✍️ 说明
 
