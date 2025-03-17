@@ -26,3 +26,10 @@ isOriginal: true
 <img src="/ads/ele.jpg" width="50%"/>
 </center>
 
+2.   **美团**
+
+微信/美团扫码下单更优惠哦~
+
+<center>
+<img src="/ads/meituan.png" width="300"/>
+</center>
