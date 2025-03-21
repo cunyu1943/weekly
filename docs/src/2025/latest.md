@@ -1,4 +1,5 @@
 ---
+publish: false
 isOriginal: true
 category:
   - 好物周刊
@@ -11,113 +12,143 @@ tag:
 
 ---
 
-# 好物周刊#97：SCI 文献阅读
+# 好物周刊#98：工作性价比
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/8YncnfvZTiKHlUITW6qklw
+> 原文：https://mp.weixin.qq.com/s/vB57fdlhmhelTDgGviQm1Q
 
 ## 一、项目
 
-### 1. [hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
+### 1. [工作性价比计算器](https://github.com/Zippland/worth-calculator)
 
-通过简单配置，即可为 Hexo 博客添加哔哩哔哩/Bangumi 追番/追剧页面，让你的博客不再单调。
+一个帮你计算当前工作 "值不值得" 的在线工具。
 
-![](assets/0308-0314/1741650710901-27ec4f8e-7e0a-408f-b55a-44200739224a.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742208513524-9a8048b9-dac5-463e-9b52-0021fa6eeccf.webp)
 
-### 2. [story-flicks](https://github.com/alecm20/story-flicks)
+### 2. [Coze on WeChat](https://github.com/JC0v0/Coze-on-Wechat)
 
-输入一个故事主题，使用大语言模型生成故事视频，视频中包含大模型生成的图片、故事内容，以及音频和字幕信息。项目后端技术栈为 Python + Fastapi 框架，前端为 React + Antd + Vite。
+项目基于 chatgpt-on-wechat 和 dify-on-wechat 二次开发，主要对接 Coze 平台开发的微信智能助手，支持大部分 Coze Bot 功能，文本回复，语音回复，发送链接，图片等等。
 
-![](assets/0308-0314/1741651034978-e8075bc8-b4f7-474b-869c-a3f99b3e4af7.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742208777354-9a64b60e-8c55-4b46-a994-76a977d86d3c.webp)
 
-### 3. [中秋贺卡](https://github.com/xiaoli1999/moon-card)
+### 3. [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)
 
-支持定制中秋贺卡，上传你的头像以及自定义文案，然后再将做好的贺卡分享给你的朋友们。
+一个低代码平台的前端部分，靠拖拉拽生成页面，支持如下功能点：
 
-![](assets/0308-0314/1741651163196-7a395138-5f09-40a4-915f-2cf9eca5c6f7.webp)
+-   编辑器
+-   自定义组件（文本、图片、矩形、圆形、直线、星形、三角形、按钮、表格、组合）
+-   接口请求（通过接口请求组件数据）
+-   组件联动
+-   拖拽
+-   删除组件、调整图层层级
+-   放大缩小
+-   撤消、重做
+-   组件属性设置
+-   吸附
+-   预览、保存代码
+-   绑定事件
+-   绑定动画
+-   拖拽旋转
+-   复制粘贴剪切
+-   多个组件的组合和拆分
+-   锁定组件
+-   网格线
+
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742383304966-82a87850-b00b-4141-9982-5484db6316c4.webp)
 
 ## 二、软件
 
-### 1. [Vivetool](https://github.com/thebookisclosed/ViVe)
+### 1. [XPipe](https://github.com/xpipe-io/xpipe)
 
-一款可用于强制开启 Windows 测试版的工具，适合喜欢捣腾的朋友。
+一款全新的终端管理工具，支持基于你本地安装的命令行工具（如 PowerShell）来执行远程命令。完全集成了您常用的文本/代码编辑器，终端，shell，命令行工具等。支持扩展化，当前特性：
 
-![](assets/0308-0314/1741651893780-8165974c-e0e7-49c8-acc4-5d8384c71ff6.webp)
+-   支持 SSH、Docker、Podman、Kubernetes、Powershell 等环境。
+-   具有对远程系统优化的文件管理功能。
+-   多种命令行如 bash、zsh、cmd、PowerShell 等环境支持。
+-   ……
 
-### 2. [小绿鲸英文文献阅读器](https://www.xljsci.com?regCode=7dOjVN)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742255730230-76014eff-27eb-4b1e-b870-29b47f80a5e0.webp)
 
-一款集翻译、笔记、文献管理、文献汇报、写作功能于一体的云端英文文献阅读器，专注提高英文文献阅读效率，专为科研人员阅读文献而准备。
+### 2. [腾讯元宝](https://yuanbao.tencent.com)
 
-![](assets/0308-0314/1741652315796-3fa27c4c-ebf0-4ba0-a0d9-b30a98e97c72.webp)
+是基于腾讯混元大模型的 AI 应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手，目前已集成 DeepSeek 满血版。
 
-### 3. [知云文献翻译](https://www.zhiyunwenxian.cn/)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742298557730-efcd327e-8b73-4508-8344-9ab20f0df861.webp)
 
-一款 Windows 平台下的划选翻译软件，自带 PDF 阅读器同时包含几乎所有主流翻译引擎，支持中英互译，帮助提高您的英语科研文献或书籍阅读效率！
+### 3. [Tiny Image](https://github.com/kyleduo/TinyPNG4Mac)
 
-![](assets/0308-0314/1741652665564-9c39eff3-0f5a-4407-9f1a-bc035ee6d866.webp)
+TinyPNG 的第三方客户端，使用它，无需打开浏览器即可压缩图片，专为 macOS 用户打造。
+
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742383771731-323656eb-cf93-4a16-83e4-650578270bc7.webp)
 
 ## 三、网站
 
-### 1. [全球艺术天气](https://todayaiweather.com/)
+### 1. [图尺匠](https://picsizer.toolooz.com)
 
-每小时更新几个城市的艺术天气，从 250+ 国家的 15w+ 城市中筛选，根据当地天气情况生成实时艺术天气图像。
+一款完全免费的在线图片尺寸调整工具，专为需要快速处理图片的用户设计。无需下载安装任何软件，直接在浏览器中即可完成所有操作。
 
-![](assets/0308-0314/1741140889764-6aeeb3f8-29a2-4aac-bf65-9a71b38f9350.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1741776934787-2e900a6c-7d29-4124-8b40-1c08fa81befe.webp)
 
-### 2. [心晴网](http://www.ixinqing.com)
+### 2. [ProcessOn](https://www.processon.com/i/5eec25bf1e08532637344b9c?full_name=K)
 
-专注于心理学入门与自我成长，与 66546 名心理学爱好者分享、交流心理学入门学习心得。当前共有心理学书籍 7595 本，而且还在不断增长中。
+一款专业在线作图工具和知识分享社区，提供AI生成思维导图流程图。支持思维导图、流程图、组织结构图、网络拓扑图、鱼骨图、UML图等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。
 
-![](assets/0308-0314/1741174018082-f399e785-a5fd-4763-a2ac-6dac5ae12fb2.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742208075337-26955f8a-6199-4237-933b-3bf6d558b821.webp)
 
-### 3. [纸由我](https://paperme.toolooz.com/)
+### 3. [海词词典](https://dict.cn)
 
-包含常用的纸张模板，比如横线纸、方格纸、点阵纸等，而且支持自定义，无论你是学生、教师、设计师还是办公人士，都能找到或创建最适合自己需求的纸张。
+中国第一个在线词典，海量权威词典官方网站。独有 2000 万词汇，配释义饼图、精细讲解、优质例句，专业提供 60 个行业 11 个语种的在线词典和在线翻译服务。
 
-![](assets/0308-0314/1741222090835-95f9ab6d-d947-4321-8d0d-e4752fc5acc8.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742256356874-6d8f0fe2-4f5a-4502-a504-a7ebd8b6bf1d.webp)
 
 ## 四、插件
 
-### 1. [Nice Tab Manager | 标签页管理器](https://chromewebstore.google.com/detail/nice-tab-manager-标签页管理器/fonflmjnjbkigocpoommgmhljdpljain)
+### 1. [Howdz 起始页](https://chromewebstore.google.com/detail/howdz起始页/ggglfehkglgpenacfalffmiojghklamm)
 
-一个方便快捷管理浏览器标签页的浏览器插件，可以当做 OneTab、Toby、N-Tab、KepTab 等扩展的升级替代品，功能丰富易用。
+一个自定义起始页的浏览器插件。对于浏览器起始页提供了很高自由度的配置功能。可以从物料组件库自行添加自己需要的组件，添加的组件提供很多样式和功能的配置进行修改，并通过拖拽更改组件位置和大小。搜索物料组件允许添加配置多个搜索引擎并按 Tab 键快速切换。
 
-![](assets/0308-0314/1741651487477-d00d82aa-1ee9-4381-b99c-078e70e5f30b.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742384044471-771368b4-d502-47e1-9955-8f89521e0729.webp)
 
-### 2. [改写工具](https://chromewebstore.google.com/detail/改写工具/chpmagmpblpebnbpegbcllmgijcgflgo)
+### 2. [ProTab 起始页](https://chromewebstore.google.com/detail/protab-起始页-（免费chatgpt）/lkcdfbpilnlgangplgoddfboloppamcn)
 
-您的AI写作助手，可以即时改写，轻松简化、增强和改写文本！专为赋能作家、学生和专业人士而设计。
+基于小组件、壁纸、书签导航，个性化定制的浏览器起始页，主要功能如下：
 
-![](assets/0308-0314/1741737317829-292e4643-135a-416b-b8d9-25ff51e7c830.webp)
+-   小组件：个性化定制专属组件；
+-   高清壁纸：海量高清壁纸、一键切换；
+-   导航书签：可以快速添加导航书签和自定义导航书签，DIY 书签图标等；
+-   搜索框：搜索窗口透明度、提示词、字体颜色都可以自定义设置。
 
-### 3. [TextCortex](https://chromewebstore.google.com/detail/textcortex：个人ai助手ai作家/hahkojdegblcccihngmgndhdfheheofe)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742384245651-8029cf3c-c27e-4810-b98f-96515a6b4a31.webp)
 
-一款旨在了解您和您的写作需求的 AI 伴侣：它会主动提供有关如何使您的内容更真实的选项，并从头到尾在您的创作过程中为您提供帮助。是专业人士、营销人员、作家、开发人员和学生的理想选择。
+### 3. [飞书剪存](https://chromewebstore.google.com/detail/飞书剪存/mofcmpgnbnnlcdkfchnggdilcelpgegn)
 
-![](assets/0308-0314/1741737474049-d6863ca2-3ef6-48ef-b220-88a878323632.webp)
+使用飞书剪存将网页正文一键保存到飞书云文档，告别手动复制粘贴。同时支持智能去除网页广告，告别无用干扰信息。
+
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742384442627-bc738537-65f7-4c12-8a0b-b06c87b15337.webp)
 
 ## 五、资料
 
-### 1. [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### 1. [FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)
 
-关于 MongoDB 的免费学习向导，含有学习资源、第三方库以及各种工具资源。
+大模型算法岗面试题(含答案)：常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、" 大模型应用基础"。
 
-![](assets/0308-0314/1741736538824-766525cb-d4e4-42c9-a371-2dd5e25977de.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742256842067-f673565e-8a1c-4020-b4ad-df500325511b.webp)
 
-### 2. [计算机体系结构基础](https://github.com/foxsen/archbase)
+### 2. [CSGuide](https://github.com/imarvinle/CSGuide)
 
-龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分 12  章，包括指令系统结构、计算机硬件结构、CPU 微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含 CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+计算机学习路线，包括科班、非科班、Web、全栈、C++、Java、System 等。
 
-![](assets/0308-0314/1741736851507-0c051dc6-2b1e-4dbf-86b0-cc19cc0b77bf.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742256792190-4368db9c-b7ad-450e-b1b4-c05678be38fc.webp)
 
-### 3. [深入浅出现代 Web 编程全栈公开课](https://fullstackopen.com/)
+### 3. [404StarLink](https://github.com/knownsec/404StarLink)
 
-一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 开发技术。重点是利用 ReactJS 搭建单页面应用程序（SPA：Single Page Application），并使用Node.js构建REST API。
+推荐优质、有意义、有趣、坚持维护的安全开源项目。
 
-![](assets/0308-0314/1741737046077-9aaa2516-4c2f-4fb6-b9ea-86acf527b766.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742343385825-e96baefd-fc9e-498b-ac9d-c91351c8216f.png)
+
 
 ## ✍️ 说明
 
