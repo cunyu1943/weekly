@@ -12,143 +12,118 @@ tag:
 
 ---
 
-# 好物周刊#98：工作性价比
+# 好物周刊#99：字体搬运工
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/vB57fdlhmhelTDgGviQm1Q
+> 原文：https://mp.weixin.qq.com/s/kReIWacz-m6UWsGB_9cH_w
 
 ## 一、项目
 
-### 1. [工作性价比计算器](https://github.com/Zippland/worth-calculator)
+### 1. [智能闲鱼客服机器人系统](https://github.com/shaxiu/XianyuAutoAgent)
 
-一个帮你计算当前工作 "值不值得" 的在线工具。
+专为闲鱼平台打造的 AI 值守解决方案，实现闲鱼平台 7×24 小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742208513524-9a8048b9-dac5-463e-9b52-0021fa6eeccf.webp)
+![](assets/0322-0328/1742515350815-6d93656f-5e93-45b3-b255-5397479f3c74.webp)
 
-### 2. [Coze on WeChat](https://github.com/JC0v0/Coze-on-Wechat)
+### 2. [vhAstro-Theme](https://github.com/uxiaohan/vhAstro-Theme)
 
-项目基于 chatgpt-on-wechat 和 dify-on-wechat 二次开发，主要对接 Coze 平台开发的微信智能助手，支持大部分 Coze Bot 功能，文本回复，语音回复，发送链接，图片等等。
+一款基于 Astro 构建的优雅的响应式博客主题。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742208777354-9a64b60e-8c55-4b46-a994-76a977d86d3c.webp)
+![](assets/0322-0328/1742773952139-043630cf-bd8f-41f7-a85f-34c2c7affd7e.webp)
 
-### 3. [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)
+### 3. [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends)
 
-一个低代码平台的前端部分，靠拖拉拽生成页面，支持如下功能点：
+微信好友关系一键检测，基于微信 ipad 协议，看看有没有朋友偷偷删掉或者拉黑你。快速检测你的微信有没有单向好友，并自动将其添加到标签中 (之后可在电脑端一键清除这些人), 理论上可以支持检测上万的好友。
 
--   编辑器
--   自定义组件（文本、图片、矩形、圆形、直线、星形、三角形、按钮、表格、组合）
--   接口请求（通过接口请求组件数据）
--   组件联动
--   拖拽
--   删除组件、调整图层层级
--   放大缩小
--   撤消、重做
--   组件属性设置
--   吸附
--   预览、保存代码
--   绑定事件
--   绑定动画
--   拖拽旋转
--   复制粘贴剪切
--   多个组件的组合和拆分
--   锁定组件
--   网格线
-
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742383304966-82a87850-b00b-4141-9982-5484db6316c4.webp)
+![](assets/0322-0328/1742773882957-c54f2430-a3cc-446c-bca8-784bf1979f76.webp)
 
 ## 二、软件
 
-### 1. [XPipe](https://github.com/xpipe-io/xpipe)
+### 1. [OfficeAI 助手](https://office-ai.cn/)
 
-一款全新的终端管理工具，支持基于你本地安装的命令行工具（如 PowerShell）来执行远程命令。完全集成了您常用的文本/代码编辑器，终端，shell，命令行工具等。支持扩展化，当前特性：
+一款免费的智能 AI 办公工具软件，专为 Microsoft Office 和 WPS 用户打造。无论你是在寻找如何输入“打勾（√）符号”的方法，还是想知道“怎么在插入表格前添加文字”，或者“该用哪个公式”，它都能为你提供快速、准确的解决方案。通过简单的指令，ExcelAI 插件可以帮你自动完成复杂的公式计算、函数选择。WordAI 插件还具备整理周报、撰写会议纪要、总结内容、以及文案润色的强大功能。
 
--   支持 SSH、Docker、Podman、Kubernetes、Powershell 等环境。
--   具有对远程系统优化的文件管理功能。
--   多种命令行如 bash、zsh、cmd、PowerShell 等环境支持。
--   ……
+![](assets/0322-0328/1742775134461-de8f8893-3956-46d6-9053-2643c910d916.webp)
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742255730230-76014eff-27eb-4b1e-b870-29b47f80a5e0.webp)
+### 2. [TextSeek](https://www.textseek.net)
 
-### 2. [腾讯元宝](https://yuanbao.tencent.com)
+快速查找文件和文档内容的工具软件，Windows 和 macOS 系统均可使用。支持 PDF、Word、Excel、Powerpoint、WPS、OFD 等多种文档格式的搜索。
 
-是基于腾讯混元大模型的 AI 应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手，目前已集成 DeepSeek 满血版。
+![](assets/0322-0328/1742861075208-7b7e217b-a8ff-4b55-a47f-05c6b6a85d8f.webp)
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742298557730-efcd327e-8b73-4508-8344-9ab20f0df861.webp)
+### 3. [Readest](https://github.com/readest/readest)
 
-### 3. [Tiny Image](https://github.com/kyleduo/TinyPNG4Mac)
+一款开源电子书阅读器，专为沉浸式和深度阅读体验而设计。基于 Foliate 重写构建，利用 Next. js 15 和 Tauri v2 进行开发，支持在 macOS、Windows、Linux、Android、iOS 和 Web 上提供流畅的跨平台体验。
 
-TinyPNG 的第三方客户端，使用它，无需打开浏览器即可压缩图片，专为 macOS 用户打造。
-
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742383771731-323656eb-cf93-4a16-83e4-650578270bc7.webp)
+![](assets/0322-0328/1742861256848-95ed2613-31b3-4f33-96f6-b29498c90523.webp)
 
 ## 三、网站
 
-### 1. [图尺匠](https://picsizer.toolooz.com)
+### 1. [Ai Headshot Generator](https://ai-headshot-generator.net/)
 
-一款完全免费的在线图片尺寸调整工具，专为需要快速处理图片的用户设计。无需下载安装任何软件，直接在浏览器中即可完成所有操作。
+免费创建惊艳的 AI 头像，尝试 AI 专业头像生成器，轻松获得工作室级别的效果！
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1741776934787-2e900a6c-7d29-4124-8b40-1c08fa81befe.webp)
+![](assets/0322-0328/1742429282232-76773fb0-201c-491e-8918-37c083ec57fa.webp)
 
-### 2. [ProcessOn](https://www.processon.com/i/5eec25bf1e08532637344b9c?full_name=K)
+### 2. [字体搬运工](https://font.sucai999.com)
 
-一款专业在线作图工具和知识分享社区，提供AI生成思维导图流程图。支持思维导图、流程图、组织结构图、网络拓扑图、鱼骨图、UML图等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。
+一个免费公益性的字体网站，致力于收录可商用的免费字体。无需登录注册，随时随地都可以自由下载。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742208075337-26955f8a-6199-4237-933b-3bf6d558b821.webp)
+![](assets/0322-0328/1742429546161-9dcf43d3-2c6e-465c-b810-97e0165afec6.webp)
 
-### 3. [海词词典](https://dict.cn)
+### 3. [发表情](https://fabiaoqing.com/)
 
-中国第一个在线词典，海量权威词典官方网站。独有 2000 万词汇，配释义饼图、精细讲解、优质例句，专业提供 60 个行业 11 个语种的在线词典和在线翻译服务。
+最新最全的无水印表情包分享与制作平台，有海量热门表情、聊天表情、微信表情包、QQ表情包、金馆长表情包、蘑菇头表情包等各类表情。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742256356874-6d8f0fe2-4f5a-4502-a504-a7ebd8b6bf1d.webp)
+![](assets/0322-0328/1742784702435-990ac0b9-671b-42b5-abfa-cbf1791abbb6.webp)
 
 ## 四、插件
 
-### 1. [Howdz 起始页](https://chromewebstore.google.com/detail/howdz起始页/ggglfehkglgpenacfalffmiojghklamm)
+### 1. [复制链接](https://chromewebstore.google.com/detail/复制链接/mjpbijfgaajfmabmfnabchojdlpfnbbi)
 
-一个自定义起始页的浏览器插件。对于浏览器起始页提供了很高自由度的配置功能。可以从物料组件库自行添加自己需要的组件，添加的组件提供很多样式和功能的配置进行修改，并通过拖拽更改组件位置和大小。搜索物料组件允许添加配置多个搜索引擎并按 Tab 键快速切换。
+从上下文菜单中复制带有文本的链接和页面 URL。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742384044471-771368b4-d502-47e1-9955-8f89521e0729.webp)
+![](assets/0322-0328/1742860423933-56732c0b-8f08-40bd-8d96-b76f7091e8c1.webp)
 
-### 2. [ProTab 起始页](https://chromewebstore.google.com/detail/protab-起始页-（免费chatgpt）/lkcdfbpilnlgangplgoddfboloppamcn)
+### 2. [复制历史](https://chromewebstore.google.com/detail/复制历史-+-最佳剪贴板历史工具/kjlbbjicboihbikbjbbmkimccoeccoon)
 
-基于小组件、壁纸、书签导航，个性化定制的浏览器起始页，主要功能如下：
+剪贴板历史，管理复制历史。特点是免费，简单，支持自动保存，存储，收集复制的文本。提高生产力，节省我们的时间。
 
--   小组件：个性化定制专属组件；
--   高清壁纸：海量高清壁纸、一键切换；
--   导航书签：可以快速添加导航书签和自定义导航书签，DIY 书签图标等；
--   搜索框：搜索窗口透明度、提示词、字体颜色都可以自定义设置。
+![](assets/0322-0328/1742860516524-bbcd23e1-54c8-48cc-b025-35b70140af61.webp)
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742384245651-8029cf3c-c27e-4810-b98f-96515a6b4a31.webp)
+### 3. [从视频中复制文本](https://chromewebstore.google.com/detail/从视频中复制文本/djbbokpfbbipcdnodgadkidppckgajgp?hl=zh-CN)
 
-### 3. [飞书剪存](https://chromewebstore.google.com/detail/飞书剪存/mofcmpgnbnnlcdkfchnggdilcelpgegn)
+用于从视频、图像和现场会议中复制文字的终极 OCR 工具，在几秒钟内复制讲座中的笔记、教程中的代码、社交媒体视频中的链接，甚至手写文本，支持超 100 种语言。
 
-使用飞书剪存将网页正文一键保存到飞书云文档，告别手动复制粘贴。同时支持智能去除网页广告，告别无用干扰信息。
-
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742384442627-bc738537-65f7-4c12-8a0b-b06c87b15337.webp)
+![](assets/0322-0328/1742860650475-1584733e-f000-4a87-9736-2f5dcbe6c982.webp)
 
 ## 五、资料
 
-### 1. [FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)
+### 1. [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)
 
-大模型算法岗面试题(含答案)：常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、" 大模型应用基础"。
+基于 springboot 的快速学习示例，整合作者遇到的开源框架，如：rabbitmq (延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742256842067-f673565e-8a1c-4020-b4ad-df500325511b.webp)
+![](assets/0322-0328/1742428935988-981d5731-414b-4e56-bca0-722b1874499a.webp)
 
-### 2. [CSGuide](https://github.com/imarvinle/CSGuide)
+### 2. [博客 365](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
 
-计算机学习路线，包括科班、非科班、Web、全栈、C++、Java、System 等。
+探讨 2024 年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742256792190-4368db9c-b7ad-450e-b1b4-c05678be38fc.webp)
+-   商业领域：主播探究竞业协议由来与边界；提及美图 2016 年港股上市；蜜雪冰城和古茗递表港交所。
+-   文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28 家出版社编辑推荐 2024 新书；主播分享汉字演变知识。
+-   生活领域：心理学家聊青少年厌学与心理健康；主播分享 Vision Pro 购买经历；介绍各地马拉松参赛体验。
+-   **科技领域**：主播畅聊数十款 AI 工具；指出 AI 大模型在闭环场景应用快，To B 产品有优势 。
 
-### 3. [404StarLink](https://github.com/knownsec/404StarLink)
+![](assets/0322-0328/1742429149654-a910aed3-26c5-4b52-bafd-4044987adc8b.webp)
 
-推荐优质、有意义、有趣、坚持维护的安全开源项目。
+### 3. [前端面试宝典](https://github.com/rileycai/FontEndInterview)
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0315-0321/1742343385825-e96baefd-fc9e-498b-ac9d-c91351c8216f.png)
+2020 届硕士的秋招前端面试实战经验，是项目作者本人在 2019 年春招实习和秋招求职过程中积累的面试经验和复习材料。包括春招 / 秋招面试情况、前端最常见的面试题目、优秀的面试博客汇总以及一些优质的文章分享。
 
+![](assets/0322-0328/1742860925111-9c80b714-50f6-4aa8-bb59-f07408912ae5.webp)
 
 ## ✍️ 说明
 
