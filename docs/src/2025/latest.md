@@ -12,118 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#99：字体搬运工
+# 好物周刊#100：AI 小浣熊
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/kReIWacz-m6UWsGB_9cH_w
+> 原文：https://mp.weixin.qq.com/s/npTcnMw79mM11envHpbbTA
 
 ## 一、项目
 
-### 1. [智能闲鱼客服机器人系统](https://github.com/shaxiu/XianyuAutoAgent)
+### 1. [轻松阅读](https://github.com/Zealon159/light-reading-cloud)
 
-专为闲鱼平台打造的 AI 值守解决方案，实现闲鱼平台 7×24 小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
+一款图书阅读类 APP，基于 SpringCloud 生态开发的微服务实践项目，涉及 SpringCloud-Gateway、Nacos、Hystrix、OpenFeign、Jwt、ElasticSearch 等技术栈的应用。
 
-![](assets/0322-0328/1742515350815-6d93656f-5e93-45b3-b255-5397479f3c74.webp)
+![](assets/0329-0404/1742775040767-d2a42e08-ba41-42c7-b9c8-e54353ef254f.webp)
 
-### 2. [vhAstro-Theme](https://github.com/uxiaohan/vhAstro-Theme)
+### 2. [serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub)
 
-一款基于 Astro 构建的优雅的响应式博客主题。
+苦于群聊二维码频繁变动，作者开发了这个能生成永久二维码的工具，无需服务器。基于 Cloudflare Workers 和 D1 实现。
 
-![](assets/0322-0328/1742773952139-043630cf-bd8f-41f7-a85f-34c2c7affd7e.webp)
+![](assets/0329-0404/1742775375676-75853270-b9f8-4de9-8564-6d421efeeda7.webp)
 
-### 3. [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends)
+### 3. [MoeMai](https://github.com/beilunyang/moemail)
 
-微信好友关系一键检测，基于微信 ipad 协议，看看有没有朋友偷偷删掉或者拉黑你。快速检测你的微信有没有单向好友，并自动将其添加到标签中 (之后可在电脑端一键清除这些人), 理论上可以支持检测上万的好友。
+一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务。
 
-![](assets/0322-0328/1742773882957-c54f2430-a3cc-446c-bca8-784bf1979f76.webp)
+![](assets/0329-0404/1743552405071-68586c43-f0df-42db-b057-053df774b7dd.webp)
 
 ## 二、软件
 
-### 1. [OfficeAI 助手](https://office-ai.cn/)
+### 1. [灵动桌面](https://www.wallpaperplay.cn)
 
-一款免费的智能 AI 办公工具软件，专为 Microsoft Office 和 WPS 用户打造。无论你是在寻找如何输入“打勾（√）符号”的方法，还是想知道“怎么在插入表格前添加文字”，或者“该用哪个公式”，它都能为你提供快速、准确的解决方案。通过简单的指令，ExcelAI 插件可以帮你自动完成复杂的公式计算、函数选择。WordAI 插件还具备整理周报、撰写会议纪要、总结内容、以及文案润色的强大功能。
+打造你的精美桌面，海量精品壁纸，超清动态壁纸任意换，搭配桌面组件打造个性桌面。
 
-![](assets/0322-0328/1742775134461-de8f8893-3956-46d6-9053-2643c910d916.webp)
+![](assets/0329-0404/1742947115672-1b270992-a16f-45c3-83df-1daf111e763e.webp)
 
-### 2. [TextSeek](https://www.textseek.net)
+### 2. [Windsurf AI IDE](https://windsurfai.org/)
 
-快速查找文件和文档内容的工具软件，Windows 和 macOS 系统均可使用。支持 PDF、Word、Excel、Powerpoint、WPS、OFD 等多种文档格式的搜索。
+一款由上下文引擎和多文件编辑驱动的创新代码编辑器，旨在提高开发人员的生产力。与 Cursor 和传统 IDE 相比，Windsurf 提供了更智能的 AI 自动完成、自定义模板支持和高效的自然语言交互。立即体验，解锁无限可能！
 
-![](assets/0322-0328/1742861075208-7b7e217b-a8ff-4b55-a47f-05c6b6a85d8f.webp)
+![](assets/0329-0404/1742947308611-129c73fa-688d-43e9-8450-890ad273f65e.webp)
 
-### 3. [Readest](https://github.com/readest/readest)
+### 3. [小浣熊家族](https://www.xiaohuanxiong.com/)
 
-一款开源电子书阅读器，专为沉浸式和深度阅读体验而设计。基于 Foliate 重写构建，利用 Next. js 15 和 Tauri v2 进行开发，支持在 macOS、Windows、Linux、Android、iOS 和 Web 上提供流畅的跨平台体验。
+基于商汤自研大语言模型的智能助手，包含代码助手、办公助手，满足用户代码编写、数据分析、编程学习等各类需求。
 
-![](assets/0322-0328/1742861256848-95ed2613-31b3-4f33-96f6-b29498c90523.webp)
+![](assets/0329-0404/1742947489885-fdd4bdc6-0d57-4e30-85a4-7680c7f442a6.webp)
 
 ## 三、网站
 
-### 1. [Ai Headshot Generator](https://ai-headshot-generator.net/)
+### 1. [ChatExcel](https://www.chatexcel.com/#/home?invitation_id=BFCD226954963EC380C48472911B7704)
 
-免费创建惊艳的 AI 头像，尝试 AI 专业头像生成器，轻松获得工作室级别的效果！
+AI Excel 处理和数据分析，用户只需像和好友聊天一样操作，Chatexcel 会自动通过 AI 完成图表处理和分析，彻底改变了与表格数据的交互方式。将用户从繁琐的公式与运算中解放出来，无需编写复杂的公式和代码，让用户专注于文件数据和分析本身。
 
-![](assets/0322-0328/1742429282232-76773fb0-201c-491e-8918-37c083ec57fa.webp)
+![](assets/0329-0404/1742947907672-f337ed55-b9d9-4ad1-a6a4-b4557924f57e.webp)
 
-### 2. [字体搬运工](https://font.sucai999.com)
+### 2. [Emoji 大全](https://www.emojiall.com/)
 
-一个免费公益性的字体网站，致力于收录可商用的免费字体。无需登录注册，随时随地都可以自由下载。
+该网站提供了最新、完整的 Emoji 搜索和相关信息，包括表情符号含义、使用示例、Unicode 代码点、高分辨率图片、复制和粘贴，以及 Emoji 大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。
 
-![](assets/0322-0328/1742429546161-9dcf43d3-2c6e-465c-b810-97e0165afec6.webp)
+![](assets/0329-0404/1743552679452-020b0b5e-95fd-4d55-b4b7-e18029e90245.webp)
 
-### 3. [发表情](https://fabiaoqing.com/)
+### 3. [极速箱](https://jisuxiang.com)
 
-最新最全的无水印表情包分享与制作平台，有海量热门表情、聊天表情、微信表情包、QQ表情包、金馆长表情包、蘑菇头表情包等各类表情。
+提供高效开发工具集成平台，程序员必备在线工具箱，包含 JSON 处理、编码转换、加密解密、时间转换等提升编程效率的神器。
 
-![](assets/0322-0328/1742784702435-990ac0b9-671b-42b5-abfa-cbf1791abbb6.webp)
+![](assets/0329-0404/1743552877575-9126a739-7a1d-41e2-8d34-d2c7b528a5c9.webp)
 
 ## 四、插件
 
-### 1. [复制链接](https://chromewebstore.google.com/detail/复制链接/mjpbijfgaajfmabmfnabchojdlpfnbbi)
+### 1. [开发工具箱](https://chromewebstore.google.com/detail/开发工具箱/mflanociobpenleccopmoanpdbcjcanm)
 
-从上下文菜单中复制带有文本的链接和页面 URL。
+常用开发小工具集合于一身，为我们的工作带来福音。
 
-![](assets/0322-0328/1742860423933-56732c0b-8f08-40bd-8d96-b76f7091e8c1.webp)
+![](assets/0329-0404/1743638389852-abd6b399-8f88-4354-8f85-307cc5adbde8.webp)
 
-### 2. [复制历史](https://chromewebstore.google.com/detail/复制历史-+-最佳剪贴板历史工具/kjlbbjicboihbikbjbbmkimccoeccoon)
+### 2. [在云端](https://chromewebstore.google.com/detail/在云端-ai-阅读助手/icdjfbhmnnheggmifcelflcdpnbdcnfm)
 
-剪贴板历史，管理复制历史。特点是免费，简单，支持自动保存，存储，收集复制的文本。提高生产力，节省我们的时间。
+由阿里云开发者社区的一群开发者设计开发的一款多功能浏览器插件。新标签页美，体现了摄影美学、专注力以及先进云技术资讯。我们力求可以通过这项工作使得大家在这个快节奏信息爆炸的时代可以保持领先的同时获得内心的一份平静与祥和。AI 阅读助手采用通义前文大语言模型协助用户进行日常网页浏览，高效获取信息。
 
-![](assets/0322-0328/1742860516524-bbcd23e1-54c8-48cc-b025-35b70140af61.webp)
+![](assets/0329-0404/1743638505383-977dd7a8-88f3-4d1d-8132-2281121d950f.webp)
 
-### 3. [从视频中复制文本](https://chromewebstore.google.com/detail/从视频中复制文本/djbbokpfbbipcdnodgadkidppckgajgp?hl=zh-CN)
+### 3. [Moonlight](https://hchromewebstore.google.com/detail/moonlight：科研论文的ai同伴/lhipdkibljepmfojllcfflfflhflcbgi)
 
-用于从视频、图像和现场会议中复制文字的终极 OCR 工具，在几秒钟内复制讲座中的笔记、教程中的代码、社交媒体视频中的链接，甚至手写文本，支持超 100 种语言。
+与 AI 同伴 Moonlight 对话，快速深入理解论文。解读、摘要、翻译、聊天功能、参考文献搜索。论文阅读所需的一切功能，一应俱全。
 
-![](assets/0322-0328/1742860650475-1584733e-f000-4a87-9736-2f5dcbe6c982.webp)
+![](assets/0329-0404/1743638693348-92e7f3da-bc26-42e2-8680-7eb456083e33.webp)
 
 ## 五、资料
 
-### 1. [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)
+### 1. [大数据学习指南](https://github.com/MoRan1607/BigDataGuide)
 
-基于 springboot 的快速学习示例，整合作者遇到的开源框架，如：rabbitmq (延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等。
+大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料。
 
-![](assets/0322-0328/1742428935988-981d5731-414b-4e56-bca0-722b1874499a.webp)
+![](assets/0329-0404/1743638877313-3839c89d-0c6f-493e-b0b7-75bb70fe11be.webp)
 
-### 2. [博客 365](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
+### 2. [ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
 
-探讨 2024 年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
+机器学习 (Machine Learning)、深度学习 (Deep Learning)、NLP 面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 
--   商业领域：主播探究竞业协议由来与边界；提及美图 2016 年港股上市；蜜雪冰城和古茗递表港交所。
--   文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28 家出版社编辑推荐 2024 新书；主播分享汉字演变知识。
--   生活领域：心理学家聊青少年厌学与心理健康；主播分享 Vision Pro 购买经历；介绍各地马拉松参赛体验。
--   **科技领域**：主播畅聊数十款 AI 工具；指出 AI 大模型在闭环场景应用快，To B 产品有优势 。
+![](assets/0329-0404/1743639241220-72494dd8-dff1-4469-8340-1a448068dbf8.webp)
 
-![](assets/0322-0328/1742429149654-a910aed3-26c5-4b52-bafd-4044987adc8b.webp)
+### 3. [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 
-### 3. [前端面试宝典](https://github.com/rileycai/FontEndInterview)
+专为程序员编写的英语学习指南。指南会深挖语言学习的本质（主要用中文举例）并用程序员易于理解的方式去思考，并提供自己根据本质推演出来的训练方法和经验做参考。重中之重是你要根据本质自己设计适合自己的训练方法，同时可以甄别网上看到学习方法和资料，判断是否适合自己使用。
 
-2020 届硕士的秋招前端面试实战经验，是项目作者本人在 2019 年春招实习和秋招求职过程中积累的面试经验和复习材料。包括春招 / 秋招面试情况、前端最常见的面试题目、优秀的面试博客汇总以及一些优质的文章分享。
-
-![](assets/0322-0328/1742860925111-9c80b714-50f6-4aa8-bb59-f07408912ae5.webp)
+![](assets/0329-0404/1743639343823-d2e757d3-309a-4d83-a564-8d8526cd046a.webp)
 
 ## ✍️ 说明
 
