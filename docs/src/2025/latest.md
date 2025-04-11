@@ -12,113 +12,122 @@ tag:
 
 ---
 
-# 好物周刊#100：AI 小浣熊
+# 好物周刊#101：截图侠
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/npTcnMw79mM11envHpbbTA
+> 原文：https://mp.weixin.qq.com/s/POc91kcEuWFBTfd_AW6eZg
 
-## 一、项目
+## 一、项目 
 
-### 1. [轻松阅读](https://github.com/Zealon159/light-reading-cloud)
+### 1. [sg-exam](https://github.com/wells2333/sg-exam)
 
-一款图书阅读类 APP，基于 SpringCloud 生态开发的微服务实践项目，涉及 SpringCloud-Gateway、Nacos、Hystrix、OpenFeign、Jwt、ElasticSearch 等技术栈的应用。
+基于 Spring Boot、Vue 构建的高效教学管理平台，专为便捷与美学设计，无缝融合多租户体系与精细权限管理，涵盖在线考试、日常练习、互动学习等核心功能。
 
-![](assets/0329-0404/1742775040767-d2a42e08-ba41-42c7-b9c8-e54353ef254f.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744156535236-13d461ea-75a9-4d29-ac58-4c3f493d7023.webp)
 
-### 2. [serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub)
+### 2. [weimai-wetapp](https://github.com/xierongwkhd/weimai-wetapp)
 
-苦于群聊二维码频繁变动，作者开发了这个能生成永久二维码的工具，无需服务器。基于 Cloudflare Workers 和 D1 实现。
+微麦电影购票小程序，基于 Spring Boot + Vue 开发，共分为三部分：小程序端、商家（影院）后台与官方后台。
 
-![](assets/0329-0404/1742775375676-75853270-b9f8-4de9-8564-6d421efeeda7.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744156604362-6a09a56b-c3f6-4854-b67b-f0939c36b9c6.webp)
 
-### 3. [MoeMai](https://github.com/beilunyang/moemail)
+### 3. [在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
 
-一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务。
+基于 Spring Boot 的在线考试系统，前后端分离，前段组件化，方便二次开发。支持如下功能：
 
-![](assets/0329-0404/1743552405071-68586c43-f0df-42db-b057-053df774b7dd.webp)
+-   支持单选题、多选题、判断题
+-   支持学生 (student)、教师 (teacher)、管理员 (admin) 三种角色
+
+-   学生：参加考试和查看我的考试
+-   教师：学生的所有权限 + 创建 / 编辑题目 + 创建 / 编辑考试
+-   管理员：教师的所有权限 + 管理用户
+
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744156872652-29fe8f19-fd83-44f1-94b5-4174021d8514.webp)
 
 ## 二、软件
 
-### 1. [灵动桌面](https://www.wallpaperplay.cn)
+### 1. [狐猴浏览器](https://www.lemurbrowser.com/)
 
-打造你的精美桌面，海量精品壁纸，超清动态壁纸任意换，搭配桌面组件打造个性桌面。
+支持谷歌、微软扩展插件的浏览器，不论是 Chrome，Edge 还是 Tampermonkey，统统收录其中。
 
-![](assets/0329-0404/1742947115672-1b270992-a16f-45c3-83df-1daf111e763e.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744023453541-c60ea561-d3c4-4095-b0ac-8d743643a68a.webp)
 
-### 2. [Windsurf AI IDE](https://windsurfai.org/)
+### 2. [FlyEnv](https://github.com/xpf0000/FlyEnv)
 
-一款由上下文引擎和多文件编辑驱动的创新代码编辑器，旨在提高开发人员的生产力。与 Cursor 和传统 IDE 相比，Windsurf 提供了更智能的 AI 自动完成、自定义模板支持和高效的自然语言交互。立即体验，解锁无限可能！
+一款专为现代开发人员设计的一体化环境管理工具。它通过提供快速的多版本切换、全栈技术支持和无缝的跨平台体验来简化开发。无论您使用的是 PHP、NodeJS、Java、Go 还是 Python，FlyEnv 都可以通过一个命令集成所有必要的工具，消除配置难题。 
 
-![](assets/0329-0404/1742947308611-129c73fa-688d-43e9-8450-890ad273f65e.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744023660306-447c3116-07eb-4d66-a141-7df7c7ddf786.webp)
 
-### 3. [小浣熊家族](https://www.xiaohuanxiong.com/)
+### 3. [微商截图侠](https://www.wsjtxia.com)
 
-基于商汤自研大语言模型的智能助手，包含代码助手、办公助手，满足用户代码编写、数据分析、编程学习等各类需求。
+在线制作微信对话生成器和支付宝转账，微信聊天记录生成，免费微信对话在线制作，微信转账，支付宝聊天，微信余额，微信零钱，微信红包等截图，一款微商截图神器。
 
-![](assets/0329-0404/1742947489885-fdd4bdc6-0d57-4e30-85a4-7680c7f442a6.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744025204414-16ec753b-e924-44b8-a66b-4fa84b4241cc.webp)
 
 ## 三、网站
 
-### 1. [ChatExcel](https://www.chatexcel.com/#/home?invitation_id=BFCD226954963EC380C48472911B7704)
+### 1. [菜鸟图标](https://icon.sucai999.com/)
 
-AI Excel 处理和数据分析，用户只需像和好友聊天一样操作，Chatexcel 会自动通过 AI 完成图表处理和分析，彻底改变了与表格数据的交互方式。将用户从繁琐的公式与运算中解放出来，无需编写复杂的公式和代码，让用户专注于文件数据和分析本身。
+免费商用矢量图标库，共有 20,0000+ 个高品质矢量图标，是设计师与开发者的灵感宝藏。一站式解决你的图标需求，提升效率的小助手！
 
-![](assets/0329-0404/1742947907672-f337ed55-b9d9-4ad1-a6a4-b4557924f57e.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1743983504129-fa388558-c83e-4799-b554-74d1d595883a.webp)
 
-### 2. [Emoji 大全](https://www.emojiall.com/)
+### 2. [爱校对](https://www.ijiaodui.com)
 
-该网站提供了最新、完整的 Emoji 搜索和相关信息，包括表情符号含义、使用示例、Unicode 代码点、高分辨率图片、复制和粘贴，以及 Emoji 大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。
+依托于清华大学计算机智能人机交互实验室的技术成果，致力于以人为中心的创新交互技术实现信息无障碍，融合交互设计、智能感知和识别算法，提供移动、穿戴、IoT（物联网）的智能交互方案，解决消费者和行业痛点。
 
-![](assets/0329-0404/1743552679452-020b0b5e-95fd-4d55-b4b7-e18029e90245.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1743984650924-54ebb6e1-3a4a-4cf8-ad1e-110fd19357ed.webp)
 
-### 3. [极速箱](https://jisuxiang.com)
+### 3. [番喜导航](https://fxsh.com)
 
-提供高效开发工具集成平台，程序员必备在线工具箱，包含 JSON 处理、编码转换、加密解密、时间转换等提升编程效率的神器。
+专注职场与效率的垂直网址导航，一键直达热门工具、资源网站。每日精选优质站点，助您高效工作与学习，发现更实用的互联网世界！
 
-![](assets/0329-0404/1743552877575-9126a739-7a1d-41e2-8d34-d2c7b528a5c9.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1743984892855-c3dcaeac-4de2-4229-a151-28f992d615ed.webp)
 
 ## 四、插件
 
-### 1. [开发工具箱](https://chromewebstore.google.com/detail/开发工具箱/mflanociobpenleccopmoanpdbcjcanm)
+### 1. [电子邮件提取器](https://chromewebstore.google.com/detail/电子邮件提取器：从网站抓取电子邮件/joflojehbdajphljkcggpmajnoibdaio)
 
-常用开发小工具集合于一身，为我们的工作带来福音。
+强大的网络电子邮件抓取工具自动访问网站，高效批量提取电子邮件和社交媒体资料。它可以帮助您轻松地从网站上抓取电子邮件和联系页面，并找到大量的电子邮件数据。
 
-![](assets/0329-0404/1743638389852-abd6b399-8f88-4354-8f85-307cc5adbde8.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744070786692-4dd25c15-19e9-4f0b-bbdd-5922c871bc62.webp)
 
-### 2. [在云端](https://chromewebstore.google.com/detail/在云端-ai-阅读助手/icdjfbhmnnheggmifcelflcdpnbdcnfm)
+### 2. [电子邮件签名生成器](https://chromewebstore.google.com/detail/电子邮件签名生成器/pkklhocebkkoglfnghnfnpokjanbbcfo)
 
-由阿里云开发者社区的一群开发者设计开发的一款多功能浏览器插件。新标签页美，体现了摄影美学、专注力以及先进云技术资讯。我们力求可以通过这项工作使得大家在这个快节奏信息爆炸的时代可以保持领先的同时获得内心的一份平静与祥和。AI 阅读助手采用通义前文大语言模型协助用户进行日常网页浏览，高效获取信息。
+创建个性化和专业的电子邮件页脚的完美工具，它能充分展示您的身份并在您发送的每封邮件中留下深刻的印象。凭借用户友好的界面和一系列可定制的功能，提升您的邮件沟通体验。
 
-![](assets/0329-0404/1743638505383-977dd7a8-88f3-4d1d-8132-2281121d950f.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744070903495-c44d93f9-30b0-4738-b5dd-f635cf006386.webp)
 
-### 3. [Moonlight](https://hchromewebstore.google.com/detail/moonlight：科研论文的ai同伴/lhipdkibljepmfojllcfflfflhflcbgi)
+### 3. [Gmail 重复发送邮件](https://chromewebstore.google.com/detail/gmail重复发送邮件/nfkkaahokibjkbmoieakdcihjkifhfdo)
 
-与 AI 同伴 Moonlight 对话，快速深入理解论文。解读、摘要、翻译、聊天功能、参考文献搜索。论文阅读所需的一切功能，一应俱全。
+一款注重隐私的 Chrome 扩展，允许您通过 Gmail 延迟发送您的邮件，一次或每 X 个小时/天/月/年重复发送。无追踪、无广告、无横幅和无臃肿软件。
 
-![](assets/0329-0404/1743638693348-92e7f3da-bc26-42e2-8680-7eb456083e33.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744071160199-ea5fb42a-4f9d-4827-bfe8-08cdc2f91f25.webp)
 
 ## 五、资料
 
-### 1. [大数据学习指南](https://github.com/MoRan1607/BigDataGuide)
+### 1. [YCBlogs](https://github.com/yangchong211/YCBlogs)
 
-大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料。
+技术博客笔记大汇总，包括 Java 基础，线程，并发，数据结构；Android 技术博客等等；常用设计模式；常见的算法；网络协议知识点；部分 flutter 笔记；还包括平时开发中遇到的 bug 汇总，当然也在工作之余收集了大量的面试题。
 
-![](assets/0329-0404/1743638877313-3839c89d-0c6f-493e-b0b7-75bb70fe11be.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744157370146-20523916-64c1-4e80-aab9-a4c7d547c235.webp)
 
-### 2. [ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
+### 2. [blog](https://github.com/biaochenxuying/blog)
 
-机器学习 (Machine Learning)、深度学习 (Deep Learning)、NLP 面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+大前端技术内容为主，其次还有博主的读书笔记、随笔、理财方面的内容。
 
-![](assets/0329-0404/1743639241220-72494dd8-dff1-4469-8340-1a448068dbf8.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744157634645-0ab055cb-33f2-4da2-986b-a80646d5dce1.webp)
 
-### 3. [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+### 3. [游戏程序员的读书笔记](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-专为程序员编写的英语学习指南。指南会深挖语言学习的本质（主要用中文举例）并用程序员易于理解的方式去思考，并提供自己根据本质推演出来的训练方法和经验做参考。重中之重是你要根据本质自己设计适合自己的训练方法，同时可以甄别网上看到学习方法和资料，判断是否适合自己使用。
+作者作为游戏程序员生涯的读书笔记合辑，涉及游戏开发中的图形学、实时渲染、编程实践、GPU 编程、设计模式、软件工程等内容。
 
-![](assets/0329-0404/1743639343823-d2e757d3-309a-4d83-a564-8d8526cd046a.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744243011113-1aab40dd-aa91-4ef6-b5be-bb9271746a32.webp)
+
+## 
 
 ## ✍️ 说明
 
