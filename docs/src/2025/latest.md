@@ -12,122 +12,114 @@ tag:
 
 ---
 
-# 好物周刊#101：截图侠
+# 好物周刊#102：医保政策导航
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/POc91kcEuWFBTfd_AW6eZg
+> 原文：https://mp.weixin.qq.com/s/djp2MkMuN9wcjVHc_TJT1w
 
-## 一、项目 
+## 一、项目
 
-### 1. [sg-exam](https://github.com/wells2333/sg-exam)
+### 1. [Luxirty Search](https://github.com/KoriIku/luxirty-search)
 
-基于 Spring Boot、Vue 构建的高效教学管理平台，专为便捷与美学设计，无缝融合多租户体系与精细权限管理，涵盖在线考试、日常练习、互动学习等核心功能。
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744156535236-13d461ea-75a9-4d29-ac58-4c3f493d7023.webp)
+![](assets/0412-0418/1744588437099-c72e5a7f-92df-4e9c-ae17-685455efe160.webp)
 
-### 2. [weimai-wetapp](https://github.com/xierongwkhd/weimai-wetapp)
+### 2. [PDF Craft](https://github.com/oomol-lab/pdf-craft)
 
-微麦电影购票小程序，基于 Spring Boot + Vue 开发，共分为三部分：小程序端、商家（影院）后台与官方后台。
+可以将 PDF 文件转化为各种其他格式，该项目将专注于扫描书籍的 PDF 文件的处理。本项目可将 PDF 一页一页读出，并使用 DocLayout-YOLO 混合我写的一个算法，将书页中的正文提取出来，并过滤掉页眉、页脚、脚注、页码等元素。在跨页过程中，会使用算法判断以妥善处理前后文跨页顺接问题，最终生成语义通顺的文本。书页会使用 OnnxOCR 进行文本识别，并使用 layoutreader 来确定符合人类习惯的阅读顺序。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744156604362-6a09a56b-c3f6-4854-b67b-f0939c36b9c6.webp)
+![](assets/0412-0418/1744588828297-9af3b2cb-30de-46da-b2d6-18eeff918a1c.webp)
 
-### 3. [在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)
+### 3. [微信公众号 Markdown 编辑器](https://github.com/jaywcjlove/wxmp)
 
-基于 Spring Boot 的在线考试系统，前后端分离，前段组件化，方便二次开发。支持如下功能：
+公众号文章 Markdown 在线编辑器，使用 Markdown 语法创建一篇简介美观大方的微信公众号图文。
 
--   支持单选题、多选题、判断题
--   支持学生 (student)、教师 (teacher)、管理员 (admin) 三种角色
-
--   学生：参加考试和查看我的考试
--   教师：学生的所有权限 + 创建 / 编辑题目 + 创建 / 编辑考试
--   管理员：教师的所有权限 + 管理用户
-
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744156872652-29fe8f19-fd83-44f1-94b5-4174021d8514.webp)
+![](assets/0412-0418/1744627296085-9efe355e-d9cf-4386-8a2d-5efa98d97ad3.webp)
 
 ## 二、软件
 
-### 1. [狐猴浏览器](https://www.lemurbrowser.com/)
+### 1. [自动键鼠](https://www.autojs.com.cn)
 
-支持谷歌、微软扩展插件的浏览器，不论是 Chrome，Edge 还是 Tampermonkey，统统收录其中。
+一个 Windows 平台下的强大的自动化脚本工具。它非常的易于使用，无需任何编程知识就能创建一个功能强大的脚本。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744023453541-c60ea561-d3c4-4095-b0ac-8d743643a68a.webp)
+![](assets/0412-0418/1744070471886-e693d78a-a4f9-4c84-a8b4-0cacc063ca3b.webp)
 
-### 2. [FlyEnv](https://github.com/xpf0000/FlyEnv)
+### 2. [萌艺卡片](https://www.moecard.app/)
 
-一款专为现代开发人员设计的一体化环境管理工具。它通过提供快速的多版本切换、全栈技术支持和无缝的跨平台体验来简化开发。无论您使用的是 PHP、NodeJS、Java、Go 还是 Python，FlyEnv 都可以通过一个命令集成所有必要的工具，消除配置难题。 
+有趣而强大的卡片创作工具，丝滑手势，精美字体、丰富表情，让你的创作充满趣味。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744023660306-447c3116-07eb-4d66-a141-7df7c7ddf786.webp)
+![](assets/0412-0418/1744627914756-7ba429be-58b1-4dd2-91ab-df1e3f93c46a.webp)
 
-### 3. [微商截图侠](https://www.wsjtxia.com)
+### 3. [WinTools One](https://wintools.one)
 
-在线制作微信对话生成器和支付宝转账，微信聊天记录生成，免费微信对话在线制作，微信转账，支付宝聊天，微信余额，微信零钱，微信红包等截图，一款微商截图神器。
+一款面向普通用户、高级用户及计算机工程师的 Windows 系统优化工具。支持 Windows 11/10/8.1/8/7/VISTA（32/64 位），下载大小仅 3 MB。其集成 12 大核心工具，涵盖软件卸载、磁盘清理、注册表优化、隐私清除、启动项管理、文件加密与粉碎、虚拟磁盘创建等功能，旨在提升系统性能、释放存储空间、修复系统错误并保护机密数据，同时提供灵活的系统参数调校选项。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744025204414-16ec753b-e924-44b8-a66b-4fa84b4241cc.webp)
+![](assets/0412-0418/1744628331967-a9347075-bcc8-4e2d-bb81-447602273798.webp)
 
 ## 三、网站
 
-### 1. [菜鸟图标](https://icon.sucai999.com/)
+### 1. [云鸽](https://yunge.in)
 
-免费商用矢量图标库，共有 20,0000+ 个高品质矢量图标，是设计师与开发者的灵感宝藏。一站式解决你的图标需求，提升效率的小助手！
+一款方便、快速、安全的文件传输助手。让您可以在不同设备之间轻松共享文件，它提供了简单直观的界面和高速稳定的传输速度，无需下载或登录，非常适合在日常生活和工作中共享文件。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1743983504129-fa388558-c83e-4799-b554-74d1d595883a.webp)
+![](assets/0412-0418/1743985046805-2627970d-57c5-4717-8f2d-6d51da5bad82.webp)
 
-### 2. [爱校对](https://www.ijiaodui.com)
+### 2. [医保政策导航](https://yibao.233h.com/)
 
-依托于清华大学计算机智能人机交互实验室的技术成果，致力于以人为中心的创新交互技术实现信息无障碍，融合交互设计、智能感知和识别算法，提供移动、穿戴、IoT（物联网）的智能交互方案，解决消费者和行业痛点。
+一个专注于提供全国医疗保险政策查询服务的平台。我们致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1743984650924-54ebb6e1-3a4a-4cf8-ad1e-110fd19357ed.webp)
+![](assets/0412-0418/1744627605429-8acaff71-e760-472a-8070-c4c570ba6c23.webp)
 
-### 3. [番喜导航](https://fxsh.com)
+### 3. [咔片](https://www.cappt.cc/)
 
-专注职场与效率的垂直网址导航，一键直达热门工具、资源网站。每日精选优质站点，助您高效工作与学习，发现更实用的互联网世界！
+AI PPT 生成工具，工作总结/教学课件/商业提案 3 分钟搞定！10万+ 场景模板一键替换，AI 自动排版 + 多格式导出，支持在线编辑，基础功能永久免费使用！
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1743984892855-c3dcaeac-4de2-4229-a151-28f992d615ed.webp)
+![](assets/0412-0418/1744628045247-f4a8b407-d1f9-495d-8829-f93492fdea26.webp)
 
 ## 四、插件
 
-### 1. [电子邮件提取器](https://chromewebstore.google.com/detail/电子邮件提取器：从网站抓取电子邮件/joflojehbdajphljkcggpmajnoibdaio)
+### 1. [精准截图](https://chromewebstore.google.com/detail/精准截图-一键智能精准截图工具/mebflgmmheidlmggndpkkodonedongin?authuser=0&hl=zh-CN)
 
-强大的网络电子邮件抓取工具自动访问网站，高效批量提取电子邮件和社交媒体资料。它可以帮助您轻松地从网站上抓取电子邮件和联系页面，并找到大量的电子邮件数据。
+一款 Chrome 浏览器插件，旨在解决用户在网页截图时需要频繁调整截图区域比例的问题。该插件允许用户预先设定截图比例，然后进行连续截图操作，每次截图都会自动保持所选比例，大大提高截图效率。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744070786692-4dd25c15-19e9-4f0b-bbdd-5922c871bc62.webp)
+![](assets/0412-0418/1744627768108-93245860-c950-4dd3-bc0e-6010f6a94506.webp)
 
-### 2. [电子邮件签名生成器](https://chromewebstore.google.com/detail/电子邮件签名生成器/pkklhocebkkoglfnghnfnpokjanbbcfo)
+### 2. [Engage AI](https://chromewebstore.google.com/detail/engage-ai-社交网站智能评论/nelhhkchoapcbpcgpmmiahfkcdhgecaf)
 
-创建个性化和专业的电子邮件页脚的完美工具，它能充分展示您的身份并在您发送的每封邮件中留下深刻的印象。凭借用户友好的界面和一系列可定制的功能，提升您的邮件沟通体验。
+使用 AI 撰写有见地的评论，通过吸引和增加与多个 LinkedIn 潜在客户的接触点来加快转化速度，从而节省您的时间。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744070903495-c44d93f9-30b0-4738-b5dd-f635cf006386.webp)
+![](assets/0412-0418/1744629573707-cab2d0f0-af79-44e3-b516-07002e5bd45b.webp)
 
-### 3. [Gmail 重复发送邮件](https://chromewebstore.google.com/detail/gmail重复发送邮件/nfkkaahokibjkbmoieakdcihjkifhfdo)
+### 3. [Privacy Test](https://chromewebstore.google.com/detail/privacy-test/pdabfienifkbhoihedcgeogidfmibmhp?hl=zh-CN)
 
-一款注重隐私的 Chrome 扩展，允许您通过 Gmail 延迟发送您的邮件，一次或每 X 个小时/天/月/年重复发送。无追踪、无广告、无横幅和无臃肿软件。
+这款应用程序核心功能包括清除浏览数据、历史记录、缓存、Cookie，帮助用户快速删除浏览器中存储的隐私数据，提升在线安全。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744071160199-ea5fb42a-4f9d-4827-bfe8-08cdc2f91f25.webp)
+![](assets/0412-0418/1744629687600-904c6373-8953-4f47-8189-5bbe02fd5ce3.webp)
 
 ## 五、资料
 
-### 1. [YCBlogs](https://github.com/yangchong211/YCBlogs)
+### 1. [resources](https://github.com/BestDingSheng/resources)
 
-技术博客笔记大汇总，包括 Java 基础，线程，并发，数据结构；Android 技术博客等等；常用设计模式；常见的算法；网络协议知识点；部分 flutter 笔记；还包括平时开发中遇到的 bug 汇总，当然也在工作之余收集了大量的面试题。
+知名互联网企业内推资料整理，目前已经维护五个微信群接近 3000 人。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744157370146-20523916-64c1-4e80-aab9-a4c7d547c235.webp)
+![](assets/0412-0418/1744675155282-d09fb688-32f5-42d5-8102-9786e02df7ff.webp)
 
-### 2. [blog](https://github.com/biaochenxuying/blog)
+### 2. [SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook)
 
-大前端技术内容为主，其次还有博主的读书笔记、随笔、理财方面的内容。
+项目分享了中山大学计算机学院本科和研究生阶段的课程资料、笔记、期末考试卷和其他实用的相关资源。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744157634645-0ab055cb-33f2-4da2-986b-a80646d5dce1.webp)
+![](assets/0412-0418/1744675246261-08c81dcc-2075-49b9-beac-30027ae5db1f.webp)
 
-### 3. [游戏程序员的读书笔记](https://github.com/QianMo/Game-Programmer-Study-Notes)
+### 3. [前端开发博客](https://github.com/kujian/frontendDaily)
 
-作者作为游戏程序员生涯的读书笔记合辑，涉及游戏开发中的图形学、实时渲染、编程实践、GPU 编程、设计模式、软件工程等内容。
+前端开发博客，分享互联网最精彩的前端技术。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0405-0411/1744243011113-1aab40dd-aa91-4ef6-b5be-bb9271746a32.webp)
+![](assets/0412-0418/1744675484116-7059c9db-76f8-46d9-9ecb-c6f70878b1c9.webp)
 
-## 
 
 ## ✍️ 说明
 
