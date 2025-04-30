@@ -12,114 +12,115 @@ tag:
 
 ---
 
-# 好物周刊#102：医保政策导航
+# 好物周刊#103：极客桌面
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/djp2MkMuN9wcjVHc_TJT1w
+> 原文：https://mp.weixin.qq.com/s/6XtL5o9O1ojk0F4nzsb9bA
 
 ## 一、项目
 
-### 1. [Luxirty Search](https://github.com/KoriIku/luxirty-search)
+### 1. [hotelManegement](https://github.com/mynameisly/HotelManagement)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
+基于 Vue + Element UI 的酒店管理系统解决方案，方便开发快速简洁好看的组件。分离颜色样式，支持手动切换主题色，而且很方便使用自定义主题色。
 
-![](assets/0412-0418/1744588437099-c72e5a7f-92df-4e9c-ae17-685455efe160.webp)
+![](assets/0419-0425/1745192720260-898ba987-f5a0-468b-bd24-5859b78fb494.webp)
 
-### 2. [PDF Craft](https://github.com/oomol-lab/pdf-craft)
+### 2. [盘小子](https://github.com/towelong/panxiaozi)
 
-可以将 PDF 文件转化为各种其他格式，该项目将专注于扫描书籍的 PDF 文件的处理。本项目可将 PDF 一页一页读出，并使用 DocLayout-YOLO 混合我写的一个算法，将书页中的正文提取出来，并过滤掉页眉、页脚、脚注、页码等元素。在跨页过程中，会使用算法判断以妥善处理前后文跨页顺接问题，最终生成语义通顺的文本。书页会使用 OnnxOCR 进行文本识别，并使用 layoutreader 来确定符合人类习惯的阅读顺序。
+一个一站式网盘资源搜索引擎，支持夸克网盘、百度网盘、阿里云盘等多平台，快速精准搜索，一键直达。
 
-![](assets/0412-0418/1744588828297-9af3b2cb-30de-46da-b2d6-18eeff918a1c.webp)
+![](assets/0419-0425/1745192826619-f9acddd0-f7ba-48fa-9b1a-0454b5beba52.webp)
 
-### 3. [微信公众号 Markdown 编辑器](https://github.com/jaywcjlove/wxmp)
+### 3. [douyin_video](https://github.com/cwjcw/xhs_douyin_content)
 
-公众号文章 Markdown 在线编辑器，使用 Markdown 语法创建一篇简介美观大方的微信公众号图文。
+自动抓取抖音和小红书创作者中心里的每条视频的播放，完播，点击，2s 跳出，播放时长，点赞，分享，评论，收藏，主页访问，粉丝增量等数据。
 
-![](assets/0412-0418/1744627296085-9efe355e-d9cf-4386-8a2d-5efa98d97ad3.webp)
+![](assets/0419-0425/1745192947251-ae2865c5-ce32-4cf8-8f02-59954e00bc0c.webp)
 
 ## 二、软件
 
-### 1. [自动键鼠](https://www.autojs.com.cn)
+### 1. [音速启动](https://www.vstartapp.com)
 
-一个 Windows 平台下的强大的自动化脚本工具。它非常的易于使用，无需任何编程知识就能创建一个功能强大的脚本。
+一款桌面管理软件，采用 C++ 编写运行速度极快！以仿真 QQ 界面的形式结合桌面工具的特点，应用于软件文件夹网址的快捷操作，Windows 装机必备软件！支持软件文件夹网址快捷方式管理，内置常用的系统软件功能，收集集成了大部分装机必备软件。
 
-![](assets/0412-0418/1744070471886-e693d78a-a4f9-4c84-a8b4-0cacc063ca3b.webp)
+![](assets/0419-0425/1744674978480-d7ef6c89-9ad9-4377-8d82-68bb572a4568.webp)
 
-### 2. [萌艺卡片](https://www.moecard.app/)
+### 2. [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-有趣而强大的卡片创作工具，丝滑手势，精美字体、丰富表情，让你的创作充满趣味。
+小巧、美观的桌面快速启动管理工具，同时集成了 Everything 搜索。
 
-![](assets/0412-0418/1744627914756-7ba429be-58b1-4dd2-91ab-df1e3f93c46a.webp)
+![](assets/0419-0425/1744685323377-6592c67f-8f73-4522-89f6-280fdbd43957.webp)
 
-### 3. [WinTools One](https://wintools.one)
+### 3. [远程看看](https://www.anyviewer.cn)
 
-一款面向普通用户、高级用户及计算机工程师的 Windows 系统优化工具。支持 Windows 11/10/8.1/8/7/VISTA（32/64 位），下载大小仅 3 MB。其集成 12 大核心工具，涵盖软件卸载、磁盘清理、注册表优化、隐私清除、启动项管理、文件加密与粉碎、虚拟磁盘创建等功能，旨在提升系统性能、释放存储空间、修复系统错误并保护机密数据，同时提供灵活的系统参数调校选项。
+安全，快速，易于使用的远程控制软件，支持用户随时随地实现电脑远程控制和访问。
 
-![](assets/0412-0418/1744628331967-a9347075-bcc8-4e2d-bb81-447602273798.webp)
+![](assets/0419-0425/1744702015810-a28ecaec-4dda-442f-84a7-4e02350344b7.webp)
 
 ## 三、网站
 
-### 1. [云鸽](https://yunge.in)
+### 1. [喵闪字库](https://www.miao3.cn)
 
-一款方便、快速、安全的文件传输助手。让您可以在不同设备之间轻松共享文件，它提供了简单直观的界面和高速稳定的传输速度，无需下载或登录，非常适合在日常生活和工作中共享文件。
+一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
 
-![](assets/0412-0418/1743985046805-2627970d-57c5-4717-8f2d-6d51da5bad82.webp)
+![](assets/0419-0425/1744718096648-558c286d-6f7b-428b-a923-d7ed5a9eb510.webp)
 
-### 2. [医保政策导航](https://yibao.233h.com/)
+### 2. [琅琅配音](https://www.lang123.top)
 
-一个专注于提供全国医疗保险政策查询服务的平台。我们致力于为用户提供准确、及时、便捷的医保政策查询服务，帮助用户更好地了解和利用医保政策。
+一款卓越的智能文本转语音工具，提供语音合成服务。拥有全网最受欢迎的 1100+ AI 主播，支持中文、英语、德语、法语等 80 多种语言，以及高兴、悲伤、兴奋等 10 多种情感风格。
 
-![](assets/0412-0418/1744627605429-8acaff71-e760-472a-8070-c4c570ba6c23.webp)
+![](assets/0419-0425/1744718347552-e07644a8-bd9e-48c8-86ce-b95916b63e60.webp)
 
-### 3. [咔片](https://www.cappt.cc/)
+### 3. [九歌](https://jiuge.thunlp.org)
 
-AI PPT 生成工具，工作总结/教学课件/商业提案 3 分钟搞定！10万+ 场景模板一键替换，AI 自动排版 + 多格式导出，支持在线编辑，基础功能永久免费使用！
+清华大学自然语言处理与社会人文计算实验室研发的人工智能诗歌写作系统。该系统采用最新的深度学习技术，结合多个为诗歌生成专门设计的模型，基于超过 80 万首人类诗人创作的诗歌进行训练学习。区别于其他诗歌生成系统，九歌具有多模态输入、多体裁多风格、人机交互创作模式等特点。
 
-![](assets/0412-0418/1744628045247-f4a8b407-d1f9-495d-8829-f93492fdea26.webp)
+![](assets/0419-0425/1744848368063-be711bf5-b112-448b-b344-0be0d94dedeb.webp)
 
 ## 四、插件
 
-### 1. [精准截图](https://chromewebstore.google.com/detail/精准截图-一键智能精准截图工具/mebflgmmheidlmggndpkkodonedongin?authuser=0&hl=zh-CN)
+### 1. [WeDock 智能搜索](https://chromewebstore.google.com/detail/wedock智能搜索/bcempikghekhnhildnoacolmpgjbjhhp?authuser=1&hl=zh-CN)
 
-一款 Chrome 浏览器插件，旨在解决用户在网页截图时需要频繁调整截图区域比例的问题。该插件允许用户预先设定截图比例，然后进行连续截图操作，每次截图都会自动保持所选比例，大大提高截图效率。
+智能搜索工具栏，提供便捷的搜索功能，包括豆包、deepseek、chatgpt等大模型，还包括诸多传统的搜索引擎。
 
-![](assets/0412-0418/1744627768108-93245860-c950-4dd3-bc0e-6010f6a94506.webp)
+![](assets/0419-0425/1744847623823-11a006ad-2222-4a88-b690-67d24daed345.webp)
 
-### 2. [Engage AI](https://chromewebstore.google.com/detail/engage-ai-社交网站智能评论/nelhhkchoapcbpcgpmmiahfkcdhgecaf)
+### 2. [Tai Sentry](https://chromewebstore.google.com/detail/tai-sentry/fmjgafoilnpanbpgdkljkjfjgainboim)
 
-使用 AI 撰写有见地的评论，通过吸引和增加与多个 LinkedIn 潜在客户的接触点来加快转化速度，从而节省您的时间。
+专为 Windows Tai 应用提供的浏览器拓展，在使用 Tai 的浏览器统计功能时需要安装此拓展。
 
-![](assets/0412-0418/1744629573707-cab2d0f0-af79-44e3-b516-07002e5bd45b.webp)
+![](assets/0419-0425/1744847992430-38ca8467-0a61-437c-bbbc-753f583f1911.webp)
 
-### 3. [Privacy Test](https://chromewebstore.google.com/detail/privacy-test/pdabfienifkbhoihedcgeogidfmibmhp?hl=zh-CN)
+### 3. [英语学习与翻译](https://chromewebstore.google.com/detail/英语学习与翻译-neonlingo/ifhljpgdgoimmfacomakolapgnamfkbd)
 
-这款应用程序核心功能包括清除浏览数据、历史记录、缓存、Cookie，帮助用户快速删除浏览器中存储的隐私数据，提升在线安全。
+一款网页 AI 外语学习、翻译插件，帮助你在快速浏览外文网页的同时记忆单词。
 
-![](assets/0412-0418/1744629687600-904c6373-8953-4f47-8189-5bbe02fd5ce3.webp)
+![](assets/0419-0425/1744890044920-91b46b0a-9a5b-4465-b8d3-8005dcd4624f.webp)
 
 ## 五、资料
 
-### 1. [resources](https://github.com/BestDingSheng/resources)
+### 1. [考途指南](https://pppw1my52v.feishu.cn/wiki/DGtMwJailirOwPk3OBIcTbTCnhg)
 
-知名互联网企业内推资料整理，目前已经维护五个微信群接近 3000 人。
+汇集教师、公务员、实验单位等考试资料，为考公路上的人提供一份指南。
 
-![](assets/0412-0418/1744675155282-d09fb688-32f5-42d5-8102-9786e02df7ff.webp)
+![](assets/0419-0425/1744888849609-659f9319-ab7b-40f5-824e-c4afca67085e.webp)
 
-### 2. [SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook)
+### 2. [Quick Reference](https://github.com/jaywcjlove/reference)
 
-项目分享了中山大学计算机学院本科和研究生阶段的课程资料、笔记、期末考试卷和其他实用的相关资源。
+为了方便开发人员查阅技术栈，作者分享了这份快速参考备忘清单【速查表】，旨在帮助大家更好地使用相关技术。
 
-![](assets/0412-0418/1744675246261-08c81dcc-2075-49b9-beac-30027ae5db1f.webp)
+![](assets/0419-0425/1745224191574-450f3ae0-1f95-423b-8e8d-786a19014fbc.webp)
 
-### 3. [前端开发博客](https://github.com/kujian/frontendDaily)
+### 3. [自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
 
-前端开发博客，分享互联网最精彩的前端技术。
+本书既不是技术书籍，也不是职业规划书籍，其真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
 
-![](assets/0412-0418/1744675484116-7059c9db-76f8-46d9-9ecb-c6f70878b1c9.webp)
+![](assets/0419-0425/1745280991985-e2b10193-15f9-4d9b-aada-04976d7fb54b.webp)
 
+## 
 
 ## ✍️ 说明
 
