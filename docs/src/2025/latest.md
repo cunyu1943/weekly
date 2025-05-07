@@ -12,115 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#103：极客桌面
+# 好物周刊#104：星球视频
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/6XtL5o9O1ojk0F4nzsb9bA
+> 原文：https://mp.weixin.qq.com/s/je2Ok9qWuv-TK8CD7uNyEg
 
 ## 一、项目
 
-### 1. [hotelManegement](https://github.com/mynameisly/HotelManagement)
+### 1. [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
 
-基于 Vue + Element UI 的酒店管理系统解决方案，方便开发快速简洁好看的组件。分离颜色样式，支持手动切换主题色，而且很方便使用自定义主题色。
+一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia。它内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。SnowAdmin 提供了一站式的后台管理解决方案，无需额外配置，开箱即用。
 
-![](assets/0419-0425/1745192720260-898ba987-f5a0-468b-bd24-5859b78fb494.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745838028568-20bdb743-5bb4-4387-b88c-ef182a0c4c01.webp)
 
-### 2. [盘小子](https://github.com/towelong/panxiaozi)
+### 2. [Univer](https://github.com/dream-num/univer)
 
-一个一站式网盘资源搜索引擎，支持夸克网盘、百度网盘、阿里云盘等多平台，快速精准搜索，一键直达。
+一个前后端同构的全栈开发框架，可以在 web 端和服务端创建、编辑电子表格、文档以及幻灯片。
 
-![](assets/0419-0425/1745192826619-f9acddd0-f7ba-48fa-9b1a-0454b5beba52.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745970427526-20ebfb06-9530-420c-a462-bad4d3f3b233.webp)
 
-### 3. [douyin_video](https://github.com/cwjcw/xhs_douyin_content)
+### 3. [Kirara AI](https://github.com/lss233/kirara-ai)
 
-自动抓取抖音和小红书创作者中心里的每条视频的播放，完播，点击，2s 跳出，播放时长，点赞，分享，评论，收藏，主页访问，粉丝增量等数据。
+一款支持主流大语言模型、主流聊天平台的聊天的机器人！支持快速接入微信、 QQ、Telegram 等聊天平台。支持 DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI 等大模型，具备工作流系统、网页搜索、AI 画图、人设调教、虚拟女仆、语音对话等功能。
 
-![](assets/0419-0425/1745192947251-ae2865c5-ce32-4cf8-8f02-59954e00bc0c.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745970686278-104fef1c-4980-4808-9fae-68e0cae33dbf.webp)
 
 ## 二、软件
 
-### 1. [音速启动](https://www.vstartapp.com)
+### 1. [极狐加速器](https://jihujiasuqi.com)
 
-一款桌面管理软件，采用 C++ 编写运行速度极快！以仿真 QQ 界面的形式结合桌面工具的特点，应用于软件文件夹网址的快捷操作，Windows 装机必备软件！支持软件文件夹网址快捷方式管理，内置常用的系统软件功能，收集集成了大部分装机必备软件。
+采用开源，可以说是安全性拉满，专门针对网络游戏延迟优化，一键因网络问题造成的游戏卡顿、延迟、掉线、加载缓慢等一系列问题，完全免费无套路，游戏体验提升 1000%，永久免费加速，为你提供更好的游戏操作体验，为游戏玩家解决延迟、掉线、卡机，高 ping 等网络问题，有效提升网络稳定性，极致降低延迟。
 
-![](assets/0419-0425/1744674978480-d7ef6c89-9ad9-4377-8d82-68bb572a4568.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1744717588730-ef211ccf-b755-4919-a4ba-6040f30088c5.webp)
 
-### 2. [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+### 2. [星球视频](https://xq123321.buzz)
 
-小巧、美观的桌面快速启动管理工具，同时集成了 Everything 搜索。
+还在为下载各个影视 APP 而烦恼么，聚合各大平台高清影视资源。引爆视觉，横扫剧荒，人手一星球，追剧真上头！
 
-![](assets/0419-0425/1744685323377-6592c67f-8f73-4522-89f6-280fdbd43957.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1744717638586-68187b5c-c584-465a-9ae9-016b58f9edb0.webp)
 
-### 3. [远程看看](https://www.anyviewer.cn)
+### 3. [HexHub](https://www.hexhub.cn)
 
-安全，快速，易于使用的远程控制软件，支持用户随时随地实现电脑远程控制和访问。
+为程序员和运维人员量身打造的一站式开发运维利器，先进的数据库、Docker、SSH、SFTP 桌面 GUI 工具。
 
-![](assets/0419-0425/1744702015810-a28ecaec-4dda-442f-84a7-4e02350344b7.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1744847865549-f5ac319f-f668-4a10-a944-e428c41d7c6a.webp)
 
 ## 三、网站
 
-### 1. [喵闪字库](https://www.miao3.cn)
+### 1. [读典籍](https://dudianji.com)
 
-一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
+提供丰富的中华经典阅读体验，包括文白对照、交互式注释及导读工具。平台让阅读古籍变得轻松有趣，提供文章分节、人物、事件等丰富的阅读辅助功能。
 
-![](assets/0419-0425/1744718096648-558c286d-6f7b-428b-a923-d7ed5a9eb510.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745838134966-98d2a7f0-54c1-4f9a-817d-6bc9600e72a3.webp)
 
-### 2. [琅琅配音](https://www.lang123.top)
+### 2. [蚂蚁 PPT](https://www.antppt.com)
 
-一款卓越的智能文本转语音工具，提供语音合成服务。拥有全网最受欢迎的 1100+ AI 主播，支持中文、英语、德语、法语等 80 多种语言，以及高兴、悲伤、兴奋等 10 多种情感风格。
+一个 AI 在线智能生成 PPT 的平台，主要功能包括：AI 智能写 PPT，PPT 在线编辑、修改和导出，提供根据主题，文档，文本等多种方式生成ppt。
 
-![](assets/0419-0425/1744718347552-e07644a8-bd9e-48c8-86ce-b95916b63e60.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745839004301-8569e5fd-2659-4aef-b8c4-b11a226861c2.webp)
 
-### 3. [九歌](https://jiuge.thunlp.org)
+### 3. [全球地铁线路图与查询指南](https://www.metrolinehub.com/)
 
-清华大学自然语言处理与社会人文计算实验室研发的人工智能诗歌写作系统。该系统采用最新的深度学习技术，结合多个为诗歌生成专门设计的模型，基于超过 80 万首人类诗人创作的诗歌进行训练学习。区别于其他诗歌生成系统，九歌具有多模态输入、多体裁多风格、人机交互创作模式等特点。
+如果您需要使用简化的地铁线路图查找您的位置、目的地或景点，那么你一定需要它。网站提供嵌入地图中的世界各地地铁线路，让我们能够在地图上可视化路线并清晰地了解地铁系统。
 
-![](assets/0419-0425/1744848368063-be711bf5-b112-448b-b344-0be0d94dedeb.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745970901749-4dec4e95-d7a5-42d0-9c04-8cf49a1acb88.webp)
 
 ## 四、插件
 
-### 1. [WeDock 智能搜索](https://chromewebstore.google.com/detail/wedock智能搜索/bcempikghekhnhildnoacolmpgjbjhhp?authuser=1&hl=zh-CN)
+### 1. [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc?hl=zh-CN)
 
-智能搜索工具栏，提供便捷的搜索功能，包括豆包、deepseek、chatgpt等大模型，还包括诸多传统的搜索引擎。
+快速，高效，安全的笔记的最终解决方案。无论您是在使用手机、平板电脑还是浏览网页，都可以在瞬间捕捉到您的想法，使它们保持有序和可访问，同时保持对数据的控制，搭配 Obsidian 使用更高效。
 
-![](assets/0419-0425/1744847623823-11a006ad-2222-4a88-b690-67d24daed345.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971051935-8f44cb96-6d9f-4a81-9556-6a5c9961a649.webp)
 
-### 2. [Tai Sentry](https://chromewebstore.google.com/detail/tai-sentry/fmjgafoilnpanbpgdkljkjfjgainboim)
+### 2. [GoodPlan](https://chromewebstore.google.com/detail/goodplan-每日笔记作为新标签页/icokiikdmaaecdehkchflilmbmmedpga)
 
-专为 Windows Tai 应用提供的浏览器拓展，在使用 Tai 的浏览器统计功能时需要安装此拓展。
+把你的日常待办事项列表，变成你的浏览器新标签页。
 
-![](assets/0419-0425/1744847992430-38ca8467-0a61-437c-bbbc-753f583f1911.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971318581-25aa0a56-6695-4856-96a0-62202ee57abc.webp)
 
-### 3. [英语学习与翻译](https://chromewebstore.google.com/detail/英语学习与翻译-neonlingo/ifhljpgdgoimmfacomakolapgnamfkbd)
+### 3. [微信读书笔记助手](https://chromewebstore.google.com/detail/微信读书笔记助手/cmlenojlebcodibpdhmklglnbaghpdcg?hl=zh-CN)
 
-一款网页 AI 外语学习、翻译插件，帮助你在快速浏览外文网页的同时记忆单词。
+一个还不错的微信读书笔记工具，方便你导出书本标注等内容，尤其对常使用 Markdown 做笔记的用户比较有帮助。
 
-![](assets/0419-0425/1744890044920-91b46b0a-9a5b-4465-b8d3-8005dcd4624f.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971520859-361b760e-ab28-4465-acc4-c4b67fd65cb8.webp)
 
 ## 五、资料
 
-### 1. [考途指南](https://pppw1my52v.feishu.cn/wiki/DGtMwJailirOwPk3OBIcTbTCnhg)
+### 1. [Student-resources](https://github.com/ivmm/Student-resources)
 
-汇集教师、公务员、实验单位等考试资料，为考公路上的人提供一份指南。
+主要介绍利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益。
 
-![](assets/0419-0425/1744888849609-659f9319-ab7b-40f5-824e-c4afca67085e.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971715310-31bb1c9e-150b-4eed-9d6e-23f947ff521a.webp)
 
-### 2. [Quick Reference](https://github.com/jaywcjlove/reference)
+### 2. [颈椎病康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
 
-为了方便开发人员查阅技术栈，作者分享了这份快速参考备忘清单【速查表】，旨在帮助大家更好地使用相关技术。
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南，希望以此能唤醒大家对颈椎、腰椎健康的注意。
 
-![](assets/0419-0425/1745224191574-450f3ae0-1f95-423b-8e8d-786a19014fbc.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971792374-93b5fefb-52ae-4c34-9138-ab81a2adbad3.webp)
 
-### 3. [自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
+### 3. [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-本书既不是技术书籍，也不是职业规划书籍，其真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+结合了作者自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南。主要包括基础实践、测试思路、项目实践方面的内容。
 
-![](assets/0419-0425/1745280991985-e2b10193-15f9-4d9b-aada-04976d7fb54b.webp)
-
-## 
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745976626551-92d69476-69f3-4837-9483-9faca27bb0fb.webp) 
 
 ## ✍️ 说明
 
