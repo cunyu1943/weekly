@@ -12,113 +12,114 @@ tag:
 
 ---
 
-# 好物周刊#104：星球视频
+# 好物周刊#105：视频图文创作助手
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/je2Ok9qWuv-TK8CD7uNyEg
+> 原文：https://mp.weixin.qq.com/s/8AHg7McS5VFzkpCa6afzxg
 
 ## 一、项目
 
-### 1. [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
+### 1. [DeepWiki-Open](https://github.com/AsyncFuncAI/deepwiki-open)
 
-一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia。它内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。SnowAdmin 提供了一站式的后台管理解决方案，无需额外配置，开箱即用。
+开源 DeepWiki，用于 GitHub/Gitlab/Bitbucket 仓库的人工智能 Wiki 生成器。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745838028568-20bdb743-5bb4-4387-b88c-ef182a0c4c01.webp)
+![](assets/0503-0509/1746489490344-0ef7dd40-aefe-4d9e-a62b-353a860cc10d.webp)
 
-### 2. [Univer](https://github.com/dream-num/univer)
+### 2. [AI 视频图文创作助手](https://github.com/hanshuaikang/AI-Media2Doc)
 
-一个前后端同构的全栈开发框架，可以在 web 端和服务端创建、编辑电子表格、文档以及幻灯片。
+一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745970427526-20ebfb06-9530-420c-a462-bad4d3f3b233.webp)
+![](assets/0503-0509/1746489764200-cc59335a-935d-44dd-8edc-da7105e25bd3.webp)
 
-### 3. [Kirara AI](https://github.com/lss233/kirara-ai)
+### 3. [SiteProxy](https://github.com/netptop/siteproxy)
 
-一款支持主流大语言模型、主流聊天平台的聊天的机器人！支持快速接入微信、 QQ、Telegram 等聊天平台。支持 DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI 等大模型，具备工作流系统、网页搜索、AI 画图、人设调教、虚拟女仆、语音对话等功能。
+一个功能强大的在线代理工具，采用了最新的技术，提升了代理的稳定性和兼容性。致力于提供 简单、高效、安全的代理服务，为用户提供最佳的互联网访问体验。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745970686278-104fef1c-4980-4808-9fae-68e0cae33dbf.webp)
+![](assets/0503-0509/1746575761744-11946c98-d7a8-4a4b-a538-102f9194af9f.webp)
 
 ## 二、软件
 
-### 1. [极狐加速器](https://jihujiasuqi.com)
+### 1. [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 
-采用开源，可以说是安全性拉满，专门针对网络游戏延迟优化，一键因网络问题造成的游戏卡顿、延迟、掉线、加载缓慢等一系列问题，完全免费无套路，游戏体验提升 1000%，永久免费加速，为你提供更好的游戏操作体验，为游戏玩家解决延迟、掉线、卡机，高 ping 等网络问题，有效提升网络稳定性，极致降低延迟。
+一个免费的，开源的 Mac 应用程序清洁器，灵感来自 Freemacsoft 的 AppCleaner。项目的诞生原因是想要更多地了解 macOS 如何处理应用程序的安装/卸载，并获得更多的 Swift 经验。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1744717588730-ef211ccf-b755-4919-a4ba-6040f30088c5.webp)
+![](assets/0503-0509/1744889228593-4e198936-d708-4900-a6b1-fa2c23356e93.webp)
 
-### 2. [星球视频](https://xq123321.buzz)
+### 2. [Leawo 免费屏幕录像机](https://www.leawo.org/zh-CN/free-screen-recorder/)
 
-还在为下载各个影视 APP 而烦恼么，聚合各大平台高清影视资源。引爆视觉，横扫剧荒，人手一星球，追剧真上头！
+免费屏幕录像机组合，可记录屏幕活动、记录网络摄像头内容、记录系统声音和/或麦克风声音，以保存为屏幕截图、音频和/或最多 4K 免费无水印的屏幕录制视频。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1744717638586-68187b5c-c584-465a-9ae9-016b58f9edb0.webp)
+![](assets/0503-0509/1745280763545-44849103-8ed6-4169-a3a5-d6466d22c67a.webp)
 
-### 3. [HexHub](https://www.hexhub.cn)
+### 3. [烽翎](https://fengling.nocmt.com/)
 
-为程序员和运维人员量身打造的一站式开发运维利器，先进的数据库、Docker、SSH、SFTP 桌面 GUI 工具。
+跨系统同步剪贴板与管理云端文件，一触即达的云端文件管理工具。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1744847865549-f5ac319f-f668-4a10-a944-e428c41d7c6a.webp)
+![](assets/0503-0509/1745838935019-507a4065-0320-4d0d-b644-176713110867.webp)
 
 ## 三、网站
 
-### 1. [读典籍](https://dudianji.com)
+### 1. [物言卡片](https://mono.cards/)
 
-提供丰富的中华经典阅读体验，包括文白对照、交互式注释及导读工具。平台让阅读古籍变得轻松有趣，提供文章分节、人物、事件等丰富的阅读辅助功能。
+将任何内容转化为精美的视觉卡片，在社交媒体上更出众、更抓眼，包括链接、音乐、文章、文字、代码等。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745838134966-98d2a7f0-54c1-4f9a-817d-6bc9600e72a3.webp)
+![](assets/0503-0509/1746576274673-4fe5b55e-4915-4b73-b287-6d15b73148c4.webp)
 
-### 2. [蚂蚁 PPT](https://www.antppt.com)
+### 2. [FolderPort](https://folderport.com)
 
-一个 AI 在线智能生成 PPT 的平台，主要功能包括：AI 智能写 PPT，PPT 在线编辑、修改和导出，提供根据主题，文档，文本等多种方式生成ppt。
+基于 P2P 技术，让你随时随地快速、安全地分享文件夹。无需安装任何软件，突破文件大小限制，告别文件分割烦恼，轻松传输任意大小文件，打开浏览器即可开始分享。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745839004301-8569e5fd-2659-4aef-b8c4-b11a226861c2.webp)
+![](assets/0503-0509/1746576407264-49bd34e3-54e2-42cd-89b1-e7b6ec1e05f5.webp)
 
-### 3. [全球地铁线路图与查询指南](https://www.metrolinehub.com/)
+### 3. [数字素养网](https://szsyw.cn/)
 
-如果您需要使用简化的地铁线路图查找您的位置、目的地或景点，那么你一定需要它。网站提供嵌入地图中的世界各地地铁线路，让我们能够在地图上可视化路线并清晰地了解地铁系统。
+提升个人在学习工作生活中利用数字技术获取、加工、使用、管理和评价数字信息和资源，发现、分析和解决问题的一系列素质与能力的学习社区。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745970901749-4dec4e95-d7a5-42d0-9c04-8cf49a1acb88.webp)
+![](assets/0503-0509/1746576612290-b460659a-8166-45fe-a2a7-b157216007b6.webp)
 
 ## 四、插件
 
-### 1. [Fleeting Notes](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc?hl=zh-CN)
+### 1. [TabBoost](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)
 
-快速，高效，安全的笔记的最终解决方案。无论您是在使用手机、平板电脑还是浏览网页，都可以在瞬间捕捉到您的想法，使它们保持有序和可访问，同时保持对数据的控制，搭配 Obsidian 使用更高效。
+为 Chrome 带来了受 Arc 浏览器启发的最佳标签管理功能，使您的浏览更加高效和愉快，帮助更高效地管理标签页。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971051935-8f44cb96-6d9f-4a81-9556-6a5c9961a649.webp)
+![](assets/0503-0509/1746575909041-e36272ca-6105-4a01-bcd9-0edf2f569526.webp)
 
-### 2. [GoodPlan](https://chromewebstore.google.com/detail/goodplan-每日笔记作为新标签页/icokiikdmaaecdehkchflilmbmmedpga)
+### 2. [Peek Pop](https://chromewebstore.google.com/detail/peek-pop/fjllepdpgikphekgbinhpdkalliiejdh?hl=zh-CN)
 
-把你的日常待办事项列表，变成你的浏览器新标签页。
+一个开源插件，可在弹窗中预览、搜索和收集链接以供稍后阅读，可以通过以下方式触发：拖拽、悬停、点击、长按。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971318581-25aa0a56-6695-4856-96a0-62202ee57abc.webp)
+![](assets/0503-0509/1746576102285-55e0b2b8-2cbb-4b89-a975-ee34605ff1b3.webp)
 
-### 3. [微信读书笔记助手](https://chromewebstore.google.com/detail/微信读书笔记助手/cmlenojlebcodibpdhmklglnbaghpdcg?hl=zh-CN)
+### 3. [ChatX](https://chromewebstore.google.com/detail/chatx-你的智能网页浏览助手/mfkfdcmahjobmohdhpgbhflegccgnmec)
 
-一个还不错的微信读书笔记工具，方便你导出书本标注等内容，尤其对常使用 Markdown 做笔记的用户比较有帮助。
+基于人工智能的网页浏览助手，在所有网站都可用。能够回答任何复杂问题，还可以帮你自动化的总结网页、翻译内容以及增强搜索体验。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971520859-361b760e-ab28-4465-acc4-c4b67fd65cb8.webp)
+![](assets/0503-0509/1746577178767-c8535656-8af0-4f88-af40-6bf4b9be2d02.webp)
 
 ## 五、资料
 
-### 1. [Student-resources](https://github.com/ivmm/Student-resources)
+### 1. [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)
 
-主要介绍利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益。
+包含程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能等方面的内容。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971715310-31bb1c9e-150b-4eed-9d6e-23f947ff521a.webp)
+![](assets/0503-0509/1746489972714-eb88bd88-29f0-451d-ab7f-ed57f6377635.webp)
 
-### 2. [颈椎病康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
+### 2. [Web-Notes](https://github.com/wx-chevalier/Web-Notes)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南，希望以此能唤醒大家对颈椎、腰椎健康的注意。
+现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745971792374-93b5fefb-52ae-4c34-9138-ab81a2adbad3.webp)
+![](assets/0503-0509/1746490148190-beafdf8d-943c-4e15-b850-efb31cb7e2f1.webp)
 
-### 3. [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### 3. [深入浅出分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Notes)
 
-结合了作者自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南。主要包括基础实践、测试思路、项目实践方面的内容。
+笔者归档自己在学习与实践软件分布式架构过程中的笔记与代码，主要包含分布式计算、分布式系统、数据存储、虚拟化、网络、操作系统等几个部分。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0426-0502/1745976626551-92d69476-69f3-4837-9483-9faca27bb0fb.webp) 
+![](assets/0503-0509/1746490291930-d62bff32-e11f-4c53-bcce-f9fa43b0e5df.webp)
+
 
 ## ✍️ 说明
 
