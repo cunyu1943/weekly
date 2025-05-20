@@ -12,114 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#105：视频图文创作助手
+# 好物周刊#106：酷监控
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/8AHg7McS5VFzkpCa6afzxg
+> 原文：https://mp.weixin.qq.com/s/1tdmXo3cXAcIRRgGkagQpg
 
 ## 一、项目
 
-### 1. [DeepWiki-Open](https://github.com/AsyncFuncAI/deepwiki-open)
+### 1. [EasyEditor](https://github.com/Easy-Editor/EasyEditor)
 
-开源 DeepWiki，用于 GitHub/Gitlab/Bitbucket 仓库的人工智能 Wiki 生成器。
+一个插件化跨框架低代码引擎，提供了一套完整的可视化设计系统和灵活的插件架构。通过简单的拖拽操作即可快速搭建应用，同时支持 React、Vue 等多种框架的渲染扩展。它不仅拥有企业级的功能特性，还具备高度的可定制性，让开发者能够根据实际需求打造专属的低代码平台。
 
-![](assets/0503-0509/1746489490344-0ef7dd40-aefe-4d9e-a62b-353a860cc10d.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747007962994-646c5a71-f80a-4b9d-a657-d9ccd44c2e25.webp)
 
-### 2. [AI 视频图文创作助手](https://github.com/hanshuaikang/AI-Media2Doc)
+### 2. [柠檬表单](https://github.com/bojue/lemon-form)
 
-一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
+一个基于 Vue3 和 Typescript 开发的表单产品，作为一个重前端产品形态，表单编辑器和表单组件库所有代码完全开源。
 
-![](assets/0503-0509/1746489764200-cc59335a-935d-44dd-8edc-da7105e25bd3.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008071075-07e07830-6da1-401d-9dac-ebc99c785d9a.webp)
 
-### 3. [SiteProxy](https://github.com/netptop/siteproxy)
+### 3. [酷监控](https://github.com/star7th/coolmonitor)
 
-一个功能强大的在线代理工具，采用了最新的技术，提升了代理的稳定性和兼容性。致力于提供 简单、高效、安全的代理服务，为用户提供最佳的互联网访问体验。
+一个高颜值的监控工具，支持网站监控/接口监控/HTTPS 证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。项目支持 Docker 一键快速部署，拥有美观现代的界面设计。
 
-![](assets/0503-0509/1746575761744-11946c98-d7a8-4a4b-a538-102f9194af9f.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008247988-16248841-b187-4c2b-871a-1663de546e04.webp)
 
 ## 二、软件
 
-### 1. [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### 1. [完美解码](https://jm.wmzhe.com)
 
-一个免费的，开源的 Mac 应用程序清洁器，灵感来自 Freemacsoft 的 AppCleaner。项目的诞生原因是想要更多地了解 macOS 如何处理应用程序的安装/卸载，并获得更多的 Swift 经验。
+一款为众多影视发烧友精心打造的专业高清播放器，超强 HDTV 支持，画质远超主流播放器！
 
-![](assets/0503-0509/1744889228593-4e198936-d708-4900-a6b1-fa2c23356e93.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1746493362223-9253289a-5c74-4e61-9196-9e4d288ec52c.webp)
 
-### 2. [Leawo 免费屏幕录像机](https://www.leawo.org/zh-CN/free-screen-recorder/)
+### 2. [小旺截图](https://www.xiaowang.com)
 
-免费屏幕录像机组合，可记录屏幕活动、记录网络摄像头内容、记录系统声音和/或麦克风声音，以保存为屏幕截图、音频和/或最多 4K 免费无水印的屏幕录制视频。
+免费截图录屏全能神器，集截图、录屏于一体！专为 Windows、macOS 打造的电脑截图软件，轻巧、好用，功能强大！
 
-![](assets/0503-0509/1745280763545-44849103-8ed6-4169-a3a5-d6466d22c67a.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1746526991582-329710fa-6eb9-4e42-ab20-2a542e99cf7b.webp)
 
-### 3. [烽翎](https://fengling.nocmt.com/)
+### 3. [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)
 
-跨系统同步剪贴板与管理云端文件，一触即达的云端文件管理工具。
+专治 C 盘爆红及各种不服！专业清理系统垃圾，让系统始终保持最佳运行状态。无需注册登录即可使用，并且无任何广告。
 
-![](assets/0503-0509/1745838935019-507a4065-0320-4d0d-b644-176713110867.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1746524508613-33436580-6588-4d2d-96dd-707982831b94.webp)
 
 ## 三、网站
 
-### 1. [物言卡片](https://mono.cards/)
+### 1. [夸夸](https://kuakua.app/zh-CN)
 
-将任何内容转化为精美的视觉卡片，在社交媒体上更出众、更抓眼，包括链接、音乐、文章、文字、代码等。
+探索简单心理学、AI 工具、正念、治疗资源和生活方式。寻找简单的积极心理学、快乐的词汇、理论、任务和研究，提升幸福体验和幸福感。
 
-![](assets/0503-0509/1746576274673-4fe5b55e-4915-4b73-b287-6d15b73148c4.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008357706-0ef7387e-ba46-4d82-8ba7-26a9f8d0078a.webp)
 
-### 2. [FolderPort](https://folderport.com)
+### 2. [攻壳智能体](https://gongke.net)
 
-基于 P2P 技术，让你随时随地快速、安全地分享文件夹。无需安装任何软件，突破文件大小限制，告别文件分割烦恼，轻松传输任意大小文件，打开浏览器即可开始分享。
+专注于智能体和 AI 工具的门户网站，致力于为用户介绍最新、热门的智能体和 AI 工具，帮助用户快速找到适合自己的学习、工作、生活的 AI 利器。
 
-![](assets/0503-0509/1746576407264-49bd34e3-54e2-42cd-89b1-e7b6ec1e05f5.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747093831778-09abbd2d-829d-43fa-8baf-50f6b0bd348e.webp)
 
-### 3. [数字素养网](https://szsyw.cn/)
+### 3. [MerGeek](https://mergeek.com)
 
-提升个人在学习工作生活中利用数字技术获取、加工、使用、管理和评价数字信息和资源，发现、分析和解决问题的一系列素质与能力的学习社区。
+一个产品爱好者社区，AI 发现并介绍全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。发现全球最优质的限免产品，订阅限免，第一时间获取不错过；第一时间发现优秀科技产品，包括应用和智能硬件；开发者上线商品的第一站，在 Mergeek 免费发布的你产品 AI 工具，APP，软件，网站，硬件！
 
-![](assets/0503-0509/1746576612290-b460659a-8166-45fe-a2a7-b157216007b6.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095561113-1dc0f335-a12b-4315-ad32-d77c78bc61fd.webp)
 
 ## 四、插件
 
-### 1. [TabBoost](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)
+### 1. [云神价](https://chromewebstore.google.com/detail/云神价-购物点点/bnlanfoeolmminabanfaomlpacadfkie)
 
-为 Chrome 带来了受 Arc 浏览器启发的最佳标签管理功能，使您的浏览更加高效和愉快，帮助更高效地管理标签页。
+访问主流电商商品页面时会全自动购物比价、库存查询、历史价格、降价推送、同款搜索、优惠计算等诸多功能为一身的网购必备浏览器插件。
 
-![](assets/0503-0509/1746575909041-e36272ca-6105-4a01-bcd9-0edf2f569526.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747094498903-fb1549e9-0867-44f1-a19b-bc381df94b16.webp)
 
-### 2. [Peek Pop](https://chromewebstore.google.com/detail/peek-pop/fjllepdpgikphekgbinhpdkalliiejdh?hl=zh-CN)
+### 2. [极客侧边栏](https://chromewebstore.google.com/detail/极客侧边栏-免费deepseek丨书签云同步/gjkfnalkblnjkalnipilmaacibikciin)
 
-一个开源插件，可在弹窗中预览、搜索和收集链接以供稍后阅读，可以通过以下方式触发：拖拽、悬停、点击、长按。
+免费好用的 AI 侧边栏，有着 DeepSeek-R1 满血联网版以及众多模型加持，支持书签云端同步管理、AI 智能分类、网页总结、文档分析、AI 绘图、网页截图等强大功能。
 
-![](assets/0503-0509/1746576102285-55e0b2b8-2cbb-4b89-a975-ee34605ff1b3.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008509785-5090f78f-3cd8-46f8-8d66-dfbfe800f217.webp)
 
-### 3. [ChatX](https://chromewebstore.google.com/detail/chatx-你的智能网页浏览助手/mfkfdcmahjobmohdhpgbhflegccgnmec)
+### 3. [阅读增强器](https://chromewebstore.google.com/detail/公众号阅读增强器/hkphjgkdfljgdhbljjmhmdllbcmiofof)
 
-基于人工智能的网页浏览助手，在所有网站都可用。能够回答任何复杂问题，还可以帮你自动化的总结网页、翻译内容以及增强搜索体验。
+为微信公众号文章提供结构化目录导航、图片查看增强和链接识别转换，旨在提升用户在电脑上阅读微信公众号文章的体验。
 
-![](assets/0503-0509/1746577178767-c8535656-8af0-4f88-af40-6bf4b9be2d02.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008719478-931a5bcf-af9f-4409-b7a9-fee5958a3adc.webp)
 
 ## 五、资料
 
-### 1. [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)
+### 1. [oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial)
 
-包含程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能等方面的内容。
+良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在 Linux+Vim 生产力环境下，从浅入深，从简单程序学到网络爬虫。
 
-![](assets/0503-0509/1746489972714-eb88bd88-29f0-451d-ab7f-ed57f6377635.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095112067-13726f04-a0b5-4b6f-b9c0-cf72bbb75cbb.webp)
 
-### 2. [Web-Notes](https://github.com/wx-chevalier/Web-Notes)
+### 2. [树莓派不吃灰](https://github.com/zhaoolee/pi)
 
-现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
+树莓派教程，将 Linux 融入生活，为喜欢折腾树莓派的人，提供打开思路的资源，寓教于乐。
 
-![](assets/0503-0509/1746490148190-beafdf8d-943c-4e15-b850-efb31cb7e2f1.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095307201-a2d1a9bb-4cad-4836-b8d6-548cd95ac5d0.webp)
 
-### 3. [深入浅出分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Notes)
+### 3. [一个本科生的导航学习笔记](https://github.com/LiZhengXiao99/Navigation-Learning)
 
-笔者归档自己在学习与实践软件分布式架构过程中的笔记与代码，主要包含分布式计算、分布式系统、数据存储、虚拟化、网络、操作系统等几个部分。
+作者的导航算法学习笔记，内容涵盖导航定位开源程序的源码解读、开源项目梳理、书籍讲义、博客翻译、教程讲座推荐。
 
-![](assets/0503-0509/1746490291930-d62bff32-e11f-4c53-bcce-f9fa43b0e5df.webp)
-
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095466132-e8d3fbc3-29fb-462f-82b7-cf90fee02f5f.webp)
 
 ## ✍️ 说明
 
