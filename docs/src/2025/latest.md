@@ -12,113 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#106：酷监控
+# 好物周刊#107：大盘云图
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/1tdmXo3cXAcIRRgGkagQpg
+> 原文：https://mp.weixin.qq.com/s/fBaVwYfQJFNLoed24zhW2g
 
 ## 一、项目
 
-### 1. [EasyEditor](https://github.com/Easy-Editor/EasyEditor)
+### 1. [All in SSL](https://github.com/allinssl/allinssl)
 
-一个插件化跨框架低代码引擎，提供了一套完整的可视化设计系统和灵活的插件架构。通过简单的拖拽操作即可快速搭建应用，同时支持 React、Vue 等多种框架的渲染扩展。它不仅拥有企业级的功能特性，还具备高度的可定制性，让开发者能够根据实际需求打造专属的低代码平台。
+一个集证书申请、管理、部署和监控于一体的 SSL 证书全生命周期管理工具。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747007962994-646c5a71-f80a-4b9d-a657-d9ccd44c2e25.webp)
+![](assets/0517-0523/1747267569968-cf7f5132-bd4c-4c39-a874-eb856dd6ab51.webp)
 
-### 2. [柠檬表单](https://github.com/bojue/lemon-form)
+### 2. [vitepress-theme-teek](https://github.com/Kele-Bingtang/vitepress-theme-teek)
 
-一个基于 Vue3 和 Typescript 开发的表单产品，作为一个重前端产品形态，表单编辑器和表单组件库所有代码完全开源。
+一个轻量、简洁高效、灵活配置的 VitePress 主题。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008071075-07e07830-6da1-401d-9dac-ebc99c785d9a.webp)
+![](assets/0517-0523/1747267704352-7d3e896d-0689-4def-b92f-e4118a630605.webp)
 
-### 3. [酷监控](https://github.com/star7th/coolmonitor)
+### 3. [WeClone](https://github.com/xming521/WeClone)
 
-一个高颜值的监控工具，支持网站监控/接口监控/HTTPS 证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。项目支持 Docker 一键快速部署，拥有美观现代的界面设计。
+从聊天记录创造数字分身的一站式解决方案，使用聊天记录微调大语言模型，让大模型有 “那味儿”，并绑定到聊天机器人，实现自己的数字分身。 
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008247988-16248841-b187-4c2b-871a-1663de546e04.webp)
+![](assets/0517-0523/1747613129538-473b7054-fb83-4643-80b4-d054cbf49b7c.webp)
 
 ## 二、软件
 
-### 1. [完美解码](https://jm.wmzhe.com)
+### 1. [好用便签](https://www.haoyong333.com)
 
-一款为众多影视发烧友精心打造的专业高清播放器，超强 HDTV 支持，画质远超主流播放器！
+一款简单易用免费无广告的电脑桌面便签软件工具，电脑端手机端云同步，贴边自动隐藏，一键加密，用于记录笔记、待办事项、任务清单、日程提醒、短信提醒等，支持团队多人共享。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1746493362223-9253289a-5c74-4e61-9196-9e4d288ec52c.webp)
+![](assets/0517-0523/1746527392100-91d37054-b4c6-4b7c-8da3-c7af65126710.webp)
 
-### 2. [小旺截图](https://www.xiaowang.com)
+### 2. [MousePlus](https://mouseplus.cn)
 
-免费截图录屏全能神器，集截图、录屏于一体！专为 Windows、macOS 打造的电脑截图软件，轻巧、好用，功能强大！
+一款轻便小巧的鼠标右键增强工具，使用鼠标右键拖动即可唤醒鼠标轮盘，功能界面和操作逻辑类似 quicker。同时还支持自定义快捷键功能，可以根据用户的使用习惯和需求，设置不同的快捷键来执行各种操作，提高工作效率。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1746526991582-329710fa-6eb9-4e42-ab20-2a542e99cf7b.webp)
+![](assets/0517-0523/1746527653550-4d926879-7e35-4459-b6fa-76950629ff28.webp)
 
-### 3. [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)
+### 3. [Effidit](https://effidit.qq.com)
 
-专治 C 盘爆红及各种不服！专业清理系统垃圾，让系统始终保持最佳运行状态。无需注册登录即可使用，并且无任何广告。
+腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1746524508613-33436580-6588-4d2d-96dd-707982831b94.webp)
+![](assets/0517-0523/1747093729376-808234c1-988d-4715-a96d-466e8f4e56a2.webp)
 
 ## 三、网站
 
-### 1. [夸夸](https://kuakua.app/zh-CN)
+### 1. [大盘云图](https://dapanyuntu.com)
 
-探索简单心理学、AI 工具、正念、治疗资源和生活方式。寻找简单的积极心理学、快乐的词汇、理论、任务和研究，提升幸福体验和幸福感。
+颠覆了以往看盘软件一成不变的红涨绿跌，它将所有股票按所属行业进行了板块划分，并以方块形式展示，用红色和绿色的深浅代表涨跌幅度，实现直观的展现大盘的全景图，适合股票爱好者和专业投资人使用盯盘使用，还可从不同的周期、资金流向、涨跌幅及量比等维度实时查看大盘最新数据。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008357706-0ef7387e-ba46-4d82-8ba7-26a9f8d0078a.webp)
+![](assets/0517-0523/1747613257654-1bbf9e60-a067-4848-81cb-ea6583812867.webp)
 
-### 2. [攻壳智能体](https://gongke.net)
+### 2. [风鸟](https://riskbird.com/#/?inviteCode=15062F23C105437B)
 
-专注于智能体和 AI 工具的门户网站，致力于为用户介绍最新、热门的智能体和 AI 工具，帮助用户快速找到适合自己的学习、工作、生活的 AI 利器。
+一款信用查询监控平台，核心功能：查公司、查人员、查关系、企业查、查老赖，提供便捷的工商信用查询、企业信息报告下载、主体信用报告下载、风险预警监控、关联族谱查询、营业执照查询等服务。为您提供全国企业信息查询，包括企业工商信息查询，信用信息查询，经营状况查询等相关信息。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747093831778-09abbd2d-829d-43fa-8baf-50f6b0bd348e.webp)
+![](assets/0517-0523/1747653059160-fefa47b3-da3f-417d-8dd7-460a3dad19f8.webp)
 
-### 3. [MerGeek](https://mergeek.com)
+### 3. [听脑 AI](https://itingnao.com)
 
-一个产品爱好者社区，AI 发现并介绍全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。发现全球最优质的限免产品，订阅限免，第一时间获取不错过；第一时间发现优秀科技产品，包括应用和智能硬件；开发者上线商品的第一站，在 Mergeek 免费发布的你产品 AI 工具，APP，软件，网站，硬件！
+专业智能录音助手，采用 AI 技术实现实时语音转写，准确率 98%。支持会议记录、课堂笔记、销售通话等场景，提供实时转写、多人识别、智能总结功能。快速处理本地及网络音视频，支持多语言，3 分钟总结 1 小时会议内容，让沟通更高效。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095561113-1dc0f335-a12b-4315-ad32-d77c78bc61fd.webp)
+![](assets/0517-0523/1747653258721-713746e8-663c-4217-a2e3-ee622f165793.webp)
 
 ## 四、插件
 
-### 1. [云神价](https://chromewebstore.google.com/detail/云神价-购物点点/bnlanfoeolmminabanfaomlpacadfkie)
+### 1. [视频下载器](https://chromewebstore.google.com/detail/视频下载器-mpmux/mbflpfaamifmmmkdjkcmpofpccfmlmap)
 
-访问主流电商商品页面时会全自动购物比价、库存查询、历史价格、降价推送、同款搜索、优惠计算等诸多功能为一身的网购必备浏览器插件。
+一款适用于下载网络视频的扩展程序，与大多数视频下载扩展程序相比，它有所不同，因为它除了可以下载普通的 mp4、webm 视频之外，还可以下载 HLS 视频、HLS 直播流（HLS 视频是目前网络上流行的视频播放方式），无需借助第三方工具即可将 HLS 流输出为单个 mp4 文件。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747094498903-fb1549e9-0867-44f1-a19b-bc381df94b16.webp)
+![](assets/0517-0523/1747957945583-ac8df66c-9793-4948-acd3-7497dc2b6d86.webp)
 
-### 2. [极客侧边栏](https://chromewebstore.google.com/detail/极客侧边栏-免费deepseek丨书签云同步/gjkfnalkblnjkalnipilmaacibikciin)
+### 2. [EditThisCookie](https://chromewebstore.google.com/detail/editthiscookie/cmbkolgnkghmgajbbapoicfhjlabmpef)
 
-免费好用的 AI 侧边栏，有着 DeepSeek-R1 满血联网版以及众多模型加持，支持书签云端同步管理、AI 智能分类、网页总结、文档分析、AI 绘图、网页截图等强大功能。
+一个 cookie 管理器，支持添加，删除，编辑，搜索，锁定和屏蔽 cookies。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008509785-5090f78f-3cd8-46f8-8d66-dfbfe800f217.webp)
+![](assets/0517-0523/1747958033713-d64dfe6d-9263-46ae-8ffe-f7fdf2833973.webp)
 
-### 3. [阅读增强器](https://chromewebstore.google.com/detail/公众号阅读增强器/hkphjgkdfljgdhbljjmhmdllbcmiofof)
+### 3. [Tabrr仪表板](https://chromewebstore.google.com/detail/tabrr仪表板-带有ai的新标签页/ehmneimbopigfgchjglgngamiccjkijh)
 
-为微信公众号文章提供结构化目录导航、图片查看增强和链接识别转换，旨在提升用户在电脑上阅读微信公众号文章的体验。
+带有 AI 的新标签页，个人仪表板组织书签、收藏的网站，并从起始页提供对 ChatAI 的访问。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747008719478-931a5bcf-af9f-4409-b7a9-fee5958a3adc.webp)
+![](assets/0517-0523/1747958143010-69d7edc0-7e49-4e35-a8d4-18383f631168.webp)
 
 ## 五、资料
 
-### 1. [oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial)
+### 1. [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
-良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在 Linux+Vim 生产力环境下，从浅入深，从简单程序学到网络爬虫。
+所有小初高、大学 PDF 教材开源合集，仓库维护着的初心是促进义务教育的普及和消除地区间的教育贫困。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095112067-13726f04-a0b5-4b6f-b9c0-cf72bbb75cbb.webp)
+![](assets/0517-0523/1747267440609-68602411-b73c-4217-844c-2bde75d67727.webp)
 
-### 2. [树莓派不吃灰](https://github.com/zhaoolee/pi)
+### 2. [机器学习系列课程 - 温州大学](https://github.com/fengdu78/WZU-machine-learning-course)
 
-树莓派教程，将 Linux 融入生活，为喜欢折腾树莓派的人，提供打开思路的资源，寓教于乐。
+温州大学《机器学习》课程资料（代码、课件等），黄海广老师主讲。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095307201-a2d1a9bb-4cad-4836-b8d6-548cd95ac5d0.webp)
+![](assets/0517-0523/1747957615572-f154a616-1c0f-4b1a-89c6-3d6c55d2bb5f.webp)
 
-### 3. [一个本科生的导航学习笔记](https://github.com/LiZhengXiao99/Navigation-Learning)
+### 3. [The Resources about PL and Compiler](https://github.com/shining1984/PL-Compiler-Resource)
 
-作者的导航算法学习笔记，内容涵盖导航定位开源程序的源码解读、开源项目梳理、书籍讲义、博客翻译、教程讲座推荐。
+收集程序语言与编译技术相关资源。目前收集的资料主要分为课程、书籍、论文、项目、博客和会议（论坛），已经收集课程 78+，书籍 81+，项目 26+，博客 32+，会议 & 杂志 15+, 论文 68+，持续更新中。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0510-0516/1747095466132-e8d3fbc3-29fb-462f-82b7-cf90fee02f5f.webp)
+![](assets/0517-0523/1747957822184-83f577a0-ea1b-4813-9d54-ee68e9a91b48.webp)
 
 ## ✍️ 说明
 
