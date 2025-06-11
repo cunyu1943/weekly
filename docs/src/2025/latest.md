@@ -12,113 +12,113 @@ tag:
 
 ---
 
-# 好物周刊#108：奥特曼打字
+# 好物周刊#109：凹凸工坊
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/i8b05MypOwQE8zcm-1i3nA
+> 原文：https://mp.weixin.qq.com/s/IkKwLQ6RqLAVNADozV21jg
 
 ## 一、项目
 
-### 1. [ZDocs](https://github.com/ZeroDream-CN/ZDocs)
+### 1. [DooTask](https://github.com/kuaifan/dootask)
 
-一款基于 PHP 开发的轻量级文档系统，采用无后台设计，所有交互均在前台完成。
+一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 
-![](assets/0524-0530/1748218222808-69806eff-2821-4cbf-beb8-eb1ff521dcb3.webp)
+![](assets/0531-0606/1748995203246-9ca55db1-9278-4dcb-be67-ad817975016c.webp)
 
-### 2. [PakePlus](https://github.com/Sjj1024/PakePlus)
+### 2. [pay-java-parent](https://github.com/egzosn/pay-java-parent)
 
-轻松将任意网站/Vue/React 等项目构建为轻量级多端桌面应用和手机应用，仅需几分钟即可搞定。
+全能第三方支付对接 Java 开发工具包。优雅的轻量级支付模块集成支付对接支付整合（微信，支付宝，银联，友店，富友，跨境支付 paypal，payoneer (P 卡派安盈) 易极付）app，扫码，网页支付刷卡付条码付刷脸付转账红包服务商模式，微信分账，合并支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统。
 
-![](assets/0524-0530/1748303985687-f34faa10-eada-46c2-ba18-22f5c480a515.webp)
+![](assets/0531-0606/1749033416166-edee2324-5c39-40ff-b522-fe7e40bca3ff.webp)
 
-### 3. [SQLE](https://github.com/actiontech/sqle)
+### 3. [PokemonGo](https://github.com/hi-dhl/PokemonGo)
 
-一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的 SQL 全生命周期质量管理平台。
+基于 Jetpack + MVVM + Repository 设计模式 + Data Mapper + Kotlin Flow 的实战项目。
 
-![](assets/0524-0530/1748304079626-2b584900-79bc-4cc4-bd5d-bf1200d5c3c0.webp)
+![](assets/0531-0606/1749036050937-3998828b-507c-4145-89f9-49efc76d60a7.webp)
 
 ## 二、软件
 
-### 1. [moodiary](https://github.com/ZhuJHua/moodiary)
+### 1. [knowledge-grab](https://github.com/alterem/knowledge-grab)
 
-一款基于 Flutter 与 Rust 构建的跨平台开源日记应用。
+一个基于 Tauri 和 Vue 3 构建的桌面应用程序，方便用户从国家中小学智慧教育平台下载各类教育资源。
 
-![](assets/0524-0530/1747267231204-871b2375-2eec-488c-b742-0ffca734812b.webp)
+![](assets/0531-0606/1748218008678-989d7944-cdb1-4eae-8e78-5476c673a33d.webp)
 
-### 2. [易剪媒](https://www.xinmei7.com)
+### 2. [比特彗星](https://www.bitcomet.com)
 
-行业首创的对话式 AI 视频剪辑工具，支持批量自动视频处理，指令收藏等强大功能，多平台使用，免费无广告。
+一款免费的 BT/HTTP/FTP 下载软件！功能强大速度快，操作简单的 BT 下载软件，BT 资源下载利器！
 
-![](assets/0524-0530/1748217667791-97bd6e85-f067-4cec-b75a-3ef56632c79b.webp)
+![](assets/0531-0606/1748304516439-eecd6c1d-437c-4684-80a8-673b947168e4.webp)
 
-### 3. [GDownload](https://github.com/cool2528/GDownload)
+### 3. [VutronMusic](https://github.com/stark81/VutronMusic)
 
-一款现代化的跨平台下载管理器，使用 C++ 和 Qt 开发，支持下载网页、视频、音频、图片等资源。结合了现代技术栈和优秀的开源组件，为用户提供高效、稳定的下载体验。
+高颜值的第三方网易云播放器。支持流媒体音乐，如 navidrome、emby。支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar 歌词、Mac 状态栏歌词显示、Linux-gnome 桌面状态栏歌词显示等功能。
 
-![](assets/0524-0530/1748217806035-f7f0889e-edcd-4e96-bb11-5bb59b41cdd3.webp)
+![](assets/0531-0606/1748909309337-c1e8035d-9689-43cd-b551-80d9096661e3.webp)
 
 ## 三、网站
 
-### 1. [发现 TV](https://faxiantv.com)
+### 1. [凹凸工坊](https://www.autohanding.com)
 
-一个免费在线影视搜索与观看平台，支持多个影视源搜索与观看，无需注册即可使用。
+一键生成手写文稿，制作自己笔迹的字体，打印出以假乱真的模拟手写文档，让打印出的字看上去像手写的软件。
 
-![](assets/0524-0530/1748217867146-1d03aff6-c672-45f8-9195-d11a66813f17.webp)
+![](assets/0531-0606/1748908513164-17cc6fe7-7918-44d1-af22-64e0655e2dba.webp)
 
-### 2. [奥特曼.org](https://aoteman.org/)
+### 2. [WithoutAD](https://withoutad.com)
 
-为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。
+免费无广告，致力于帮助同学们搞定“学起来痛苦但需要掌握”的知识，青少年专属的益智游戏与趣味学习平台。
 
-![](assets/0524-0530/1748304290326-a459a130-9215-4aba-b858-4e18e9de8d50.webp)
+![](assets/0531-0606/1748908702411-0f70be6a-8159-433a-9d47-62b1abd11cc9.png)
 
-### 3. [注视影视](https://gaze.run)
+### 3. [NoCode](https://nocode.cn)
 
-流畅简洁的观影体验，高清热门剧、番剧、冷门电影免费在线观看，尽享优质影视内容。
+美团推出的零代码应用生成平台，无需任何编码知识就能够实现各种页面。
 
-![](assets/0524-0530/1748304711187-edd2a3ce-19b0-4822-aa84-3c3482c57e94.webp)
+![](assets/0531-0606/1748908834629-a5579360-6be3-4dc0-a3b8-56cccfd35a5a.webp)
 
 ## 四、插件
 
-### 1. [图片转文字](https://chromewebstore.google.com/detail/图片转文字/pmeccjlemeohcobimhbphjnlokdmiilo)
+### 1. [X-Comfort-Browser](https://chromewebstore.google.com/detail/x-comfort-browser/okfbbbhfbomoeobfifgjnclkdhknccgn)
 
-一个为轻松精准地从图片和视频中提取文本而设计的 Chrome 扩展程序。无论是快速截图还是详细文档图像，我们的工具都使用先进的 OCR 技术，将图片中的文本转换为可编辑的文本，随时可以使用。
+用于浏览内容平台（推特、知乎）时，模糊媒体资源，移除广告。专注信息获取，减少视觉干扰，获得互联网噪音下的注意力主动权，同时避免公共场合出现尴尬的场景。
 
-![](assets/0524-0530/1748390284911-253708c6-6531-4046-bf8f-bb2ecf4ad332.webp)
+![](assets/0531-0606/1748995607602-acc605e4-701f-4fe9-8a85-0bf4d3711605.webp)
 
-### 2. [TikTok Video Keeper](https://chromewebstore.google.com/detail/tiktok-video-keeper/ilcjgmjecbhpgpipmkfkibjopafpbcag)
+### 2. [扇贝单词助手](https://chromewebstore.google.com/detail/扇贝单词助手v3/hgflmegfeennhajkhgdhcjdnhnkobpfn)
 
-TikTok 视频下载器，下载 TikTok 视频到 PC。支持单个和批量下载，同时无水印。
+一款专为扇贝网用户打造的 Chrome 插件，旨在帮助您在任何网页上轻松高效地学习英语。
 
-![](assets/0524-0530/1748390449636-1795ee04-3bdb-4c8d-a24f-d8142f4d7547.webp)
+![](assets/0531-0606/1748995711299-6334b5e8-8869-4a95-a892-9d1b34f4b5c9.webp)
 
-### 3. [WhatsApp™即时翻译](https://chromewebstore.google.com/detail/whatsapp即时翻译/gjaklccphhffeddbigoeknakacjacein)
+### 3. [Siphon 吸词](https://chromewebstore.google.com/detail/ellokeilepgocdknilnlljmgohncjllb?utm_source=item-share-cb)
 
-强大的 WhatsApp 实时翻译插件，支持多翻译引擎，智能识别场景语言，直接回车键翻译并发送。
+双击单词快捷记录在线阅读中遇到的生词，以轻松愉快的方式复习记录的所有生词，一天 5 分钟，一年 1000 词。
 
-![](assets/0524-0530/1748390563617-c4bbe73f-34b7-41c6-9a23-580db94d95b7.webp)
+![](assets/0531-0606/1748995845753-c79560f1-e481-4efd-a14e-982560f23e1c.webp)
 
 ## 五、资料
 
-### 1. [Solana Web3.js 教程](https://github.com/ChainBuff/solana-web3js)
+### 1. [Happy-LLM](https://github.com/datawhalechina/happy-llm)
 
-一个用于与 Solana 区块链进行交互的 JavaScript 基础库。本教程旨在提供一些简单的例子，帮助你快速上手 Solana 区块链开发。
+从零开始的大语言模型原理与实践教程，一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。
 
-![](assets/0524-0530/1748303709567-fc3a18e6-d533-4377-91bc-310bc53287a3.webp)
+![](assets/0531-0606/1748948035324-0dedf969-f7e4-48c2-9dc8-49b92c1434f3.webp)
 
-### 2. [信息系统项目管理师](https://github.com/xiaomabenten/ruankao_itpm)
+### 2. [1000 个中国独立开发者项目汇总](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
-目前全网最全面的 2025 年 信息系统项目管理师 （软考高级）备考资源库。
+中国独立开发者项目列表，分享大家都在做什么。
 
-![](assets/0524-0530/1748303804927-22eb7cc9-f28d-43ce-8ef9-cb839d61582f.webp)
+![](assets/0531-0606/1748995407157-8b0351f3-290c-4e38-8980-5b9fd8e716e7.webp)
 
-### 3. [技术会议、活动、分享](https://github.com/baiyutang/meetup)
+### 3. [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
 
-互联网大厂技术分享 PPT，各大技术交流会、活动资料汇总，如全球运维技术大会、全球技术领导力峰会、大前端大会、架构师峰会等。
+介绍 Vue.js 框架的出现、设计和使用，结合实战让读者更深入理解 Vue.js 框架，掌握使用方法。
 
-![](assets/0524-0530/1748390092598-979e8342-638b-45df-9dd7-32186e758333.webp)
+![](assets/0531-0606/1749034492863-b81efe72-700d-4ece-9150-e53bbce18631.webp)
 
 ## ✍️ 说明
 
