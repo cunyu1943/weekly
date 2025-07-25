@@ -4,15 +4,15 @@ export const Aside_Data = [
     {
         link: 'https://ym.ksjhaoka.com/?s=Ltxbbs9W330131',
         image: 'https://cunyu1943.github.io/weekly/icon/sim.svg',
-        activity: '办理超低资费超大流量卡',
-        info1: '官方正规卡号',
+        info1: '办理超低资费超大流量卡',
+        promo: '官方正规卡号',
         // info2: '年付 64折 优惠码  2461880'
     },
     {
         link: 'https://yuque.com/cunyu1943',
         image: 'https://cunyu1943.github.io/weekly/icon/yuque.svg',
-        activity: '填写邀请码即送30天会员',
-        info1: '邀请码 VUFNKN',
+        info1: '填写邀请码即送30天会员',
+        promo: '邀请码 VUFNKN',
         // info2: '年付 64折 优惠码  2461880'
     }
     // {

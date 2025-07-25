@@ -12,121 +12,125 @@ tag:
 
 ---
 
-# 好物周刊#112：小云雀
+# 好物周刊#116：视频创作 APP
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/5B9XSbZZ9hPTI5EDJW-LHA
+> 原文：https://mp.weixin.qq.com/s/NSFAGp5H9-hT91Qzh-zWJA
 
-## 🎈 号外
+## 🎈 号外 
 
-最近，公众号之外，还建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～
+最近，公众号之外，建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～
 
 <center>
-<img src="/contact/wxgroup.jpg" width="50%"> 
+<img src="/contact/wxgroup.jpg" width="150">
 </center>
 
 ## 一、项目
 
-### 1. [Excel Spring Boot Starter](https://github.com/pig-mesh/excel-spring-boot-starter)
+### 1. [好享记账前端](https://github.com/suyu610/journal-flutter)
 
-旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel、FastExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
+一个基于 flutter 开发的，跨端 AI 记账 APP。实现了多人记账、语音记账、截屏快捷记账、自然语言记账等功能。项目开源，前端源码仓库。
 
-![](assets/0621-0627/1750204096984-7a917326-8ae8-491e-9572-31e1178c12ef.webp)
+![](assets/0719-0725/1753142005143-069886d1-245f-4e02-82d9-fe4cdd9cf00b.webp)
 
-### 2. [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator)
+### 2. [好享记账后端](https://github.com/suyu610/journal-server)
 
-深度学习辅助漫画翻译工具，支持一键机翻和简单的图像/文本编辑。
+一个基于 flutter 开发的，跨端 AI 记账 APP。实现了多人记账、语音记账、截屏快捷记账、自然语言记账等功能。项目开源，后端源码仓库，使用 Java、MySQL、Redis。
 
-![](assets/0621-0627/1750636877920-baa58706-9d78-4c44-b4d2-524eaef7300e.webp)
+![](assets/0719-0725/1753142028036-6a6efd60-3709-4368-b2d8-076a96e29a18.webp)
 
-### 3. [Chromium Style QR Code Generator](https://github.com/liuliangsir/chromium-style-qrcode-generator-with-wasm)
+### 3. [HubProxy](https://github.com/sky22333/hubproxy)
 
-一款采用 Rust 和 WebAssembly 技术开发的高性能二维码生成器，该项目将 Rust 的效率与 WebAssembly 的跨平台能力相结合，为 Web 应用提供快速高效的二维码生成。
+基于 Go 的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 
-![](assets/0621-0627/1750723183010-6f046286-23f3-473d-a8d2-818c803ce213.webp)
+![](assets/0719-0725/1753142299563-f06491d2-0423-4d80-af93-25443f2b6d1a.webp)
 
 ## 二、软件
 
-### 1. [Billbook 记账](https://billbook.net.cn)
+### 1. [PicSeed](https://picseed.com)
 
-无广告、无后台、无理财，专业的生活记账 App，让记账成为一种习惯。
+图片图文收藏助手，微博、小红书、抖音、推特、Instagram、Spotify、AppleMusic、即刻等平台图片批量下载。
 
-![](assets/0621-0627/1749599889768-c96db83b-69e8-4686-b2df-c3b24bd29bbe.webp)
+![](assets/0719-0725/1753182954053-20c13190-00b7-420b-b8b4-b8dcfd14cfa9.webp)
 
-### 2. [影梭](https://github.com/ZCShou/GoGoGo)
+### 2. [快影](https://h5.kwaiying.com/officialWebsite)
 
-一个基于 Android 调试 API + 百度地图及定位 SDK 实现的安卓定位修改工具，并且同时实现了一个可以自由控制移动的摇杆。使用影梭，不需要 ROOT 权限就可以随意修改自己的当前位置以及模拟移动。
+一款强大而易于使用的视频剪辑软件，它提供各种工具和特效帮助您快速制作专业的视频，一键分享快手。快影官网为您提供快影 APP 免费下载服务，移动端包含安卓版与苹果版，快来体验吧！
 
-![](assets/0621-0627/1749772974453-23264bd6-9d0a-4ea5-a551-03a6e2e72c4a.webp)
+![](assets/0719-0725/1753228685661-a10ebfd2-ff8e-4460-af45-041a102356f3.webp)
 
-### 3. [小云雀](https://xiaoyunque.jianying.com)
+### 3. [必剪](https://bcut.bilibili.cn)
 
-一句话打造一个爆款，一站式智能内容创作工具，覆盖视频、口播、海报、商品图。
+哔哩哔哩官方推出的一款免费视频剪辑软件，它集成了录屏、剪辑、一键投稿等功能，专为 B 站用户和 up 主设计。包括高清录屏、录音提词、全能剪辑、语音转字幕、热门素材、画面特效和一键投稿等功能，让视频创作更加便捷。
 
-![](assets/0621-0627/1750118193871-6fe8d398-2bb2-44a8-b40a-b3715af83265.webp)
+![](assets/0719-0725/1753228813648-f6b7d433-43de-498e-a8b2-888642af692f.webp)
 
 ## 三、网站
 
-### 1. [MyRingtone](https://myringtone.app)
+### 1. [UP 简历](https://upcv.tech)
 
-提供免费高品质铃声下载，包括闹钟铃声、手机铃声、mp3 铃声等。
+一款基于 AI 技术的免费在线简历制作工具，智能生成专业简历内容，让做简历更简单、更高效、更智能、更专业。AI 助手帮您 10 分钟完成一份脱颖而出的求职简历，支持在线编辑、多种模板、中英文切换、PDF 导出等功能。助力你轻松获得更多面试机会！
 
-![](assets/0621-0627/1750809413575-8b338d28-cb53-497e-816e-63268f4cb7d0.webp)
+![](assets/0719-0725/1752624787818-26edc4e2-3662-447c-a3de-ecbe0a5d3bfd.webp)
 
-### 2. [UP 云搜](https://www.upyunso.com)
+### 2. [真实地址生成器](https://realaddress.remit.ee)
 
-聚合网盘搜索神器，提供阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。
+在线生成全球真实地址，支持 24 个国家，适合开发者、测试人员、跨境卖家、海外电商用户的高效工具。
 
-![](assets/0621-0627/1750809786634-8d52a975-f752-49ed-acfc-21ac8c705a1c.webp)
+![](assets/0719-0725/1753142498455-82872a60-985a-4b0b-90a1-dbbd29626289.webp)
 
-### 3. [PicDoc](https://www.picdoc.cn)
+### 3. [极简壁纸](https://bizhi.likew.net)
 
-一款 AI 驱动的文本到视觉内容转换工具，它能够将文本内容自动转换为图表、流程图、信息图等视觉元素图像。致力于将用户的知识、想法和商业故事以可视化的方式表达出来。
+提供宝藏 4K/8K 超高清无水印壁纸下载，每日更新美女、影视、风景等分类壁纸，适配桌面和手机，免费下载无水印，打造你的专属桌面。
 
-![](assets/0621-0627/1750809861493-78df0a83-fbeb-427a-bcd1-bd07486de9ab.webp)
+![](assets/0719-0725/1753142655265-5a6c1f39-45e3-4708-b819-4749148d4d60.webp)
 
 ## 四、插件
 
-### 1. [Bilibili AI Skip](https://chromewebstore.google.com/detail/bilibili-ai-skip/lkhedimikicklpjmldabifgkhchnjjan)
+### 1. [小地瓜](https://chromewebstore.google.com/detail/phlkdccenedhbieigmejomebppjajnbk?utm_source=item-share-cb)
 
-通过 AI 识别并自动跳过 Bilibili 视频中植入的广告。它支持字幕和音频分析，能够精准定位广告的开始和结束时间，并提供手动或自动跳过广告的功能。用户可以通过设置 API 密钥和模型来自定义 AI 分析行为。
+小红书图片视频下载助手，支持一键下载小红书网页版帖子里的图片视频。
 
-![](assets/0621-0627/1750723005534-52864a6a-4940-4258-b257-66703979e91a.webp)
+![](assets/0719-0725/1753229093701-b58dd0f9-af8c-4adc-ba06-647853f76255.webp)
 
-### 2. [速度测试互联网](https://chromewebstore.google.com/detail/negdhbfcofmoclhhkocljmbkomilkeej?utm_source=item-share-cb)
+### 2. [Ctool 程序开发常用工具](https://chromewebstore.google.com/detail/ipfcebkfhpkjeikaammlkcnalknjahmh?utm_source=item-share-cb)
 
-免费检查互联网下载/上传/ Ping 的速度，并查看互联网提供商是否存在问题。
+程序开发常用工具，支持哈希/加解密/编码转换/时间戳/二维码/拼音/IP查询/代码优化/Unicode/正则等功能，同时支持离线使用。
 
-![](assets/0621-0627/1750895392346-e91cad53-2f69-45cf-990b-39b6c69bafd8.webp)
+![](assets/0719-0725/1753229297702-43221842-1a98-4bca-8a3b-90a418a1745a.webp)
 
-### 3. [灵办 AI](https://chromewebstore.google.com/detail/kolfmbdanfjanjcfaefoenjhkfkjcekg?utm_source=item-share-cb)
+### 3. [zoom & read](https://chromewebstore.google.com/detail/mamgplcihonkbopicdfhbadppehecgoa?utm_source=item-share-cb)
 
-您在任何页面上的个人 AI 助手，可以帮助你翻译各种网页，进行双语对照，为你提供创意灵感，在聊天对话中为你答疑解惑。
+一键缩放文本至 200%，无干扰阅读模式和隐藏图像，提升 Chrome 的可读性。
 
-![](assets/0621-0627/1750895643228-1d193735-572e-459f-858c-b78c05c11cb5.webp)
+![](assets/0719-0725/1753229600668-22efd0e0-7757-4077-93cd-5a6f00e2d6e5.webp)
 
 ## 五、资料
 
-### 1. [Starter Guide](https://github.com/PKU-DAIR/Starter-Guide)
+### 1. [React 技术揭秘](https://github.com/BetaSu/just-react)
 
-PKU-DAIR 团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理 (Data Management, DM) 和 人工智能 (Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。
+打造一本严谨、易懂的 React 源码分析教程，具有如下特点：
 
-![](assets/0621-0627/1750722757873-d024de8b-0eed-439b-91ac-57056a27fcff.webp)
+-   不预设观点
+-   丰富的参考资料
+-   保持更新
 
-### 2. [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+![](assets/0719-0725/1753269922043-e217d4fd-6a38-4ee3-bf9c-41647ec6af94.webp)
 
-健康学习到 150 岁，人体系统调优不完全指南。
+### 2. [Kubernetes 基础教程](https://github.com/rootsongjc/kubernetes-handbook)
 
-![](assets/0621-0627/1750723721310-c8fb180d-87e3-4f50-bb3a-8ac0acab4004.webp)
+全面介绍容器编排技术的实战手册，涵盖核心架构、关键组件和实际应用，涵盖容器、Kubernetes、服务网格、Serverless 等云原生的多个领域。
 
-### 3. [NKUCS.ICU](https://github.com/NKUCS-ICU/NKUCS.ICU)
+![](assets/0719-0725/1753270292984-880819b1-7586-4628-aff4-4ad0df5e6767.webp)
 
-南开大学计网经验指北，主要包含经验分享、课程等内容。
+### 3. [从零学习 Webshell 免杀手册](https://github.com/AabyssZG/WebShell-Bypass-Guide)
 
-![](assets/0621-0627/1750809271040-05585a12-b83a-4403-8c4a-afe8d2945712.webp)
+一本能让你从零开始学习 PHP 的 WebShell 免杀的手册。
+
+![](assets/0719-0725/1753270603836-e000c621-915e-43d9-9cf7-6b294cbb8622.webp)
 
 ## ✍️ 说明
 
