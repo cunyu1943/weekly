@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { Aside_Data } from '../data/AsideData'
+import './style/index.css'
 // theme/index.ts
 import '@theojs/lumen/style'
 import { Notice, Underline, Aside } from '@theojs/lumen'
