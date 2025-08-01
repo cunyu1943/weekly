@@ -4,8 +4,8 @@ export const Aside_Data = [
     {
         link: 'https://hizrj.xyz/user/register?code=XXqTDsm9',
         image: 'https://cunyu1943.github.io/weekly/icon/gratewall.svg',
-        // info1: '稳定梯子',
-        promo: '在人间',
+        info1: '稳定机场，已使用多年',
+        promo: '✈️',
         // info2: '年付 64折 优惠码  2461880'
     },
     {
