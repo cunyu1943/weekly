@@ -109,7 +109,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         {
             text: '2025 年刊',
             items: [
-                { text: '第 116 期', link: '/2025/latest' },
+                { text: '第 117 期', link: '/2025/latest' },
+                { text: '第 116 期', link: '/2025/0719-0725' },
                 { text: '第 115 期', link: '/2025/0712-0718' },
                 { text: '第 114 期', link: '/2025/0705-0711' },
                 { text: '第 113 期', link: '/2025/0628-0704' },

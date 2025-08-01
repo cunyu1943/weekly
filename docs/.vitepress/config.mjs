@@ -6,17 +6,14 @@ import { GitChangelog, GitChangelogMarkdownSection } from '@nolebase/vitepress-p
 import { La51Plugin } from 'vitepress-plugin-51la'
 import { nav } from './configs/nav'
 import { sidebar } from './configs/sidebar'
-import {  RssPlugin } from 'vitepress-plugin-rss'
+import { RssPlugin } from 'vitepress-plugin-rss'
 
 const baseUrl = 'https://cunyu1943.github.io'
-// const RSS: RSSOptions = {
-//   title: '粥里有勺糖',
-//   baseUrl,
-//   copyright: 'Copyright (c) 2018-present, 粥里有勺糖',
-// }
-// https://vitepress.dev/reference/site-config
 
 export default defineConfig({
+  sitemap: {
+    hostname: 'https://cunyu1943.github.io',
+  },
   // 语言
   lang: 'zh-CN',
   // 网站标题

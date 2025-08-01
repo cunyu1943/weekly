@@ -10,7 +10,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@theojs/lumen": "^6.4.0",
+    "@theojs/lumen": "^6.4.1",
     "pagefind": "^1.3.0",
     "pnpm": "^10.13.1",
     "vitepress-plugin-51la": "^0.1.0",
