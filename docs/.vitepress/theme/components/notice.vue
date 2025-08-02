@@ -23,7 +23,7 @@ setTimeout(function () { visible.value = false }, 10000);
         
       </p>
       <p><strong>二、微信资源群</strong></p>
-      <img class="notice-img" src="contact/wxgroup.jpg">
+      <img class="notice-img" src="https://cunyu1943.github.io/weekly/contact/wxgroup.jpg">
     </div>
     <div class="notice-footer">
       <div class="notice-btn" @click="closetz">朕知道了</div>
