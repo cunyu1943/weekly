@@ -1,6 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-publish: false
+publish: true
 layout: home
 
 hero:

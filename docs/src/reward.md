@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 ---
 
 ## 支付宝

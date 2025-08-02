@@ -15,7 +15,7 @@ export const nav: DefaultTheme.Config['nav'] = [
         items: [
             { text: '🧧 薅羊毛', link: '/ads' },
             { text: '💰 打赏', link: '/reward' },
-            // { text: '💳 超大流量卡', link: 'https://ym.ksjhaoka.com/?s=Ltxbbs9W330131' }
+            { text: '💳 超大流量卡', link: 'https://ym.ksjhaoka.com/?s=Ltxbbs9W330131' }
         ]
     },
 ]

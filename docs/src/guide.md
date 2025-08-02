@@ -1,7 +1,7 @@
 ---
 icon: fa-solid fa-lightbulb
 index: false
-publish: false
+publish: true
 isOriginal: true
 ---
 # 创刊寄语
