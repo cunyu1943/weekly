@@ -2,7 +2,7 @@
 
 export const Aside_Data = [
     {
-        link: 'https://hizrj.xyz/user/register?code=XXqTDsm9',
+        link: 'https://xn--mesr8b36x.cc/#/register?code=KhWkEeC9',
         image: 'https://cunyu1943.github.io/weekly/icon/gratewall.svg',
         info1: '稳定机场，已使用多年',
         promo: '✈️',
@@ -21,7 +21,15 @@ export const Aside_Data = [
         info1: '填写邀请码即送30天会员',
         promo: '邀请码 VUFNKN',
         // info2: '年付 64折 优惠码  2461880'
+    },
+    {
+        link: 'https://login.123pan.com/centerlogin?register=invite&ref=QOFavd',
+        image: 'https://cunyu1943.github.io/weekly/icon/123.svg',
+        info1: '2T超大云盘容量！免费领',
+        promo: '☁️',
+        // info2: '年付 64折 优惠码  2461880'
     }
+
     // {
     //     link: 'https://xx.theojs.cn/',
     //     icon: 'https://i.theojs.cn/avatar.png',
