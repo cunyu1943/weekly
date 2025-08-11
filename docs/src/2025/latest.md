@@ -12,13 +12,16 @@ tag:
 
 ---
 
-# 好物周刊#117：60s 看天下
+
+
+# 好物周刊#118：购房指北
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/P6C9O-8M7fagyARjlNAqcw
+> 原文：https://mp.weixin.qq.com/s/SUT0Esps3z_R1V5DrpaIEg
+
 
 ## 🎈 号外 
 
@@ -28,107 +31,110 @@ tag:
 <img src="/contact/wxgroup.jpg" width="150">
 </center>
 
+
 ## 一、项目
 
-### 1. [60s API](https://github.com/vikiboss/60s)
+### 1. [句乐部](https://github.com/cuixueshe/earthworm)
 
-一系列高质量、开源、可靠、全球 CDN 加速的开放 API 集合，使用 Deno 构建，托管在 Deno Deploy 上，也支持 Docker、Cloudflare Workers、Bun 和 Node.js 部署。
+一款让你上瘾的英语学习 App，通过游戏化闯关、独创长句拆解与海量重复练习，助你快速掌握核心词汇、流利口语和地道表达。告别枯燥死记硬背，无论中小学、四六级、考研雅思还是商务英语，都能在这里找到高效提升的乐趣！
 
-![](assets/0726-0801/1753747270185-6a219d8a-f0c9-49ea-bfa7-51cf14537165.webp)
+![](assets/0802-0808/1753748194106-0305abd1-e653-480a-9021-8b107fa95c59.webp)
 
-### 2. [GPT-Load](https://github.com/tbphp/gpt-load)
+### 2. [LiteOps](https://github.com/opsre/LiteOps)
 
-基于 Go 1.23+ 开发的企业级 AI 接口代理服务，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务提供商。 提供智能密钥管理、负载均衡、高并发处理和完善的监控功能。
+轻量级 DevOps 平台。简单、高效的 CI / CD 解决方案。
+
+![](assets/0802-0808/1753748292430-3af5c367-1d2c-4b5f-9a63-cb411dac5856.webp)
+
+### 3. [Priospace](https://github.com/AnoyRC/priospace)
+
+一个高颜值的多合一效率工具，集任务管理、番茄钟、习惯追踪、实时协作等核心功能于一身。支持子任务拆解、彩色标签、90 天进度热图等功能。还能通过 WebRTC 实现多人协作编辑，无需服务器。
+
+![](assets/0802-0808/1754315310469-60ed009c-a136-4553-b600-94ff99888055.webp)
 
 
 
-![](assets/0726-0801/1753747409393-1e30b253-fdcb-4924-b59f-d4316fa9aba5.webp)
 
-### 3. [joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie)
-
-一个通用的多智能体框架，对于用户需要定制的一些新场景功能，只需将相关的子智能体或者工具挂载到 JoyAgent-Genie 即可。
-
-![](assets/0726-0801/1753747742696-fc5d5c5c-c1fd-4e00-a757-f659178a657a.webp)
 
 ## 二、软件
 
-### 1. [机查查](https://devink.techartlife.com)
+### 1. [Foliate](https://github.com/johnfactotum/foliate)
 
-系统硬件信息查看助手，一个免费的硬件信息查看小工具，仅 3MB，单文件。
+号称 Linux 下的最佳电子书阅读器。颜值在线，功能强大，支持EPUB、MOBI、AZW、PDF 等主流格式。
 
-![](assets/0726-0801/1753747883306-62077020-076e-4fcb-9d1e-fe8c7324df98.webp)
+![](assets/0802-0808/1754315744181-071f2287-b172-4d45-89e4-dfe01ade2454.webp)
 
-### 2. [TraceTime 笔记](https://tracetime.xyz)
+### 2. [SplitLanzou](https://github.com/Yu2002s/SplitLanzou)
 
-记录时刻，追踪生活。帮您轻松记录每一天的点滴，让美好瞬间永不遗忘。
+第三方蓝奏云客户端。双面板快速管理文件，突破上传文件限制，分割上传文件。
 
-![](assets/0726-0801/1753833081630-1b0e9441-99c0-444a-8941-17020b077175.webp)
+![](assets/0802-0808/1754316745565-a2f824c2-c8b4-4a33-b303-db5336cbbef0.webp)
 
-### 3. [IObit Software Updater](https://www.iobit.com/en/iobit-software-updater.php)
+### 3. [CompressO](https://github.com/codeforreal1/compressO)
 
-一款更新软件工具的程序。帮助用户更新过时的程序，可一键扫描 Windows 系统，检测出过时的常用应用程序，并进行自动更新流程。
+基于 FFmpeg 的开源视频压缩工具，支持全平台（macOS、Linux、Windows）。界面简洁，支持离线运行。
 
-![](assets/0726-0801/1753833383163-c8886786-53fe-42a5-9303-d5ac539e4721.webp)
+![](assets/0802-0808/1754318674871-108c3a6e-1b61-4ad9-8ae4-341bb93331f6.webp)
 
 ## 三、网站
 
-### 1. [Edit Tools](https://edittools.org)
+### 1. [飞库文学网](https://www.feiku6.com)
 
-提供基础的图片和文本编辑功能，秒级编辑与转换 PDF、JPG、DOC、MP3、MP4、PNG，无需安装软件。裁剪、合并、压缩、水印一应俱全。 
+广大书友最喜欢的文学小说阅读网，网站收录了最好最全的经典精品图书，免费提供高质量的图书小说阅读，是广大文学小说爱好者必备的文学阅读网。
 
-![](assets/0726-0801/1753619640419-81717ad4-4dc3-433e-bf19-a0293e1b07d9.webp)
+![](assets/0802-0808/1753834495620-30433bb1-84ac-4e86-9b74-d230c5fc279e.webp)
 
-### 2. [Setup Check](https://www.setupcheck.tech)
+### 2. [通通好课](https://www.tthaoke.com)
 
-无广告的在线检测工具，可以用来测试网速、耳机、麦克风、鼠标键盘、摄像头等是否正常。
+小鹅通精品课程合作平台，涵盖知识付费、互联网课程、小学初中高中线上培训、成人再就业、跨境电商、股票楼市知识。
 
-![](assets/0726-0801/1753747962791-4f630880-3928-411d-930c-4dc6d073495a.webp)
+![](assets/0802-0808/1754316323215-e478dcfe-65b7-4fb2-9db6-88f10e372891.webp)
 
-### 3. [爱悦读](https://www.iyd.wang)
+### 3. [iPhone 参数大全](http://kylebing.cn/tools/iphone/)
 
-一个免费的电子书分享平台，提供 kindle、epub、mobi、azw3、pdf、txt 等格式电子书，全集全本打包免费下载，一个值得电子书爱好者收藏的网站。
+涵盖了 iPhone、iPad、AirPods、Apple Watch、M/A 系产品芯片的详细参数，从 iPhone 1 到 iPhone 16 都囊括，作为果粉，绝对不可错过。
 
-![](assets/0726-0801/1753834243441-96b682eb-952d-4e31-8ac3-8eeebffbe763.webp)
+![](assets/0802-0808/1754316407511-be35eabd-64e4-4efc-af65-1e7b039d1908.webp)
 
 ## 四、插件
 
-### 1. [语鲸](https://chromewebstore.google.com/detail/knjfhjecbebplkalmikclbkgkmaggkci?utm_source=item-share-cb)
+### 1. [FavBox](https://chromewebstore.google.com/detail/favbox/eangbddipcghohfjefjmfihcjgjnnemj)
 
-一款智能阅读辅助工具，帮你一键生成概述，快速纵览全文；提供多级展开式大纲，助你把握核心观点、定位原文信息；支持划线高亮、摘录，随时记录关键信息。
+一款本地优先的浏览器书签管理扩展，无需云存储或第三方服务即可增强和简化书签管理。
 
-![](assets/0726-0801/1753833784501-17892c9c-610f-4d0a-b430-cad15b654760.webp)
+![](assets/0802-0808/1754315412966-4eeed4fa-6ec1-410d-90fd-518bf16722dc.webp)
 
-### 2. [马大哈翻译](https://chromewebstore.google.com/detail/ihipdlbkomhbfdoiiiabphiggkhmoibo?utm_source=item-share-cb)
+### 2. [Language Reactor](https://chromewebstore.google.com/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
 
-中英夹杂，在语境中学习单词，在中文网页中夹杂英文，在中文网页中夹杂英文。
+一个强大的语言学习工具箱。 它可帮您发现、理解母语材料并从中学习。通过观看您正在学习的语言的电影和剧集，有效且愉快地提升您的语言技能。
 
-![](assets/0726-0801/1753833910863-86d628b8-5d2e-488c-b7a6-c2af75660202.webp)
+![](assets/0802-0808/1754316158380-e1e15e2e-dce2-41fc-b8d5-219d7c6f1db0.webp)
 
-### 3. [即时翻译器](https://chromewebstore.google.com/detail/lojpdfjjionbhgplcangflkalmiadhfi?utm_source=item-share-cb)
+### 3. [Bilibili ”换一换“ 历史](https://chromewebstore.google.com/detail/npfopljnjbamegincfjelhjhnonnjloo?utm_source=item-share-cb)
 
-一款功能强大的 Chrome 插件，可即时翻译任何文字或网页。透过简洁、使用者友善的界面，您无需离开目前标签即可翻译单字、短语或整个页面。快速、可靠，而且无需注册。
+专门为 Bilibili 网站设计，用于保存和导航"换一换"推荐历史记录。当用户在 Bilibili 首页点击"换一换"按钮刷新推荐内容时，扩展会自动保存当前的推荐视频列表，并提供前进和后退按钮，让用户可以轻松浏览之前错过的推荐内容。
 
-![](assets/0726-0801/1753834097789-c6524b37-581b-4166-b002-d2d37c8e838f.webp)
+![](assets/0802-0808/1754318377070-ce8d923a-fef0-41a9-bf93-656d390daf93.webp)
 
 ## 五、资料
 
-### 1. [2025 最新校招面试题合集](https://github.com/0voice/Campus_recruitment_interview_questions)
+### 1. [购房指北](https://github.com/851235550/how-to-buy-house)
 
-2025 最新校招面试题合集， 面向 2026 届应届生，全网最全整理！收录 1000 + 道真实面试题以及面经，涵盖阿里、腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家大中小厂。每题配备视频解析 or 文字讲解。
+一个基于国家统计局房价指数数据的房价走势可视化工具，帮助用户了解各城市房价变化趋势。
 
-![](assets/0726-0801/1753401653316-d69af2bd-a7b5-49f7-b9e3-5071d7aca7cc.webp)
+![](assets/0802-0808/1754315559517-622b0fd5-59ea-41b9-af36-0025ebde3887.webp)
 
-### 2. [大语言模型](https://github.com/LLMBook-zh/LLMBook-zh.github.io)
+### 2. [开源机器人学学习指南](https://github.com/qqfly/how-to-learn-robotics)
 
-本书关注为大模型初学者提供整体的技术讲解，在内容上进行了大范围的更新与重组，力图展现一个系统的大模型技术框架和路线图。适用于具有深度学习基础的读者阅读，可以作为一本基础的大模型参考书籍。
+开源机器人学学习指南，主要从必修知识、到入门、实践、进阶等方面教你如何让一个机器人动起来。
 
-![](assets/0726-0801/1753747587936-70e54cf9-bb17-4d22-80fd-2f36cf67d913.webp)
+![](assets/0802-0808/1754564337306-ad2f7e3a-daf5-47b6-a5c0-f633f0f9f7a0.webp)
 
-### 3. [图灵班学习指南](https://github.com/ZJU-Turing/TuringCourses)
+### 3. [具身智能技术指南](https://github.com/TianxingChen/Embodied-AI-Guide)
 
-浙江大学图灵班课程学习指南，涵盖专业必修课、短学期课程、跨专业课程、数理化基础课、通识选修课等方面内容。
+具身智能入门的路径以及高质量信息的总结，期望是按照路线学习走完后，能够帮助新手快速建立关于这个领域的认知，帮助他们入门。
 
-![](assets/0726-0801/1753833580661-b3504146-9c2a-42de-a804-ddf479200233.webp)
+![](assets/0802-0808/1754564560631-2c45d916-fa0c-4171-aadf-6ee1510a45ba.webp)
 
 
 ## ✍️ 说明
