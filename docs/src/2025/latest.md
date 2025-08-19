@@ -12,16 +12,13 @@ tag:
 
 ---
 
-
-
-# 好物周刊#118：购房指北
+# 好物周刊#119：学生免费资源
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/SUT0Esps3z_R1V5DrpaIEg
-
+> 原文：https://mp.weixin.qq.com/s/vRNGp-25tWwUiGJUx1m7FQ
 
 ## 🎈 号外 
 
@@ -31,110 +28,105 @@ tag:
 <img src="/contact/wxgroup.jpg" width="150">
 </center>
 
-
 ## 一、项目
 
-### 1. [句乐部](https://github.com/cuixueshe/earthworm)
+### 1. [LiYing](https://github.com/aoguai/LiYing)
 
-一款让你上瘾的英语学习 App，通过游戏化闯关、独创长句拆解与海量重复练习，助你快速掌握核心词汇、流利口语和地道表达。告别枯燥死记硬背，无论中小学、四六级、考研雅思还是商务英语，都能在这里找到高效提升的乐趣！
+一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 
-![](assets/0802-0808/1753748194106-0305abd1-e653-480a-9021-8b107fa95c59.webp)
+![](assets/0809-0815/1754316014817-6b6fb0e0-5644-485b-80aa-30857975e4a0.webp)
 
-### 2. [LiteOps](https://github.com/opsre/LiteOps)
+### 2. [omni-bot](https://github.com/weixin-omni/omni-bot-sdk-oss)
 
-轻量级 DevOps 平台。简单、高效的 CI / CD 解决方案。
+一个基于视觉识别，使用自定义 YOLO 模型，OCR，数据库监听，实现的运行时零侵入的 微信 4.0 RPA 框架，支持动态接入插件，适配 OpenAI，DIfy，支持解析所有消息类型，内置文本图片文件消息发送能力，可扩展小程序朋友圈发送。
 
-![](assets/0802-0808/1753748292430-3af5c367-1d2c-4b5f-9a63-cb411dac5856.webp)
+![](assets/0809-0815/1754316640438-4e1b3c19-24d6-4b0e-b52f-c5ca4ed0b2b4.webp)
 
-### 3. [Priospace](https://github.com/AnoyRC/priospace)
+### 3. [Video2PPT](https://github.com/Wangxs404/video2ppt)
 
-一个高颜值的多合一效率工具，集任务管理、番茄钟、习惯追踪、实时协作等核心功能于一身。支持子任务拆解、彩色标签、90 天进度热图等功能。还能通过 WebRTC 实现多人协作编辑，无需服务器。
+一个免费的、注重隐私的在线工具，可以将任意来源的视频转换为PPT演示文稿。从本地视频文件、在线视频链接或实时录屏中提取关键信息，生成精美的PPT文档。
 
-![](assets/0802-0808/1754315310469-60ed009c-a136-4553-b600-94ff99888055.webp)
-
-
-
-
+![](assets/0809-0815/1754318496174-0c33c118-38c0-4c06-ae9e-7f90a877d951.webp)
 
 ## 二、软件
 
-### 1. [Foliate](https://github.com/johnfactotum/foliate)
+### 1. [RMT](https://github.com/zclucas/RMT)
 
-号称 Linux 下的最佳电子书阅读器。颜值在线，功能强大，支持EPUB、MOBI、AZW、PDF 等主流格式。
+一款基于 AutoHotkey v2 的免费开源按键宏工具，致力于让用户通过简单配置即可实现各类自动化操作。它支持按键宏、鼠标宏的录制与播放，同时集成了图片识别、颜色识别和文本识别等功能，满足从游戏辅助到办公效率提升的多种需求。无论是重复性操作还是复杂交互流程，RMT 都能一键化处理，让你的工作和娱乐更加轻松、高效。
 
-![](assets/0802-0808/1754315744181-071f2287-b172-4d45-89e4-dfe01ade2454.webp)
+![](assets/0809-0815/1754319557036-7f84fecf-36ed-4b14-9454-b04a1c8a939b.webp)
 
-### 2. [SplitLanzou](https://github.com/Yu2002s/SplitLanzou)
+### 2. [Magpie](https://github.com/Blinue/Magpie)
 
-第三方蓝奏云客户端。双面板快速管理文件，突破上传文件限制，分割上传文件。
+一个轻量级的窗口缩放工具，内置了多种高效的缩放算法和滤镜。主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等。
 
-![](assets/0802-0808/1754316745565-a2f824c2-c8b4-4a33-b303-db5336cbbef0.webp)
+![](assets/0809-0815/1754401867319-e5d6081c-c896-4538-822f-a27a5d0afe3b.webp)
 
-### 3. [CompressO](https://github.com/codeforreal1/compressO)
+### 3. [MyKeymap](https://github.com/xianyukang/MyKeymap)
 
-基于 FFmpeg 的开源视频压缩工具，支持全平台（macOS、Linux、Windows）。界面简洁，支持离线运行。
+一款基于 AutoHotkey 的键盘映射工具，用于增强 Windows 的键盘输入体验和窗口操作效率。
 
-![](assets/0802-0808/1754318674871-108c3a6e-1b61-4ad9-8ae4-341bb93331f6.webp)
+![](assets/0809-0815/1754401999153-66050f65-97db-4b7a-bf4b-db65d0d15c68.webp)
 
 ## 三、网站
 
-### 1. [飞库文学网](https://www.feiku6.com)
+### 1. [Veo 3 Prompt Hub](https://www.veo3-prompt.com)
 
-广大书友最喜欢的文学小说阅读网，网站收录了最好最全的经典精品图书，免费提供高质量的图书小说阅读，是广大文学小说爱好者必备的文学阅读网。
+AI 视频生成提示词库，精选高质量 Veo 3 AI 视频提示词，包含 ASMR、科幻、战争、日常场景。助力创作者快速制作专业 AI 视频，免费使用。
 
-![](assets/0802-0808/1753834495620-30433bb1-84ac-4e86-9b74-d230c5fc279e.webp)
+![](assets/0809-0815/1754318871119-6a476256-8800-45ca-baf5-b4c040d6c9ad.webp)
 
-### 2. [通通好课](https://www.tthaoke.com)
+### 2. [visalist](https://visalist.io)
 
-小鹅通精品课程合作平台，涵盖知识付费、互联网课程、小学初中高中线上培训、成人再就业、跨境电商、股票楼市知识。
+面向全球旅行者的签证信息导航平台，共计收录了 239 个国家的签证类型、申请条件、所需材料、办理周期、费用等相关信息。更有签证新闻、旅行目的地、会员专用数据、优惠和折扣等内容。
 
-![](assets/0802-0808/1754316323215-e478dcfe-65b7-4fb2-9db6-88f10e372891.webp)
+![](assets/0809-0815/1754319019797-ff470d7a-9cb3-4fe7-92d6-90b3c6a63c04.webp)
 
-### 3. [iPhone 参数大全](http://kylebing.cn/tools/iphone/)
+### 3. [学生免费资源](https://edu.52it.de)
 
-涵盖了 iPhone、iPad、AirPods、Apple Watch、M/A 系产品芯片的详细参数，从 iPhone 1 到 iPhone 16 都囊括，作为果粉，绝对不可错过。
+专属学生优惠与免费福利，包含软件工具、购物优惠、休闲娱乐、人工智能等方面内容。
 
-![](assets/0802-0808/1754316407511-be35eabd-64e4-4efc-af65-1e7b039d1908.webp)
+![](assets/0809-0815/1754319699544-e846063f-1688-4d81-85ed-218045eef9db.webp)
 
 ## 四、插件
 
-### 1. [FavBox](https://chromewebstore.google.com/detail/favbox/eangbddipcghohfjefjmfihcjgjnnemj)
+### 1. [Easy Scraper](https://chromewebstore.google.com/detail/easy-scraper-one-click-we/cljbfnedccphacfneigoegkiieckjndh)
 
-一款本地优先的浏览器书签管理扩展，无需云存储或第三方服务即可增强和简化书签管理。
+只需单击一下，即可从任何网站提取数据，并简化您的数据分析、研究和内容聚合任务。
 
-![](assets/0802-0808/1754315412966-4eeed4fa-6ec1-410d-90fd-518bf16722dc.webp)
+![](assets/0809-0815/1754406519636-90a44018-a529-4d16-99a8-710f334a906f.webp)
 
-### 2. [Language Reactor](https://chromewebstore.google.com/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
+### 2. [ChatGPT for 知乎](https://chromewebstore.google.com/detail/chatgpt-for-zhihu/ajnofpkfojgkfmcniokfhodfoedkameh)
 
-一个强大的语言学习工具箱。 它可帮您发现、理解母语材料并从中学习。通过观看您正在学习的语言的电影和剧集，有效且愉快地提升您的语言技能。
+将 OpenAI ChatGPT 接入到知乎中，为你提供更加高效、只智能的问答服务。
 
-![](assets/0802-0808/1754316158380-e1e15e2e-dce2-41fc-b8d5-219d7c6f1db0.webp)
+![](assets/0809-0815/1754956729975-80394e92-e135-43f4-ac07-9c29b762bc11.webp)
 
-### 3. [Bilibili ”换一换“ 历史](https://chromewebstore.google.com/detail/npfopljnjbamegincfjelhjhnonnjloo?utm_source=item-share-cb)
+### 3. [知乎外链直达](https://chromewebstore.google.com/detail/chidjfbdenglhicdckjnjccccpgknfhg?utm_source=item-share-cb)
 
-专门为 Bilibili 网站设计，用于保存和导航"换一换"推荐历史记录。当用户在 Bilibili 首页点击"换一换"按钮刷新推荐内容时，扩展会自动保存当前的推荐视频列表，并提供前进和后退按钮，让用户可以轻松浏览之前错过的推荐内容。
+移除知乎外部链接重定向，加速上网、避免访问追踪。在知乎点击外链时，会先到重定向页面（link.zhihu.com），再跳转到目标页。但是网速慢的情况下，等待跳转是很耗费时间的，而且复制的链接变成了重定向 URL。本扩展可以跳过外链重定向，直达目标网址。
 
-![](assets/0802-0808/1754318377070-ce8d923a-fef0-41a9-bf93-656d390daf93.webp)
+![](assets/0809-0815/1754956871919-fd79dead-e04e-4fd4-8196-552bdb5a1719.webp)
 
 ## 五、资料
 
-### 1. [购房指北](https://github.com/851235550/how-to-buy-house)
+### 1. [开源大模型食用指南](https://github.com/datawhalechina/self-llm)
 
-一个基于国家统计局房价指数数据的房价走势可视化工具，帮助用户了解各城市房价变化趋势。
+一个围绕开源大模型、针对国内初学者、基于 Linux 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-![](assets/0802-0808/1754315559517-622b0fd5-59ea-41b9-af36-0025ebde3887.webp)
+![](assets/0809-0815/1754611380133-01210510-9989-42c0-bedb-97cb74b444bc.webp)
 
-### 2. [开源机器人学学习指南](https://github.com/qqfly/how-to-learn-robotics)
+### 2. [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
-开源机器人学学习指南，主要从必修知识、到入门、实践、进阶等方面教你如何让一个机器人动起来。
+一个收录启用 Linux 服务器的安全措施指南，它也能教你一些关于安全性及其重要性的知识点。
 
-![](assets/0802-0808/1754564337306-ad2f7e3a-daf5-47b6-a5c0-f633f0f9f7a0.webp)
+![](assets/0809-0815/1754956007089-bc052ff2-7090-4026-9f2b-993f0cb06531.webp)
 
-### 3. [具身智能技术指南](https://github.com/TianxingChen/Embodied-AI-Guide)
+### 3. [LangShift.dev](https://github.com/erweixin/langshift.dev)
 
-具身智能入门的路径以及高质量信息的总结，期望是按照路线学习走完后，能够帮助新手快速建立关于这个领域的认知，帮助他们入门。
+一个专门为开发者设计的编程语言转换学习平台。通过对比不同编程语言的语法特性和概念映射，帮助你快速理解新语言的核心概念，并能够将其应用到实际项目中。
 
-![](assets/0802-0808/1754564560631-2c45d916-fa0c-4171-aadf-6ee1510a45ba.webp)
+![](assets/0809-0815/1754956386056-d94424ce-97fd-43ec-bbac-ea5a2e93863d.webp)
 
 
 ## ✍️ 说明
