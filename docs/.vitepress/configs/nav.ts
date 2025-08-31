@@ -11,8 +11,15 @@ export const nav: DefaultTheme.Config['nav'] = [
         ]
     },
     {
+        text: '📋 产品',
+        items: [
+            { text: '☕️ JavaPark', link: 'https://github.com/cunyu1943/JavaPark' },
+        ]
+    },
+    {
         text: '🎈 更多',
         items: [
+            { text: '🗃️ 资源八百库', link: 'https://www.kdocs.cn/l/csij2u9ePmM6' },
             { text: '🧧 薅羊毛', link: '/ads' },
             { text: '💰 打赏', link: '/reward' },
             { text: '💳 超大流量卡', link: 'https://ym.ksjhaoka.com/?s=Ltxbbs9W330131' }
