@@ -9,16 +9,15 @@ tag:
   - 网站
   - 资料
   - 插件
-
 ---
 
-# 好物周刊#121：影院选择专家
+# 好物周刊#122：学种菜
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/SIjd2Ky8wB7-nwPU9ja-Lw
+> 原文：https://mp.weixin.qq.com/s/pTpZJ9Sn-TkdbZtajKSxnA
 
 ## 🎈 号外 
 
@@ -28,106 +27,106 @@ tag:
 <img src="/contact/wxgroup.jpg" width="150">
 </center>
 
-
 ## 一、项目
 
-### 1. [Drawnix](https://github.com/plait-board/drawnix)
+### 1. [Claude Relay Service](https://github.com/Wei-Shaw/claude-relay-service)
 
-开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。
+自建 Claude Code 镜像，支持 Claude Code、Gemini CLI、Codex CLI，支持 Claude Console 接入。集成 OAuth 认 证、多账号池切换、自定义 API 密钥、OpenAI 兼容格式、代理支持和智能防封机制。
 
-![](assets/0823-0829/1756166535274-8787b0d2-d47e-444d-81b9-6f3b8557f37c.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756943701825-5a2a6996-f430-4f21-8854-b46e3618e470.webp)
 
-### 2. [Claude Code PM](https://github.com/automazeio/ccpm)
+### 2. [MinaPlay](https://github.com/nepsyn/minaplay)
 
-针对 Claude Code 的项目管理系统，使用 GitHub issue 和 Git 工作树进行并代理执行。
+一个用于追番 / 追剧的个人媒体库。MinaPlay 根据用户创建的 RSS 订阅源、订阅规则自动下载媒体文件并生成描述信息。
 
-![](assets/0823-0829/1756166910111-eed7a127-86fe-4e4c-88d1-9cc0cd620a57.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756944085234-c78078ec-045a-48f3-bed1-8e9e00dbd481.webp)
 
-### 3. [HotGo](https://github.com/bufanyun/hotgo)
+### 3. [Aice PS](https://github.com/aigem/aice_ps)
 
-一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成 jwt 鉴权，动态路由，动态菜单，casbin 鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
+一款功能强大的网页版 AI 照片编辑器，利用 Google aistudio 的先进能力，让专业级的图像编辑和创作变得简单直观。用户可以通过简单的文本提示对图像进行修饰、应用创意滤镜、进行专业调整，甚至从零开始生成全新的图像。
 
-![](assets/0823-0829/1756167492249-5e551ea3-d784-4170-b18e-989a6357ca84.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756944212402-a5a2efbc-3f4c-438b-8419-17b137d68832.webp)
 
 ## 二、软件
 
-### 1. [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+### 1. [LocalSqueeze](https://github.com/freeany/LocalSqueeze)
 
-用于从浏览器解密和导出浏览器数据（密码、历史记录、cookie、书签、信用卡、下载历史记录、localStorage 和扩展程序）的命令行工具。支持当前主流浏览器，可在Windows、macOS 和 Linux 上运行。
+一款可以压缩图片的桌面端应用 (图片压缩工具)，只在本地运行。安全、快速、高质量。
 
-![](assets/0823-0829/1755307934325-c3c8bd24-8941-4dab-87f1-9d5607063db3.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1755527307438-66ed020b-849d-4c81-ac8a-e450a857f51d.webp)
 
-### 2. [File Converter](https://file-converter.io)
+### 2. [XMBOX](https://github.com/Tosencen/XMBOX)
 
-一款开源免费的文件格式转换器，支持音视频、图像、文档等格式批量转换。
+一个功能强大、界面简洁的 Android 视频播放器，支持 TV 和手机双平台。
 
-![](assets/0823-0829/1755351388604-805242d5-ad1d-47b8-9de4-1f69335af79e.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1755527462517-913d6b58-076e-4ac2-928e-35c345615e52.webp)
 
-### 3. [极速图片压缩器](https://www.zgcoder.com/tic)
+### 3. [Flow](https://www.flowoss.com)
 
-稳定好用且压缩速度极快的桌面端图片压缩软件，支持 7 种格式，单张最大 2 GB，最大支持 20000 张。
+一款免费在线 EPUB 阅读器，支持所有平台（Web, Windows, Linux, macOS, Android, iOS）。同时支持阅读多本书籍，在不同设备间无缝阅读。
 
-![](assets/0823-0829/1755351565509-2de620ec-b355-4a8f-88f7-790952daf90a.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756473518071-0540783f-5963-4b1d-8ecd-c3e5738d3326.webp)
 
 ## 三、网站
 
-### 1. [Bracelet Book](https://www.braceletbook.com)
+### 1. [免费模板库](https://www.rtemplate.cn)
 
-一个专为友谊手环和手工编绳爱好者打造的学习分享平台。提供了多种图案设计、详细教程以及社区作品展示。从入门基础到进阶技巧，全部免费开放。
+高质量模板免费下载，涵盖各行业、岗位、风格，支持分类、搜索、预览、下载。
 
-![](assets/0823-0829/1754405312079-4c49d218-de2d-4b6a-8698-4c7c0c3f77c9.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1755524451148-d25ef69b-a968-4c0c-b413-c3cfeb4b7f4c.webp)
 
-### 2. [反斗限免](https://free.apprcn.com)
+### 2. [学种菜](https://www.xuezhongcai.com)
 
-汇总各类限免信息的网站，包括 iOS 限免、Stream 限免、软件限免等。
+一个种植养殖网站，主要提供蔬菜种植、粮食种植、水果种植、中药材种植及花卉养殖技术文章。
 
-![](assets/0823-0829/1754405559050-fd315db4-ff71-499b-83c1-1e6506f1a1a0.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1755525219679-34f390de-396b-4004-a4c9-08f9fd933a59.webp)
 
-### 3. [影院选择专家](https://cinema-expert.toolsnav.top)
+### 3. [经典书库](https://m.jingdianbook.com)
 
-专业影院格式对比和选座指南，无需在纠结到底选哪个，直接告知你不同影院放映格式最佳观影位置，避免踩坑。
+免费提供好看的古典武侠小说、名侦探/科幻小说、经济学/哲学及宗教、轻松一刻、儿童睡前故事、传统文学名著等内容。
 
-![](assets/0823-0829/1755308421516-1f2ebe38-306f-40e9-9c59-bdca8e993154.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1755527553898-6a9110ac-8911-43e9-96b6-42083aea51c8.webp)
 
 ## 四、插件
 
-### 1. [SponsorBlock for YouTube](https://chromewebstore.google.com/detail/mnjggcdmjocbbbhaepdhchncahnbgone?utm_source=item-share-cb)
+### 1. [Douban Book+](https://chromewebstore.google.com/detail/douban-book%2B/lkmnoeojcpmcpjlbhbjbilpmccfljdoj/related)
 
-跳过 YouTube 视频中的赞助广告、订阅提醒等片段，标记视频中的赞助广告来节约大家的时间。
+在豆瓣读书页面显示多个在线资源的链接，看到好书，想读就读，一键即达。
 
-![](assets/0823-0829/1756252946633-20c2a401-222a-4728-8b73-8e31f9701fc9.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756605715232-993c565e-d1b3-4819-b1d4-9ad093cb25a2.webp)
 
-### 2. [黑暗模式-夜眼](https://chromewebstore.google.com/detail/dark-mode-night-eye/alncdjedloppbablonallfbkeiknmkdi)
+### 2. [Music Mode for YouTube](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna?hl=zh-CN)
 
-根据需要将每个网站切换到暗模式/亮模式，允许您在几乎所有网站上启用黑暗模式，从而提高可读性并减少弱光环境中的眼睛疲劳。 它还提供自定义选项，例如亮度、对比度和饱和度调整，以及用于保护眼睛的蓝光滤镜。
+一款浏览器扩展程序，旨在增强 YouTube 和 YouTube Music 的用户体验，它提供多种可选功能，如隐藏视频、屏蔽广告、添加歌词搜索、设置睡眠定时器以及提供自定义的动态或静态主题和可视化效果，让用户在以音乐为中心时获得更流畅、个性化的体验。
 
-![](assets/0823-0829/1756253050687-ead04abb-5051-417d-9c8c-fd0438b5ada4.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756944492239-15d3a5b4-d649-4a75-8f6e-7fe1ab545c3d.webp)
 
-### 3. [MaxAI](https://chromewebstore.google.com/detail/mhnlakgilnojmhinhkckjpncpbhabphi?utm_source=item-share-cb)
+### 3. [The QR Code Extension](https://chromewebstore.google.com/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)
 
-为您的浏览器带来一套功能强大的 AI 工具，以简洁、极致的界面设计，助您高效完成各类在线任务。
+允许当前页面生成QR码，并使用网络摄像头扫描QR码。
 
-![](assets/0823-0829/1756253276691-901ecf5e-b2d5-4f15-bd4c-2c9b207c49b6.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756990787572-544d98a9-e2cd-4f99-9373-289f1829ffa0.webp)
 
 ## 五、资料
 
-### 1. [机器学习系统：设计和实现](https://github.com/openmlsys/openmlsys-zh)
+### 1. [front-end-rss](https://github.com/ChanceYu/front-end-rss)
 
-项目试图给读者讲解现代机器学习系统的设计原理和实现经验，适合学生、科研人员、开发人员使用。
+根据 RSS 订阅最新前端技术文章并自动分类，每天定时更新前端技术文章，并推送到 GitHub 方便查看。
 
-![](assets/0823-0829/1756166429820-18371983-da24-4c10-b18d-c61501004235.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756943566538-f6d7cb2c-205d-48c7-9d36-721cbbb46f02.webp)
 
-### 2. [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
+### 2. [NLP-Paper](https://github.com/DengBoCong/nlp-paper)
 
-基于 Java 实现的各种算法，仅做教学用途，因此其实现可能比某些 Java 标准库性能要弱上几分。
+更新一些在博主学习过程中阅读过的自然语言处理领域下的相关论文（附阅读笔记），对于一些经典或思路很新奇的论文，会进行精读，并写一些阅读笔记同步上传更新，复现模型以及数据处理等（代码含 TensorFlow 和 PyTorch 两版本）。
 
-![](assets/0823-0829/1756166695329-ae7ff7f1-e8ec-41fc-96f8-7b0af4526aca.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756944920527-3da0d19d-7f67-4bb7-b225-4258159308f6.webp)
 
-### 3. [引导词仓库](https://github.com/kingkongshot/prompts)
+### 3. [中文敏感词库](https://github.com/konsheng/Sensitive-lexicon)
 
-一个精心组织的引导词集合，帮助提升 AI 协作效率和质量。
+一个持续更新的中文敏感词库，广泛覆盖政治、色情、暴力等敏感领域的词汇列表，帮助开发者和内容审核者快速识别并过滤不当文本。
 
-![](assets/0823-0829/1756167184994-4f4f315b-87a4-424e-ad4e-cea82972b125.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/0830-0905/1756990927251-52d11924-0957-4ad9-83ff-3f0de5489ccf.webp)
+
 
 ## ✍️ 说明
 
