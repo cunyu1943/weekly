@@ -2,6 +2,7 @@ import type { DefaultTheme } from 'vitepress'
 
 export const nav: DefaultTheme.Config['nav'] = [
     { text: '🏠 主页', link: '/' },
+    { text: '🅱️ 我的博客', link: 'https://cunyu1943.github.io' },
     { text: '🐍 2025 年刊', link: '/2025/1228-0103' },
     {
         text: '🗃️ 往昔留档',
@@ -14,6 +15,7 @@ export const nav: DefaultTheme.Config['nav'] = [
         text: '📋 产品',
         items: [
             { text: '☕️ JavaPark', link: 'https://github.com/cunyu1943/JavaPark' },
+            { text: '🔢 数字花园', link: 'https://yuque.com/cunyu1943' },
         ]
     },
     {

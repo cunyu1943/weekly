@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@theojs/lumen": "^6.4.4",
-    "pagefind": "^1.3.0",
-    "pnpm": "^10.15.0",
+    "pagefind": "^1.4.0",
+    "pnpm": "^10.17.0",
     "vitepress-plugin-51la": "^0.1.0",
     "vitepress-plugin-announcement": "^0.1.5",
     "vitepress-plugin-pagefind": "^0.4.14",
