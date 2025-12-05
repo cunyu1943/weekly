@@ -12,13 +12,13 @@ tag:
 
 ---
 
-# 好物周刊#131：面向开发者的大模型手册：
+# 好物周刊#133：油桃 TV
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/04ZZTODsj8gxiD9XuxWnCw
+> 原文：https://mp.weixin.qq.com/s/Wj4Y1FSZULZ6sCAaM0Akfg
 
 ## 🎈 号外 
 
@@ -31,103 +31,103 @@ tag:
 
 ## 一、项目
 
-### 1. [Smart Excalidraw](https://github.com/liujuntao123/smart-excalidraw-next)
+### 1. [MediaWarp](https://github.com/AkimioJR/MediaWarp)
 
-Excalidraw 的 AI 增强版，用户只需使用自然语言就能让 AI 生成手绘风格的示意图。
+前置于 EmbyServer / Jellyfin 的反向代理服务器，修改了原媒体服务器返回响应以实现特殊功能。优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合 AutoFilm 使用。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1762820021293-17b768bd-8843-485c-a8c6-91261fb3bdd9.webp)
+![](assets/1129-1205/1764808084578-4cc7e62e-5338-489e-b710-2e0d734aadbf.webp)
 
-### 2. [Mybili](https://github.com/ellermister/mybili)
+### 2. [go-emby2openlist](https://github.com/AmbitiousJun/go-emby2openlist)
 
-哔哩哔哩收藏夹备份程序，你的 NAS 中必不可少的程序。
+Go 语言编写的 Emby + OpenList (Alist) 网盘直链反向代理服务，深度适配阿里云盘转码播放，支持 OpenList 本地目录树生成，配置简单，DockerCompose 一键部署。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763378501651-163fccc4-2f50-450e-949c-299d746c96d9.webp)
+![](assets/1129-1205/1763987517887-9fd5b485-b8b8-47f8-a4b2-6e77ef5a923b.webp)
 
-### 3. [DatasetLoom](https://github.com/599yongyang/DatasetLoom)
+### 3. [NodeBBS](https://github.com/aiprojecthub/nodebbs)
 
-一款高质量的 多模态训练数据集构建平台，专为 AI 工程师、研究人员和团队设计。基于 Next.js + NestJS + Turborepo 的现代化 Monorepo 架构，实现前后端解耦、高可维护性与灵活扩展。平台支持从文档解析、图像标注到模型评分、语料导出的完整数据流水线，集成 RAG 能力，让大模型“基于真实知识”生成对话数据集，进而构建更专业、准确、可追溯的 SFT 与 DPO 训练数据。
+一个基于 Turborepo 单体仓库架构构建的现代化、高性能论坛平台，采用 GitHub Issue 风格设计。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763464503846-33532dfe-14a9-4a99-8ce6-642ea829c370.webp)
+![](assets/1129-1205/1764633859650-8ccc908a-0223-4e83-a0ca-b6e9d02b9e7a.webp)
 
 ## 二、软件
 
-### 1. [QuarkPanTool](https://github.com/ihmily/QuarkPanTool)
+### 1. [剪存](https://github.com/snsogbl/clip-save)
 
-一个简单易用的小工具，旨在帮助用户快速批量转存分享文件、批量生成分享链接和批量下载夸克网盘文件。
+一个基于 Wails + Vue 3 + TypeScript 的跨平台剪贴板历史管理工具。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763464474119-ac734e50-066f-4fff-a958-02d08fdf11fc.webp)
+![](assets/1129-1205/1764633780281-924c5f3e-105b-4056-ab55-bf8accc95e7e.webp)
 
-### 2. [KeePassXC](https://github.com/keepassxreboot/keepassxc)
+### 2. [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-一款现代化、安全且开源的密码管理器，能够存储和管理您最敏感的信息。你可以在 Windows、macOS 和 Linux 系统上运行 KeePassXC。KeePassXC 适合对安全个人数据管理要求极高的人群。它将多种信息类型保存，如用户名、密码、网址、附件和笔记，存储在离线加密文件中，可存储在任何地点，包括私有云和公共云解决方案。
+一款开源免费的文本编辑器，基于 Notepad++ 同时优化增强了部分功能，支持 Windows、macOS 平台。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763510240902-2041fc06-20f8-46f3-a41b-91186f461ae0.webp)
+![](assets/1129-1205/1764807176805-360547d0-5fc4-46b6-be61-c156734795bb.webp)
 
-### 3. [ZyperWin++](https://github.com/ZyperWave/ZyperWinOptimize)
+### 3. [油桃 TV](https://github.com/VonChange/utao)
 
-一个轻便的 Windows 优化工具，适用于 Win7-Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和 Office 快速安装。
+专为电视投影等大屏设备设计的一个第三方浏览器，可绕过某些平台限制，让用户在电视上更便捷和低成本的观看视频。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763510600617-1ca36bc2-7b4b-4707-b050-96919bb9fc3b.webp)
+![](assets/1129-1205/1764807629087-d1298201-9ed6-4bbd-8615-928c3b04157f.webp)
 
 ## 三、网站
 
-### 1. [Gank Interview](https://www.gankinterview.cn)
+### 1. [Emojizen](https://emojizen.com)
 
-最新一代完全隐身的 AI 笔试面试助手，笔试截图出答案，语音问题实时提示，笔试面试自动复盘。视频共享不可见，各种检测通通无效，无需额外配置开箱即用。
+发现、搜索并一键复制精美表情符号。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1762129582554-71008bee-3642-4bb9-b47e-6ba3681939e0.webp)
+![](assets/1129-1205/1764634829721-d04ce0da-0742-43fc-8619-482ba462f315.webp)
 
-### 2. [Boli](https://jobleap.cn)
+### 2. [好拼](https://img.ops-coffee.com/photo)
 
-网申求职雷达，聚合 200万+ 名企大厂网申招聘信息，每日更新校招/实习/社招岗位。提供简历优化、面试押题、模拟面试等工具，助力求职有备，offer 加倍！
+一款强大的免费在线拼图工具，支持多种网格布局和自定义长图拼接，无水印免登录直接下载，帮你轻松创作个性化照片。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763465672484-810a3b1f-1133-4310-a3f3-25ecbabf8dc0.webp)
+![](assets/1129-1205/1764635065242-cc1a6415-bd82-4d59-a818-ad23af8a89dd.webp)
 
-### 3. [在线调色板](https://cn.online-color.com)
+### 3. [壹纳网](https://yinaw.com)
 
-帮助设计师和艺术家选择合适的配色方案。调色板、渐变色、多色调色板及颜色计算器。
+一个小而美的站点，主要展示日系摄影，也分享一些有意义的社会杂文，这里感激和崇尚一切美的事物。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763466091762-dd78a9de-2aa2-4654-97bd-7514bd947961.webp)
+![](assets/1129-1205/1764807439536-1cdf5173-d343-4b2f-8214-b72e47fccc92.webp)
 
 ## 四、插件
 
-### 1. [配对翻译](https://chromewebstore.google.com/detail/pair-translate/jpjodbfcidhificogpbddmappeioodea)
+### 1. [Listly - 网页数据采集](https://chromewebstore.google.com/detail/listly-web-scraping/ihljmnfgkkmoikgkdkjejbkpdpbmcgeh)
 
-一个用于网页对照翻译的浏览器扩展，可在网页原文旁附加译文，实现双语对照显示。
+免费易用的网页数据采集工具，只需点击几下，即可将任何网站转换为 Excel。加快您的数据收集速度，将时间和精力投入到真正重要的事情上。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763464621766-24d790d7-8ac8-46ba-8bf6-e30a65f1b1b3.webp)
+![](assets/1129-1205/1764157345458-311c7b4c-2857-418c-86aa-a0a8ab2bba72.webp)
 
-### 2. [书签 & 历史记录 管理器](https://chromewebstore.google.com/detail/jokoalpdfppeolhnfljmfecbifcfadhh?utm_source=item-share-cb)
+### 2. [Better History](https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi)
 
-开源的小插件，可以快速搜索书签、历史记录。
+简洁的历史记录管理器：强大的搜索、批量导出、删除自定义选择、按日和小时筛选，以及从历史记录中阻止特定域名。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763683332014-6f50a059-f671-4bf0-b5f2-a73e164c0b34.webp)
+![](assets/1129-1205/1764720596977-a15b56a4-5f54-4d64-a2cc-f15ac4add8e0.webp)
 
-### 3. [1Password - 密码管理器](https://chromewebstore.google.com/detail/aeblfdkhhhdcdjpifhhbdiojplfjncoa?utm_source=item-share-cb)
+### 3. [Instagram 下载器](https://chromewebstore.google.com/detail/eebdacbalehoojfbinomkiobfepmdkhi?utm_source=item-share-cb)
 
-在浏览器中体验 1Password 的最佳方式。轻松登录网站、生成密码和保存安全信息。
+下载 Instagram 照片、视频、Reels、限时动态和 IGTV，支持单个和批量下载。内置 ChatGPT 的 Instagram AI 助手。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763683412976-841ea099-a056-4cb9-90d5-7a02bfe18a61.webp)
+![](assets/1129-1205/1764720805817-3a2f390d-8bf4-4a9f-84f6-5bf0e2177cde.webp)
 
 ## 五、资料
 
-### 1. [Awesome Cloudflare](https://github.com/zhuima/awesome-cloudflare)
+### 1. [Dive into LangGraph](https://github.com/luochang212/dive-into-langgraph)
 
-收录基于 Cloudflare 的开源工具，为独立开发者早期摸索期提供一个省心省时的工具集，持续整理中~
+LangGraph 是由 LangChain 团队开发的开源智能体框架，责工作流和状态管理，仓库着重介绍该框架的实践。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763510858280-c5add3c3-127c-4c8c-a82c-ca6ad78bc0b6.webp)
+![](assets/1129-1205/1764634020665-e0d06341-aa5e-4b59-b766-4fee0bae83d2.webp)
 
-### 2. [面向开发者的大模型手册](https://github.com/datawhalechina/llm-cookbook)
+### 2. [Nano Banana Pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 
-一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目。
+Google Nano Banana Pro 创意提示词精选集合。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763511013536-d053ed03-b98e-4dab-8134-4abffce76ceb.webp)
+![](assets/1129-1205/1764634329655-49b8882d-f0ea-4dc4-9a12-c8caa76a8ad4.webp)
 
-### 3. [LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
+### 3. [李宏毅深度学习教程](https://github.com/datawhalechina/leedl-tutorial)
 
-专为初学者打造的现代化 CUDA 学习笔记，基于 PyTorch，涵盖 200+ CUDA 核心和 100+ LLM/CUDA  博客。
+教程主要内容源于《机器学习》（2021 年春），并在其基础上进行了一定的原创。比如，为了尽可能地降低阅读门槛，笔者对这门公开课的精华内容进行选取并优化，对所涉及的公式都给出详细的推导过程，对较难理解的知识点进行了重点讲解和强化，以方便读者较为轻松地入门。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2025/assets/1115-1121/1763511327329-c307f86b-0d06-4f4c-947b-673f1da5896a.webp)
+![](assets/1129-1205/1764720437490-9e9dfbb9-125d-4d91-8bd2-891b1bb7dd74.webp)
 
 ## ✍️ 说明
 
