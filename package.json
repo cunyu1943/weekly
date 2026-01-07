@@ -10,13 +10,13 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@theojs/lumen": "^6.4.4",
+    "@theojs/lumen": "^6.4.5",
     "pagefind": "^1.4.0",
-    "pnpm": "^10.17.0",
-    "vitepress-plugin-51la": "^0.1.0",
-    "vitepress-plugin-announcement": "^0.1.5",
-    "vitepress-plugin-pagefind": "^0.4.14",
-    "vitepress-plugin-rss": "^0.3.1"
+    "pnpm": "^10.27.0",
+    "vitepress-plugin-51la": "^0.1.1",
+    "vitepress-plugin-announcement": "^0.1.7",
+    "vitepress-plugin-pagefind": "^0.4.18",
+    "vitepress-plugin-rss": "^0.3.4"
   },
   "packageManager": "pnpm@10.3.0+sha256.24dd5c65d86c7d0710aba16699fbc46d74fc9acf2b419f4945207f2de9e57e23"
 }

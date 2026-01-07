@@ -111,6 +111,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             collapsed: true,
             items: [
                 { text: '第 136 期', link: '/2025/latest' },
+                { text: '第 136 期', link: '/2025/1220-1226' },
                 { text: '第 135 期', link: '/2025/1213-1219' },
                 { text: '第 134 期', link: '/2025/1206-1212' },
                 { text: '第 133 期', link: '/2025/1129-1205' },

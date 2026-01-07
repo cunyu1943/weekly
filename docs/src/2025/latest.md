@@ -12,13 +12,13 @@ tag:
 
 ---
 
-# 好物周刊#136：面试通
+# 好物周刊#137：数智法度
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/SmXCyor6tSKF690NomdTrQ
+> 原文：https://mp.weixin.qq.com/s/sxPyQmjFgmIFHAdKCWUm3A
 
 ## 🎈 号外 
 
@@ -28,105 +28,105 @@ tag:
 <img src="/contact/wxgroup.jpg" width="150">
 </center>
 
-## 一、项目 
+## 一、项目
 
-### 1. [Orion Visor](https://github.com/dromara/orion-visor)
+### 1. [Antigravity Tools](https://github.com/lbjlaq/Antigravity-Manager)
 
-一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问 (SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置 (通过 cron 表达式) 等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
+一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的 本地 AI 中转站。通过本应用，您可以将常见的 Web 端 Session (Google / Anthropic) 转化为标准化的 API 接口，彻底消除不同厂商间的协议鸿沟。
 
-![](assets/1220-1226/1766102274826-de546d0c-3cba-4531-8d6a-9ffd5893e31b.webp)
+![](assets/1227-0102/1767052462534-01ac9a50-938e-4bf1-ade5-959a79b29218.webp)
 
-### 2. [WeRSS](https://github.com/rachelos/we-mp-rss)
+### 2. [MrRSS](https://github.com/WCY-dt/MrRSS)
 
-符合阅读习惯的微信公众号助手、微信公众号转 MarkDown、微信公众号转 PDF、定时更新订阅公众号文章、生成微信公众号 RSS 订阅源。
+一个现代化、跨平台且免费的 AI RSS 阅读器。
 
-![](assets/1220-1226/1766102426333-95a91268-a616-43ca-8a58-d43b0391dff6.webp)
+![](assets/1227-0102/1767052582685-9f883457-cd42-4221-ab35-0a696333c1bd.webp)
 
-### 3. [Con-Nav-Item](https://github.com/zczy-k/Con-Nav-Item)
+### 3. [Kube-Nova](https://github.com/yanshicheng/kube-nova)
 
-现代化的个人导航站，提供美观的卡片式导航界面、强大的后台管理系统和功能丰富的浏览器扩展。
+一个企业级 Kubernetes 多集群管理平台，以项目为视角实现多租户、多集群的资源隔离与统一管理。平台采用项目 → 集群配额 → 工作空间三级架构，提供完整的 RBAC 权限体系、资源超分、告警中心、灰度发布等企业级特性。
 
-![](assets/1220-1226/1766102690832-c2679a5d-f5c8-4226-acf9-ff1ed97696da.webp)
+![](assets/1227-0102/1767052862599-54f58a37-fc47-41a5-995f-069a6052d216.webp)
 
 ## 二、软件
 
-### 1. [Chronnote](https://chronnote.top)
+### 1. [Prism](https://github.com/qyzhg/prism)
 
-All in one 的笔记知识库。基于原子化理念的知识操作系统。它打破了笔记、导图与文档的格式壁垒，将所有信息单元视为同权的‘知识原子’。在 Chron 引擎的驱动下，您可以在统一的工作区内，体验知识形态自由转换与无限编排的流畅心流。
+一款强大的跨平台 AI 翻译应用，采用先进的语言模型和 OCR 技术。
 
-![](assets/1220-1226/1765843089881-79e394e7-0720-41e2-ac2f-f1531e0a5c2f.webp)
+![](assets/1227-0102/1767052709635-acebd8a1-8e7a-4158-90ef-0ff1ce3a633e.webp)
 
-### 2. [万枝](https://github.com/badwolfbay/Wanzhi)
+### 2. [试试双拼](https://ulpb.app)
 
-一款 Windows 系统更换壁纸软件，内含动态壁纸 + 每日诗词组合。
+免费在线双拼练习工具，支持自然码、搜狗双拼、小鹤双拼、微软双拼等 7 种主流方案。提供实时反馈、虚拟键盘、进阶模式等功能，帮助你快速掌握双拼输入法，显著提高打字速度和输入效率。零基础入门，专业练习平台。
 
-![](assets/1220-1226/1766102597539-04afea14-a602-47ed-bae4-3ee2293d1081.webp)
+![](assets/1227-0102/1767053557531-040130ac-57a0-4885-8f84-7ce27b042185.webp)
 
-### 3. [WitNote](https://github.com/hooosberg/WitNote)
+### 3. [秒言](https://miaoyan.cn)
 
-一款本地优先的 AI 写作伴侣，支持 macOS 和 Windows 平台。 内置 Ollama AI 引擎，搭配极简原生卡片界面，开箱即用。无云端依赖，无隐私焦虑，让智能回归轻盈。
+毫秒级极速响应，精准识别。智能重组碎片化语言，还原你的输入原意。懂你的 AI 语音输入法。
 
-![](assets/1220-1226/1766447451595-ff54dfbb-b6c0-42ad-af52-2cc2941588be.webp)
+![](assets/1227-0102/1767053076658-ca5928a1-765b-4f2f-a623-2c1ed4b758ee.webp)
 
 ## 三、网站
 
-### 1. [甲方导航](https://jiafangbb.com)
+### 1. [在线签名设计](https://signaturegen.ai/zh)
 
-简洁的工作娱乐网址导航网站，办公摸鱼两不误。
+AI 为您设计一个独特的个性化手写或电子签名，免费。只需输入您的姓名，选择完美的 AI 生成风格，即可立即下载，设计属于您独一无二的签名。
 
-![](assets/1220-1226/1766447551752-738b5037-c13e-4674-b771-a8d293203bb5.webp)
+![](assets/1227-0102/1767053219838-e781ae6a-85b0-4d4d-a7e9-aecfa0a8ffcd.webp)
 
-### 2. [面试通](https://bimiantong.com)
+### 2. [猫头鹰智能网页订阅](https://www.mtywatch.com)
 
-您的AI面试助手，实时精准识别面试官问题，生成专业回答，助您从容应对每场面试，轻松获得理想工作
+一款智能 AI 驱动的网站订阅工具，支持网页变化订阅、价格订阅、商品订阅、竞品分析。自动检测网页数据变化，实时邮件、短信、钉钉、飞书多渠道通知。简单配置，智能爬取，让您轻松掌握网络动态。
 
-![](assets/1220-1226/1766447674152-00c07c7c-6035-4939-b77a-8db73d4ed0fe.webp)
+![](assets/1227-0102/1767053502446-0175ef53-726b-4f38-9c3c-7ed9723f994a.webp)
 
-### 3. [Isocons](https://www.isocons.app)
+### 3. [数智法度](https://laws.szsyw.cn)
 
-3D 等角图标库，提供了高质量的图标素材，设计师必备。
+法律法规数据检索平台，汇集了大量国家和地方的法律法规、司法解释、行政法规等内容。
 
-![](assets/1220-1226/1766447813585-d76ff076-191a-4631-8f26-dc6870151fd4.webp)
+![](assets/1227-0102/1767053328135-4c5bb5a9-8591-4656-a352-6cca40cbe56e.webp)
 
 ## 四、插件
 
-### 1. [Control Panel for Twitter](https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj?hl=zh-CN)
+### 1. [宽乎](https://microsoftedge.microsoft.com/addons/detail/宽乎/hmindbfdihniclppncnibofigclijheb)
 
-让你对 Twitter 有更多的控制，并增加了缺失的功能和 UI 改进。
+为用户提供修改知乎内容显示区域宽度的功能和修改内容图片大小的功能，使得用户能够根据自己的喜好自定义调节内容显示区域大小，调整知乎网页端让其能够显示更多的内容，优化用户浏览体验。
 
-![](assets/1220-1226/1766534350531-e1a64d58-6c60-47a1-8596-cff855830d51.webp)
+![](assets/1227-0102/1767139287633-12b7d8a2-e8d1-49fd-9ba5-760e46d5658c.webp)
 
-### 2. [多重 URL 打开器](https://chromewebstore.google.com/detail/multiple-url-opener/jfanmjbbnmijbkhgnkpbaclkfeliinob)
+### 2. [115 闪推](https://chromewebstore.google.com/detail/adppjpplkdfnnincbegikjnalffkkcko?utm_source=item-share-cb)
 
-快速打开 URL，批量 URL  打开器彻底改变你的浏览方式，最大限度地提高你的在线效率。
+智能收集网页中的所有的资源链接 (磁力链接、ED2k、种子)。一键批量推送到 115 网盘离线云任务。
 
-![](assets/1220-1226/1766534444273-b60896bf-19aa-4dd5-a9cc-a2851e4fd675.webp)
+![](assets/1227-0102/1767139652882-f8b49a69-7452-486b-aad5-c4b36dd57fb2.webp)
 
-### 3. [电报视频下载器](https://chromewebstore.google.com/detail/telegram-video-downloader/kljkjamilbfohkmbacbdongkddmoliag)
+### 3. [B2Y](https://chromewebstore.google.com/detail/dmkbhbnbpfijhgpnfahfioedledohfja?utm_source=item-share-cb)
 
-一键下载电报私人频道和群组中的视频、音频和图片。安全易用，帮助用户将 Telegram 受限频道中的媒体内容存储到本地，轻松下载所有内容。
+自动将 Bilibili 的弹幕同步显示在 YouTube 视频上，让 YouTube 视频也能拥有 B 站的弹幕氛围！
 
-![](assets/1220-1226/1766534558499-62c9614a-3a07-474c-aa18-c9460b892432.webp)
+![](assets/1227-0102/1767139721386-4f63001f-ea7d-4f77-be94-42d0d600c81f.webp)
 
-## 五、资料
+## 五、资料 
 
-### 1. [FreeBSD 从入门到跑路](https://github.com/FreeBSD-Ask/FreeBSD-Ask)
+### 1. [代码安全指南](https://github.com/Tencent/secguide)
 
-一本开源的 FreeBSD 操作系统研究书籍，还包含一些关于 OpenBSD、NetBSD 等 Berkeley Unix 家族系统的导论章节。
+面向开发人员梳理的代码安全指南，旨在梳理 API 层面的风险点并提供详实可行的安全编码方案。
 
-![](assets/1220-1226/1766448225549-e39d98e5-e985-4cb0-aad4-dd364e749bee.webp)
+![](assets/1227-0102/1767161233113-8dda5b9c-8f6c-48a8-9df0-0f618d702a1a.webp)
 
-### 2. [大厂项目复盘](https://www.yuque.com/wikidesign/ykf0s9)
+### 2. [Open Source Guides](https://github.com/github/opensource.guide)
 
-收集各大厂项目复盘文章，帮助你学习大厂项目经验。
+为希望学习如何运行和贡献开源项目的个人、社区和公司提供的资源集合。由 GitHub 创建和策划，目标是汇总社区最佳实践。
 
-![](assets/1220-1226/1766448423122-614800ce-03d8-440f-a588-0397d3287fd3.webp)
+![](assets/1227-0102/1767161426382-d26a5d80-c5c7-4e87-9017-d01a8a9e8380.webp)
 
-### 3. [Python 1024](https://www.yuque.com/yichu/python)
+### 3. [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 
-Python 教程，分为基础篇、自动化办公篇、数据处理篇，从理论到实践，帮助你更好地掌握 Python。
+一套关于 C++ 编码的行之有效的准则、规则和最佳实践。
 
-![](assets/1220-1226/1766448707138-0344d199-4537-472e-bca4-81f865794710.webp)
+![](assets/1227-0102/1767161690305-aac6b0c2-e5c4-4f6b-8f26-629b4badf2de.webp)
 
 
 ## ✍️ 说明
