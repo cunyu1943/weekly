@@ -23,7 +23,7 @@ hero:
   actions:
     - theme: brand
       text: 最新年刊
-      link: /2025/latest
+      link: /2026/latest
     - theme: alt
       text: 创刊寄语
       link: /guide
