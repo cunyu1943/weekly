@@ -12,125 +12,122 @@ tag:
 
 ---
 
-# 好物周刊#141：Python 中文指南
+# 好物周刊#142：字体库
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/GRLrLdItTrsI0HhCBKCP6Q
+> 原文：https://mp.weixin.qq.com/s/i69fQgZG8B-hCwpC5wfo3g
 
 ## 🎈 号外 
 
 最近，公众号之外，建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～
 
 <center>
-<img src="/contact/wxgroup.jpg" width="150">
+<img src="/contact/wxgroup.jpg" width="70%">
 </center>
 
 
 ## 一、项目
 
-### 1. [OneLook](https://github.com/QingJ01/onelook)
+### 1. [Anchor](https://github.com/zhfahim/anchor)
 
-一款专注于沉浸式创作的思维导图应用。它摒弃了繁杂的 UI 干扰，结合了 Markdown 的流畅输入与 SVG 的高性能渲染，为您提供所见即所得的思考空间。数据完全存储于本地，隐私无忧。
+一个离线优先、支持自托管的跨端笔记应用仓库，主打隐私性、速度、简洁性和可靠性，覆盖网页端与移动端，核心特点是笔记本地存储、离线可编辑，联网时自动跨设备同步。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769423788891-c39ebe6b-0c1a-40f7-99e0-71fff1a24a66.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769425473393-01c985d7-9244-423e-9fa8-ea7c341c3f25.webp)
 
-### 2. [Auto_Check_In](https://github.com/BNDou/Auto_Check_In)
+### 2. [Zotero PDF2zh](https://github.com/guaguastandup/zotero-pdf2zh)
 
-每日自动签到集合，支持掌上飞车、夸克网盘、人人视频、小米运动、LaTeX 工作室等平台。
+一款面向 Zotero 文献管理器的开源 PDF 自动翻译插件，核心能力是在 Zotero 内一键将外文 PDF（以英文为主）翻译成中文，支持生成纯中文或中英双语对照版 PDF，同时保留原始排版、公式与图表，极大提升科研人员、学生阅读外文文献的效率。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769424007901-cc8ddce5-7bd5-49c7-8665-645bffec9bcf.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769513502901-dcb2dfd2-0df3-4d98-bfe2-8660f46f9a07.webp)
 
-### 3. [Huobao Drama](https://github.com/chatfire-AI/huobao-drama)
+### 3. [MeiamSubtitles](https://github.com/91270/MeiamSubtitles)
 
-一个基于 AI 的短剧自动化生产平台，实现从剧本生成、角色设计、分镜制作到视频合成的全流程自动化。
+一款专为 Emby 和 Jellyfin 媒体服务器打造的中文字幕下载插件。它集成了迅雷影音与射手网的强大搜索能力，支持精准的视频哈希（Hash）匹配，让您的媒体库自动补全高质量字幕。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769424956405-3db87786-f318-427c-aa94-9ec3867423ea.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769513115528-b538aff6-d0d0-4496-b7b8-09446be235d9.webp)
 
 ## 二、软件
 
-### 1. [咔皮记账](https://heylumi.cn)
+### 1. [Espanso](https://github.com/espanso/espanso)
 
-你的 AI 财务助手，支持语音记账、AI 自动记账、可视化财务报告等多项免费功能。
+基于 Rust 开发，隐私优先的跨平台文本扩展工具。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769509736364-04575734-cbdd-432d-9aa7-bb03deefb19d.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769560004702-491a407c-e223-403a-9e41-ef9870aacb46.webp)
 
-### 2. [艾特阅读桌面版](https://github.com/dengcb/weixin-reader-desktop)
+### 2. [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强。
+Windows 快速文件搜索和应用启动器，支持插件。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769252637264-19cf4256-cb8f-4cc1-b979-e07b877ea269.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769682687948-081befdc-02e7-4401-8047-832da9334cc1.webp)
 
-### 3. [NextTrace](https://github.com/nxtrace/NTrace-core)
+### 3. [ZenSSH](https://github.com/kisChang/ZenSSH)
 
-一款由 Golang 实现的开源轻量级可视化路由追踪工具，支持 Windows、macOS 以及 Linux 平台。
+一款基于 Tauri 构建的全平台 SSH 客户端，支持 SSH 连接与 SFTP 文件传输，支持跳板机，专注于提供简洁、稳定、易用的核心功能体验。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769425768419-072a7126-fb83-4064-a991-9022e6faf774.webp)
-
-
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1770028256806-2ca32ad3-e8dc-441a-8a3f-60350e0989f4.webp)
 
 ## 三、网站
 
-### 1. [GuardSSL](https://guardssl.info/zh-CN)
+### 1. [NewsNow](https://hot.ittools.cc)
 
-1 秒出结果的 SSL 证书检测工具，无需注册。7×24 小时监控 SSL 过期，支持飞书、Slack、Discord、Telegram 自动提醒，永久免费。
+实时新闻聚合阅读器，汇集全球热点新闻，提供优雅的阅读体验
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769252778606-6aa06ec0-0c6c-4bf4-a6e3-7229226ed08d.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769253073878-1f000409-36ea-4931-8013-b0e34406a7fd.webp)
 
-### 2. [未知搜索](https://projext.run)
+### 2. [字体库](https://zitiku.org)
 
-搜索全网最新影视资源，覆盖高清动漫、热门电影、热播电视剧、综艺、美剧、韩剧等剧集与影片。支持在线播放、无广告秒加载、中文字幕齐全，体验流畅不卡顿，免费下载不等待。无论是追新番、刷热剧还是重温经典，这里都是你的影视始发站。
+高品质免费商用字体库，探索我们精心挑选的 1000 + 免费商用字体，适用于任何设计项目。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769252729529-8d05db9b-c6e2-42c3-9370-0b0133342b7a.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769253211967-0e080862-6f07-4fd2-8eeb-2d2d9ec69a25.webp)
 
-### 3. [AI 资源帮](https://ai-zyb.com)
+### 3. [ScreenshotSnap](https://screenshotsnap.com)
 
-全网首发的 Ai 资源搜索 Agent，基于人工智能技术实现全网各领域资源的智能分类检索整理。一键搜索影视、软件、音乐、电子书、教程、游戏等海量优质资源。
+免费的网站截图 API 服务。使用我们的 website screenshot generator 在线捕获任何网页截图。支持 WebP/PNG 格式，全球 CDN 加速，毫秒级响应。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769252533279-8e9ed987-c789-40ac-9565-2f83612b03b6.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769253375455-d25040c0-0d44-4468-b874-9df6e291e85b.webp)
 
 ## 四、插件
 
-### 1. [prompt-master](https://github.com/fantasyao/prompt-master)
+### 1. [Ad Block Wonder](https://chromewebstore.google.com/detail/ad-block-wonder-stop-ads/fpkbnjejghdcncegfglnapabnljcimdc)
 
-一键搜索、管理你的 AI 提示词，支持全键盘高效操作，对鼠标也友好，支持一键点击复制。
+在您喜欢的网站上拦截广告和弹窗，告别疯狂的弹窗广告。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769252955370-69677e58-636f-4f31-88da-2d551d37e1a5.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1770250024470-7d14c58c-37b5-4f05-adc1-445f4f48887e.webp)
 
-### 2. [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe)
+### 2. [U-Eyes：移动模拟器](https://chromewebstore.google.com/detail/u-eyes-mobile-simulator/pjldgnhfobpnhbdmfmofkfppdilefnjj)
 
-通过添加便捷的下拉菜单来增强您的 GitHub 使用体验。您可以直接在浏览器中访问 GitHub Dev、VS Code Dev 或 CodeSandbox 等常用的在线集成开发环境 (IDE)，从而无缝地查看代码并与之交互。
+为开发者、设计师、QA 测试人员和市场营销人员设计的终极移动模拟器，提供一体化的工具包，直接集成到您的 Chrome 浏览器中，以无与伦比的便捷和准确性测试、捕捉和分享您的响应式网页设计。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769511092284-14bc5afb-5590-4fa0-9098-49a1aaed1863.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1770250507412-9f1091f3-c9aa-4835-8e23-8e05cc477508.webp)
 
-### 3. [Gridman](https://chromewebstore.google.com/detail/dimensions-inspect-gridma/cmplbmppmfboedgkkelpkfgaakabpicn)
+### 3. [心流鼠标手势](https://chromewebstore.google.com/detail/fnldhkfidchnjiokpoemdhoejmaojkgp?utm_source=item-share-cb)
 
-前端开发人员的瑞士军刀，每个前端开发者必备的 Chrome 扩展程序，旨在提升您的工作效率，改善您的编码体验。
+一款追求极致流畅与隐私保护的开源 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769510892746-81cb05ea-4ec1-41d2-9ed1-41edd145d828.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1770250158497-2aa115e8-d146-41e1-bdf7-13cb840227a7.webp)
 
 ## 五、资料
 
-### 1. [Python 中文指南](https://github.com/iswbm/python-guide)
+### 1. [Vibe coding from 0 to 1](https://github.com/datawhalechina/easy-vibe)
 
-从零到一的零基础 Python 教程。
+把想法做成真正能上线的产品，首个交互式教程，零基础也能学会的 AI 编程实战。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769473688464-86f68911-de8f-449d-856f-0df7d06ec132.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1770028628988-3efd7eca-6319-4379-ba74-50f794b49285.webp)
 
-### 2. [RAG 技术全栈指南](https://github.com/datawhalechina/all-in-rag)
+### 2. [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
-一个面向大模型应用开发者的 RAG（检索增强生成）技术全栈教程，旨在通过体系化的学习路径和动手实践项目，帮助开发者掌握基于大语言模型的 RAG 应用开发技能，构建生产级的智能问答和知识检索系统。
+为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769476409747-f5bf6947-baad-48da-a7e2-2d697c15f68d.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769513282873-a1b14982-9232-4eed-afa6-3ca30715f07e.webp)
 
-### 3. [Modern Java](https://github.com/Together-Java/ModernJava)
+### 3. [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 
-面向初学者的现代 Java 教程，内容基于 Java 21。
+最全中华古诗词数据库，唐宋两朝近一万四千古诗人，接近 5.5 万首唐诗加 26 万宋诗，两宋时期 1564 位词人，21050 首词。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0124-0130/1769167020049-052b0c04-d96a-474c-b335-3cccd8d229da.webp)
-
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0131-0206/1769598672107-03ee5e7a-bbfe-4742-a2e5-5a4fa07d9c6c.webp)
 
 ## ✍️ 说明
 
