@@ -6,7 +6,9 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             text: '2026 年刊',
             collapsed: true,
             items: [
-                { text: '第 142 期', link: '/2026/latest' },
+                { text: '第 144 期', link: '/2026/latest' },
+                { text: '第 143 期', link: '/2026/0207-0213' },
+                { text: '第 142 期', link: '/2026/0131-0206' },
                 { text: '第 141 期', link: '/2026/0124-0130' },
                 { text: '第 140 期', link: '/2026/0117-0123' },
                 { text: '第 139 期', link: '/2026/0110-0116' },
