@@ -12,13 +12,13 @@ tag:
 
 ---
 
-# 好物周刊#144：小龙虾教程
+# 好物周刊#145：浏览器 AI 助手
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/VXB-VyTGb-Nsa1GRwWltzg
+> 原文：https://mp.weixin.qq.com/s/mhfLYDdqD1Pnvn6ZgCedHQ
 
 ## 🎈 号外 
 
@@ -30,103 +30,103 @@ tag:
 
 ## 一、项目
 
-### 1. [Voice Key](https://github.com/BuildWithAIs/voicekey)
+### 1. [VCPToolBox](https://github.com/lioensky/VCPToolBox)
 
-一款开源的桌面端语音输入产品，集成 GLM ASR (智谱 AI) 实现高精度的语音转文字。
+一个全新的，强大的 AI - API - 工具交互范式 AGI 社群系统。独立多 Agent 封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整 Websocket 和 WebDav 功能，支持分布式部署和算力均衡！
 
-![](assets/0214-0220/1770029674902-54d85769-3870-465b-b95b-7e2c718eb537.webp)
+![](assets/0221-0227/1770768296395-eb6e9694-347c-4a03-a3f8-522d8c3667f0.webp)
 
-### 2. [Diarum](https://github.com/songtianlun/diarum)
+### 2. [NeutralPress](https://github.com/RavelloH/NeutralPress)
 
-一款零负担、快记录、怡复盘的日记应用，记录独一无二的人生。零负担，软件使用非常简单，登陆后打开首页即跳转到今日日记。快记录，打开立刻开始记录，自动保存。怡复盘，可以愉快的完成复盘、总结分析。轻松实现现代化 AI 加持的 “吾日三省吾身”。
+基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX 内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
 
-![](assets/0214-0220/1770164248152-d0d39127-ed69-443d-aadd-36a9bb635f23.webp)
+![](assets/0221-0227/1772110936127-4ee9c99f-0808-48ff-9642-7a408527ef26.webp)
 
-### 3. [云舒 NAS](https://github.com/itning/yunshu-nas)
+### 3. [dockerCopilot](https://github.com/onlyLTY/dockerCopilot)
 
-自建 NAS 系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
+一个主打便捷的 docker 容器管理工具，现在已经支持所有平台，支持一键更新容器。
 
-![](assets/0214-0220/1770164509001-8203930a-7a40-43ba-bcc0-ab8eabc6fe56.webp)
+![](assets/0221-0227/1772409437305-b0429c0a-0069-4f10-ad6a-5a50442d9fd9.webp)
 
 ## 二、软件
 
-### 1. [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
+### 1. [Moraya](https://github.com/zouwei/moraya)
 
-一款轻量、高性能的 Windows 桌面特效工具，为点击、拖尾、滚轮、长按、悬停提供实时视觉反馈（波纹、粒子、文字等）。
+一款极简的 AI Markdown 编辑器，你的 AI 创作员工。你的一个想法，成就无限可能。
 
-![](assets/0214-0220/1771998865623-59bda6cc-01cb-450f-9044-d4db0c9f5217.webp)
+![](assets/0221-0227/1772065552619-eb44fde2-482f-4cf9-8233-680172a337b4.webp)
 
-### 2. [SkreenPro](https://github.com/SkreenPro/SkreenPro)
+### 2. [ScreenKite](https://www.screenkite.com)
 
-一个强大且漂亮的截图编辑器，由 Electron 、React 和 Konva 构建。使用专业工具编辑截图，包括背景、阴影、边框和更多功能。
+为交付人群设计的原生 macOS 屏幕录制工具。支持自动缩放，内置编辑器，金属加速导出，免费使用无订阅。
 
-![](assets/0214-0220/1770768350556-296e84eb-5d53-4f79-984c-e3cf8cdc74e0.webp)
+![](assets/0221-0227/1772076615184-e68d8098-51e6-451e-92c7-1f5748bb0fc4.webp)
 
-### 3. [AIGCPanel](https://aigcpanel.com)
+### 3. [迅雷浏览器](https://x.xunlei.com)
 
-一个可以在本地轻松使用 AI 模型的面板工具，支持模型安装、模型启动、模型调用等一站式便捷体验，让工作更高效！
+极简无广告，还你纯粹。聚合搜索引擎，搜你所想。强大播放器，一键畅播。迅雷浏览器全新登场！
 
-![](assets/0214-0220/1772065331750-8f31000c-e759-4102-9527-72ca8ebf40c1.webp)
+![](assets/0221-0227/1772107586220-d1f6a1ba-aea1-4e56-a3a0-9b14d6f494fd.webp)
 
 ## 三、网站
 
-### 1. [纪录片之家](https://www.05jl.com)
+### 1. [PDFuck](https://pdfuck.com/zh#tools)
 
-分享纪录片，美剧，留住这些让我们感动的电视节目。纪录片之家提供最新、最全、最经典的纪录片和美剧下载。
+免费浏览器端 PDF 工具。合并、分割、压缩、旋转、转换 PDF，100% 隐私保护。
 
-![](assets/0214-0220/1769598914584-90553c17-e1f3-4104-b449-89f671bf0289.webp)
+![](assets/0221-0227/1770768507810-321a0958-6ef9-4e1f-94d8-587363c2c341.webp)
 
-### 2. [小春日](http://www.xiaochunri.com)
+### 2. [MacKed](https://macked.app)
 
-摄影图片大全，里面有几百个不同类型的资源美少女全套写真图集。画质非常高清，而且几乎每天都在更新优质资源。
+每天更新大量精品 Mac 软件，为您提供优质的 Mac 软件以及各种实用的 Mac 技巧教程，致力于打造从软件到服务都是一流的 Mac 软件资源网站。
 
-![](assets/0214-0220/1769599144163-a97cf0f7-909a-494f-a7cc-e583407a51b9.webp)
+![](assets/0221-0227/1770163949109-ad401af7-2709-487e-a443-4127439ea3d9.webp)
 
-### 3. [doyoudo](https://www.doyoudo.com)
+### 3. [嘀嗒影视](https://www.didahd.pro)
 
-专注于创意设计软件学习的网站，里边有 PS、PR、AE 等各种后期软件的教程。
+专注高分电影，高清 HD 在线，极速秒播不卡顿！
 
-![](assets/0214-0220/1769599295328-df783421-3a90-4db7-a08c-19c1f917571f.webp)
+![](assets/0221-0227/1770028082157-141f68fe-41ed-4e5d-85d5-9182832bb912.webp)
 
 ## 四、插件
 
-### 1. [浮生梦](https://chromewebstore.google.com/detail/aihpjpjndpdkbmdjghjglbmippnjlkcp?utm_source=item-share-cb)
+### 1. [纳米 AI 助手](https://chromewebstore.google.com/detail/fdcmomajekgiigcalflcbjbkemogcbaf)
 
-简约美观的自定义新标签页的浏览器扩展，在新标签页上展示中国经典诗词和书签。
+全新浏览器 AI 助手，搭载多家主流大模型，精通搜索、写作、总结。
 
-![](assets/0214-0220/1772958107944-4f28f8d4-3ef3-439a-af80-10176685bade.webp)
+![](assets/0221-0227/1773404853621-781f0949-c3af-4663-b8e0-271ff8b856c0.webp)
 
-### 2. [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb)
+### 2. [夸克浏览器 AI 助手](https://chromewebstore.google.com/detail/nmaekpmealpjglikpijiegglabclhefp)
 
-记录你在浏览器上的所有操作（例如，点击、输入等），提供了 css、js、 和 xhr 等资源的下载。
+在浏览器随时唤起夸克 AI，AI 搜索智能回答，还能让 AI 帮你解读、润色、翻译，高效完成工作。
 
-![](assets/0214-0220/1772959187519-fb4152ca-a7a8-4234-874f-05a0e316baa4.webp)
+![](assets/0221-0227/1773405089403-5b9a76e5-c056-42a9-abef-6df0f06a2847.webp)
 
-### 3. [DiyTab](https://chromewebstore.google.com/detail/kdgjiakonpbfmndaacfhamdoangincgp)
+### 3. [智谱清言 AI 助手](https://chromewebstore.google.com/detail/mnpdbmgpebfihcndnpgdaihnkmloclkd)
 
-一款高效、便捷的浏览器插件，专为需要批量下载图片的用户设计。无论你是在社交媒体平台、图片库网站，还是博客文章中发现大量有价值的图片，DiyTab 图片下载器 都能帮助你轻松地进行批量下载，无需逐一保存。
+你的 AI 全能助手，通过划线工具、多链接总结、站内高级检索、写作助手等，清言插件助您轻松应对各种网络浏览场景。
 
-![](assets/0214-0220/1772959606512-2c5b125a-7caf-4049-bc83-0bd04d77dd7a.webp)
+![](assets/0221-0227/1773405270742-27e46f0b-2c8a-43f8-98da-c5582107f14f.webp)
 
 ## 五、资料
 
-### 1. [Claw101](https://claw101.com)
+### 1. [OpenClaw 101](https://github.com/mengjian-github/openclaw101)
 
-OpenClaw 中文教程，从安装部署到高级玩法的保姆级指南。免费 13 章完整教程、实战案例、活跃社群。
+从零开始，7 天掌握你的 AI 私人助理，截止目前已经收录了 420+ 教程资源。
 
-![](assets/0214-0220/1773187291017-55db22a6-93f8-450c-a871-f0245004eea2.webp)
+![](assets/0221-0227/1773877894638-8affe43e-42cf-4a68-9b98-7ebe7e45c7ef.webp)
 
-### 2. [BUPT 生存指南](https://github.com/byrdocs/bupt-survival-guide)
+### 2. [OpenClaw 中文官方技能库](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
 
-一个开源的北京邮电大学学生生活指南，旨在帮助新老同学更好地适应校园生活。本指南覆盖了沙河校区和本部校区的详细信息，包含住宿、餐饮、学习、交通、生活服务等方方面面的实用指南。
+翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用。
 
-![](assets/0214-0220/1773187704913-11c1120c-0ba8-4e2f-9228-cd69ae3c9dec.webp)
+![](assets/0221-0227/1773878085371-3dfbe220-347e-404b-bd22-8019ab8692b8.webp)
 
-### 3. [Awesome OpenClaw Tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial)
+### 3. [AIInfra](https://github.com/Infrasys-AI/AIInfra)
 
-从零开始打造你的 AI 工作助手：最全面的中文教程，涵盖安装、配置、实战案例和避坑指南。
+跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着在 NVIDIA、ASCEND 等芯片厂商构建算力层面，所用到的、积累、梳理得到大模型系统全栈的内容。
 
-![](assets/0214-0220/1773187875745-0feaa458-e2b8-4d6e-9139-b3fbf92eca43.webp)
+![](assets/0221-0227/1773619235055-1b980042-7b4a-475d-9316-6d5207e2fb31.webp)
 
 
 ## ✍️ 说明
