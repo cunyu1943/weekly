@@ -12,13 +12,13 @@ tag:
 
 ---
 
-# 好物周刊#145：浏览器 AI 助手
+# 好物周刊#146：Hello Claw
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/mhfLYDdqD1Pnvn6ZgCedHQ
+> 原文：
 
 ## 🎈 号外 
 
@@ -28,106 +28,106 @@ tag:
 <img src="/contact/wxgroup.jpg" width="70%">
 </center>
 
+
 ## 一、项目
 
-### 1. [VCPToolBox](https://github.com/lioensky/VCPToolBox)
+### 1. [八爪鱼](https://github.com/openocta/openocta)
 
-一个全新的，强大的 AI - API - 工具交互范式 AGI 社群系统。独立多 Agent 封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整 Websocket 和 WebDav 功能，支持分布式部署和算力均衡！
+基于 OpenClaw 的 Gateway 协议和 Control UI，重写为单一 Go 二进制后端 + 内嵌前端，面向无桌面服务器环境下的运维、可观测与自动化场景。
 
-![](assets/0221-0227/1770768296395-eb6e9694-347c-4a03-a3f8-522d8c3667f0.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772755221895-fe349dc9-bb7c-4296-9857-48b3c62a6a80.webp)
 
-### 2. [NeutralPress](https://github.com/RavelloH/NeutralPress)
+### 2. [挪车通知系统](https://github.com/lesnolie/movecar)
 
-基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX 内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
+基于 Cloudflare Workers 的智能挪车通知系统，扫码即可通知车主，保护双方隐私。
 
-![](assets/0221-0227/1772110936127-4ee9c99f-0808-48ff-9642-7a408527ef26.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772409868331-03da704c-6f53-4824-9b68-4ddcd036cbc9.webp)
 
-### 3. [dockerCopilot](https://github.com/onlyLTY/dockerCopilot)
+### 3. [Xiaohongshu CLI](https://github.com/jackwener/xhs-cli)
 
-一个主打便捷的 docker 容器管理工具，现在已经支持所有平台，支持一键更新容器。
+小红书命令行工具，搜索、阅读、点赞、收藏、评论，全在终端完成。
 
-![](assets/0221-0227/1772409437305-b0429c0a-0069-4f10-ad6a-5a50442d9fd9.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773102139165-e5f7739f-00b6-4670-a953-fef4806bfdbe.webp)
 
 ## 二、软件
 
-### 1. [Moraya](https://github.com/zouwei/moraya)
+### 1. [Tabbit 浏览器](https://www.tabbit-ai.com)
 
-一款极简的 AI Markdown 编辑器，你的 AI 创作员工。你的一个想法，成就无限可能。
+新一代 AI 原生浏览器，智能理解你的上下文。一键引用网页、截图、收藏、文件进行对话，Agent 自动执行重复任务，自定义妙招提升效率，智能分组管理标签页。支持 DeepSeek-V3.2、Doubao-seed-1.8、Kimi-k2.5、GLM-5、Minimax-M2.5、Qwen3.5-Plus、Longcat-Flash-Chat 等多个 AI 模型自由切换。适用于内容创作、科研学习、数据分析等场景。macOS 和 Windows 版免费下载，开启高效浏览新体验。
 
-![](assets/0221-0227/1772065552619-eb44fde2-482f-4cf9-8233-680172a337b4.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772526011306-9e6e5e20-d1e0-45db-b137-a373dd4182a6.webp)
 
-### 2. [ScreenKite](https://www.screenkite.com)
+### 2. [阿福记账]( https://apps.apple.com/cn/app/id6751020754)
 
-为交付人群设计的原生 macOS 屏幕录制工具。支持自动缩放，内置编辑器，金属加速导出，免费使用无订阅。
+一款革命性的可视化记账应用，将抽象的数字转化为真实的钱币体验，让记账变得直观有趣。
 
-![](assets/0221-0227/1772076615184-e68d8098-51e6-451e-92c7-1f5748bb0fc4.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772409699589-638f6cba-faec-48f3-b06b-a8ee8ceef3f8.webp)
 
-### 3. [迅雷浏览器](https://x.xunlei.com)
+### 3. [Conex](https://getconex.app)
 
-极简无广告，还你纯粹。聚合搜索引擎，搜你所想。强大播放器，一键畅播。迅雷浏览器全新登场！
+现代化 SSH 客户端，为效率与安全而生。终端、SFTP、端口转发与可选端到端加密云同步，一应俱全。
 
-![](assets/0221-0227/1772107586220-d1f6a1ba-aea1-4e56-a3a0-9b14d6f494fd.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772495532341-0f34b3c3-39ed-4f9b-a159-c1096bd21124.webp)
 
 ## 三、网站
 
-### 1. [PDFuck](https://pdfuck.com/zh#tools)
+### 1. [md2ex](https://www.md2ex.com)
 
-免费浏览器端 PDF 工具。合并、分割、压缩、旋转、转换 PDF，100% 隐私保护。
+支持将 Markdown 保存导出为 PDF、PNG、JPG、DOC、DOCX、HTML 等多种格式。
 
-![](assets/0221-0227/1770768507810-321a0958-6ef9-4e1f-94d8-587363c2c341.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772065037370-00ef81f2-e92b-4467-a405-c4eb61274349.webp)
 
-### 2. [MacKed](https://macked.app)
+### 2. [简历生成器](https://my-cv.top)
 
-每天更新大量精品 Mac 软件，为您提供优质的 Mac 软件以及各种实用的 Mac 技巧教程，致力于打造从软件到服务都是一流的 Mac 软件资源网站。
+无需编写任何代码即可获得专业的 LaTeX 排版简历。专注于内容，格式处理交给它就行。
 
-![](assets/0221-0227/1770163949109-ad401af7-2709-487e-a443-4127439ea3d9.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772064734260-a3f93cfa-5cbf-42f4-829a-80cc3893d084.webp)
 
-### 3. [嘀嗒影视](https://www.didahd.pro)
+### 3. [趣搜哦](https://qusoo.xyz)
 
-专注高分电影，高清 HD 在线，极速秒播不卡顿！
+资源搜索分享网站，想看什么就搜什么。
 
-![](assets/0221-0227/1770028082157-141f68fe-41ed-4e5d-85d5-9182832bb912.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772063906409-0c371502-2b67-41c3-ae5d-0c3020009a4d.webp)
 
 ## 四、插件
 
-### 1. [纳米 AI 助手](https://chromewebstore.google.com/detail/fdcmomajekgiigcalflcbjbkemogcbaf)
+### 1. [Kortex-NotebookLM](https://chromewebstore.google.com/detail/kortex-notebooklm/hdapplggdhndkblofffknpmnnnnbncbn)
 
-全新浏览器 AI 助手，搭载多家主流大模型，精通搜索、写作、总结。
+将 NotebookLM 转变为您的终极知识中心。保存提示词、导出聊天记录，并无缝组织所有交互。
 
-![](assets/0221-0227/1773404853621-781f0949-c3af-4663-b8e0-271ff8b856c0.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773405749451-6b227e84-fd7a-4cc9-a4e0-48687951a657.webp)
 
-### 2. [夸克浏览器 AI 助手](https://chromewebstore.google.com/detail/nmaekpmealpjglikpijiegglabclhefp)
+### 2. [2FA](https://chromewebstore.google.com/detail/2fa/ebhcbenbgjmaebpgbldimndmfomjmphd)
 
-在浏览器随时唤起夸克 AI，AI 搜索智能回答，还能让 AI 帮你解读、润色、翻译，高效完成工作。
+在浏览器中生成安全验证码，为您的所有账户提供快速、离线的双重身份验证。
 
-![](assets/0221-0227/1773405089403-5b9a76e5-c056-42a9-abef-6df0f06a2847.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773411695700-79344e4d-923d-4cf6-8cd6-e98e2dec31dd.webp)
 
-### 3. [智谱清言 AI 助手](https://chromewebstore.google.com/detail/mnpdbmgpebfihcndnpgdaihnkmloclkd)
+### 3. [Gopeed](https://chromewebstore.google.com/detail/gopeed/mijpgljlfcapndmchhjffkpckknofcnd)
 
-你的 AI 全能助手，通过划线工具、多链接总结、站内高级检索、写作助手等，清言插件助您轻松应对各种网络浏览场景。
+搭配 GoPeed 软件使用的插件，轻松监听浏览器下载行为，通过 Gopeed 进行多线程高速下载。
 
-![](assets/0221-0227/1773405270742-27e46f0b-2c8a-43f8-98da-c5582107f14f.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773411912683-8b0dc44c-8823-408a-b4b3-8ea8c41114ca.webp)
 
 ## 五、资料
 
-### 1. [OpenClaw 101](https://github.com/mengjian-github/openclaw101)
+### 1. [Claude Code & OpenClaw 中文教程](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)
 
-从零开始，7 天掌握你的 AI 私人助理，截止目前已经收录了 420+ 教程资源。
+从零到企业实战：Claude Code 官方编程神器 + OpenClaw 教程。
 
-![](assets/0221-0227/1773877894638-8affe43e-42cf-4a68-9b98-7ebe7e45c7ef.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1774459413322-f48660c5-c99e-4664-bab0-e51f81a168fa.webp)
 
-### 2. [OpenClaw 中文官方技能库](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
+### 2. [哈喽！龙虾](https://github.com/datawhalechina/hello-claw)
 
-翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用。
+一个面向 OpenClaw 的完整学习教程，帮助你从零开始掌握这个强大的命令行 AI 助理系统。无论你是想快速上手使用 OpenClaw 提升效率，还是想深入理解其原理并构建自己的版本，本教程都能为你提供清晰的学习路径。
 
-![](assets/0221-0227/1773878085371-3dfbe220-347e-404b-bd22-8019ab8692b8.webp)
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1774459548035-2faff3cb-7cd1-47c2-bcbd-87a39cb17232.webp)
 
-### 3. [AIInfra](https://github.com/Infrasys-AI/AIInfra)
+### 3. [AI 智能体实战速成指南](https://github.com/didilili/ai-agents-from-zero)
 
-跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着在 NVIDIA、ASCEND 等芯片厂商构建算力层面，所用到的、积累、梳理得到大模型系统全栈的内容。
+2026 最系统的 AI Agent 速成指南｜智能体实战教程。完整学习路径 + 实战项目 + 面试题库。
 
-![](assets/0221-0227/1773619235055-1b980042-7b4a-475d-9316-6d5207e2fb31.webp)
-
+![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1774459995768-54963435-3f9a-4a8f-be28-4a0608ec68d6.webp)
 
 ## ✍️ 说明
 
