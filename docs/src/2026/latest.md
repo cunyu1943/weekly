@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 好物周刊#146：Hello Claw
+# 好物周刊#147：字魂
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -31,110 +31,110 @@ tag:
 
 ## 一、项目
 
-### 1. [八爪鱼](https://github.com/openocta/openocta)
+### 1. [U-Claw](https://github.com/dongsheng123132/u-claw)
 
-基于 OpenClaw 的 Gateway 协议和 Control UI，重写为单一 Go 二进制后端 + 内嵌前端，面向无桌面服务器环境下的运维、可观测与自动化场景。
+OpenClaw 离线安装 U 盘，插上就能用，双击就安装，专为中国用户打造。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772755221895-fe349dc9-bb7c-4296-9857-48b3c62a6a80.webp)
+![](assets/0328-0403/1773402111802-34ce2ad1-3183-42d7-8e20-77f120718296.webp)
 
-### 2. [挪车通知系统](https://github.com/lesnolie/movecar)
+### 2. [oMLX](https://github.com/jundot/omlx)
 
-基于 Cloudflare Workers 的智能挪车通知系统，扫码即可通知车主，保护双方隐私。
+在 Apple Silicon 上支持文本 LLM、视觉语言模型（VLM）、OCR 模型、嵌入模型和重排序模型。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772409868331-03da704c-6f53-4824-9b68-4ddcd036cbc9.webp)
+![](assets/0328-0403/1773311848338-cc197b28-500b-400b-8d1b-da37e13b3ba1.webp)
 
-### 3. [Xiaohongshu CLI](https://github.com/jackwener/xhs-cli)
+### 3. [OpeniLink](https://github.com/openilink/openilink-hub)
 
-小红书命令行工具，搜索、阅读、点赞、收藏、评论，全在终端完成。
+微信 ClawBot iLink 协议的开源消息管理平台，一行命令安装，零依赖，内置 SQLite 零配置启动。支持 WebSocket、Webhook、AI 自动回复三通道并行。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773102139165-e5f7739f-00b6-4670-a953-fef4806bfdbe.webp)
+![](assets/0328-0403/1775001523509-29be6107-71fd-4830-93a0-56531dba237b.webp)
 
-## 二、软件
+## 二、软件 
 
-### 1. [Tabbit 浏览器](https://www.tabbit-ai.com)
+### 1. [夸克浏览器](https://www.quark.cn)
 
-新一代 AI 原生浏览器，智能理解你的上下文。一键引用网页、截图、收藏、文件进行对话，Agent 自动执行重复任务，自定义妙招提升效率，智能分组管理标签页。支持 DeepSeek-V3.2、Doubao-seed-1.8、Kimi-k2.5、GLM-5、Minimax-M2.5、Qwen3.5-Plus、Longcat-Flash-Chat 等多个 AI 模型自由切换。适用于内容创作、科研学习、数据分析等场景。macOS 和 Windows 版免费下载，开启高效浏览新体验。
+为你带来极速、智能、安全、高效的搜索体验。找答案，找资料，找工具，办公，学习，工作必备应用。夸克提供浏览器搜索引擎、网盘、AI 扫描王工具及小说阅读等高效功能，为你提供稳定,安全,流畅的浏览环境和优质的产品服务体验。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772526011306-9e6e5e20-d1e0-45db-b137-a373dd4182a6.webp)
+![](assets/0328-0403/1772668048326-d1ff42a0-86bf-435a-a521-a55677ba7fe2.webp)
 
-### 2. [阿福记账]( https://apps.apple.com/cn/app/id6751020754)
+### 2. [iFilesManage](https://ifilesmanage.kesug.com)
 
-一款革命性的可视化记账应用，将抽象的数字转化为真实的钱币体验，让记账变得直观有趣。
+一款专为个人和小型团队打造的高效文件管理软件，集文件分类、快速检索、批量操作等核心功能于一体，完美适配 Windows 主流系统。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772409699589-638f6cba-faec-48f3-b06b-a8ee8ceef3f8.webp)
+![](assets/0328-0403/1772960807989-65cd823b-d4ae-46ad-88a6-de139dccd638.webp)
 
-### 3. [Conex](https://getconex.app)
+### 3. [Smart Cleaner](https://github.com/lifedever/smart-cleaner)
 
-现代化 SSH 客户端，为效率与安全而生。终端、SFTP、端口转发与可选端到端加密云同步，一应俱全。
+一款采用 Tauri v2 + Vue 3 + Rust 开发的现代化、轻量级 Mac 目录清理工具。致力于帮助用户快速扫描任意文件夹，根据多种自定义属性过滤并清理庞大的垃圾文件。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772495532341-0f34b3c3-39ed-4f9b-a159-c1096bd21124.webp)
+![](assets/0328-0403/1772958554664-37263850-3286-4738-9a0d-8b84d73c628e.webp)
 
 ## 三、网站
 
-### 1. [md2ex](https://www.md2ex.com)
+### 1. [广东全民终身学习平台](https://www.gdlll.cn)
 
-支持将 Markdown 保存导出为 PDF、PNG、JPG、DOC、DOCX、HTML 等多种格式。
+广东全民终身学习平台，终身学习，人人出彩。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772065037370-00ef81f2-e92b-4467-a405-c4eb61274349.webp)
+![](assets/0328-0403/1772110719764-6fb2a4f2-8383-4e93-9952-aa72739ef69b.webp)
 
-### 2. [简历生成器](https://my-cv.top)
+### 2. [LiblibAI](https://www.liblib.art/viphome?referralCode=CHaExdtb)
 
-无需编写任何代码即可获得专业的 LaTeX 排版简历。专注于内容，格式处理交给它就行。
+AI 绘画原创模型分享社区，10万+模型免费下载。原汁原味的 webUI、comfyUI，在线 AI 绘图工具免费使用。还可在线进行模型训练。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772064734260-a3f93cfa-5cbf-42f4-829a-80cc3893d084.webp)
+![](assets/0328-0403/1772112316179-f2b6c45a-cc99-49dd-ac5d-77a0dcafa670.webp)
 
-### 3. [趣搜哦](https://qusoo.xyz)
+### 3. [字魂](https://izihun.com)
 
-资源搜索分享网站，想看什么就搜什么。
+提供商用字体下载授权,字体定制，免费字体下载，字体授权，中文字体设计，字体大全以及在线字体转换器的字体网站，致力于让所有人用得起正版字体。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1772063906409-0c371502-2b67-41c3-ae5d-0c3020009a4d.webp)
+![](assets/0328-0403/1772112508640-645271d5-8f7a-41c9-a69a-9720894e6c02.webp)
 
 ## 四、插件
 
-### 1. [Kortex-NotebookLM](https://chromewebstore.google.com/detail/kortex-notebooklm/hdapplggdhndkblofffknpmnnnnbncbn)
+### 1. [QuickMark](https://microsoftedge.microsoft.com/addons/detail/quickmark/gnloppekemcadeodkipehppplaipdipm)
 
-将 NotebookLM 转变为您的终极知识中心。保存提示词、导出聊天记录，并无缝组织所有交互。
+一个面向重度书签用户的增强型浏览器书签管理扩展，帮助你更快地保存、整理和找回书签。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773405749451-6b227e84-fd7a-4cc9-a4e0-48687951a657.webp)
+![](assets/0328-0403/1775001854843-ec890fda-4e86-4f0a-a806-50dabf799b00.webp)
 
-### 2. [2FA](https://chromewebstore.google.com/detail/2fa/ebhcbenbgjmaebpgbldimndmfomjmphd)
+### 2. [Automa](https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
 
-在浏览器中生成安全验证码，为您的所有账户提供快速、离线的双重身份验证。
+一款低代码 / 无代码的浏览器扩展，用于进行浏览器自动化操作。与手动输入、点击和从网站检索数据相比，Automa 将帮助您自动执行所有这些操作。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773411695700-79344e4d-923d-4cf6-8cd6-e98e2dec31dd.webp)
+![](assets/0328-0403/1775001977833-760ad536-a9e9-4915-aede-e863b99037ad.webp)
 
-### 3. [Gopeed](https://chromewebstore.google.com/detail/gopeed/mijpgljlfcapndmchhjffkpckknofcnd)
+### 3. [快捷扩展管理](https://chromewebstore.google.com/detail/pbgjpgbpljobkekbhnnmlikbbfhbhmem?utm_source=item-share-cb)
 
-搭配 GoPeed 软件使用的插件，轻松监听浏览器下载行为，通过 Gopeed 进行多线程高速下载。
+一个非常简洁明快的扩展管理器，用于快速启用、禁用、卸载扩展程序。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1773411912683-8b0dc44c-8823-408a-b4b3-8ea8c41114ca.webp)
+![](assets/0328-0403/1775002361589-0dd9e947-01b5-45d3-bcee-00edca1c06e3.webp)
 
 ## 五、资料
 
-### 1. [Claude Code & OpenClaw 中文教程](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)
+### 1. [TypeScript 简洁之书](https://github.com/gibbok/typescript-book)
 
-从零到企业实战：Claude Code 官方编程神器 + OpenClaw 教程。
+全面而简洁地概述了 TypeScript 的功能。它提供了清晰的解释，涵盖了该语言最新版本中的所有方面，从强大的类型系统到高级功能。无论您是初学者还是经验丰富的开发人员，本书都是增强您对 TypeScript 的理解和熟练程度的宝贵资源。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1774459413322-f48660c5-c99e-4664-bab0-e51f81a168fa.webp)
+![](assets/0328-0403/1775087839506-85f2af33-193f-4c38-8e2f-d802dfc01804.webp)
 
-### 2. [哈喽！龙虾](https://github.com/datawhalechina/hello-claw)
+### 2. [Tutorial](https://github.com/zhonghuasheng/Tutorial)
 
-一个面向 OpenClaw 的完整学习教程，帮助你从零开始掌握这个强大的命令行 AI 助理系统。无论你是想快速上手使用 OpenClaw 提升效率，还是想深入理解其原理并构建自己的版本，本教程都能为你提供清晰的学习路径。
+后端 （Java Golang）全栈知识架构体系总结，项目为作者个人学习之总结，内容大多来源网上、书籍、视频。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1774459548035-2faff3cb-7cd1-47c2-bcbd-87a39cb17232.webp)
+![](assets/0328-0403/1775088098007-69242eca-751c-4c63-8635-fb71e37668ff.webp)
 
-### 3. [AI 智能体实战速成指南](https://github.com/didilili/ai-agents-from-zero)
+### 3. [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 
-2026 最系统的 AI Agent 速成指南｜智能体实战教程。完整学习路径 + 实战项目 + 面试题库。
+适合学习 Go 编程语言的爱好者，这里包含了当前最全面的学习资源。本书通过对官方的在线文档、名人博客、书籍、相关文章以及演讲的资料收集和整理，并结合我自身在软件工程、编程语言和数据库开发的授课经验，将这些零碎的知识点组织成系统化的概念和技术分类来进行讲解。
 
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2026/assets/0321-0327/1774459995768-54963435-3f9a-4a8f-be28-4a0608ec68d6.webp)
+![](assets/0328-0403/1775088302023-8923d7a4-e464-4cef-967c-a8569bc473df.webp)
 
 ## ✍️ 说明
 
 周刊专栏相关信息：
 
 - **项目地址**：[Github](https://github.com/cunyu1943/weekly)，觉得不错麻烦给我一个**Star**，感谢 ❤️
-- **浏览地址**：公众号 | [电子书](https://cunyu1943.github.io/weekly) | [语雀](https://yuque.com/cunyu1943/weekly)
+- **浏览地址**：公众号 | [电子书](https://cunyu1943.github.io/weekly) | [语雀](https://yuque.com/cunyu1943/weekly)  | [ima 知识库](https://ima.qq.com/wiki/?shareId=860487e32c6cc8d6c9070cd7f00caedf3cbf4102f695862d9c82f463b92417af)
 
 如果你阅读到这里，说明我的工作没有白费。如果你想推荐项目/网站/软件/资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **个人微信：coder_cunYu** 与我交流。
 
