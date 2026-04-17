@@ -12,13 +12,13 @@ tag:
 
 ---
 
-# 好物周刊#148：Mac 乐园
+# 好物周刊#149：同事.skill
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/ox13yRnPBwLHEkjPFyvirQ
+> 原文：https://mp.weixin.qq.com/s/0sVzqUoL3S4ns1PtvZ-8jQ
 
 ## 🎈 号外 
 
@@ -31,103 +31,99 @@ tag:
 
 ## 一、项目
 
-### 1. [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)
+### 1. [小智后端服务](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 
-使用 AI 生成多章节的长篇小说，自动衔接上下文、伏笔。
+基于人机共生智能理论和技术研发智能终端软硬件体系，为开源智能硬件项目 xiaozhi-esp32 提供后端服务。根据小智通信协议使用 Python、Java、Vue 实现，支持 MQTT + UDP 协议、Websocket 协议、MCP 接入点、声纹识别、知识库。
 
-![](assets/0404-0410/1775520322369-ec393a01-39a7-4acd-82b0-f7ed0a9013a2.webp)
+![](assets/0411-0417/31ca6db3b1a242c1b7394ea53d132380.webp)
 
-### 2. [NAS-Tools](https://github.com/linyuan0213/nas-tools)
+### 2. [PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android)
 
-一个功能强大的媒体库管理工具，提供自动化追剧、资源下载、文件整理和订阅管理等功能，适合 PT 用户和影视爱好者使用。
+打包 HTML/网页/Vue/React 项目为桌面/手机应用只需几分钟。
 
-![](assets/0404-0410/1775606476310-2f06b320-bb0b-4738-b27c-f6314dbdced7.webp)
+![](assets/0411-0417/d785865b2962441c83438b41cf3380c7.webp)
 
-### 3. [Mimic Them](https://github.com/zhanchey/MimicThem)
+### 3. [FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)
 
-一键复刻爆款小红书小姐姐（小哥哥），输入小红书图文链接，使用字节 seedream 图像模型一键复刻爆款。
+ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
 
-![](assets/0404-0410/1775606584630-a9a8c307-1456-43a1-b1e2-c4908ed20019.webp)
+![](assets/0411-0417/56f69acfaa8f40079415777d200f700d.webp)
+
+
+
 
 ## 二、软件
+### 1. [Zen Browser](https://github.com/zen-browser/desktop)
+致力于打造一个更宁静的互联网使用环境，它以精美的设计、对用户隐私的高度重视以及丰富的实用功能为核心卖点，明确将用户的浏览体验置于数据收集之上，区别于众多以获取用户数据为目的的浏览器产品。
 
-### 1. [QClaw](https://claw.guanjia.qq.com)
 
-腾讯电脑管家团队基于 OpenClaw 打造的本地 AI 助手，支持 Mac & Windows 双端。关联微信即可远程操控电脑，让 AI 帮你干活。数据全部留在本地，隐私安全有保障。
+![](assets/0411-0417/27b633327bf44826ac948e511b0c6252.png)
 
-![](assets/0404-0410/1773402664330-46038ce1-93e0-4a46-884d-8e63a49a8dd7.webp)
+### 2. [MoePeek](https://github.com/cosZone/MoePeek)
+一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB。
 
-### 2. [口袋记账](https://www.qeeniao.com)
+![](assets/0411-0417/bfe85ea907294451a0413cb6a4cebef5.png)
 
-简洁的免费个人记账软件，财务分析助手。
+### 3. [FreeCut](https://github.com/walterlow/freecut)
+一款完全在浏览器中运行的专业级视频编辑器。无需安装即可进行专业视频剪辑。借助多轨道编辑、关键帧动画、实时预览和高质量导出功能，打造精彩视频。
 
-![](assets/0404-0410/1773402639923-5c497ec1-b087-4984-a1c8-a23687d857a6.webp)
-
-### 3. [随手记](https://www.sui.com)
-
-在线记账财务平台，支持网页/iOS/Android/小程序等多端使用，支持多人同步操作，随时随地记账查账，海量免费账本模版涵盖个人/家庭/生意多种场景，多维度报表分析收支数据，预算功能有效控制支出！
-
-![](assets/0404-0410/1773403849874-a55a34c4-fc65-4ad3-920f-8f7828681cf7.webp)
+![](assets/0411-0417/bb76f65eeb044c8eb73fcc4a48358c57.png)
 
 ## 三、网站
+### 1. [句方便](https://seneasy.cloud)
+专业的公众号排版工具，50+精美主题，一键排版配图，支持 Markdown 编辑，让公众号文章更美观。
 
-### 1. [XMac](https://xmac.cc)
+![](assets/0411-0417/017a79981eec422098da52f8ae714e7b.png)
 
-精品 Mac 软件下载站 优质苹果应用资源聚合。专注分享最新 Mac 应用、游戏插件，提供免费下载与安装教程。
 
-![](assets/0404-0410/1772189117692-df38ba18-af9b-4be8-99d7-d1f6b78ad0ed.webp)
+### 2. [开发者武器库](https://devtool.tech)
+提供 60+ 免费在线开发工具，Base64、JSON、颜色转换、UUID、JWT 解码等，提升开发效率。
 
-### 2. [appstorrent](https://appstorrent.ru)
+![](assets/0411-0417/c82b62f0480e4a37aaadb8fe8b210347.png)
 
-一个俄罗斯运营、专注于 macOS 平台 的软件 / 游戏资源下载站。
 
-![](assets/0404-0410/1772194823087-8961fde1-c3aa-495a-8c4a-152434c9afe3.webp)
+### 3. [古籍文献知识图谱网](https://cnkgraph.com)
+一个专业级的古典文学研究数字化平台，适合文学研究者、历史学者、古籍爱好者进行学术研究和数据挖掘。平台通过知识图谱技术将分散的古典文献信息进行结构化整合，提供了传统纸质研究难以实现的时空可视化分析能力。建议用户根据具体研究需求选择相应功能模块，如需要时空分析可使用编年地图，需要文本分析可使用自动笺注和用典分析工具。
 
-### 3. [Mac Torrents](https://www.torrentmac.net)
-
-专为 macOS 用户打造的种子文件搜索引擎与下载平台。
-
-![](assets/0404-0410/1772194878953-1e506cdd-3052-47b7-bc74-f78c6a9160ea.webp)
+![](assets/0411-0417/d0f7ada93fde44b9a94a0637eeaec5e2.png)
 
 ## 四、插件
 
-### 1. [Gestify](https://chromewebstore.google.com/detail/gestify-–-video-gesture-c/flafiagpkalojknepegoijkceplidoik)
+### 1. [Avira 浏览器安全](https://chromewebstore.google.com/detail/flliilndjeohchalpbbcdekjklbdgfkk?utm_source=item-share-cb)
 
-手势控制网页视频，滑动快进快退，长按倍速播放，上下滑调节音量与亮度。支持 A-B 循环、缩略图预览等高级功能。
+让您的网上冲浪变得私密且安全。
 
-![](assets/0404-0410/1775701112009-09220191-04c8-491d-9a17-c23b1ae34457.webp)
+![](assets/0411-0417/f6b8a702b3264e9dbc1f5a0c1f71dad9.webp)
 
-### 2. [TikTok 转发清理器](https://chromewebstore.google.com/detail/kmellgkfemijicfcpndnndiebmkdginb?utm_source=item-share-cb)
+### 2. [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf?hl=zh-CN)
 
-一键清理你在 TikTok 的所有转发，无需滚动、无需逐个点击。
+以私密且持久的格式保存和标注网页内容，支持离线访问。将网络内容引入您的个人知识库。将内容保存到 Obsidian 知识库后，即使离线也可随时访问。Obsidian 安全私密，采用持久的开放格式设计，让您能够长期保存数据。
 
-![](assets/0404-0410/1775701364256-1c2beda7-2340-495d-84ed-8a7483490683.webp)
+![](assets/0411-0417/2b63882b43b648ae88889914ac235f2d.webp)
 
-### 3. [Penumbra - 智能主题控制](https://chromewebstore.google.com/detail/penumbra-smart-theme-cont/ooklbphnohkomhgecdmjapldgddcjeha)
+### 3. [网络绘画](https://chromewebstore.google.com/detail/mnopmeepcnldaopgndiielmfoblaennk?utm_source=item-share-cb)
 
-通过智能元素检测，无缝切换任意网站的深色与浅色主题。一键将任何网站切换为精美的暗色主题，全天候舒适浏览。
+实时在网页上绘制形状，绘制线条，绘制曲线，添加文本。
 
-![](assets/0404-0410/1775702278129-09f43407-0535-441d-b61c-a088c615bb18.webp)
+![](assets/0411-0417/3d23cb0b34fb4d10bebbd272088c4036.webp)
+
 
 ## 五、资料
+### 1. [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工。
 
-### 1. [大李敖全集 5.0](https://books.leeao.net)
+![](assets/0411-0417/26ddfa64a25f473bac0cababf29c17c5.png)
 
-《大李敖全集 5.0》专属展示与传播站点，该版本由 wjm_tcy 耗时近一年校对完成并于2023 年 12 月 14 日 定稿，是在台版《李敖大全集》基础上的最终完美版，修复错字十几万、增补删减内容。
+### 2. [同事.skill](https://github.com/titanwings/colleague-skill)
+提供同事的原材料（飞书消息、钉钉文档、邮件、截图）加上你的主观描述，生成一个真正能替他工作的 AI Skill。用他的技术规范写代码，用他的语气回答问题，知道他什么时候会甩锅。
 
-![](assets/0404-0410/1775606929107-c807a45c-bf28-4a27-92d9-ff7ada3198f7.webp)
+![](assets/0411-0417/93246af357c9423ba99866be60854db8.png)
 
-### 2. [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
+### 3. [超级全面的深度学习笔记](https://github.com/AccumulateMore/CV)
 
-一份结构完整、由浅入深的 Git 与 GitHub 系统化教程目录，整体按照基础概念→核心操作→进阶技巧→团队协作→高级命令→附录速查的逻辑展开，覆盖从 Git 本质、基础工作流、分支、合并、冲突，到远程仓库、变基、储藏、重置、回滚、子模块、标签、工作树等几乎全部核心功能。教程不仅讲解命令本身，还解释原理、适用场景、常见问题与错误处理，同时配套身份配置、别名、工具配置、Vim 基础、速查表等实用内容，目标是让学习者从零掌握 Git 完整使用体系，既能独立开发，也能胜任团队协作、开源贡献（Fork / PR）等真实开发场景，是一套全面且偏向实战的 Git 学习框架。
+超级全面的深度学习笔记，包含土堆 Pytorch、李沐动手学深度学习、吴恩达深度学习、大飞大模型 Agent 等内容。
 
-![](assets/0404-0410/1775607305200-c7d46e8b-bb4d-4f19-a803-ed439b9bb427.webp)
-
-### 3. [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/)
-
-该教程从 C 语言基础入门到高级进阶分 36 个核心模块层层递进，涵盖Hello World 入门、变量语句、函数、指针等基础内容，也深入讲解内存管理、预处理、结构体进阶、Unicode 处理等高级知识点，同时包含多文件项目、命令行参数、信号处理等实战开发内容，兼顾语法原理、编译实操（gcc/clang/IDE）和工程化开发。
-
-![](assets/0404-0410/1775607336991-bcb7956f-a8cf-4bee-875a-b156c15b0c66.webp)
+![](assets/0411-0417/34ebb9a6471c484b9bb2ed0452b13d02.webp)
 
 
 
