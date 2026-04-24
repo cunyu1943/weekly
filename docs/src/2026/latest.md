@@ -12,13 +12,13 @@ tag:
 
 ---
 
-# 好物周刊#149：同事.skill
+# 好物周刊#150：潮汐阅读
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/0sVzqUoL3S4ns1PtvZ-8jQ
+> 原文：https://mp.weixin.qq.com/s/e3fjFwWL3Qa7LsNrTZ2uHA
 
 ## 🎈 号外 
 
@@ -31,101 +31,112 @@ tag:
 
 ## 一、项目
 
-### 1. [小智后端服务](https://github.com/xinnan-tech/xiaozhi-esp32-server)
+### 1. [MaxKB4j](https://gitee.com/taisan/MaxKB4j)
 
-基于人机共生智能理论和技术研发智能终端软硬件体系，为开源智能硬件项目 xiaozhi-esp32 提供后端服务。根据小智通信协议使用 Python、Java、Vue 实现，支持 MQTT + UDP 协议、Websocket 协议、MCP 接入点、声纹识别、知识库。
+一款基于 Java 语言开发的 LLM 工作流应用和 RAG 的开源 LLMOps 平台，项目主要借鉴了 MaxKB、AIFlowy、Dify 和 FastGPT, 使用高性能、高稳定性以及安全可靠的 JAVA 语言重新设计开发。MaxKB4j 广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
 
-![](assets/0411-0417/31ca6db3b1a242c1b7394ea53d132380.webp)
-
-### 2. [PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android)
-
-打包 HTML/网页/Vue/React 项目为桌面/手机应用只需几分钟。
-
-![](assets/0411-0417/d785865b2962441c83438b41cf3380c7.webp)
-
-### 3. [FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)
-
-ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
-
-![](assets/0411-0417/56f69acfaa8f40079415777d200f700d.webp)
+![](assets/0418-0424/02d8aa598d5b4ae6adfad3ba45f7e086.webp)
 
 
+### 2. [TMom](https://gitee.com/thgao/tmom)
 
+支持多厂区/多项目级的 MOM/MES 系统，计划排程、工艺路线设计、在线低代码报表、大屏看板、移动端、AOT 客户端...... 目标是尽可能打造一款通用的生产制造系统。前端基于最新的 Vue3、TS、Ant Design Vue, 后端使用 .Net8、Sqlsugar，支持多种数据库切换、数据隔离与聚合。
+
+![](assets/0418-0424/7904a488c9194a61b2f7ee48411a362d.webp)
+
+
+### 3. [Vue Print Designer](https://gitee.com/theGreatOldFive/vue-print-designer)
+
+一款可视化打印设计器，面向业务表单、标签、票据、快递单等场景，支持模板化、变量化，并提供静默打印与云打印能力，同时兼容多种导出 / 打印方式。
+
+![](assets/0418-0424/cd725d7b97d44472a18e335dad95a7d3.webp)
 
 ## 二、软件
-### 1. [Zen Browser](https://github.com/zen-browser/desktop)
-致力于打造一个更宁静的互联网使用环境，它以精美的设计、对用户隐私的高度重视以及丰富的实用功能为核心卖点，明确将用户的浏览体验置于数据收集之上，区别于众多以获取用户数据为目的的浏览器产品。
+
+### 1. [Moeli 阅读](https://reader.moeli.top)
+
+一款多功能本地书籍阅读软件，支持多种功能，提供完善的阅读体验。
+
+![](assets/0418-0424/375ab20fd6fe45fc8f2ccf69f78d1b2b.webp)
 
 
-![](assets/0411-0417/27b633327bf44826ac948e511b0c6252.png)
+### 2. [潮汐阅读](https://tidereader.com)
 
-### 2. [MoePeek](https://github.com/cosZone/MoePeek)
-一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB。
+一个全平台互通，支持 TXT/EPUB 电子书格式，支持摸鱼模式/自动滚动模式，丰富自定义样式的小说阅读器。
 
-![](assets/0411-0417/bfe85ea907294451a0413cb6a4cebef5.png)
+![](assets/0418-0424/5b609b32d15f4ba995d3956f1183fa14.webp)
 
-### 3. [FreeCut](https://github.com/walterlow/freecut)
-一款完全在浏览器中运行的专业级视频编辑器。无需安装即可进行专业视频剪辑。借助多轨道编辑、关键帧动画、实时预览和高质量导出功能，打造精彩视频。
+### 3. [SoloMD](https://github.com/zhitongblog/solomd)
 
-![](assets/0411-0417/bb76f65eeb044c8eb73fcc4a48358c57.png)
+一款轻量级的跨平台 Markdown 与纯文本编辑器。
+
+![](assets/0418-0424/9973cd8bcb3f413398ebc57b3778f92a.webp)
+
 
 ## 三、网站
-### 1. [句方便](https://seneasy.cloud)
-专业的公众号排版工具，50+精美主题，一键排版配图，支持 Markdown 编辑，让公众号文章更美观。
 
-![](assets/0411-0417/017a79981eec422098da52f8ae714e7b.png)
+### 1. [Booklet AI](https://bookletai.org/tools/booklet-maker.html)
 
+一个通过对话创建专业小册子的 AI 工具。用户输入主题后，AI 会先追问受众、用途和风格，再自动联网调研、整理大纲，并逐页生成图文混排的 A4 小册子。
 
-### 2. [开发者武器库](https://devtool.tech)
-提供 60+ 免费在线开发工具，Base64、JSON、颜色转换、UUID、JWT 解码等，提升开发效率。
-
-![](assets/0411-0417/c82b62f0480e4a37aaadb8fe8b210347.png)
+![](assets/0418-0424/362a41af4a374fc5b57e75e99580a786.webp)
 
 
-### 3. [古籍文献知识图谱网](https://cnkgraph.com)
-一个专业级的古典文学研究数字化平台，适合文学研究者、历史学者、古籍爱好者进行学术研究和数据挖掘。平台通过知识图谱技术将分散的古典文献信息进行结构化整合，提供了传统纸质研究难以实现的时空可视化分析能力。建议用户根据具体研究需求选择相应功能模块，如需要时空分析可使用编年地图，需要文本分析可使用自动笺注和用典分析工具。
+### 2. [网络收音机](https://fm365.space)
 
-![](assets/0411-0417/d0f7ada93fde44b9a94a0637eeaec5e2.png)
+网络收音机，在线即可收听全国各地的上千个 FM 广播电台。
+
+![](assets/0418-0424/efbe59b6c0f34519afb1824e956f6466.webp)
+
+
+### 3. [轻工具导航](https://qinggongju.com)
+
+一个专注收集分享优质免费资源的导航网站。
+
+![](assets/0418-0424/a6241a4732df4b6c8cb6b78f0deac6ed.webp)
 
 ## 四、插件
 
-### 1. [Avira 浏览器安全](https://chromewebstore.google.com/detail/flliilndjeohchalpbbcdekjklbdgfkk?utm_source=item-share-cb)
+### 1. [LumiList](https://chromewebstore.google.com/detail/lumilist-smart-bookmark-m/pcekakljniocipfpmjmpmgaleigcbhlh)
 
-让您的网上冲浪变得私密且安全。
+可视化 + 拖拽 + 智能搜索的 Chrome 新标签页书签管理器，适合需要高效整理、快速检索大量书签的用户。
 
-![](assets/0411-0417/f6b8a702b3264e9dbc1f5a0c1f71dad9.webp)
+![](assets/0418-0424/c7de7b7e06234f578a1c6a6b303e4f78.webp)
 
-### 2. [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf?hl=zh-CN)
+### 2. [2FA](https://chromewebstore.google.com/detail/2fa/ebhcbenbgjmaebpgbldimndmfomjmphd?hl=zh-CN)
 
-以私密且持久的格式保存和标注网页内容，支持离线访问。将网络内容引入您的个人知识库。将内容保存到 Obsidian 知识库后，即使离线也可随时访问。Obsidian 安全私密，采用持久的开放格式设计，让您能够长期保存数据。
+在浏览器中生成安全验证码，为您的所有账户提供快速、离线的双重身份验证。
 
-![](assets/0411-0417/2b63882b43b648ae88889914ac235f2d.webp)
+![](assets/0418-0424/3763a1d985854e9a9f9e8695372ec890.webp)
 
-### 3. [网络绘画](https://chromewebstore.google.com/detail/mnopmeepcnldaopgndiielmfoblaennk?utm_source=item-share-cb)
 
-实时在网页上绘制形状，绘制线条，绘制曲线，添加文本。
+### 3. [自动点击器](https://chromewebstore.google.com/detail/speed-auto-clicker/ggggbbllnjbfepahihkdfohpbdgndobb)
 
-![](assets/0411-0417/3d23cb0b34fb4d10bebbd272088c4036.webp)
+一个快速且可靠的自动点击器，该扩展可以在任何网站上工作，具有可自定义的间隔。无论您是需要它用于游戏、测试还是工作，它都能轻松应对。
 
+![](assets/0418-0424/934ba9bfdbf9431f8be5d38dd72a30e7.webp)
 
 ## 五、资料
-### 1. [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
-女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工。
 
-![](assets/0411-0417/26ddfa64a25f473bac0cababf29c17c5.png)
+### 1. [CS 自救指南](https://github.com/AndyBRoswell/cs-first-aid)
 
-### 2. [同事.skill](https://github.com/titanwings/colleague-skill)
-提供同事的原材料（飞书消息、钉钉文档、邮件、截图）加上你的主观描述，生成一个真正能替他工作的 AI Skill。用他的技术规范写代码，用他的语气回答问题，知道他什么时候会甩锅。
+面向（将）在中国内地就读计算机类专业的，有或无留学意向，（准备）自学计算机的人员。
 
-![](assets/0411-0417/93246af357c9423ba99866be60854db8.png)
-
-### 3. [超级全面的深度学习笔记](https://github.com/AccumulateMore/CV)
-
-超级全面的深度学习笔记，包含土堆 Pytorch、李沐动手学深度学习、吴恩达深度学习、大飞大模型 Agent 等内容。
-
-![](assets/0411-0417/34ebb9a6471c484b9bb2ed0452b13d02.webp)
+![](assets/0418-0424/72c20b894d714a178d968829e2fd14a3.webp)
 
 
+### 2. [Hermes Agent: The Complete Guide](https://github.com/alchaincyf/hermes-agent-orange-book)
+
+Hermes Agent 从入门到精通，Nous Research 开源 AI Agent 框架实战指南。
+
+![](assets/0418-0424/1b14aa2af71c41adac67f65c3c567bed.webp)
+
+
+### 3. [VibeCoding 教程](https://github.com/1EchA/how-to-vibecoding)
+
+Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理。
+
+![](assets/0418-0424/41071b14ef214d4cb2d5ceabc6c70817.webp)
 
 ## ✍️ 说明
 
