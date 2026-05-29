@@ -1,24 +1,12 @@
----
-publish: true
-isOriginal: true
-category:
-  - 好物周刊
-tag:
-  - 项目
-  - 软件
-  - 网站
-  - 资料
-  - 插件
 
----
 
-# 好物周刊#：
+# 好物周刊#155：摸鱼神器！一个网站看遍全网所有热搜
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：
+> 原文：https://mp.weixin.qq.com/s/OFMiwFkOgt8FGzcacE_elw
 
 ## 🎈 号外 
 
@@ -31,105 +19,103 @@ tag:
 
 ## 一、项目
 
-### 1. [UJCMS](https://gitee.com/dromara/ujcms)
+### 1. [Weibo Spider](https://github.com/dataabc/weiboSpider)
 
-一款基于 Java 的开源企业级网站内容管理系统（Java CMS），采用 Spring Boot、MyBatis、Spring Security、Vue 3、Vite、Element Plus 等技术开发，支持 无头 CMS 架构。系统提供 模板 + 标签 和 Vue（React）+ API 两种开发模式，分别适用于传统模板渲染与现代化前后端分离场景，为网站的建设、管理与维护提供高效、灵活、可靠的解决方案。
+连续爬取一个或多个新浪微博用户（如胡歌、迪丽热巴、郭碧婷）的数据，并将结果信息写入文件或数据库。写入信息几乎包括用户微博的所有数据，包括用户信息和微博信息两大类。
 
-![](assets/0509-0515/20260514211019266.webp)
+![](assets/0523-0529/1779884975993.webp)
 
-### 2. [GuaDa](https://gitee.com/zhendongdong/guada_ai)
+### 2. [JustAuth](https://github.com/justauth/JustAuth)
 
-智能 AI 对话系统，支持 ReAct Agent、多模型适配、RAG 知识库检索、MCP 工具调用与 Skills 技能框架。目标是打造一个可用、易用、好用的个人智能助理。目前处于早期开发阶段，部分功能正在持续快速迭代中。
+一个第三方授权登录的工具类库，它可以让我们脱离繁琐的第三方登录 SDK，让登录变得 So easy！集成了诸如：Github、Gitee、支付宝、新浪微博、微信、Google、Facebook、Twitter、StackOverflow 等国内外数十家第三方平台。
 
-![](assets/0509-0515/20260514211041799.webp)
+![](assets/0523-0529/1779885372583.webp)
 
-### 3. [MateClaw](https://gitee.com/mateos/mateclaw)
+### 3. [OSharp](https://github.com/dotnetcore/osharp)
 
-你的超级大脑，Java 智能体 ，支持多 Agent 编排、Skills、Memory、Dream 、MCP 协议与多渠道接入，底层由 Spring AI Alibaba 驱动。
+一个基于.Net6.0 的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc (WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net 框架更易于应用到实际项目开发中。
 
-![](assets/0509-0515/20260514211119309.webp)
+![](assets/0523-0529/1780013746359.webp)
 
 ## 二、软件
 
-### 1. [觅影](https://github.com/nandieling/OmniPlay)
+### 1. [PhoXoSee](https://phoxo.com)
 
-一款原生开发的海报墙播放器，支持 mac、win 双系统。mac 采用 swift 开发，win 采用C# + .net + Avalonia UI。底层播放器核心为 MPVKit-GPL / libmpv / FFmpeg 相关组件。 
+Windows 平台极速轻量、无广告、免费商用的图片查看器，主打秒开加载、超低内存，支持 HEIC 批量转 JPEG、按日期搜图与多格式预览。
 
-![](assets/0509-0515/20260514211152990.webp)
+![](assets/0523-0529/1779096734210.webp)
 
-### 2. [Quetta](https://www.quetta.net)
+### 2. [人工桌面](https://n0va.mihoyo.com)
 
-一款基于 Chromium 主打去广告 + 视频下载 + 扩展支持的移动浏览器，适配安卓与 iOS，免费且无数据收集。
+人工桌面，Windows 桌面动态壁纸软件。可爱的鹿鸣小姐姐等你唤醒~
 
-![](assets/0509-0515/20260514211214425.webp)
+![](assets/0523-0529/1779102335707.webp)
 
-### 3. [AndDrive](https://anddrive.catchingnow.com)
+### 3. [资源帮](https://zyb.juapp3.com)
 
-无缝连接你的 Mac 和 Android，将手机原生挂载至 Finder，享受无感的高画质投屏。打破桌面与移动设备的生态隔阂。
+一个 APP，搞定资源查找 与 AI 创作，把飞书文档、网盘聚合、热榜速览、媒体解析、AI 绘画 / 换脸 / 配音 / 视频转录 等 14+ 项高频工具集合在同一个清爽界面里，让你无需再在十几个 APP 之间反复跳转。
 
-![](assets/0509-0515/20260514211234273.webp)
+![](assets/0523-0529/1779148846404.webp)
 
 ## 三、网站
 
-### 1.  [新趣集](https://xinquji.com)
+### 1. [罗码术](https://www.luomashu.com)
 
-一个产品发现社区，发现最新的网站，移动 App 和技术产品。
+罗码术提供 180+ 种免费在线测试工具，涵盖反应速度、记忆力、专注力等认知基准测试，MBTI、大五人格、九型人格等权威心理测评，以及多种趣味互动实验与休闲游戏。
 
-![](assets/0509-0515/20260514211252763.webp)
+![](assets/0523-0529/1779668304087.webp)
 
-### 2. [源仓](https://yuancang.cc)
+### 2. [摸鱼热榜](https://moyuhot.com)
 
-书源、订阅源分享平台。
+摸鱼热榜是你的热搜平台与摸鱼网站，实时聚合微博、知乎、B站、抖音、贴吧、GitHub、V2EX 等热搜榜，提供一站式热搜聚合与新闻聚合阅读入口。
 
-![](assets/0509-0515/20260514211329656.webp)
+![](assets/0523-0529/1779667552217.webp)
 
-### 3. [音述](https://www.yinshu.me)
+### 3. [中国互联网联合辟谣平台](https://www.piyao.org.cn/pypt_gywm/index.html)
 
-音述被誉为“中文版 Suno”，是全球地标级AI音乐创作平台。独家黑科技引擎，3 秒生成录音棚级无损音质歌曲。完全无需乐理，输入歌词一键成曲，支持流行、古风、电音等全风格覆盖。包含无损 Stem 分轨、人声替换、歌词生成等专业功能。永久免费试用，立即打造你的百万爆款单曲！
+秉承 “发布权威辟谣信息，提升网民媒介素养，营造清朗网络空间” 的宗旨，辟谣范围涵盖时事热点、公共政策、社会民生、科学常识等领域，拥有网站、客户端、微信 (公众号、视频号、小程序) 、法人微博、强国号、新华号、快手号、支付宝小程序 10 个终端，为广大群众识谣辨谣、举报谣言提供权威平台。
 
-![](assets/0509-0515/20260514211401000.webp)
+![](assets/0523-0529/1779754402963.webp)
 
 ## 四、插件
 
-### 1. [materialYouNewTab](https://chromewebstore.google.com/detail/mynt-material-you-new-tab/ngagaahlooknahpbppifocdndhcdknel)
+### 1. [小黑 OmniBox](https://chromewebstore.google.com/detail/omnibox/gckiocdfdaofgabchobljcdimjieookl)
 
-一款功能全面的浏览器扩展程序，它可以通过可自定义的主题、欢迎信息和各种便捷工具来个性化您的新标签页，同时还能与您首选的搜索引擎无缝集成。
+一款轻量级、功能强大的浏览器扩展，帮助你高效收集、管理并调用网页内容。无论是整页保存、局部摘录，还是按项目、主题整理，OmniBox 都能让你的知识资产随时可用，告别信息碎片化。
 
-![](assets/0509-0515/20260514210628101.webp)
+![](assets/0523-0529/1779884062294.webp)
 
-### 2. [Glass New Tab](https://chromewebstore.google.com/detail/pdjebhcifgoembcidgjhdjohnkgcbflb?utm_source=item-share-cb)
+### 2. [UPlog 红薯助手](https://chromewebstore.google.com/detail/mbkdnplcfjbjaknihcbhbdhgaejeinda?utm_source=item-share-cb)
 
-iOS 风格控制面板，将 Chrome 新标签页升级为高级磨砂玻璃质感仪表盘，内置聚焦搜索、桌面小组件、快捷访问，并主打隐私优先个性化定制。
+一款专为小红书创作者与企业运营团队打造的图文内容创作与发布助手。通过 UPlog，你可以轻松导入内容、多风格转化为小红书图文卡片，并一键同步至后台，无需繁琐操作，让创作和发布更高效、更美观。
 
-![](assets/0509-0515/20260514211729779.webp)
+![](assets/0523-0529/1779884166611.webp)
 
-### 3. [DragFree](https://chromewebstore.google.com/detail/cnfngpgfjllafbghaimjcmailafcdhod?utm_source=item-share-cb)
+### 3. [智小红 - 小红书 AI 全能助手](https://chromewebstore.google.com/detail/zhi-xiaohong-xiaohongshu/keeelahekhhgkpaipdodgjnmgkfcdpde)
 
-在禁用了鼠标拖动、右键和图片保存的网站上重新启用这些功能。还可一键保存页面上的所有图片，附带字数统计功能，并支持页面截图（当前画面/选择区域/选择元素/滚动）。
+一款专为小红书（xiaohongshu、xhs）平台用户打造的高效运营工具，尤其适合博主、市场调研、产品设计和运营岗位人士。它能够深入分析竞品数据，助力爆文创作、营销策略制定以及竞品种草分析，大幅提升运营效率！
 
-![](assets/0509-0515/20260514211935239.webp)
+![](assets/0523-0529/1779884301442.webp)
 
 ## 五、资料
 
-### 1. [笔记百科网](https://bijibaike.cn)
+### 1. [Obsidian + Claude Code 橙皮书](https://github.com/alchaincyf/obsidian-ai-orange-book)
 
-笔记百科技艺，助力超级个体！
+用 AI 重建你的第二大脑，从零搭建 AI 驱动的个人知识管理系统。免费、开源、持续更新。
 
-![](assets/0509-0515/20260514211433169.webp)
+![](assets/0523-0529/1779704914686.webp)
 
-### 2. [潘厂长 AI 知识库](https://flowus.cn/aimrp/share/0d822c47-9a8e-427a-84da-9d2f6382246e)
+### 2. [Deepseek 精选库](https://ima.qq.com/wiki/?shareId=2a0586922ec81903df429ba175441cd0d131db1f926a475955aed72c9e3061d5)
 
+清华、北大、厦大、浙大等高校，腾讯、国信证券、华安证券等主流公司，社区及研究中心等权威机构发布的最新内容为用户提供全面且精准的知识服务。该知识库不仅涵盖了自然语言处理、图像识别等复杂场景，还支持多平台无缝集成，满足多样化的需求。
 
+![](assets/0523-0529/1779841422828.webp)
 
-汇总了一些作者收集到的各种行业报告，支持下载，并且持续更新中。
+### 3. [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill)
 
-![](assets/0509-0515/20260514211518480.webp)
+张雪峰的认知操作系统，高考志愿/考研/职业规划的实战思维框架。
 
-### 3. [高中语文知识库](https://flowus.cn/wangdaoyuwen/share/c2fb50f3-b9ae-49c1-b75d-f55bb43e2700?code=FH75L4)
-
-涵盖高中语文知识，包含信息类文本、文学类文本、古诗词赏默、文言文阅读、预演综合用等模块。
-
-![](assets/0509-0515/20260514211549300.webp)
+![](assets/0523-0529/1779862245353.webp)
 
 ## ✍️ 说明
 
