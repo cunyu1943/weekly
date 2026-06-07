@@ -1,12 +1,12 @@
 
 
-# 好物周刊#155：摸鱼神器！一个网站看遍全网所有热搜
+# 好物周刊#156：白嫖开源阅读器！TXT 一键上色 + AI 读小说
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/OFMiwFkOgt8FGzcacE_elw
+> 原文：https://mp.weixin.qq.com/s/cQOEJl7-n1Xq8Q4Dpf9hyg
 
 ## 🎈 号外 
 
@@ -19,103 +19,103 @@
 
 ## 一、项目
 
-### 1. [Weibo Spider](https://github.com/dataabc/weiboSpider)
+### 1. [票易合](https://github.com/absolutelyZero/piaoyihe)
 
-连续爬取一个或多个新浪微博用户（如胡歌、迪丽热巴、郭碧婷）的数据，并将结果信息写入文件或数据库。写入信息几乎包括用户微博的所有数据，包括用户信息和微博信息两大类。
+一款基于 Python + PySide6 开发的跨平台桌面应用程序 (支持 Windows 和 MacOS)，专门用于将多张发票 PDF 文件合并排版成指定格式。软件支持多种布局方式，可满足不同场景下的发票合并需求。
 
-![](assets/0523-0529/1779884975993.webp)
+![](assets/0530-0605/1780272254874.webp)
 
-### 2. [JustAuth](https://github.com/justauth/JustAuth)
+### 2. [Camelot](https://github.com/camelot-dev/camelot)
 
-一个第三方授权登录的工具类库，它可以让我们脱离繁琐的第三方登录 SDK，让登录变得 So easy！集成了诸如：Github、Gitee、支付宝、新浪微博、微信、Google、Facebook、Twitter、StackOverflow 等国内外数十家第三方平台。
+一款 Python 工具库，可高效从原生 PDF 中精准提取表格并导出为多种常用格式。
 
-![](assets/0523-0529/1779885372583.webp)
+![](assets/0530-0605/1780312226452.webp)
 
-### 3. [OSharp](https://github.com/dotnetcore/osharp)
+### 3. [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
 
-一个基于.Net6.0 的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc (WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net 框架更易于应用到实际项目开发中。
+一款纯 JavaScript 开源库，可在浏览器和 Node.js 中无需 Office 软件就能快速生成、编辑标准 PPT 文件。
 
-![](assets/0523-0529/1780013746359.webp)
+![](assets/0530-0605/1780312474453.webp)
 
 ## 二、软件
 
-### 1. [PhoXoSee](https://phoxo.com)
+### 1. [AB 下载管理器](https://abdownloadmanager.com)
 
-Windows 平台极速轻量、无广告、免费商用的图片查看器，主打秒开加载、超低内存，支持 HEIC 批量转 JPEG、按日期搜图与多格式预览。
+通过与浏览器的无缝集成从任何地方轻松下载文件，享受快速、免费的下载体验。
 
-![](assets/0523-0529/1779096734210.webp)
+![](assets/0530-0605/1779150041560.webp)
 
-### 2. [人工桌面](https://n0va.mihoyo.com)
+### 2. [微思应用商店](https://apk.wysteam.cn)
 
-人工桌面，Windows 桌面动态壁纸软件。可爱的鹿鸣小姐姐等你唤醒~
+微思应用商店，做全网手表软件最全的应用商店！
 
-![](assets/0523-0529/1779102335707.webp)
+![](assets/0530-0605/1779235342396.webp)
 
-### 3. [资源帮](https://zyb.juapp3.com)
+### 3. [彩读](https://github.com/ssnangua/ColorTxt)
 
-一个 APP，搞定资源查找 与 AI 创作，把飞书文档、网盘聚合、热榜速览、媒体解析、AI 绘画 / 换脸 / 配音 / 视频转录 等 14+ 项高频工具集合在同一个清爽界面里，让你无需再在十几个 APP 之间反复跳转。
+一款会给内容上色的本地 TXT 小说阅读器，带给你不一样的阅读体验！还有章节识别、空行压缩、行首缩进、语音朗读、AI 阅读助手等功能。
 
-![](assets/0523-0529/1779148846404.webp)
+![](assets/0530-0605/1779666976073.webp)
 
 ## 三、网站
 
-### 1. [罗码术](https://www.luomashu.com)
+### 1. [读通鉴](https://www.dutongjian.com)
 
-罗码术提供 180+ 种免费在线测试工具，涵盖反应速度、记忆力、专注力等认知基准测试，MBTI、大五人格、九型人格等权威心理测评，以及多种趣味互动实验与休闲游戏。
+![](assets/0530-0605/1779757679375.webp)
 
-![](assets/0523-0529/1779668304087.webp)
+### 2. [Moakt Mail](https://moakt.com)
 
-### 2. [摸鱼热榜](https://moyuhot.com)
+一个专业的临时邮箱服务供应商。
 
-摸鱼热榜是你的热搜平台与摸鱼网站，实时聚合微博、知乎、B站、抖音、贴吧、GitHub、V2EX 等热搜榜，提供一站式热搜聚合与新闻聚合阅读入口。
+![](assets/0530-0605/1780274142147.webp)
 
-![](assets/0523-0529/1779667552217.webp)
+### 3. [GitHub Trending 中文精选](https://sj.damo.plus)
 
-### 3. [中国互联网联合辟谣平台](https://www.piyao.org.cn/pypt_gywm/index.html)
+每天自动筛选 GitHub Trending，AI 翻译成中文摘要，新项目自动标记。告别信息过载，不再错过优质开源项目。免费订阅，每天早上邮件推送。
 
-秉承 “发布权威辟谣信息，提升网民媒介素养，营造清朗网络空间” 的宗旨，辟谣范围涵盖时事热点、公共政策、社会民生、科学常识等领域，拥有网站、客户端、微信 (公众号、视频号、小程序) 、法人微博、强国号、新华号、快手号、支付宝小程序 10 个终端，为广大群众识谣辨谣、举报谣言提供权威平台。
-
-![](assets/0523-0529/1779754402963.webp)
+![](assets/0530-0605/1780311857754.webp)
 
 ## 四、插件
 
-### 1. [小黑 OmniBox](https://chromewebstore.google.com/detail/omnibox/gckiocdfdaofgabchobljcdimjieookl)
+### 1. [百宝箱 AI 助手](https://chromewebstore.google.com/detail/bgiapcpcleefnmmkhaakokfbjnjjjeap?utm_source=item-share-cb)
 
-一款轻量级、功能强大的浏览器扩展，帮助你高效收集、管理并调用网页内容。无论是整页保存、局部摘录，还是按项目、主题整理，OmniBox 都能让你的知识资产随时可用，告别信息碎片化。
+你的浏览器里无处不在的超级 AI 助手，由多个国内顶尖大模型驱动，是百宝箱平台的浏览器拓展端。
 
-![](assets/0523-0529/1779884062294.webp)
+![](assets/0530-0605/1779884462486.webp)
 
-### 2. [UPlog 红薯助手](https://chromewebstore.google.com/detail/mbkdnplcfjbjaknihcbhbdhgaejeinda?utm_source=item-share-cb)
 
-一款专为小红书创作者与企业运营团队打造的图文内容创作与发布助手。通过 UPlog，你可以轻松导入内容、多风格转化为小红书图文卡片，并一键同步至后台，无需繁琐操作，让创作和发布更高效、更美观。
 
-![](assets/0523-0529/1779884166611.webp)
+### 2. [Redpal](https://chromewebstore.google.com/detail/hllmgejbjaaomhgpmnepoanfklcibhdf?utm_source=item-share-cb)
 
-### 3. [智小红 - 小红书 AI 全能助手](https://chromewebstore.google.com/detail/zhi-xiaohong-xiaohongshu/keeelahekhhgkpaipdodgjnmgkfcdpde)
+小红书笔记下载助手，一键下载笔记正文、所有无水印图片、视频。
 
-一款专为小红书（xiaohongshu、xhs）平台用户打造的高效运营工具，尤其适合博主、市场调研、产品设计和运营岗位人士。它能够深入分析竞品数据，助力爆文创作、营销策略制定以及竞品种草分析，大幅提升运营效率！
+![](assets/0530-0605/1780483456023.webp)
 
-![](assets/0523-0529/1779884301442.webp)
+### 3. [知了](https://chromewebstore.google.com/detail/djokcnedpgplffmnlfgpkamogfgjdbnm?utm_source=item-share-cb)
+
+知乎回答采集器，可帮助用户快速采集/下载文章,支持图片、代码块和公式等多种类型内容，并保存为 Markdown 纯文本格式，方便快捷。
+
+![](assets/0530-0605/1780483579568.webp)
 
 ## 五、资料
 
-### 1. [Obsidian + Claude Code 橙皮书](https://github.com/alchaincyf/obsidian-ai-orange-book)
+### 1. [一起玩 NAS](https://wiki.slarker.me)
 
-用 AI 重建你的第二大脑，从零搭建 AI 驱动的个人知识管理系统。免费、开源、持续更新。
+适合新手的入门指南，致力于解决使用 NAS 过程中遇到的各种常见问题。
 
-![](assets/0523-0529/1779704914686.webp)
+![](assets/0530-0605/1780272111268.webp)
 
-### 2. [Deepseek 精选库](https://ima.qq.com/wiki/?shareId=2a0586922ec81903df429ba175441cd0d131db1f926a475955aed72c9e3061d5)
+### 2. [LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)
 
-清华、北大、厦大、浙大等高校，腾讯、国信证券、华安证券等主流公司，社区及研究中心等权威机构发布的最新内容为用户提供全面且精准的知识服务。该知识库不仅涵盖了自然语言处理、图像识别等复杂场景，还支持多平台无缝集成，满足多样化的需求。
+永久免费开源的 AIGC 课程, 目前已支持 Claude Code,Codex,Hermes,OpenClaw,Obsidian,Prompt Engineering,ChatGPT, Midjourney,Runway,Stable Diffusion, AI 数字人，AI 声音 & 音乐，开源大模型。
 
-![](assets/0523-0529/1779841422828.webp)
+![](assets/0530-0605/1780272756771.webp)
 
-### 3. [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+### 3. [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code)
 
-张雪峰的认知操作系统，高考志愿/考研/职业规划的实战思维框架。
+19 章节、4 个阶段，从最小闭环一路搭到多 Agent 平台与外部能力总线。
 
-![](assets/0523-0529/1779862245353.webp)
+![](assets/0530-0605/1780445538219.webp)
 
 ## ✍️ 说明
 
