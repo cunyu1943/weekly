@@ -3,3 +3,10 @@
 **/cache/*
 **/.DS_Store
 **/.gitattributes
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
