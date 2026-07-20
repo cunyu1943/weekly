@@ -1,122 +1,121 @@
 
 
-# 好物周刊#160：AI 三件套
+# 好物周刊#162：考研 PDF
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/uEZr43Um53fUPGWTJyNXOw
+> 原文：https://mp.weixin.qq.com/s/FPPtQyOzi3mG3SpJOvJpFQ
 
 ## 🎈 号外 
 
 最近，公众号之外，建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～
 
 <center>
-<img src="/imgs/contact/wxgroup.jpg" width="70%">
+<img src="/imgs/contact/wxgroup.jpg" width="50%">
 </center>
 
 
 ## 一、项目
 
-### 1. [Web Chat](https://github.com/Jazee6/web-chat)
+### 1. [ArtPlayer.js](https://github.com/zhw2590582/ArtPlayer)
 
-基于 Cloudflare 生态构建的实时 Web 聊天与通话应用。采用 Monorepo 架构，集成 WebRTC 通话、Durable Objects 状态管理与 D1 数据库，提供低延迟、高可用的 Serverless 聊天体验。
+浏览器视频工具与播放器编辑器，把编辑器、字幕流程和轻量媒体工具整合到同一个应用外壳中。
 
-![](assets/0627-0703/1782432460.webp)
+![](assets/0711-0717/20260705204231994.webp)
 
-### 2. [WebUtils](https://github.com/chicogong/html-tools)
+### 2. [A 股智能量化工作台](https://github.com/shy3130/tickflow-stock-panel)
 
-一个完全开源、隐私至上的在线工具集。无需安装、无需注册、无广告、无追踪，1086+ 纯前端在线工具集。
+自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台，面向个人散户与量化爱好者而生。
 
-![](assets/0627-0703/20260628100603192.webp)
+![](assets/0711-0717/20260705205417562.webp)
 
-### 3. [AI Hub](https://github.com/YD4223/aihub)
+### 3. [An Otter Wiki](https://github.com/redimp/otterwiki)
 
-一个开源且免费的 AI 工具导航站，致力于为用户一站式发现、筛选和比较全球范围内的优质 AI 工具。平台目前已收录 1183 + 款 AI 工具，覆盖聊天对话、图像生成、视频处理、代码助手等 16 大分类。
+一款基于 Python、采用 Flask 微框架开发的协作式维基内容管理工具，以 Git 仓库存储并记录全部内容修改记录，使用 Markdown 标记语言，搭配 Halfmoon CSS 框架、CodeMirror 编辑器与免费 Font Awesome 图标库搭建而成。
 
-![3](assets/0627-0703/20260628102112940.webp)
+![](assets/0711-0717/20260705211413964.webp)
 
 ## 二、软件
 
-### 1. [WordBN 字远笔记](https://www.wordbn.com)
+### 1. [NoteGen](https://github.com/codexu/note-gen)
 
-一款免费桌面端双链笔记软件，主打日记管理、双链关联、富文本编辑、多格式导出、可视化图谱等能力，适配写作、学习、编程、自媒体创作等场景，支持 Markdown+HTML 混合编辑，功能全面且内置多种实用扩展工具。
+一款跨平台的 Markdown AI Agent 笔记软件，致力于使用 AI 建立记录和写作的桥梁。
 
-![](assets/0627-0703/1780877049050.webp)
+![](assets/0711-0717/1781052603.webp)
 
-### 2. [BookDock](https://github.com/NasDock/BookDock)
+### 2. [Anx Reader](https://github.com/anxcye/anx-reader)
 
-一款专为 NAS 用户设计的电子书管理 & 阅读平台，支持多格式电子书阅读、TTS 语音朗读、多端同步，并提供强大的书源管理和 NAS 存储集成能力。
+一款为热爱阅读的你精心打造的电子书阅读器。集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。现代化界面设计，只为提供纯粹的阅读体验。
 
-![](assets/0627-0703/1780877250020.webp)
+![](assets/0711-0717/1781052674.webp)
 
-### 3. [Paster](https://gitee.com/aiexporter/paster)
+### 3. [Tadado](https://github.com/HananxR/Tadado)
 
-一款轻量高效的 Windows / Linux 剪贴板增强工具，自动保存你复制过的文本、图片、文件、链接和代码，支持实时搜索、收藏置顶、全局快捷键、快捷短语输入、内置截图标注和图片 OCR 工具、桌面贴图、支持视频和 Gif 录制、桌面便签、局域网电脑和手机共享剪贴板、明暗双主题，所有数据本地存储不上传云端，永久免费。
+一款 Windows 桌面任务管理工具。你用简单的 Markdown 语法写任务，它帮你组织、追踪、回顾。所有数据存本地，无需联网，无需注册。
 
-![](assets/0627-0703/1780964176469.webp)
+![](assets/0711-0717/1781083183.webp)
 
 ## 三、网站
 
-### 1. [FileUNZIP](https://cn.fileunzip.com)
+### 1. [导航中心](https://jolyee.net)
 
-使用终极在线文件提取器，立即提取任何存档。支持解压 ZIP、RAR、7Z 和 50 多种格式。100% 基于浏览器以实现最大隐私，无需上传文件，免费、快速且安全。
+一个精心整理的优质资源导航平台，汇聚开发工具、学习社区、AI 应用、影视资源、音乐资源等优质内容。提供快速访问、搜索、收藏等便捷功能。
 
-![](assets/0627-0703/1780966056473.webp)
+![](assets/0711-0717/20260628085550762.webp)
 
-### 2. [在线文件处理工具](https://www.filuni.com/zh)
+### 2. [KaoYanPDF](https://kaoyanpdf.com)
 
-一站式文件处理解决方案
-支持 PDF、Office、图片、视频、音频等多种格式转换与处理。无需安装任何软件，在线即可完成各种文件处理任务。安全可靠，保护您的隐私。
+免费考研真题PDF下载资料库，汇总 101 政治、204 英语二、301 数学一、408 计算机等统考科目代码与门类，覆盖公共课、专硕联考、医学、教育、农学、法硕等全部统考科目，方便考生按科目查找对应真题资料，全站拥有上万份考研真题与解析可免费下载。
 
-![](assets/0627-0703/1781003232.webp)
+![](assets/0711-0717/20260628085932282.webp)
 
-### 3. [高校名录数据可视化](https://uni.utities.online)
+### 3. [墨格](https://moyufang.cn)
 
-探索中国顶尖大学的官方数据源。提供交互式的高校省份分布地图、多维度的办学数据统计分析，以及为高考毕业生打造的零代码个性化蹭饭图（毕业去向图）生成工具。
+一款在线微信公众号排版工具，支持 Markdown 转公众号文章、公众号美化、图文排版、AI 写作排版、样式模板和一键复制到公众号编辑器，让微信文章排版更轻松。
 
-![](assets/0627-0703/20260628205949806.webp)
+![](assets/0711-0717/20260628100651071.webp)
 
 ## 四、插件
 
-### 1. [枝理 Tab](https://chromewebstore.google.com/detail/mdgmfopabppoboeoblbjgpdfjiandjlp)
+### 1. [LarkSnap · 飞书文档导出助手](https://chromewebstore.google.com/detail/gepndmikbdjpdedkfiejchmhmhegjeal?utm_source=item-share-cb)
 
-一个安静、轻量的标签页整理工具，会接管新标签页，帮助你快速看清当前打开的页面。它支持按域名、窗口和重复标签分组，也提供搜索、关闭重复标签、休眠闲置标签、主题切换与东方色盘等功能，让浏览器从杂乱回到清爽。
+在飞书文档页面一键导出为 Markdown / PDF / HTML，批量下载附件，支持离线缓存；任意网页一键转 Markdown、解除复制限制、选中自动复制。
 
-![](assets/0627-0703/1781493661.webp)
+![](assets/0711-0717/20260710080136579.webp)
 
-### 2. [Blog Wander](https://chromewebstore.google.com/detail/blog-wander/dignlbmfodpdafnepgjlcfhliomplgfl)
+### 2. [NextAI Translator](https://chromewebstore.google.com/detail/nextai-translator/ogjibjphoadhljaoicdnjnmgokohngcc)
 
-按标签和语言偏好随机打开一篇博客。选中感兴趣的标签和语言，点击按钮/按下快捷键之后，即可跳转到一篇随机的博客。每次点击，都是一次未知的内容冒险。
+一个使用 ChatGPT API 进行划词翻译、总结、润色、分析、代码解释的浏览器插件。借助了 ChatGPT 强大的翻译能力，它将帮助您更流畅地阅读、编辑外语。
 
-![](assets/0627-0703/1781654569.webp)
+![](assets/0711-0717/20260713075446315.webp)
 
-### 3. [Make X Great Again](https://chromewebstore.google.com/detail/make-x-great-again/aeoldnecphbkkckeedfgfcdcekkljdea)
+### 3. [SingleFile](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
 
-一个开源的 X (Twitter) 旁路防 spam 扩展。你正常刷 X 时，它会在后台读取页面上已经公开显示的账号信息和推文上下文，识别色情引流号、广告推广号和明显模板化 spam bot，并把可疑账号标在评论区旁边。你可以逐个复核，也可以在气泡面板里勾选后批量拉黑。拉黑使用 X 自己的屏蔽能力，结果会同步到你的 X 账号。
+可将完整网页保存为单个 HTML 文件。它是一款网页扩展程序（同时也是命令行工具），支持谷歌浏览器、火狐浏览器（桌面端与移动端）、微软 Edge、Safari、Vivaldi、Waterfox、Yandex 以及 Opera。
 
-![](assets/0627-0703/20260628101950223.webp)
+![](assets/0711-0717/20260713075743548.webp)
 
 ## 五、资料
 
-### 1. [Claude Code & OpenClaw & Codex 中文教程](https://github.com/KimYx0207/AI-Coding-Guide-Zh)
+### 1. [简历收集](https://github.com/mmmlllnnn/ResumeCollection)
 
-一套系统化、适合循序学习、也能进入团队落地的 AI Coding 与 Agent 工作流中文教程，覆盖三类代表性工具。
+收集全网的中英文简历，总有一款适合你。涵盖多种风格，各行各业的简历模板，收集自网络，免费分享。
 
-![](assets/0627-0703/20260702075916564.webp)
+![](assets/0711-0717/20260713081100465.webp)
 
-### 2. [Claude Code 中文文档](https://github.com/thinkycx/docs)
+### 2. [Java Source Code Learning](https://github.com/coderbruis/JavaSourceCodeLearning)
 
-项目将全部 58 篇 Claude Code 官方文档做了中文意译，覆盖从快速上手、权限配置、MCP 扩展、Hooks 自动化到企业部署的完整知识体系。
+一份面向 Java 后端工程师的源码阅读地图：从 JDK / JUC 到 Spring、Netty、Kafka、RocketMQ，按核心链路拆解框架设计与底层实现。
 
-![](assets/0627-0703/20260630192851375.webp)
+![](assets/0711-0717/20260713081422258.webp)
 
-### 3. [ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+### 3. [神经网络与深度学习](https://github.com/nndl/nndl)
 
-这本书籍旨在以实用且全面的方式讲解机器学习如何为算法交易策略赋能。书中涵盖从线性回归到深度强化学习的各类机器学习技术，并演示如何搭建、回测以及评估依托模型预测生成的交易策略。
+邱锡鹏《神经网络与深度学习》（蒲公英书）理论书 v2 与通识版。
 
-![](assets/0627-0703/1780915764406.webp)
+![](assets/0711-0717/20260713081815837.webp)
 
 ## ✍️ 说明
 
@@ -127,7 +126,9 @@
 
 如果你阅读到这里，说明我的工作没有白费。如果你想推荐项目/网站/软件/资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **个人微信：coder_cunYu** 与我交流。
 
----
+ 
+
+
 
 
 
