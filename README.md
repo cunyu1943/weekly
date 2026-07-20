@@ -8,7 +8,7 @@
 最近，公众号之外，建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～
 
 <center>
-<img src="./docs/src/public/contact/wxgroup.jpg" width="70%" />
+<img src="./docs/src/public/imgs/contact/wxgroup.jpg" width="70%" />
 </center>
 
 ## 前言
@@ -20,10 +20,10 @@
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [数字花园](https://yuque.com/cunyu1943/weekly)
 
-如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：coder_cunYu](./docs/src/public/contact/wechat.jpg)** 和我交流。
+如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **[个人微信：coder_cunYu](./docs/src/public/imgs/contact/wechat.jpg)** 和我交流。
 
 <center>
-<img src="./docs/src/public/contact/wechat.jpg" width="150" />
+<img src="./docs/src/public/imgs/contact/wechat.jpg" width="150" />
 </center>
 
 ## 介绍
@@ -43,7 +43,7 @@
 欢迎关注[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247497779&from_itemidx=1&count=3&nolastread=1#wechat_redirect)|[博客](https://cunyu1943.github.io/weekly)一起交流（每周在公众号首发）：
 
 <center>
-<img src="./docs/src/public/contact/wechatpublic.jpg" width="150" />
+<img src="./docs/src/public/imgs/contact/wepublic.jpg" width="150" />
 </center>
 
 ## ✨ Star 趋势图

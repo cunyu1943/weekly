@@ -6,7 +6,7 @@ function closetz() {
   visible.value = false
 }
 
-setTimeout(function () { visible.value = false }, 10000);
+setTimeout(function () { visible.value = false }, 5000);
 </script>
 
 <template>
@@ -14,16 +14,15 @@ setTimeout(function () { visible.value = false }, 10000);
   <div v-if="visible" class="notice">
     <h3 class="notice-title">网站公告</h3>
     <div class="notice-describe">
-      <p><strong>一、资源分享</strong></p>
+      <p>一、知识号</p>
       <p class="notice-domain">
         <strong>
-          资源八百库：<a href="https://www.kdocs.cn/l/csij2u9ePmM6"
-            target="_blank">详情点击</a>
+          ima 知识库：<a href="https://ima.qq.com/wiki/?shareId=860487e32c6cc8d6c9070cd7f00caedf3cbf4102f695862d9c82f463b92417af"
+            target="_blank">村雨遥</a>
         </strong>
-        
       </p>
-      <p><strong>二、微信资源群</strong></p>
-      <img class="notice-img" src="https://cunyu1943.github.io/weekly/contact/wxgroup.jpg">
+      <p>二、联系我</p>
+      <img class="notice-img" src="/imgs/contact/contact.png">
     </div>
     <div class="notice-footer">
       <div class="notice-btn" @click="closetz">朕知道了</div>

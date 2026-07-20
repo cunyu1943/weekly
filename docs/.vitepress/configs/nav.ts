@@ -2,7 +2,6 @@ import type { DefaultTheme } from 'vitepress'
 
 export const nav: DefaultTheme.Config['nav'] = [
     { text: '🏠 主页', link: '/' },
-    { text: '🅱️ 我的博客', link: 'https://cunyu1943.github.io' },
     { text: '🐎 2026 年刊', link: '/2026/latest' },
     
     {
@@ -14,19 +13,11 @@ export const nav: DefaultTheme.Config['nav'] = [
         ]
     },
     {
-        text: '📋 产品',
+        text: '🗄️ 开源项目',
         items: [
+            { text: '🅱️ blog', link: 'https://github.com/cunyu1943/blog' },
             { text: '☕️ JavaPark', link: 'https://github.com/cunyu1943/JavaPark' },
-            { text: '🔢 数字花园', link: 'https://yuque.com/cunyu1943' },
-        ]
-    },
-    {
-        text: '🎈 更多',
-        items: [
-            { text: '🗃️ 资源八百库', link: 'https://www.kdocs.cn/l/csij2u9ePmM6' },
-            { text: '🧧 薅羊毛', link: '/ads' },
-            { text: '💰 打赏', link: '/reward' },
-            { text: '💳 超大流量卡', link: 'https://ym.ksjhaoka.com/?s=Ltxbbs9W330131' }
+            { text: '🍃 Spring Boot Demos', link: 'https://github.com/cunyu1943/spring-boot-demos' },
         ]
     },
 ]
