@@ -61,7 +61,7 @@ export default defineConfig({
           { type: 'text', content: '👇 微信 👇<------->👇 公众号 👇' },
           {
             type: 'image',
-            src: '/imgs/imgs/contact/wechat.jpg',
+            src: '/imgs/contact/wechat.jpg',
             style: 'display: inline-block;width:46%;padding-right:6px'
           },
           {
