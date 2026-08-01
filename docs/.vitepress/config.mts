@@ -8,7 +8,7 @@ import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 import { GitChangelog, GitChangelogMarkdownSection, } from '@nolebase/vitepress-plugin-git-changelog/vite'
 import { SponsorPlugin } from 'vitepress-plugin-sponsor'
 
-
+const baseRepo = '/weekly/'
 const baseUrl = 'https://cunyu1943.github.io'
 const RSS: RSSOptions = {
   title: '村雨遥的好物周刊',
@@ -18,6 +18,10 @@ const RSS: RSSOptions = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // 站点级配置，写在顶层，不是 themeConfig 内部
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: baseRepo + '/imgs/site/logo.png' }]
+  ],
   // 代码组图标
   markdown: {
     config: (md) => {
@@ -104,7 +108,7 @@ export default defineConfig({
   // 源目录
   srcDir: "src",
   // 仓库名
-  base: "/weekly/",
+  base: baseRepo,
   // 深色主题
   appearance: 'dark',
   // 忽略死链

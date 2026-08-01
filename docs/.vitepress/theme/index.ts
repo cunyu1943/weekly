@@ -12,8 +12,6 @@ import './style/sidebarIcon.css'
 import 'virtual:group-icons.css' //代码组样式
 import HomeUnderline from './components/HomeUnderline.vue'
 import DataPanel from "./components/DataPanel.vue"
-import { inBrowser } from 'vitepress'
-import busuanzi from 'busuanzi.pure.js'
 import ArticleMetadata from "./components/ArticleMetadata.vue"
 import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
@@ -41,10 +39,5 @@ export default {
             app.component('DataPanel', DataPanel),
             app.component('ArticleMetadata', ArticleMetadata),
             app.use(NolebaseGitChangelogPlugin)
-        if (inBrowser) {
-            router.onAfterRouteChanged = () => {
-                busuanzi.fetch()
-            }
-        }
     }
 }
