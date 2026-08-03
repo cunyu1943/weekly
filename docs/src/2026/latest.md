@@ -1,12 +1,24 @@
+---
+publish: true
+isOriginal: true
+category:
+  - 好物周刊
+tag:
+  - 项目
+  - 软件
+  - 网站
+  - 资料
+  - 插件
 
+---
 
-# 好物周刊#162：考研 PDF
+# 好物周刊#164：从 AI 渲染到加密笔记，总有一个戳中你
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/FPPtQyOzi3mG3SpJOvJpFQ
+> 原文：https://mp.weixin.qq.com/s/H0mHH5zY5DfBJDwmIuPwKQ
 
 ## 🎈 号外 
 
@@ -16,106 +28,107 @@
 <img src="/imgs/contact/wxgroup.jpg" width="50%">
 </center>
 
-
 ## 一、项目
 
-### 1. [ArtPlayer.js](https://github.com/zhw2590582/ArtPlayer)
+### 1. [Markstream](https://github.com/Simon-He95/markstream-vue)
 
-浏览器视频工具与播放器编辑器，把编辑器、字幕流程和轻量媒体工具整合到同一个应用外壳中。
+为 AI Chat 场景设计的流式 Markdown 渲染器，可以在模型内容仍在逐字到达、Markdown 语法尚未闭合时持续稳定地渲染。
 
-![](assets/0711-0717/20260705204231994.webp)
+![](assets/0725-0731/20260719213821695.webp)
 
-### 2. [A 股智能量化工作台](https://github.com/shy3130/tickflow-stock-panel)
+### 2. [BentoPDF](https://github.com/goodtab/bentopdf)
 
-自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台，面向个人散户与量化爱好者而生。
+专为隐私打造的 PDF 工具箱，提供最全面的 PDF 工具，尊重隐私，且永不收费。
 
-![](assets/0711-0717/20260705205417562.webp)
+![](assets/0725-0731/20260720113432471.webp)
 
-### 3. [An Otter Wiki](https://github.com/redimp/otterwiki)
+### 3. [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
 
-一款基于 Python、采用 Flask 微框架开发的协作式维基内容管理工具，以 Git 仓库存储并记录全部内容修改记录，使用 Markdown 标记语言，搭配 Halfmoon CSS 框架、CodeMirror 编辑器与免费 Font Awesome 图标库搭建而成。
+一份可由 Codex 和 Claude Code 共用的 Agent Skill。它将自然语言描述转化为经过几何校验的 SVG、高分辨率 PNG、经过媒体探测验证的 SVG 转 GIF 语义动效与离线交互 HTML。聚焦后的动效链路只接收生成器产出的语义 SVG，只输出一个紧凑、可验证的 GIF。项目内置 11 种生成器风格 + 1 种 AI 手绘风格（Dark Luxury）；新增的四种工程风格分别为 C4 评审、云部署、事件流和可靠性排查提供可执行语义契约，同时保留 AI/Agent Pattern 与全部 14 种 UML 图类型。
 
-![](assets/0711-0717/20260705211413964.webp)
+![](assets/0725-0731/20260721080350581.webp)
 
 ## 二、软件
 
-### 1. [NoteGen](https://github.com/codexu/note-gen)
+### 1. [KA Music](https://github.com/Linsxyx/KugouMusic.NET)
 
-一款跨平台的 Markdown AI Agent 笔记软件，致力于使用 AI 建立记录和写作的桥梁。
+最好用、最轻量的酷狗音乐概念版播放器，登录自动领取 VIP。项目基于 .NET 10 + Avalonia 打造，尽量提供一致的全平台桌面体验，而不是浏览器套壳式客户端。因为作者长期使用 Arch Linux 和 Windows 双系统，而 Linux 上又缺少一款体验完整的酷狗音乐播放器，这个项目就这样诞生了。
 
-![](assets/0711-0717/1781052603.webp)
+![](assets/0725-0731/1781527022.webp)
 
-### 2. [Anx Reader](https://github.com/anxcye/anx-reader)
+### 2. [Lockbook](https://github.com/lockbook/lockbook)
 
-一款为热爱阅读的你精心打造的电子书阅读器。集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。现代化界面设计，只为提供纯粹的阅读体验。
+一款完全开源的加密工具，可集中管理笔记、草图与各类文件，支持跨端同步、离线使用、便捷分享，文件加密后官方也无法查看内容。
 
-![](assets/0711-0717/1781052674.webp)
+![](assets/0725-0731/1781655539.webp)
 
-### 3. [Tadado](https://github.com/HananxR/Tadado)
+### 3. [Skills Manager](https://github.com/jiweiyeah/Skills-Manager)
 
-一款 Windows 桌面任务管理工具。你用简单的 Markdown 语法写任务，它帮你组织、追踪、回顾。所有数据存本地，无需联网，无需注册。
+一款用于管理 AI 编程助手技能（Skills）的统一桌面应用。 无缝组织、同步和共享 Claude Code、Codex、Opencode 及其他 AI 工具的技能。
 
-![](assets/0711-0717/1781083183.webp)
+![](assets/0725-0731/1782432574.webp)
 
 ## 三、网站
 
-### 1. [导航中心](https://jolyee.net)
+### 1. [MarkFlow](https://markdowntoword.pro)
 
-一个精心整理的优质资源导航平台，汇聚开发工具、学习社区、AI 应用、影视资源、音乐资源等优质内容。提供快速访问、搜索、收藏等便捷功能。
+在线 Markdown 转 Word — 免费 MD 转 DOCX 转换器
+即时将 Markdown 文件转换为 Word 文档，完整支持 GFM 语法。表格、LaTeX 数学公式、Mermaid 图表、代码高亮一键保留，无需注册。
 
-![](assets/0711-0717/20260628085550762.webp)
+![](assets/0725-0731/1781104953.webp)
 
-### 2. [KaoYanPDF](https://kaoyanpdf.com)
+### 2. [电影上映雷达](https://moviereleaseradar.com)
 
-免费考研真题PDF下载资料库，汇总 101 政治、204 英语二、301 数学一、408 计算机等统考科目代码与门类，覆盖公共课、专硕联考、医学、教育、农学、法硕等全部统考科目，方便考生按科目查找对应真题资料，全站拥有上万份考研真题与解析可免费下载。
+网站提供按月展示的电影上映时间表，覆盖全球数十个国家和地区，可以根据地区、类型以及内容分级来筛选电影。
 
-![](assets/0711-0717/20260628085932282.webp)
+![](assets/0725-0731/20260628210424928.webp)
 
-### 3. [墨格](https://moyufang.cn)
+### 3. [中国卷烟博物馆](https://www.ciggies.app)
 
-一款在线微信公众号排版工具，支持 Markdown 转公众号文章、公众号美化、图文排版、AI 写作排版、样式模板和一键复制到公众号编辑器，让微信文章排版更轻松。
+一个香烟图鉴收藏类网站，仅收录展示国内外各类香烟图文参数。
 
-![](assets/0711-0717/20260628100651071.webp)
+![](assets/0725-0731/20260628212217787.webp)
 
 ## 四、插件
 
-### 1. [LarkSnap · 飞书文档导出助手](https://chromewebstore.google.com/detail/gepndmikbdjpdedkfiejchmhmhegjeal?utm_source=item-share-cb)
+### 1. [微信读书评论插件](https://chromewebstore.google.com/detail/kfjimgaoegibikoojcbnkbffkongnoep?utm_source=item-share-cb)
 
-在飞书文档页面一键导出为 Markdown / PDF / HTML，批量下载附件，支持离线缓存；任意网页一键转 Markdown、解除复制限制、选中自动复制。
+一个让网页微信读书页面显示评论的插件，了解他人的见解，解答阅读中的困惑, 不做一个孤独的阅读者。
 
-![](assets/0711-0717/20260710080136579.webp)
+![](assets/0725-0731/20260728081756089.webp)
 
-### 2. [NextAI Translator](https://chromewebstore.google.com/detail/nextai-translator/ogjibjphoadhljaoicdnjnmgokohngcc)
+### 2. [拷贝猫](https://chromewebstore.google.com/detail/jdjbiojkklnaeoanimopafmnmhldejbg?utm_source=item-share-cb)
 
-一个使用 ChatGPT API 进行划词翻译、总结、润色、分析、代码解释的浏览器插件。借助了 ChatGPT 强大的翻译能力，它将帮助您更流畅地阅读、编辑外语。
+为网页提供前所未有的强大复制功能。此扩展创建了一个右键菜单，提供增强的复制功能。可以复制链接为 Markdown、HTML、选中内容为纯文本、复制图片为 Markdown 等功能。
 
-![](assets/0711-0717/20260713075446315.webp)
+![](assets/0725-0731/20260728082038859.webp)
 
-### 3. [SingleFile](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
+### 3. [Link Map](https://chromewebstore.google.com/detail/link-map/jappgmhllahigjolfpgbjdfhciabdnde)
 
-可将完整网页保存为单个 HTML 文件。它是一款网页扩展程序（同时也是命令行工具），支持谷歌浏览器、火狐浏览器（桌面端与移动端）、微软 Edge、Safari、Vivaldi、Waterfox、Yandex 以及 Opera。
+适配 Chrome/Edge 的树形侧边栏标签管理插件，可分层收纳、暂存网页释放内存，本地存储数据，还能导入 Tabs Outliner 内容，适合批量整理大量网页标签。
 
-![](assets/0711-0717/20260713075743548.webp)
+![](assets/0725-0731/20260728082220255.webp)
 
 ## 五、资料
 
-### 1. [简历收集](https://github.com/mmmlllnnn/ResumeCollection)
+### 1. [存储技术书](https://github.com/Lularible/storage-book)
 
-收集全网的中英文简历，总有一款适合你。涵盖多种风格，各行各业的简历模板，收集自网络，免费分享。
+开源中文技术书，一本从结绳记事到 Flash 物理、从文件系统理论到动手实现的存储技术书。
 
-![](assets/0711-0717/20260713081100465.webp)
+![](assets/0725-0731/20260728080807942.webp)
 
-### 2. [Java Source Code Learning](https://github.com/coderbruis/JavaSourceCodeLearning)
+### 2. [Claude Code 保姆级教程：从入门到进阶](https://www.yuque.com/juennn/tnmoif/lmdlencynbqvq9vt)
 
-一份面向 Java 后端工程师的源码阅读地图：从 JDK / JUC 到 Spring、Netty、Kafka、RocketMQ，按核心链路拆解框架设计与底层实现。
+一份从 0 基础开始的 Claude Code 系统教程。从安装讲起，接入第三方厂商模型绕过区域限制，逐一拆解权限系统、Tools 工具、Hooks 钩子、Skills 技能、Plugins 插件、Subagent 子智能体以及自动化任务这些核心功能，最后把它们综合起来，一起做一个真正可用的网页 AI App。
 
-![](assets/0711-0717/20260713081422258.webp)
+![](assets/0725-0731/20260727083315559.webp)
 
-### 3. [神经网络与深度学习](https://github.com/nndl/nndl)
+### 3. [《深入理解 AI Agent：设计原理与工程实践》](https://github.com/bojieli/ai-agent-book)
 
-邱锡鹏《神经网络与深度学习》（蒲公英书）理论书 v2 与通识版。
+Agent = LLM + 上下文 + 工具——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、92 个配套实验全部开源。
 
-![](assets/0711-0717/20260713081815837.webp)
+![](assets/0725-0731/20260728184052768.webp)
+
 
 ## ✍️ 说明
 
@@ -126,9 +139,16 @@
 
 如果你阅读到这里，说明我的工作没有白费。如果你想推荐项目/网站/软件/资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **个人微信：coder_cunYu** 与我交流。
 
- 
+---
 
+## ⏳ 联系
 
+想解锁更多知识？不妨关注我的微信公众号：**村雨遥（id：JavaPark）**。
 
+扫一扫，探索另一个全新的世界。
+
+<center>
+<img src="/imgs/contact/contact.png" width="300">
+</center>
 
 

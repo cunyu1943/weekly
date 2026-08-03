@@ -24,6 +24,7 @@ export default defineConfig({
   ],
   // 代码组图标
   markdown: {
+    lineNumbers: true,
     config: (md) => {
       md.use(groupIconMdPlugin) //代码组图标
       md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
