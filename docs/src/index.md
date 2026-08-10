@@ -22,11 +22,25 @@ hero:
       text: Github
       link: https://github.com/cunyu1943/weekly
 
+features:
+  - title: 2026 年刊
+    details: 2026 年刊合辑
+    link: /2026/latest
+    linkText: 了解更多
+  - title: 2025 年刊
+    details: 2025 年刊合辑
+    link: /archive/2025/1228-0103
+    linkText: 了解更多
+  - title: 2024 年刊
+    details: 2024 年刊合辑
+    link: /archive/2024/0101-0105
+    linkText: 了解更多      
+  - title: 2023 年刊
+    details: 2023 年刊合辑  
+    link: /archive/2023/0415-0421
+    linkText: 了解更多      
+
 ---
 
 <HomeUnderline />
 
-## Star History
-
-
-[![Star History Chart](https://api.star-history.com/chart?repos=cunyu1943/weekly&type=date&legend=top-left&sealed_token=8uAh9wqiCwGtCe3dR4veIyGqQWMsc_5GuLpQNMuvRksdZeZ_CfKa-tI8dsy46g5hwLKQD1YtydxDmtiryWjP8PEvJ989qB9BWbT6-DCWGSrMzgFHwy-JwA)](https://www.star-history.com/?repos=cunyu1943%2Fweekly&type=date&legend=top-left)
