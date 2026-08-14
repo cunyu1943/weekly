@@ -1,12 +1,12 @@
 
 
-# 好物周刊#165：本周挖到的 15 个宝藏，从 AI 笔记到强化学习
+# 好物周刊#166：从电子印章到 AI 编程助手
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/c3wrLHLpa-5vPDGeNsARSQ
+> 原文：https://mp.weixin.qq.com/s/1cmNZwNADB_LDdDNteeySQ
 
 ## 🎈 号外 
 
@@ -19,103 +19,104 @@
 
 ## 一、项目
 
-### 1. [EdgeEver](https://github.com/tianma-if/edgeever)
+### 1. [DrawStampUtils.js](https://github.com/xxss0903/drawstamputils)
 
-一个开源、自托管、Cloudflare-native 的现代笔记工作区。它保留经典印象笔记的三栏体验，同时提供清晰的数据模型、REST API、OpenAPI schema 和 MCP endpoint，原生支持 AI Agent 接入。
+一个使用 TypeScript 制作电子印章的工具。仓库同时包含一个基于 Vue 3 + Vite 的本地示例界面，界面只保留一个基于 StampWorkspace.vue 的编辑器 Demo，用于在浏览器中交互式调整印章配置并导出图片，不再依赖任何后端接口或 Cloudflare Workers。
 
-![](assets/0801-0807/20260715083032064.webp)
+![](assets/0808-0814/20260723200800031.webp)
 
-### 2. [Open File Viewer](https://github.com/xushanpei/open-file-viewer)
+### 2. [PostBot 内容同步助手](https://github.com/gitcoffee-os/postbot)
 
-一个面向现代 Web 产品的文件预览 SDK。它把 PDF、Office、图片、音视频、压缩包、邮件、图纸、3D、GIS 和代码文件放进同一个可控容器里，并同时支持原生 JavaScript、React、Vue 和 Svelte。
+一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。
 
-![](assets/0801-0807/20260722080746450.webp)
+![](assets/0808-0814/20260725102403426.webp)
 
-### 3. [录阶](https://github.com/Chozzc/Lujie-Careerkit)
+### 3. [Gaia](https://github.com/boommanpro/gaia-workflow-engine)
 
-面向实习、校招和职业求职场景，把简历编辑、岗位匹配、投递管理、面试准备、模拟练习和 AI 复盘放在同一个 AI 驱动的求职工作台里。你可以围绕不同岗位维护多份简历版本，根据岗位描述生成更贴合岗位要求的简历表达与专属面试准备资料，记录每一次投递进展，并在面试前后持续沉淀知识、回答、反馈和复盘材料。
+一个现代化的可视化规则引擎平台，用于编排复杂的 AI 工作流。在无限画布上设计、测试和部署 AI 流程。
 
-![](assets/0801-0807/20260722192441858.webp)
+![](assets/0808-0814/20260727081814158.webp)
 
 ## 二、软件
 
-### 1. [OpenNote](https://github.com/The-Flash-7/open-note)
+### 1. [Kun](https://github.com/KunAgent/Kun)
 
-一款拥有长期记忆和自我进化能力的跨平台智能笔记 Agent，内置聪明又贴心的智能 AI 助手 Cici。得益于巧妙的记忆提取-经验总结-自我反省-知识整理-召回反哺的闭环进化架构设计，你的 Cici 会越来越懂你，越用越默契。同时它基于强大的 ReAct 多步推理引擎和丰富的Skill技能，配合在本地运行的开源文本嵌入模型提供 RAG 能力，让 Cici 真正成为你的超级助理——轻松执行多步骤任务、复杂的笔记操作，智能管理整个笔记库，支持自然语言问答、检索、编辑、润色、提取、总结等等，让记录与思考更智能！更多超能力✨，等你来解锁！
+探索需求先行的下一代 coding 范式。
+用 DeepSeek、Xiaomi MiMo、MiniMax 的高性价比组合，把需求澄清、设计稿、计划和 Agent 编码串成完整闭环。
 
-![](assets/0801-0807/1782432847.webp)
+![](assets/0808-0814/20260628101530334.webp)
 
-### 2. [观墨](https://github.com/we-used-to-be/Guanmo-open)
+### 2. [WinLens](https://github.com/marco-beltrame/WinLens)
 
-一款面向知识工作者的 AI Markdown 编辑器，基于 Tauri 2 构建为轻量桌面应用。它将专业的 Markdown 编辑能力、本地 RAG 知识库、长期记忆系统和 Agent 工具调用整合为一体，让你在写作的同时拥有一个真正「理解」你文档上下文的 AI 助手。
+翻译屏幕上任何无法选中或复制的文字。 比如游戏、图片、PDF、外语软件等。只需按下快捷键，即可让译文在原位置显示。
 
-![](assets/0801-0807/1782461835.webp)
+![](assets/0808-0814/20260628203410917.webp)
 
-### 3. [Clypra](https://github.com/AIEraDev/Clypra)
+### 3. [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus)
 
-一个开源的视频编辑工具，目标是免费复刻 CapCut Pro 的高端功能。
+一个 CodexApp 的增强工具，努力让 Codex 变得更好用更舒服。
 
-![](assets/0801-0807/20260628101148221.webp)
+![](assets/0808-0814/20260628203607791.webp)
 
 ## 三、网站
 
-### 1. [产品派](https://chanpinpai.com)
+### 1. [EZ 在线工具箱](https://ezwebtools.net)
 
-一个发现和分享优质产品的创意社区。 无论你是热衷探索新奇产品的用户，还是正在打磨产品的独立开发者或创业者，都可以在这里更方便地找到好产品、分享好产品，同时也让自己的作品被更多人看见。
+新一代网页版视频处理解决方案，一键解析、转换、播放，免下载的极速视频处理体验，无需下载，轻松快捷！
 
-![](assets/0801-0807/20260630193152825.webp)
+![](assets/0808-0814/20260630190200868.webp)
 
-### 2. [VlogLearn](https://www.vloglearn.com)
+### 2. [localhost](https://localhost.cc/invite/sgxvj)
 
-AI 驱动的英语视频学习平台，通过 375+ 真实英语视频、AI 字幕、闪卡与测验，提供最地道的语言环境，高效提升听说读写能力。
+为开发者、学生和创作者提供免费的二级域名。一键认领专属子域名，自助管理 DNS 解析（A/AAAA/CNAME/TXT），全球任播网络加速，永久免费续费。
 
-![](assets/0801-0807/20260712181613572.webp)
+![](assets/0808-0814/20260714192325284.webp)
 
-### 3. [奇迹秀](https://www.qijishow.com)
+### 3. [小羿 - 专注收录各种优秀软件！](https://xiaoyi.vc)
 
-一个公益组织，为设计师提供设计干货及资源，站内所有收集的资源都能免费下载，且资源都经过组织成员测试后再发布，保证资源绿色，大家可放心使用，
+最新最全软件资讯，收录新出品软件（安卓、Windows、macOS、Linux、AI、鸿蒙），分享、推荐优秀软件、常用软件等，提倡自由，开源的软件。目标是成为一种生活态度，不拘泥于形式，在持有质量和原则之下，怀着一颗纯真的感恩的心过活。
 
-![](assets/0801-0807/20260715081857281.webp)
+![](assets/0808-0814/20260714192356181.webp)
 
 ## 四、插件
 
-### 1. [Linkly AI Clipper](https://chromewebstore.google.com/detail/linkly-ai-clipper/akplbgdjkgkakgoemhpjpphfilipdbda)
+### 1. [BananaNL](https://chromewebstore.google.com/detail/mjennffndagebhgcbeblffhgooohling)
 
-一款极简的浏览器剪藏插件，它把你看到的网页，转化并下载为对 AI 更友好的 Markdown。
+帮助你在 NotebookLM、ChatGPT、Gemini、Grok 中快速插入用于图片生成、图解和信息图的提示词。
 
-![](assets/0801-0807/20260801201305129.webp)
+![](assets/0808-0814/20260813080702896.webp)
 
-### 2. [Extension Manager](https://chromewebstore.google.com/detail/extension-manager/efajbgpnlnobnkgdcgcnclngeolnmggp)
+### 2. [Headerly](https://chromewebstore.google.com/detail/headerly/lmlapacaojgifapgjkbdkmaclkgcbhng)
 
-一个用于浏览器扩展管理的扩展，支持灵活的规则自定义，自动启用或禁用指定的浏览器扩展。批量导出扩展信息，支持分享文本，json，自定义 markdown 格式。
+轻松管理和自定义 HTTP 请求与响应标头，快速设置、追加或移除标头。
 
-![](assets/0801-0807/20260805080235457.webp)
+![](assets/0808-0814/20260813080835451.webp)
 
-### 3. [CocoCut](https://chromewebstore.google.com/detail/ekhbcipncbkfpkaianbjbcbmfehjflpf)
+### 3. [daily.dev](https://chromewebstore.google.com/detail/jlmpjdjjbgclbocgajdjefcidcncaied)
 
-最佳视频下载器 Chrom e扩展程序，快速轻松地在 Chrome 中下载视频或音频。使用此视频下载器，您可以从成千上万的网站下载任何视频。同时它也是一个 HLS 流媒体下载器。它可以检测 M3U8 文件并下载其中的 TS 文件。所有 HLS 流媒体都将下载并合并为 MP4 格式。
+基于个人技术栈的个性化开发者资讯，每次打开新标签页即可浏览。内容精选自 2000+ 个优质技术博客和发布源，涵盖 GitHub Blog、Hacker News、Dev.to、freeCodeCamp 等众多站点。
 
-![](assets/0801-0807/20260805080712208.webp)
+![](assets/0808-0814/20260813081625007.webp)
 
 ## 五、资料
 
-### 1. [My IELTS™](https://github.com/hefengxian/my-ielts)
+### 1. [Train LLM From Scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
 
-雅思备考资料，包含词汇、语法、听说读写最出名的一些内容。
+一份纯 PyTorch 从零搭建大模型的完整教学文档，不依赖 Hugging Face 封装库，完整覆盖预训练、SFT、奖励模型、DPO/PPO/GRPO 对齐、评测与推理全链路，支持单 / 多 GPU 复现可推理对齐 LLM。
 
-![](assets/0801-0807/20260728223743241.webp)
+![](assets/0808-0814/20260810080834081.webp)
 
-### 2. [ChatGPT 中文指南](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
+### 2. [用一个周末掌握 Claude Code](https://github.com/luongnv89/claude-howto)
 
-旨在帮助中文用户了解和使用 ChatGPT 及前沿 AI 技术。项目收集了各种免费和付费的 ChatGPT 资源、高效使用中文与大模型交流的方法、应用开发的相关资源，以及基于大模型能力的生产力工具。项目持续跟进 AI 前沿：从 GPT-5、Claude 4、DeepSeek、Gemini 3 等最新大模型，到 Claude Skills、MCP（模型上下文协议）、AI Agent 智能体开发等当代核心主题，您都能在这里找到丰富的工具、应用与示例。
+覆盖 Claude Code 全部斜杠命令的完整参考文档，详解内置/插件/MCP/自定义技能四类指令、版本变更、自定义命令编写方法、实操模板与排错方案，一站式教会开发者高效使用和拓展 Claude 快捷指令。
 
-![](assets/0801-0807/20260805081358914.webp)
+![](assets/0808-0814/20260810141319153.webp)
 
-### 3. [《强化学习小书》](https://github.com/alxndrTL/little-book-rl)
+### 3. [从零实现 AI 编程助手的实战教程](https://github.com/ghuntley/how-to-build-a-coding-agent)
 
-这本《强化学习小书》是强化学习简明入门读物，内容从基础理论延伸至各类应用算法。
+一套 Go 语言实战工作坊教程，基于 Claude API 分 6 个版本循序渐进教开发者从零搭建具备文件读写、终端执行、代码检索等工具调用能力的本地 AI 编程智能体。
 
-![](assets/0801-0807/20260805081627778.webp)
+![](assets/0808-0814/20260810141912302.webp)
 
 ## ✍️ 说明
 
