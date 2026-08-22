@@ -1,12 +1,12 @@
 
 
-# 好物周刊#166：从电子印章到 AI 编程助手
+# 好物周刊#167：春江水暖鸭先知
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/1cmNZwNADB_LDdDNteeySQ
+> 原文：https://mp.weixin.qq.com/s/eSLpauOHmyJc-vYoaffmeQ
 
 ## 🎈 号外 
 
@@ -19,104 +19,104 @@
 
 ## 一、项目
 
-### 1. [DrawStampUtils.js](https://github.com/xxss0903/drawstamputils)
+### 1. [Neko Master](https://github.com/foru17/neko-master)
 
-一个使用 TypeScript 制作电子印章的工具。仓库同时包含一个基于 Vue 3 + Vite 的本地示例界面，界面只保留一个基于 StampWorkspace.vue 的编辑器 Demo，用于在浏览器中交互式调整印章配置并导出图片，不再依赖任何后端接口或 Cloudflare Workers。
+让你的网络流量一目了然，实时监控你的流量，让你能够直观的看到你的网络到底发生了什么。
 
-![](assets/0808-0814/20260723200800031.webp)
+![](assets/0815-0821/20260728225554661.webp)
 
-### 2. [PostBot 内容同步助手](https://github.com/gitcoffee-os/postbot)
+### 2. [uView-Pro](https://github.com/anyup/uView-Pro)
 
-一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。
+全面支持 Vue3.0、TypeScript 的 uni-app 生态框架，uView Pro 的基线版本是基于 uView 1.8.8 修改，使用 TypeScript 完全重构，已覆盖 Android、iOS、鸿蒙以及微信/头条/支付宝等主流小程序平台，真正实现 “一套代码，多端运行”，支持多主题系统、暗黑模式与国际化（i18n）。
 
-![](assets/0808-0814/20260725102403426.webp)
+![](assets/0815-0821/20260729144858451.webp)
 
-### 3. [Gaia](https://github.com/boommanpro/gaia-workflow-engine)
+### 3. [ai-commit](https://github.com/guanguans/ai-commit)
 
-一个现代化的可视化规则引擎平台，用于编排复杂的 AI 工作流。在无限画布上设计、测试和部署 AI 流程。
+使用 AI 自动生成约定式 git 提交信息。
 
-![](assets/0808-0814/20260727081814158.webp)
+![](assets/0815-0821/20260730182436048.webp)
 
 ## 二、软件
 
-### 1. [Kun](https://github.com/KunAgent/Kun)
+### 1. [GTweak](https://github.com/Greedeks/GTweak)
 
-探索需求先行的下一代 coding 范式。
-用 DeepSeek、Xiaomi MiMo、MiniMax 的高性价比组合，把需求澄清、设计稿、计划和 Agent 编码串成完整闭环。
+一款开源的 Windows 优化利器，集成了激活、去臃肿、隐私保护、性能优化、界面美化等近 100 项实用功能，一键操作即可打造「理想 Windows 系统」。
 
-![](assets/0808-0814/20260628101530334.webp)
+![](assets/0815-0821/20260628203958670.webp)
 
-### 2. [WinLens](https://github.com/marco-beltrame/WinLens)
+### 2. [AI File Sorter](https://github.com/hyperfield/ai-file-sorter)
 
-翻译屏幕上任何无法选中或复制的文字。 比如游戏、图片、PDF、外语软件等。只需按下快捷键，即可让译文在原位置显示。
+一款跨平台桌面应用程序，借助人工智能整理文件，并为图片、文档以及受支持的音视频文件推荐更规整、格式更统一的文件名。该软件旨在减少文件杂乱问题、统一文件命名规范，方便后续查找文件，满足查阅、归档或长期存储等各类使用场景。
 
-![](assets/0808-0814/20260628203410917.webp)
+![](assets/0815-0821/20260628204141745.webp)
 
-### 3. [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus)
+### 3. [PDFCraft](https://github.com/PDFCraftTool/pdfcraft)
 
-一个 CodexApp 的增强工具，努力让 Codex 变得更好用更舒服。
+专业 PDF 工具
+131+ 款免费、安全且易于使用的工具，满足您所有的 PDF 需求。
 
-![](assets/0808-0814/20260628203607791.webp)
+![](assets/0815-0821/20260628204643392.webp)
 
 ## 三、网站
 
-### 1. [EZ 在线工具箱](https://ezwebtools.net)
+### 1. [TempUtils](https://temputils.com)
 
-新一代网页版视频处理解决方案，一键解析、转换、播放，免下载的极速视频处理体验，无需下载，轻松快捷！
+所有临时工具，一站搞定。笔记、表格、文件、白板、聊天、邮箱等，无需注册，无需安装，用完即走。
 
-![](assets/0808-0814/20260630190200868.webp)
+![](assets/0815-0821/20260716075842669.webp)
 
-### 2. [localhost](https://localhost.cc/invite/sgxvj)
+### 2. [磐代 AI](https://pandai.pro/?ref=I4LJDoy0)
 
-为开发者、学生和创作者提供免费的二级域名。一键认领专属子域名，自助管理 DNS 解析（A/AAAA/CNAME/TXT），全球任播网络加速，永久免费续费。
+磐代 AI 是多模型并行的 AI PPT 自动生成工具：输入一句话，Deepseek / Kimi / 通义千问 / 智谱 / MiniMax / 豆包 / MiMo / StepFun 等多个大模型同时生成 PPT，对比选优，免费试用，导出可二次编辑的真实 .pptx 文件。
 
-![](assets/0808-0814/20260714192325284.webp)
+![](assets/0815-0821/20260716081949091.webp)
 
-### 3. [小羿 - 专注收录各种优秀软件！](https://xiaoyi.vc)
+### 3. [鸭先知](https://www.yxzhi.com)
 
-最新最全软件资讯，收录新出品软件（安卓、Windows、macOS、Linux、AI、鸿蒙），分享、推荐优秀软件、常用软件等，提倡自由，开源的软件。目标是成为一种生活态度，不拘泥于形式，在持有质量和原则之下，怀着一颗纯真的感恩的心过活。
+创办于 2022 年，是原资源否网站，专注于分享优质软件、技术、教程、脚本、插件等资源的综合性网站。找软件，找资源，学技术，提效率，尽在鸭先知！
 
-![](assets/0808-0814/20260714192356181.webp)
+![](assets/0815-0821/20260719214608711.webp)
 
 ## 四、插件
 
-### 1. [BananaNL](https://chromewebstore.google.com/detail/mjennffndagebhgcbeblffhgooohling)
+### 1. [只译](https://github.com/airhunter/OnlyTranslate)
 
-帮助你在 NotebookLM、ChatGPT、Gemini、Grok 中快速插入用于图片生成、图解和信息图的提示词。
+一款开源双语阅读浏览器扩展：在原页面翻译网页正文、视频字幕和本地 EPUB 电子书，并尽量保留原内容的结构与阅读节奏。无需注册只译账号，也不绑定订阅；翻译服务由你自己选择。
 
-![](assets/0808-0814/20260813080702896.webp)
+![](assets/0815-0821/20260813165453803.webp)
 
-### 2. [Headerly](https://chromewebstore.google.com/detail/headerly/lmlapacaojgifapgjkbdkmaclkgcbhng)
+### 2. [GitHub 中文化插件](https://github.com/maboloshi/github-chinese)
 
-轻松管理和自定义 HTTP 请求与响应标头，快速设置、追加或移除标头。
+一款开源的 Tampermonkey 油猴脚本，可将 GitHub 网页界面完整汉化，支持多版本分发，适配新版 GitHub 页面并提供词条管理等配套能力。
 
-![](assets/0808-0814/20260813080835451.webp)
+![](assets/0815-0821/20260816205549883.webp)
 
-### 3. [daily.dev](https://chromewebstore.google.com/detail/jlmpjdjjbgclbocgajdjefcidcncaied)
+### 3. [Ad Block Ninja](https://chromewebstore.google.com/detail/ad-block-ninja/ppfadpgpccljindldolejmgkhgaficka)
 
-基于个人技术栈的个性化开发者资讯，每次打开新标签页即可浏览。内容精选自 2000+ 个优质技术博客和发布源，涵盖 GitHub Blog、Hacker News、Dev.to、freeCodeCamp 等众多站点。
+一款跨浏览器轻量广告拦截扩展，可拦截网页各类广告与跟踪脚本，支持自定义白名单，实现更快速、隐私安全的浏览体验。
 
-![](assets/0808-0814/20260813081625007.webp)
+![](assets/0815-0821/20260816210039421.webp)
 
 ## 五、资料
 
-### 1. [Train LLM From Scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+### 1. [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
-一份纯 PyTorch 从零搭建大模型的完整教学文档，不依赖 Hugging Face 封装库，完整覆盖预训练、SFT、奖励模型、DPO/PPO/GRPO 对齐、评测与推理全链路，支持单 / 多 GPU 复现可推理对齐 LLM。
+一个开源知识库仓库，以图解通俗的方式汇总分布式系统、架构案例、数据库、网络等技术，服务于系统设计学习与面试备考。
 
-![](assets/0808-0814/20260810080834081.webp)
+![](assets/0815-0821/20260811104651535.webp)
 
-### 2. [用一个周末掌握 Claude Code](https://github.com/luongnv89/claude-howto)
+### 2. [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
 
-覆盖 Claude Code 全部斜杠命令的完整参考文档，详解内置/插件/MCP/自定义技能四类指令、版本变更、自定义命令编写方法、实操模板与排错方案，一站式教会开发者高效使用和拓展 Claude 快捷指令。
+面向零基础新手、全程实操驱动的 Docker 完整教程，从容器基础、Dockerfile、多容器 Compose，到基于 AWS 云端部署 Web 与分布式应用，手把手带你掌握容器化全流程。
 
-![](assets/0808-0814/20260810141319153.webp)
+![](assets/0815-0821/20260811113539031.webp)
 
-### 3. [从零实现 AI 编程助手的实战教程](https://github.com/ghuntley/how-to-build-a-coding-agent)
+### 3. [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-一套 Go 语言实战工作坊教程，基于 Claude API 分 6 个版本循序渐进教开发者从零搭建具备文件读写、终端执行、代码检索等工具调用能力的本地 AI 编程智能体。
+一套覆盖 Docker 基础、进阶、底层原理、容器生态与工程实战的完整中文教程，分岗位定制学习路线，支持在线 / 离线多渠道阅读，适配初学者与架构、运维、开发全人群。
 
-![](assets/0808-0814/20260810141912302.webp)
+![](assets/0815-0821/20260811113611046.webp)
 
 ## ✍️ 说明
 
@@ -126,8 +126,6 @@
 - **浏览地址**：公众号 | [电子书](https://cunyu1943.github.io/weekly) | [语雀](https://yuque.com/cunyu1943/weekly) | [ima 知识库](https://ima.qq.com/wiki/?shareId=860487e32c6cc8d6c9070cd7f00caedf3cbf4102f695862d9c82f463b92417af)
 
 如果你阅读到这里，说明我的工作没有白费。如果你想推荐项目/网站/软件/资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **个人微信：coder_cunYu** 与我交流。
-
----
 
 
 
