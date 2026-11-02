@@ -1,12 +1,12 @@
 
 
-# 好物周刊#167：春江水暖鸭先知
+# 好物周刊#177：专利神器
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
 > 不要哀求，学会争取，若是如此，终有所获
 > 
-> 原文：https://mp.weixin.qq.com/s/eSLpauOHmyJc-vYoaffmeQ
+> 原文：https://mp.weixin.qq.com/s/tanzHQ0bAAjfc35wo2g6xg
 
 ## 🎈 号外 
 
@@ -19,104 +19,105 @@
 
 ## 一、项目
 
-### 1. [Neko Master](https://github.com/foru17/neko-master)
+### 1. [Naive Icons](https://github.com/guokaigdg/naive-icons)
 
-让你的网络流量一目了然，实时监控你的流量，让你能够直观的看到你的网络到底发生了什么。
+一套 naive folk art 风格的 SVG 图标库。统一的 48×48 画布、3.5 粗描边与复古调色板， 刻意保留手绘特有的笨拙感。
 
-![](assets/0815-0821/20260728225554661.webp)
+![](assets/1024-1030/20261012081201815.webp) 
 
-### 2. [uView-Pro](https://github.com/anyup/uView-Pro)
+### 2. [一个字的一生](https://github.com/Ivan666jjj/yigezi)
 
-全面支持 Vue3.0、TypeScript 的 uni-app 生态框架，uView Pro 的基线版本是基于 uView 1.8.8 修改，使用 TypeScript 完全重构，已覆盖 Android、iOS、鸿蒙以及微信/头条/支付宝等主流小程序平台，真正实现 “一套代码，多端运行”，支持多主题系统、暗黑模式与国际化（i18n）。
+展示了一个字从甲骨文 → 小篆 → 繁体 → 简体的演变过程，看一个汉字三千年中的样子。
 
-![](assets/0815-0821/20260729144858451.webp)
+![](assets/1024-1030/20261019081903832.webp)
 
-### 3. [ai-commit](https://github.com/guanguans/ai-commit)
+### 3. [bilibili-douyin-notes](https://github.com/lucky-Luor/bilibili-douyin-notes)
 
-使用 AI 自动生成约定式 git 提交信息。
+把 B 站 / 抖音 / YouTube / 小红书视频一键整理成 Markdown 课堂笔记的 AI。
 
-![](assets/0815-0821/20260730182436048.webp)
+![](assets/1024-1030/20261019081825640.webp)
 
 ## 二、软件
 
-### 1. [GTweak](https://github.com/Greedeks/GTweak)
+### 1. [Ztools](https://github.com/ZToolsCenter/ZTools)
 
-一款开源的 Windows 优化利器，集成了激活、去臃肿、隐私保护、性能优化、界面美化等近 100 项实用功能，一键操作即可打造「理想 Windows 系统」。
+一个高性能、可扩展的应用启动器和插件平台 uTools 的开源实现，支持 macOS 和 Windows 平台。
 
-![](assets/0815-0821/20260628203958670.webp)
+![](assets/1024-1030/20260803175251368.webp)
 
-### 2. [AI File Sorter](https://github.com/hyperfield/ai-file-sorter)
+### 2. [墨奇输入法](https://github.com/gaboolic/moqi-im-windows)
 
-一款跨平台桌面应用程序，借助人工智能整理文件，并为图片、文档以及受支持的音视频文件推荐更规整、格式更统一的文件名。该软件旨在减少文件杂乱问题、统一文件命名规范，方便后续查找文件，满足查阅、归档或长期存储等各类使用场景。
+Windows 平台全新自研的现代化输入法前端，基于 TSF 框架（兼容所有软件与游戏），通过 moqi-ime 后端接入 Rime 引擎。
 
-![](assets/0815-0821/20260628204141745.webp)
+![](assets/1024-1030/20260805081119261.webp)
 
-### 3. [PDFCraft](https://github.com/PDFCraftTool/pdfcraft)
+### 3. [Sumatra PDF Plus](https://github.com/dengxibo/sumatrapdf-plus)
 
-专业 PDF 工具
-131+ 款免费、安全且易于使用的工具，满足您所有的 PDF 需求。
+Windows 下的 PDF / 电子书阅读器，相比于 Sumatra PDF，针对中文 EPUB/MOBI、离线查词、主题与 PDF 智能暗黑模式等做了增强。
 
-![](assets/0815-0821/20260628204643392.webp)
+![](assets/1024-1030/20260806080607973.webp)
+
+
 
 ## 三、网站
 
-### 1. [TempUtils](https://temputils.com)
+### 1. [WebTools](https://www.wtoolskit.com)
 
-所有临时工具，一站搞定。笔记、表格、文件、白板、聊天、邮箱等，无需注册，无需安装，用完即走。
+拥有 117 款浏览器端免费在线工具、无需注册、数据本地处理、支持 16 种语言，覆盖开发、设计、办公、多媒体、加密安全等多场景的一站式效率工具网站。
 
-![](assets/0815-0821/20260716075842669.webp)
+![](assets/1024-1030/20260804223404729.webp)
 
-### 2. [磐代 AI](https://pandai.pro/?ref=I4LJDoy0)
+### 2. [蜻蜓工具](https://33tool.com)
 
-磐代 AI 是多模型并行的 AI PPT 自动生成工具：输入一句话，Deepseek / Kimi / 通义千问 / 智谱 / MiniMax / 豆包 / MiMo / StepFun 等多个大模型同时生成 PPT，对比选优，免费试用，导出可二次编辑的真实 .pptx 文件。
+一个在线工具网站，包含开发工具，转换工具，图片工具，视频工具，办公工具等，为大家提供免费的在线工具服务。
 
-![](assets/0815-0821/20260716081949091.webp)
+![](assets/1024-1030/20260804222706379.webp)
 
-### 3. [鸭先知](https://www.yxzhi.com)
+### 3. [殆知阁](https://daizhige.org)
 
-创办于 2022 年，是原资源否网站，专注于分享优质软件、技术、教程、脚本、插件等资源的综合性网站。找软件，找资源，学技术，提效率，尽在鸭先知！
+免费开放的中国古典文献全文检索平台，收录一万七千余部经史子集、方志、佛道、医书等古籍，持续校勘增补、附刻本原书影像，供文史爱好者与研究者检索查阅古籍全文。
 
-![](assets/0815-0821/20260719214608711.webp)
+![](assets/1024-1030/20260806081851086.webp)
 
 ## 四、插件
 
-### 1. [只译](https://github.com/airhunter/OnlyTranslate)
+### 1. [虚空搜索](https://chromewebstore.google.com/detail/xusearch-void-search/jhagfpadglmgcdenndafaaahfhhpflji)
 
-一款开源双语阅读浏览器扩展：在原页面翻译网页正文、视频字幕和本地 EPUB 电子书，并尽量保留原内容的结构与阅读节奏。无需注册只译账号，也不绑定订阅；翻译服务由你自己选择。
+让搜索更快、更全面。让你同时调用多个 AI 批量进行搜索提问、进一步总结多个回答，实现快速比较、交叉验证。
 
-![](assets/0815-0821/20260813165453803.webp)
+![](assets/1024-1030/20261022134238806.webp)
 
-### 2. [GitHub 中文化插件](https://github.com/maboloshi/github-chinese)
+### 2. [PlayFaster](https://chromewebstore.google.com/detail/playfaster/fppcbkhpahkbgijkdcpjgjmhpfbmfiih)
 
-一款开源的 Tampermonkey 油猴脚本，可将 GitHub 网页界面完整汉化，支持多版本分发，适配新版 GitHub 页面并提供词条管理等配套能力。
+一款免费的视频倍速扩展，可以设置 0.1x 到 16x 之间的任意速度，在自带播放器最高只到 2x 的在线学习平台上也同样有效。
 
-![](assets/0815-0821/20260816205549883.webp)
+![](assets/1024-1030/20261029080506766.webp)
 
-### 3. [Ad Block Ninja](https://chromewebstore.google.com/detail/ad-block-ninja/ppfadpgpccljindldolejmgkhgaficka)
+### 3. [会议实时翻译字幕](https://chromewebstore.google.com/detail/live-meeting-translation/eaheoieoelghhmebennamldmjmmfppjk)
 
-一款跨浏览器轻量广告拦截扩展，可拦截网页各类广告与跟踪脚本，支持自定义白名单，实现更快速、隐私安全的浏览体验。
+浏览器里的在线会议实时翻译工具。它把视频通话变成带翻译的字幕：在 Google Meet、Zoom（网页版）或 Microsoft Teams（网页版）的标签页中启动，选好你听到的语言和你阅读的语言，别人继续说话，你就能用自己的语言跟上整场通话。
 
-![](assets/0815-0821/20260816210039421.webp)
+![](assets/1024-1030/20261029080758200.webp)
 
 ## 五、资料
 
-### 1. [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+### 1. [中国专利.skill](https://github.com/handsomestWei/patent-disclosure-skill)
 
-一个开源知识库仓库，以图解通俗的方式汇总分布式系统、架构案例、数据库、网络等技术，服务于系统设计学习与面试备考。
+专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
 
-![](assets/0815-0821/20260811104651535.webp)
+![](assets/1024-1030/20261027080702120.webp)
 
-### 2. [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
+### 2. [Paper2Patent](https://github.com/7toCR/paper2patent)
 
-面向零基础新手、全程实操驱动的 Docker 完整教程，从容器基础、Dockerfile、多容器 Compose，到基于 AWS 云端部署 Web 与分布式应用，手把手带你掌握容器化全流程。
+面向科研成果转化的论文转专利智能模板库，提供 Flash/Pro Prompt、专利附图生成与 Agent Skills，辅助规范生成中国发明专利申请文本。
 
-![](assets/0815-0821/20260811113539031.webp)
+![](assets/1024-1030/20261027080841172.webp)
 
-### 3. [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+### 3.  [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim)
 
-一套覆盖 Docker 基础、进阶、底层原理、容器生态与工程实战的完整中文教程，分岗位定制学习路线，支持在线 / 离线多渠道阅读，适配初学者与架构、运维、开发全人群。
+一份兼顾新手与进阶用户的开源 Vim 及 Vimscript 学习教程，提炼核心要点帮你高效掌握 Vim 编辑器。
 
-![](assets/0815-0821/20260811113611046.webp)
+![](assets/1024-1030/20261027084831504.webp)
 
 ## ✍️ 说明
 
@@ -126,6 +127,8 @@
 - **浏览地址**：公众号 | [电子书](https://cunyu1943.github.io/weekly) | [语雀](https://yuque.com/cunyu1943/weekly) | [ima 知识库](https://ima.qq.com/wiki/?shareId=860487e32c6cc8d6c9070cd7f00caedf3cbf4102f695862d9c82f463b92417af)
 
 如果你阅读到这里，说明我的工作没有白费。如果你想推荐项目/网站/软件/资源，欢迎提交 **[issue](https://github.com/cunyu1943/weekly/issues)** 或者添加我 **个人微信：coder_cunYu** 与我交流。
+
+---
 
 
 
