@@ -1,6 +1,15 @@
 import type { DefaultTheme } from 'vitepress'
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
+    '/daily': [
+        {
+            text: '每日推荐',
+            items: [
+                { text: '今日推荐', link: '/daily' },
+                { text: '最新年刊', link: '/2026/latest' },
+            ]
+        }
+    ],
     '/2026/': [
         {
             text: '2026 年刊',

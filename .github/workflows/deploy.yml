@@ -8,6 +8,11 @@ on:
   push:
     branches: [main]
 
+  # 每天北京时间 06:00（UTC 22:00）重新生成「每日推荐」并部署
+  # docs:build 会自动执行 scripts/generate-daily.mjs
+  schedule:
+    - cron: '0 22 * * *'
+
   # 允许你从 Actions 选项卡手动运行此工作流程
   workflow_dispatch:
 

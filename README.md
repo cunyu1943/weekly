@@ -3,6 +3,14 @@
 
 > 不要哀求，学会争取。若是如此，终有所获。
 
+## 🎁 每日推荐
+
+[在线查看每日推荐](https://cunyu1943.github.io/weekly/daily)：文章头尾沿用周刊模板，一~五章节内容每天从历史各期对应栏目中随机抽取，日期即随机种子，当天内容稳定可复现。
+
+- 每天 **北京时间 06:00** 由 [deploy.yml](./.github/workflows/deploy.yml) 定时任务重新生成并部署（GitHub Actions 的 `cron` 使用 UTC，实际可能有几分钟延迟）。
+- 本地预览：`pnpm daily`，或指定日期 `node scripts/generate-daily.mjs --date=2026-11-13`；`pnpm docs:dev` / `pnpm docs:build` 也会自动生成。
+- 调整每章条目数：`node scripts/generate-daily.mjs --count=5`。
+
 ## 🎈 号外 
 
 最近，公众号之外，建立了微信交流群，不定期会在群里分享各种资源（影视、IT 编程、考试提升……）&知识。如果有需要，可以**扫码或者后台添加小编微信备注入群**。进群后**优先看群公告**，**呼叫群中【资源分享小助手】**，还能免费帮找资源哦～

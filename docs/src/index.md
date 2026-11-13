@@ -13,6 +13,9 @@ hero:
     src: logo.png
   actions:
     - theme: brand
+      text: 每日推荐
+      link: /daily
+    - theme: alt
       text: 最新年刊
       link: /2026/latest
     - theme: alt
