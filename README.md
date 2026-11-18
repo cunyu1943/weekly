@@ -7,7 +7,7 @@
 
 [在线查看每日推荐](https://cunyu1943.github.io/weekly/daily)：文章头尾沿用周刊模板，一~五章节内容每天从历史各期对应栏目中随机抽取，日期即随机种子，当天内容稳定可复现。
 
-- 每天 **北京时间 06:00** 由 [deploy.yml](./.github/workflows/deploy.yml) 定时任务重新生成并部署（GitHub Actions 的 `cron` 使用 UTC，实际可能有几分钟延迟）。
+- 每天 **北京时间 06:00**（GitHub Actions 的 `cron` 使用 UTC，对应 `0 22 * * *`）由 [deploy.yml](./.github/workflows/deploy.yml) 定时任务重新生成并部署，实际可能有几分钟延迟。生成结果会作为一笔 `chore(daily): 更新每日推荐 <日期>` 自动提交到 `main`，页面上的「更新日期 / 页面历史」也会同步变为当天。
 - 本地预览：`pnpm daily`，或指定日期 `node scripts/generate-daily.mjs --date=2026-11-13`；`pnpm docs:dev` / `pnpm docs:build` 也会自动生成。
 - 调整每章条目数：`node scripts/generate-daily.mjs --count=5`。
 

@@ -9,16 +9,16 @@ on:
     branches: [main]
 
   # 每天北京时间 06:00（UTC 22:00）重新生成「每日推荐」并部署
-  # docs:build 会自动执行 scripts/generate-daily.mjs
+  # GitHub Actions 的 cron 一律使用 UTC，22:00 UTC 即北京时间次日 06:00
   schedule:
     - cron: '0 22 * * *'
 
   # 允许你从 Actions 选项卡手动运行此工作流程
   workflow_dispatch:
 
-# 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
+# 设置 GITHUB_TOKEN 的权限：contents: write 用于把每日推荐提交回仓库
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -50,6 +50,27 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: pnpm install # 或 npm ci / yarn install / bun install
+
+      # 先生成并在本地提交，VitePress 构建时才能从 git 历史读到当天的 lastUpdated
+      - name: Generate and commit daily recommendation
+        id: daily
+        run: |
+          pnpm daily
+          git add docs/src/daily.md
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "今日推荐内容无变化，跳过提交"
+          else
+            DAY=$(grep -m1 '^# 每日推荐' docs/src/daily.md | sed 's/^# 每日推荐 · //')
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "chore(daily): 更新每日推荐 $DAY"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # GITHUB_TOKEN 发起的 push 不会再次触发本工作流，避免循环
+      - name: Push daily recommendation
+        if: steps.daily.outputs.changed == 'true'
+        run: git push origin HEAD:${{ github.ref_name }}
+
       - name: Build with VitePress
         run: pnpm docs:build # npm run docs:build  / yarn docs:build / bun run docs:build
       - name: Upload artifact
