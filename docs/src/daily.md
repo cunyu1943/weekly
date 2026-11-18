@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 13 日
+# 每日推荐 · 2026 年 11 月 18 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,107 +28,116 @@ tag:
 
 ## 一、项目
 
-### 1. [Opensabre ](https://github.com/opensabre/opensabre-framework)
+### 1. [Twikoo](https://github.com/imaegoo/twikoo)
 
-基于 SpringCloud2021 的微服务开发平台，整合了 Spring Security、Springcloud Alibaba 等组件。 包含了基础的 RBAC 权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。 定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持 Docker、Kubenetes 的部署。 让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。 目标是建立一套金融级、高安全性的微服务解决方案。
+一个简洁、安全、免费的静态网站评论系统，具有以下特点：
 
-![](./archive/2024/assets/1207-1213/1733962097411-45918e64-04c0-4c5d-bd00-a0183a861623.webp)
+-   简单
+-   易用
+-   安全
+-   即时
+-   个性
+-   便捷管理
 
-### 2. [wtv](https://github.com/biancangming/wtv)
+![](./archive/2023/assets/image.2c847t45ah7o.webp)
 
-解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站。
+### 2. [Material Design User Interface](https://github.com/zdhxiong/mdui)
 
-最新 `IPTV` 直播源 `m3u8` 下载，电视直播网站推荐，以中文频道为主。
+使用 Web Components 实现，遵循 Material You 设计规范的 Web 前端组件库。
 
-![](./archive/2023/assets/image.7gmr9efor5w0.webp)
+![](./archive/2024/assets/0113-0119/1704672540557.webp)
 
-### 3. [PakePlus](https://github.com/Sjj1024/PakePlus)
+### 3. [Monolith](https://github.com/one-ea/Monolith)
 
-轻松将任意网站/Vue/React 等项目构建为轻量级多端桌面应用和手机应用，仅需几分钟即可搞定。
+一套运行在 Cloudflare 全球边缘网络上的现代化博客系统，前后端通过适配器模式解耦，零运维即可获得全球 < 50ms 的访问延迟。
 
-![](./archive/2025/assets/0524-0530/1748303985687-f34faa10-eada-46c2-ba18-22f5c480a515.webp)
+![](./2026/assets/0704-0710/20260710080239404.webp)
 
 ## 二、软件
 
-### 1. [Tai](https://github.com/Planshit/Tai)
+### 1. [AidLux](https://github.com/aidlearning/AidLearning-FrameWork)
 
-在 Windows 上统计软件使用时长和网站浏览时长，帮助你了解自己把时间花在了什么地方，从而更好地做一些计划。或者，为了每周回顾自己的摸鱼成果。
+创新性的 Android / 鸿蒙 + Linux 融合架构与 AI 工具链，构建下一代 AIoT 解决方案，服务开发者探索新未来。
 
-![](./archive/2024/assets/1123-1129/1732665911521-1dd45fa8-e684-4e1a-8bfd-2bfba5a3f527.webp)
+![](./archive/2024/assets/1005-1011/1728539132043-f1676f71-334f-484c-a120-869ccf7579a1.webp)
 
-### 2. [Warp](https://www.warp.dev/)
+### 2. [Verse](https://verse.app.yinxiang.com/product)
 
-一个通过人工智能和协作工具重新设计的终端，能够有效提高生产效率。
+新一代免费的 AI 生产力工具，支持多种场景内容智能生成，包括会议纪要、公文假条、小说作文、日报、新闻稿、广告创作等等高效产出。
 
-![](./archive/2024/assets/0525-0531/1716854628507-6748d08c-c8db-46e6-b7a3-623c1a0973cf.webp)
+![](./archive/2024/assets/0615-0621/1718436335293-c937966d-762b-44da-a9c6-00d8fccfe77f.webp)
 
-### 3. [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
+### 3. [剪存](https://github.com/snsogbl/clip-save)
 
-一款轻量、高性能的 Windows 桌面特效工具，为点击、拖尾、滚轮、长按、悬停提供实时视觉反馈（波纹、粒子、文字等）。
+一个基于 Wails + Vue 3 + TypeScript 的跨平台剪贴板历史管理工具。
 
-![](./2026/assets/0214-0220/1771998865623-59bda6cc-01cb-450f-9044-d4db0c9f5217.webp)
+![](./archive/2025/assets/1129-1205/1764633780281-924c5f3e-105b-4056-ab55-bf8accc95e7e.webp)
 
 ## 三、网站
 
-### 1. [网络收音机](https://fm365.space)
+### 1. [轻壁纸](https://qingbizhi.com)
 
-网络收音机，在线即可收听全国各地的上千个 FM 广播电台。
+高质量电脑壁纸分享，免费分享电脑壁纸、横屏壁纸、Bing 壁纸等等。
 
-![](./2026/assets/0418-0424/efbe59b6c0f34519afb1824e956f6466.webp)
+![](./archive/2025/assets/1011-1017/1760141441271-9f8d7ee8-ef7e-4986-852a-a6e01ba98fad.webp)
 
-### 2. [字体搬运工](https://font.sucai999.com)
+### 2. [PPT 超级市场](https://www.pptsupermarket.com/)
 
-一个免费公益性的字体网站，致力于收录可商用的免费字体。无需登录注册，随时随地都可以自由下载。
+免费下载 `PPT` 模板与 `PPT` 作品，提供免费的 `PPT` 代做服务，提供一站式 `PPT`(模板、定制、工具、教程)服务，有了它，一切制作 `PPT` 的烦恼都将成为过去！
 
-![](./archive/2025/assets/0322-0328/1742429546161-9dcf43d3-2c6e-465c-b810-97e0165afec6.webp)
+![](./archive/2023/assets/1693958801945.webp)
 
-### 3. [Mac Torrents](https://www.torrentmac.net)
+### 3. [Azure Text to Speech](https://tts.femoon.top/)
 
-专为 macOS 用户打造的种子文件搜索引擎与下载平台。
+Azure 提供的在线文字转语音工具，支持多种语言、男女不同音色，多种风格随意切换，甚至还能调整语速语调。
 
-![](./2026/assets/0404-0410/1772194878953-1e506cdd-3052-47b7-bc74-f78c6a9160ea.webp)
+![](./archive/2024/assets/1207-1213/1733875509132-1d0441a4-2153-42ab-bfdc-b0ed8c15d112.webp)
 
 ## 四、插件
 
-### 1. [Better Ruler](https://chromewebstore.google.com/detail/better-ruler/ilcnadaaninblgbekoaihdhoiecaflie)
+### 1. [蔚蓝主页](https://microsoftedge.microsoft.com/addons/detail/蔚蓝主页/epgghbgfoacieppkngapakodnbkhpldj)
 
-一款网页测量工具，支持吸附测量。为前端开发和 UI 设计提供便利。
+蔚蓝主页是一款浏览器主页/新标签页，主要为用户提供搜索服务、网址导航服务。
 
-![](./2026/assets/0425-0501/1777248970123.webp)
+区别于传统的主页或网址导航，是一款独特、有所分别的产品。产品核心理念是简洁、存粹，采用了简洁的页面设计，对主要功能加以提炼，让用户能更纯粹的享受该浏览器主页插件所带来的便利。
 
-### 2. [TextCortex](https://chromewebstore.google.com/detail/textcortex：个人ai助手ai作家/hahkojdegblcccihngmgndhdfheheofe)
+![](./archive/2023/assets/1693139224051.webp)
 
-一款旨在了解您和您的写作需求的 AI 伴侣：它会主动提供有关如何使您的内容更真实的选项，并从头到尾在您的创作过程中为您提供帮助。是专业人士、营销人员、作家、开发人员和学生的理想选择。
+### 2. [LanguageTool](https://languagetool.org/)
 
-![](./archive/2025/assets/0308-0314/1741737474049-d6863ca2-3ef6-48ef-b220-88a878323632.webp)
+![](./archive/2023/assets/1693354621982.webp)
 
-### 3. [为什么你们就是不能加个空格呢？](https://chromewebstore.google.com/detail/为什么你们就是不能加个空格呢？/paphcfdffjnbcgkokihcdjliihicmbpd)
+使用 LanguageTool 的语法检查器和释义工具立即增强您的文本，具有以下特点：
 
-自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白。
+-   无需注册
+-   支持超 25 种语言：英语、西班牙语、法语、德语、波兰语、俄语……
+-   应用范围广，几乎包含所有网站
 
-![](./archive/2023/assets/1694564655510.webp)
+### 3. [Cesturefy](https://chromewebstore.google.com/detail/cesturefy/bifgfhokfobhebifcogneljkpaaloonp)
+
+Firefox 热门扩展 *Robbendebiene/Gesturefy* 的 Chromium 移植版，将同样流畅的手势控制带到 Chrome、Edge 等浏览器。
+
+![](./archive/2025/assets/1018-1024/1760660015322-d6fdbe16-af4f-4f2c-b2b2-7db21eb7d5e9.webp)
 
 ## 五、资料
 
-### 1. [WebGL 理论基础](https://github.com/gfxfundamentals/webgl-fundamentals)
+### 1. [中文敏感词库](https://github.com/konsheng/Sensitive-lexicon)
 
-包含了 WebGL 的一系列教程，从 WebGL 的基本理论讲起。不像大多数其他教程那样改编自旧的 OpenGL 文章。内容去旧迎新，丢弃一些过时的思想，让你彻底了解 WebGL 的工作原理。
+一个持续更新的中文敏感词库，广泛覆盖政治、色情、暴力等敏感领域的词汇列表，帮助开发者和内容审核者快速识别并过滤不当文本。
 
-![](./archive/2024/assets/0518-0523/1716423382184-60e3ac93-8bf9-4932-9f36-41977c7e7ad6.webp)
+![](./archive/2025/assets/0830-0905/1756990927251-52d11924-0957-4ad9-83ff-3f0de5489ccf.webp)
 
-### 2. [Linux Basics for Hackers](https://github.com/ahegazy0/linux-basics-for-hackers-notes)
+### 2. [新概念学习笔记](https://github.com/andylee1890/NewConceptEnglish)
 
-基于 OccupyTheWeb 所著书籍《黑客Linux基础》的个人学习笔记整理而成的结构化课程。每个模块都用通俗易懂的语言拆解核心概念、命令以及实操示例——对新手足够浅显易懂，内容详实也具备实际使用价值。
+记录了作者从第 2 册开始学习新概念英语的学习笔记，记录整理后进行分享，方便大家一起学习。
 
-![](./2026/assets/0822-0828/20260815230536591.webp)
+![](./archive/2025/assets/0104-0110/1736208838807-5f824765-8411-4419-a375-a6187285aa4c.webp)
 
-### 3. [菜鸟教程](https://www.runoob.com/)
+### 3. [Kuboard](https://kuboard.cn/)
 
-菜鸟教程提供了编程的基础技术教程, 介绍了 `HTML`、`CSS`、`Javascript`、`Python`、`Java`、`Ruby`、`C`、`PHP`、`MySQL` 等各种编程语言的基础知识。
+`Kubernetes` 多集群管理界面，同时提供了 `Kubernetes` 教程，为使用 `Kubernetes`  落地 `Cloud` 微服务的任务提供实战经验。
 
-![](./archive/2023/assets/image-20230524083135688.png)
-
----
+![](./archive/2023/assets/kuboard.png)
 
 ## ✍️ 说明
 
