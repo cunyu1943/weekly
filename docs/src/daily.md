@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 18 日
+# 每日推荐 · 2026 年 11 月 19 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,116 +28,115 @@ tag:
 
 ## 一、项目
 
-### 1. [Twikoo](https://github.com/imaegoo/twikoo)
+### 1. [bili-sync](https://github.com/amtoaer/bili-sync)
 
-一个简洁、安全、免费的静态网站评论系统，具有以下特点：
+一款专为 NAS 用户编写的哔哩哔哩同步工具，由 Rust & Tokio 驱动。
 
--   简单
--   易用
--   安全
--   即时
--   个性
--   便捷管理
+![](./archive/2025/assets/1101-1107/1762128212993-3c699613-ba21-4c44-ad87-5e398412ffb2.webp)
 
-![](./archive/2023/assets/image.2c847t45ah7o.webp)
+### 2. [VirtualWife](https://github.com/yakami129/VirtualWife)
 
-### 2. [Material Design User Interface](https://github.com/zdhxiong/mdui)
+一个虚拟数字人项目，支持 B 站直播，支持 Openai、ollama。具有以下特点：
 
-使用 Web Components 实现，遵循 Material You 设计规范的 Web 前端组件库。
+- 支持一键通过 Docker 快速部署
+- 支持在 Linux/Windows/MacOS 系统进行部署
+- 支持自定义角色设定
+- 支持更换角色模型，可从 VRM 模型市场 Vroid 下载
+- 支持长短期记忆功能
+- 支持多 LLM 模型切换，并且支持私有化模型（ollama），具体使用说明请查阅 FAQ
+- 支持文字驱动表情，文字驱动动作
+- 支持 B 站进行直播，具体使用说明请查阅 FAQ
+- 支持通过中文进行语音对话
+- 支持 Edge（微软）、Bert-VITS2 语音切换
+- 流式传输数据，拥有更快的响应速度
 
-![](./archive/2024/assets/0113-0119/1704672540557.webp)
+![](./archive/2024/assets/1012-1018/1729036937828-68c1bb33-9b8b-455f-ac69-3b20de1f9890.webp)
 
-### 3. [Monolith](https://github.com/one-ea/Monolith)
+### 3. [Single](https://github.com/Dreamer-Paul/Single)
 
-一套运行在 Cloudflare 全球边缘网络上的现代化博客系统，前后端通过适配器模式解耦，零运维即可获得全球 < 50ms 的访问延迟。
+一个简洁大气，含夜间模式的 Typecho 博客主题。具有简洁大气、夜间模式、文章目录、图片灯箱、代码高亮、平滑滚动、无 JQ 库的特点。
 
-![](./2026/assets/0704-0710/20260710080239404.webp)
+![](./archive/2024/assets/0113-0119/1704672500281.webp)
 
 ## 二、软件
 
-### 1. [AidLux](https://github.com/aidlearning/AidLearning-FrameWork)
+### 1. [Fiime 浏览器](https://lite.fiime.cn)
 
-创新性的 Android / 鸿蒙 + Linux 融合架构与 AI 工具链，构建下一代 AIoT 解决方案，服务开发者探索新未来。
+更低内存占用、更优 CPU 调度、更顺滑的透明化窗口体验。支持 Chrome 书签导入、窗口置顶等桌面级能力。
 
-![](./archive/2024/assets/1005-1011/1728539132043-f1676f71-334f-484c-a120-869ccf7579a1.webp)
+![](./2026/assets/0117-0123/1768558061644-086f7308-7daf-4bd8-aea8-a9dc448437c9.webp)
 
-### 2. [Verse](https://verse.app.yinxiang.com/product)
+### 2. [Worktile](https://worktile.com/)
 
-新一代免费的 AI 生产力工具，支持多种场景内容智能生成，包括会议纪要、公文假条、小说作文、日报、新闻稿、广告创作等等高效产出。
+深度整合项目与任务管理、`OKR`、网盘、在线沟通等应用，支持丰富的自定义功能，满足各行业各场景的个性化工作需求，助力企业提高管理效能。
 
-![](./archive/2024/assets/0615-0621/1718436335293-c937966d-762b-44da-a9c6-00d8fccfe77f.webp)
+![](./archive/2023/assets/1695276074424.webp)
 
-### 3. [剪存](https://github.com/snsogbl/clip-save)
+### 3. [NanaZip](https://github.com/M2Team/NanaZip)
 
-一个基于 Wails + Vue 3 + TypeScript 的跨平台剪贴板历史管理工具。
+基于 7-zip 开发的解压软件，更适合 Windows 11，UI 更加现代化！
 
-![](./archive/2025/assets/1129-1205/1764633780281-924c5f3e-105b-4056-ab55-bf8accc95e7e.webp)
+![](./archive/2025/assets/1018-1024/1760440178792-ea9fc35e-c57f-413f-af6d-0369f6825b30.webp)
 
 ## 三、网站
 
-### 1. [轻壁纸](https://qingbizhi.com)
+### 1. [EZ 在线工具箱](https://ezwebtools.net)
 
-高质量电脑壁纸分享，免费分享电脑壁纸、横屏壁纸、Bing 壁纸等等。
+新一代网页版视频处理解决方案，一键解析、转换、播放，免下载的极速视频处理体验，无需下载，轻松快捷！
 
-![](./archive/2025/assets/1011-1017/1760141441271-9f8d7ee8-ef7e-4986-852a-a6e01ba98fad.webp)
+![](./2026/assets/0808-0814/20260630190200868.webp)
 
-### 2. [PPT 超级市场](https://www.pptsupermarket.com/)
+### 2. [PPTer 吧](https://www.ppter8.com/)
 
-免费下载 `PPT` 模板与 `PPT` 作品，提供免费的 `PPT` 代做服务，提供一站式 `PPT`(模板、定制、工具、教程)服务，有了它，一切制作 `PPT` 的烦恼都将成为过去！
+提供免费 `PPT` 模板、`PPT` 课件及国外 `PPT` 模版，相关 `PPT` 素材全部免费（`PNG` 免抠图、`PPT` 背景图片、`PPT` 专用的背景音乐、3D 模型、图标）。这里的 `PPT` 模板免费下载，致力成为受 `PPTer` 喜爱的 `PPT` 模板网站。
 
-![](./archive/2023/assets/1693958801945.webp)
+![](./archive/2023/assets/1693958880565.webp)
 
-### 3. [Azure Text to Speech](https://tts.femoon.top/)
+### 3. [在线文件批量重命名工具](https://github.com/JasonGrass/rename)
 
-Azure 提供的在线文字转语音工具，支持多种语言、男女不同音色，多种风格随意切换，甚至还能调整语速语调。
+提供常用的文件批量重命名操作，无需下载安装，即用即走。
 
-![](./archive/2024/assets/1207-1213/1733875509132-1d0441a4-2153-42ab-bfdc-b0ed8c15d112.webp)
+![](./archive/2024/assets/0727-0802/1722252813637-ed6c820f-5761-4bc5-9718-3f3ee83ff7c7.webp)
 
 ## 四、插件
 
-### 1. [蔚蓝主页](https://microsoftedge.microsoft.com/addons/detail/蔚蓝主页/epgghbgfoacieppkngapakodnbkhpldj)
+### 1. [Screen Always On](https://chromewebstore.google.com/detail/screen-always-on/jejajoajhlohemcppmakjilhcnmabdel?utm_source=item-share-cb)
 
-蔚蓝主页是一款浏览器主页/新标签页，主要为用户提供搜索服务、网址导航服务。
+保持 Teams 常绿，让你在家 / 远程工作和办公室摸鱼小憩时无忧。同时保持屏幕常亮不休眠，防止屏幕锁定和自动睡眠，确保工作流程不被中断。
 
-区别于传统的主页或网址导航，是一款独特、有所分别的产品。产品核心理念是简洁、存粹，采用了简洁的页面设计，对主要功能加以提炼，让用户能更纯粹的享受该浏览器主页插件所带来的便利。
+![](./archive/2025/assets/1101-1107/1761749095311-61a58ccc-dd13-4388-8e4c-cad29e71a4c5.webp)
 
-![](./archive/2023/assets/1693139224051.webp)
+### 2. [JetBrains Grazie](https://chromewebstore.google.com/detail/jetbrains-grazie-ai-writi/fonaoompfjljjllgccccgjnhnoghohgc)
 
-### 2. [LanguageTool](https://languagetool.org/)
+Grazie 是一款面向科技专业人士的人工智能写作助手，由 JetBrains 开发支撑，帮助你提高你的写作与校对，摘要，自动完成，重新措辞的能力。
 
-![](./archive/2023/assets/1693354621982.webp)
+![](./archive/2024/assets/0907-0913/1725926835895-afd6012a-5711-4388-9739-1fcbaa81d8e9.webp)
 
-使用 LanguageTool 的语法检查器和释义工具立即增强您的文本，具有以下特点：
+### 3. [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
--   无需注册
--   支持超 25 种语言：英语、西班牙语、法语、德语、波兰语、俄语……
--   应用范围广，几乎包含所有网站
+中文名又叫油猴，是一个用户脚本管理器。它本身是无法为我们发挥什么作用的，它主要依靠各大社区编写的扩展脚本（`JavaScript` 代码）运行在浏览器上，来改变被访问网页的功能，提升我们的网页浏览体验 。
 
-### 3. [Cesturefy](https://chromewebstore.google.com/detail/cesturefy/bifgfhokfobhebifcogneljkpaaloonp)
-
-Firefox 热门扩展 *Robbendebiene/Gesturefy* 的 Chromium 移植版，将同样流畅的手势控制带到 Chrome、Edge 等浏览器。
-
-![](./archive/2025/assets/1018-1024/1760660015322-d6fdbe16-af4f-4f2c-b2b2-7db21eb7d5e9.webp)
+![](./archive/2023/assets/tampermonkey.png)
 
 ## 五、资料
 
-### 1. [中文敏感词库](https://github.com/konsheng/Sensitive-lexicon)
+### 1. [AIInfra](https://github.com/Infrasys-AI/AIInfra)
 
-一个持续更新的中文敏感词库，广泛覆盖政治、色情、暴力等敏感领域的词汇列表，帮助开发者和内容审核者快速识别并过滤不当文本。
+跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着在 NVIDIA、ASCEND 等芯片厂商构建算力层面，所用到的、积累、梳理得到大模型系统全栈的内容。
 
-![](./archive/2025/assets/0830-0905/1756990927251-52d11924-0957-4ad9-83ff-3f0de5489ccf.webp)
+![](./2026/assets/0221-0227/1773619235055-1b980042-7b4a-475d-9316-6d5207e2fb31.webp)
 
-### 2. [新概念学习笔记](https://github.com/andylee1890/NewConceptEnglish)
+### 2. [JavaScript Guidebook](https://github.com/tsejx/javascript-guidebook)
 
-记录了作者从第 2 册开始学习新概念英语的学习笔记，记录整理后进行分享，方便大家一起学习。
+JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱。
 
-![](./archive/2025/assets/0104-0110/1736208838807-5f824765-8411-4419-a375-a6187285aa4c.webp)
+![](./archive/2024/assets/0106-0112/1704672431647.webp)
 
-### 3. [Kuboard](https://kuboard.cn/)
+### 3. [线性代数应该这样学](https://linear.axler.net)
 
-`Kubernetes` 多集群管理界面，同时提供了 `Kubernetes` 教程，为使用 `Kubernetes`  落地 `Cloud` 微服务的任务提供实战经验。
+《线性代数应该这样学》第四版，新增 250 + 习题、70 + 示例，加入若干新主题，全书多处内容优化。面向数学专业本科生与研究生，适合线性代数进阶课程。
 
-![](./archive/2023/assets/kuboard.png)
+![](./2026/assets/0829-0904/20260821193852966.webp)
 
 ## ✍️ 说明
 
