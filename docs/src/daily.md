@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 19 日
+# 每日推荐 · 2026 年 11 月 20 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,115 +28,105 @@ tag:
 
 ## 一、项目
 
-### 1. [bili-sync](https://github.com/amtoaer/bili-sync)
+### 1. [菠萝博客](https://github.com/adlered/bolo-solo)
 
-一款专为 NAS 用户编写的哔哩哔哩同步工具，由 Rust & Tokio 驱动。
+基于 Java 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。
 
-![](./archive/2025/assets/1101-1107/1762128212993-3c699613-ba21-4c44-ad87-5e398412ffb2.webp)
+![](./archive/2024/assets/0127-0202/1705491918451.webp)
 
-### 2. [VirtualWife](https://github.com/yakami129/VirtualWife)
+### 2. [yudao-cloud](https://github.com/YunaiV/yudao-cloud)
 
-一个虚拟数字人项目，支持 B 站直播，支持 Openai、ollama。具有以下特点：
+`ruoyi-vue-pro` 全新 `Cloud` 版本，优化重构所有功能。基于 `Spring Cloud Alibaba + MyBatis Plus + Vue & Element` 实现的后台管理系统 + 用户小程序，支持 `RBAC` 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。
 
-- 支持一键通过 Docker 快速部署
-- 支持在 Linux/Windows/MacOS 系统进行部署
-- 支持自定义角色设定
-- 支持更换角色模型，可从 VRM 模型市场 Vroid 下载
-- 支持长短期记忆功能
-- 支持多 LLM 模型切换，并且支持私有化模型（ollama），具体使用说明请查阅 FAQ
-- 支持文字驱动表情，文字驱动动作
-- 支持 B 站进行直播，具体使用说明请查阅 FAQ
-- 支持通过中文进行语音对话
-- 支持 Edge（微软）、Bert-VITS2 语音切换
-- 流式传输数据，拥有更快的响应速度
+![](./archive/2023/assets/image-20230522101434664.png)
 
-![](./archive/2024/assets/1012-1018/1729036937828-68c1bb33-9b8b-455f-ac69-3b20de1f9890.webp)
+### 3. [FunASR](https://github.com/modelscope/FunASR)
 
-### 3. [Single](https://github.com/Dreamer-Paul/Single)
+开源语音理解工具包，支持生产级语音识别、语音检测、标点恢复、说话人分离、情感检测、音频事件识别。
 
-一个简洁大气，含夜间模式的 Typecho 博客主题。具有简洁大气、夜间模式、文章目录、图片灯箱、代码高亮、平滑滚动、无 JQ 库的特点。
-
-![](./archive/2024/assets/0113-0119/1704672500281.webp)
+![](./2026/assets/0606-0612/1780359145187.webp)
 
 ## 二、软件
 
-### 1. [Fiime 浏览器](https://lite.fiime.cn)
+### 1. [字由](https://www.hellofont.cn/)
 
-更低内存占用、更优 CPU 调度、更顺滑的透明化窗口体验。支持 Chrome 书签导入、窗口置顶等桌面级能力。
+免费的字体管理工具，为您提供 900+ 字体免费商用，支持在 PS、AI、ID、XD、Figma、Sketch、CDR 等设计软件中一键应用字体，提供 AI 识字、字体特效等实用功能，为您的设计提质加速。
 
-![](./2026/assets/0117-0123/1768558061644-086f7308-7daf-4bd8-aea8-a9dc448437c9.webp)
+![](./archive/2024/assets/0831-0906/1725359901830-38bd336e-e714-40c3-ba4c-589685fbd416.webp)
 
-### 2. [Worktile](https://worktile.com/)
+### 2. [Pngyu](https://nukesaq88.github.io/Pngyu/)
 
-深度整合项目与任务管理、`OKR`、网盘、在线沟通等应用，支持丰富的自定义功能，满足各行业各场景的个性化工作需求，助力企业提高管理效能。
+免费 `png` 图片压缩工具，同时支持 `Windows` 和 `macOS` 平台。
 
-![](./archive/2023/assets/1695276074424.webp)
+![](./archive/2024/assets/0323-0329/chrome_1710460998.webp)
 
-### 3. [NanaZip](https://github.com/M2Team/NanaZip)
+### 3. [Leawo 免费屏幕录像机](https://www.leawo.org/zh-CN/free-screen-recorder/)
 
-基于 7-zip 开发的解压软件，更适合 Windows 11，UI 更加现代化！
+免费屏幕录像机组合，可记录屏幕活动、记录网络摄像头内容、记录系统声音和/或麦克风声音，以保存为屏幕截图、音频和/或最多 4K 免费无水印的屏幕录制视频。
 
-![](./archive/2025/assets/1018-1024/1760440178792-ea9fc35e-c57f-413f-af6d-0369f6825b30.webp)
+![](./archive/2025/assets/0503-0509/1745280763545-44849103-8ed6-4169-a3a5-d6466d22c67a.webp)
 
 ## 三、网站
 
-### 1. [EZ 在线工具箱](https://ezwebtools.net)
+### 1. [唐韵诗词](https://www.chinesepoems.org/)
 
-新一代网页版视频处理解决方案，一键解析、转换、播放，免下载的极速视频处理体验，无需下载，轻松快捷！
+探索中国古典诗词之美，提供诗词，古书等内容的赏析、注释、翻译，在线学习中国传统诗词文化。
 
-![](./2026/assets/0808-0814/20260630190200868.webp)
+![](./archive/2025/assets/0301-0307/1740614910693-b71daf8a-b753-44cc-bad3-7a7194d8a837.webp)
 
-### 2. [PPTer 吧](https://www.ppter8.com/)
+### 2. [LetCompress](https://letcompress.com)
 
-提供免费 `PPT` 模板、`PPT` 课件及国外 `PPT` 模版，相关 `PPT` 素材全部免费（`PNG` 免抠图、`PPT` 背景图片、`PPT` 专用的背景音乐、3D 模型、图标）。这里的 `PPT` 模板免费下载，致力成为受 `PPTer` 喜爱的 `PPT` 模板网站。
+免费在线压缩、转换、编辑和优化文件。支持图片、PDF、媒体、文本和压缩包，所有处理都在浏览器中完成，文件不会离开您的设备。无需注册、无需上传，可不限次数使用。
 
-![](./archive/2023/assets/1693958880565.webp)
+![](./2026/assets/1017-1023/20260804075505440.webp)
 
-### 3. [在线文件批量重命名工具](https://github.com/JasonGrass/rename)
+### 3. [中华诗库](http://www.shiku.org/)
 
-提供常用的文件批量重命名操作，无需下载安装，即用即走。
+中华诗库是免费提供中国诗歌作品的网络资料库及在线阅读公益图书馆。收藏有古今中外数万名诗人的数十万首诗歌作品。
 
-![](./archive/2024/assets/0727-0802/1722252813637-ed6c820f-5761-4bc5-9718-3f3ee83ff7c7.webp)
+![](./archive/2024/assets/0210-0216/1705493553068.webp)
 
 ## 四、插件
 
-### 1. [Screen Always On](https://chromewebstore.google.com/detail/screen-always-on/jejajoajhlohemcppmakjilhcnmabdel?utm_source=item-share-cb)
+### 1. [Video Downloader Plus](https://chromewebstore.google.com/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf)
 
-保持 Teams 常绿，让你在家 / 远程工作和办公室摸鱼小憩时无忧。同时保持屏幕常亮不休眠，防止屏幕锁定和自动睡眠，确保工作流程不被中断。
+下载视频的最佳方式，无广告，简单快捷。允许从许多热门视频网站下载高清、标清及 4K 的多个版本。
 
-![](./archive/2025/assets/1101-1107/1761749095311-61a58ccc-dd13-4388-8e4c-cad29e71a4c5.webp)
+![](./archive/2024/assets/0803-0809/1722940666280-2bc75a17-dfd3-4aee-945c-7ece23c8f19a.webp)
 
-### 2. [JetBrains Grazie](https://chromewebstore.google.com/detail/jetbrains-grazie-ai-writi/fonaoompfjljjllgccccgjnhnoghohgc)
+### 2. [Jump Cutter](https://chromewebstore.google.com/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp)
 
-Grazie 是一款面向科技专业人士的人工智能写作助手，由 JetBrains 开发支撑，帮助你提高你的写作与校对，摘要，自动完成，重新措辞的能力。
+通过缩短句子之间的停顿时间，加快语速，从而提高观看讲座的速度。
 
-![](./archive/2024/assets/0907-0913/1725926835895-afd6012a-5711-4388-9739-1fcbaa81d8e9.webp)
+![](./archive/2025/assets/0215-0221/1739837246815-533c56d4-9ab4-4992-afdd-3db7e1a3a298.webp)
 
-### 3. [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+### 3. [Gmail 重复发送邮件](https://chromewebstore.google.com/detail/gmail重复发送邮件/nfkkaahokibjkbmoieakdcihjkifhfdo)
 
-中文名又叫油猴，是一个用户脚本管理器。它本身是无法为我们发挥什么作用的，它主要依靠各大社区编写的扩展脚本（`JavaScript` 代码）运行在浏览器上，来改变被访问网页的功能，提升我们的网页浏览体验 。
+一款注重隐私的 Chrome 扩展，允许您通过 Gmail 延迟发送您的邮件，一次或每 X 个小时/天/月/年重复发送。无追踪、无广告、无横幅和无臃肿软件。
 
-![](./archive/2023/assets/tampermonkey.png)
+![](./archive/2025/assets/0405-0411/1744071160199-ea5fb42a-4f9d-4827-bfe8-08cdc2f91f25.webp)
 
 ## 五、资料
 
-### 1. [AIInfra](https://github.com/Infrasys-AI/AIInfra)
+### 1. [TypeScript 简洁之书](https://github.com/gibbok/typescript-book)
 
-跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着在 NVIDIA、ASCEND 等芯片厂商构建算力层面，所用到的、积累、梳理得到大模型系统全栈的内容。
+全面而简洁地概述了 TypeScript 的功能。它提供了清晰的解释，涵盖了该语言最新版本中的所有方面，从强大的类型系统到高级功能。无论您是初学者还是经验丰富的开发人员，本书都是增强您对 TypeScript 的理解和熟练程度的宝贵资源。
 
-![](./2026/assets/0221-0227/1773619235055-1b980042-7b4a-475d-9316-6d5207e2fb31.webp)
+![](./2026/assets/0328-0403/1775087839506-85f2af33-193f-4c38-8e2f-d802dfc01804.webp)
 
-### 2. [JavaScript Guidebook](https://github.com/tsejx/javascript-guidebook)
+### 2. [Go 语言爱好者周刊](https://github.com/polaris1119/golangweekly)
 
-JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱。
+随着 Go 受到越来越多的关注，相关的文章、软件、资源也越来越多。Go 语言爱好者周刊旨在为大家分享一周值得了解、学习的 Go 语言相关内容。每周日发布。
 
-![](./archive/2024/assets/0106-0112/1704672431647.webp)
+周刊自 2019 年开始发布，截止目前已经持续到了 198 期。
 
-### 3. [线性代数应该这样学](https://linear.axler.net)
+![](./archive/2023/assets/1693200352218.webp)
 
-《线性代数应该这样学》第四版，新增 250 + 习题、70 + 示例，加入若干新主题，全书多处内容优化。面向数学专业本科生与研究生，适合线性代数进阶课程。
+### 3. [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
 
-![](./2026/assets/0829-0904/20260821193852966.webp)
+一份通俗易懂、风趣幽默的 `Java` 学习指南，内容涵盖 `Java` 基础、`Java` 并发编程、`Java` 虚拟机、`Java` 企业级开发、`Java` 面试等核心知识点。
+
+![](./archive/2023/assets/1694476546323.webp)
 
 ## ✍️ 说明
 
