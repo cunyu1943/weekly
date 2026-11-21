@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 20 日
+# 每日推荐 · 2026 年 11 月 21 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,105 +28,109 @@ tag:
 
 ## 一、项目
 
-### 1. [菠萝博客](https://github.com/adlered/bolo-solo)
+### 1. [book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
-基于 Java 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。
+将任意技术类书籍PDF转化为Claude Code技能，可随时用于学习、查阅以及工作实操。
 
-![](./archive/2024/assets/0127-0202/1705491918451.webp)
+![](./2026/assets/0613-0619/1781050273.webp)
 
-### 2. [yudao-cloud](https://github.com/YunaiV/yudao-cloud)
+### 2. [SQLE](https://github.com/actiontech/sqle)
 
-`ruoyi-vue-pro` 全新 `Cloud` 版本，优化重构所有功能。基于 `Spring Cloud Alibaba + MyBatis Plus + Vue & Element` 实现的后台管理系统 + 用户小程序，支持 `RBAC` 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。
+一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的 SQL 全生命周期质量管理平台。
 
-![](./archive/2023/assets/image-20230522101434664.png)
+![](./archive/2025/assets/0524-0530/1748304079626-2b584900-79bc-4cc4-bd5d-bf1200d5c3c0.webp)
 
-### 3. [FunASR](https://github.com/modelscope/FunASR)
+### 3. [一个字的一生](https://github.com/Ivan666jjj/yigezi)
 
-开源语音理解工具包，支持生产级语音识别、语音检测、标点恢复、说话人分离、情感检测、音频事件识别。
+展示了一个字从甲骨文 → 小篆 → 繁体 → 简体的演变过程，看一个汉字三千年中的样子。
 
-![](./2026/assets/0606-0612/1780359145187.webp)
+![](./2026/assets/1024-1030/20261019081903832.webp)
 
 ## 二、软件
 
-### 1. [字由](https://www.hellofont.cn/)
+### 1. [千问输入法](https://ime.qianwen.com)
 
-免费的字体管理工具，为您提供 900+ 字体免费商用，支持在 PS、AI、ID、XD、Figma、Sketch、CDR 等设计软件中一键应用字体，提供 AI 识字、字体特效等实用功能，为您的设计提质加速。
+阿里出品的语音输入法，最快 300 字 / 分，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。
 
-![](./archive/2024/assets/0831-0906/1725359901830-38bd336e-e714-40c3-ba4c-589685fbd416.webp)
+![](./2026/assets/0919-0925/20260719095623404.webp)
 
-### 2. [Pngyu](https://nukesaq88.github.io/Pngyu/)
+### 2. [Cursor](https://www.cursor.com/)
 
-免费 `png` 图片压缩工具，同时支持 `Windows` 和 `macOS` 平台。
+基于 GPT3.5 的 AI 代码编辑器，支持智能编码、聊天、自动生成测试和注释、查看代码 Diff 等功能。
 
-![](./archive/2024/assets/0323-0329/chrome_1710460998.webp)
+![](./archive/2024/assets/0629-0705/1719878990816-bb9b748d-7608-4d5a-a141-c9882f375fb5.png)
 
-### 3. [Leawo 免费屏幕录像机](https://www.leawo.org/zh-CN/free-screen-recorder/)
+### 3. [Moeli 阅读](https://reader.moeli.top)
 
-免费屏幕录像机组合，可记录屏幕活动、记录网络摄像头内容、记录系统声音和/或麦克风声音，以保存为屏幕截图、音频和/或最多 4K 免费无水印的屏幕录制视频。
+一款多功能本地书籍阅读软件，支持多种功能，提供完善的阅读体验。
 
-![](./archive/2025/assets/0503-0509/1745280763545-44849103-8ed6-4169-a3a5-d6466d22c67a.webp)
+![](./2026/assets/0418-0424/375ab20fd6fe45fc8f2ccf69f78d1b2b.webp)
 
 ## 三、网站
 
-### 1. [唐韵诗词](https://www.chinesepoems.org/)
+### 1. [HDQwalls](https://hdqwalls.com/)
 
-探索中国古典诗词之美，提供诗词，古书等内容的赏析、注释、翻译，在线学习中国传统诗词文化。
+高质量壁纸汇聚地，有 `4K`、`5K`、`8K` 等清晰度的壁纸下载，而且完全免费，更有各种尺寸壁纸供你选择。
 
-![](./archive/2025/assets/0301-0307/1740614910693-b71daf8a-b753-44cc-bad3-7a7194d8a837.webp)
+![](./archive/2023/assets/image.7endcn4oges0.webp)
 
-### 2. [LetCompress](https://letcompress.com)
+### 2. [发票提取助手](https://airegex.cn)
 
-免费在线压缩、转换、编辑和优化文件。支持图片、PDF、媒体、文本和压缩包，所有处理都在浏览器中完成，文件不会离开您的设备。无需注册、无需上传，可不限次数使用。
+在线的免费的发票提取工具，支持电子发票一键批量提取到 Excel 表中。
 
-![](./2026/assets/1017-1023/20260804075505440.webp)
+![](./archive/2025/assets/1018-1024/1760875136452-a2feddb4-22ae-4c5a-bc13-d4d1f67042c9.webp)
 
-### 3. [中华诗库](http://www.shiku.org/)
+### 3. [cvbee.ai](https://cvbee.ai/zh-CN)
 
-中华诗库是免费提供中国诗歌作品的网络资料库及在线阅读公益图书馆。收藏有古今中外数万名诗人的数十万首诗歌作品。
+您的智能简历助手，使用 AI 技术，轻松创建、优化您的简历，为你的求职保驾护航。
 
-![](./archive/2024/assets/0210-0216/1705493553068.webp)
+![](./archive/2024/assets/0921-0927/1727176960850-094dfec3-8146-4b47-8e65-8e275e1aa482.webp)
 
 ## 四、插件
 
-### 1. [Video Downloader Plus](https://chromewebstore.google.com/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf)
+### 1. [极速翻译](https://chromewebstore.google.com/detail/极速翻译/pmjagijikomfjjoafjbdeojcinngkcpe?hl=zh-CN)
 
-下载视频的最佳方式，无广告，简单快捷。允许从许多热门视频网站下载高清、标清及 4K 的多个版本。
+一款专业的翻译扩展，支持划词翻译、全文翻译、在线翻译、截图翻译、翻译发音，修复谷歌翻译在中国大陆无法使用的问题，自动识别语言，支持上百种语言互译，帮助用户无障碍阅读外文文献。
 
-![](./archive/2024/assets/0803-0809/1722940666280-2bc75a17-dfd3-4aee-945c-7ece23c8f19a.webp)
+![](./archive/2023/assets/1699834459487.webp)
 
-### 2. [Jump Cutter](https://chromewebstore.google.com/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp)
+### 2. [在云端](https://chromewebstore.google.com/detail/在云端-ai-阅读助手/icdjfbhmnnheggmifcelflcdpnbdcnfm)
 
-通过缩短句子之间的停顿时间，加快语速，从而提高观看讲座的速度。
+由阿里云开发者社区的一群开发者设计开发的一款多功能浏览器插件。新标签页美，体现了摄影美学、专注力以及先进云技术资讯。我们力求可以通过这项工作使得大家在这个快节奏信息爆炸的时代可以保持领先的同时获得内心的一份平静与祥和。AI 阅读助手采用通义前文大语言模型协助用户进行日常网页浏览，高效获取信息。
 
-![](./archive/2025/assets/0215-0221/1739837246815-533c56d4-9ab4-4992-afdd-3db7e1a3a298.webp)
+![](./archive/2025/assets/0329-0404/1743638505383-977dd7a8-88f3-4d1d-8132-2281121d950f.webp)
 
-### 3. [Gmail 重复发送邮件](https://chromewebstore.google.com/detail/gmail重复发送邮件/nfkkaahokibjkbmoieakdcihjkifhfdo)
+### 3. [歪脖子新标签页](https://chromewebstore.google.com/detail/ackimleclkemolnfcfajficenpbnaiba)
 
-一款注重隐私的 Chrome 扩展，允许您通过 Gmail 延迟发送您的邮件，一次或每 X 个小时/天/月/年重复发送。无追踪、无广告、无横幅和无臃肿软件。
+一款可以预防颈椎病的新标签页扩展。具有如下功能：
 
-![](./archive/2025/assets/0405-0411/1744071160199-ea5fb42a-4f9d-4827-bfe8-08cdc2f91f25.webp)
+- 活动脖子，预防颈椎病
+- 三种模式支持，强度自己选择
+- 休息日指南，快速知晓下一个休息日
+- 当季蔬果提示，健康饮食每一天
+- 历史上的今天，回顾历史长河
+
+![](./archive/2024/assets/0622-0628/1719273710494-75e48b03-abe5-467a-8b73-c59a0d6475c3.webp)
 
 ## 五、资料
 
-### 1. [TypeScript 简洁之书](https://github.com/gibbok/typescript-book)
+### 1. [JavaScript 工程师的 Python 指南](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-全面而简洁地概述了 TypeScript 的功能。它提供了清晰的解释，涵盖了该语言最新版本中的所有方面，从强大的类型系统到高级功能。无论您是初学者还是经验丰富的开发人员，本书都是增强您对 TypeScript 的理解和熟练程度的宝贵资源。
+一本基于 `abook` 编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言。
 
-![](./2026/assets/0328-0403/1775087839506-85f2af33-193f-4c38-8e2f-d802dfc01804.webp)
+![](./archive/2024/assets/0406-0412/chrome_1710461948.webp)
 
-### 2. [Go 语言爱好者周刊](https://github.com/polaris1119/golangweekly)
+### 2. [Effective-Resouirces](https://github.com/wususu/effective-resourses)
 
-随着 Go 受到越来越多的关注，相关的文章、软件、资源也越来越多。Go 语言爱好者周刊旨在为大家分享一周值得了解、学习的 Go 语言相关内容。每周日发布。
+学习资源合集，主要包含大数据、Java、Python、JavaScript、PHP、网络、数据库、Linux 等方面的优秀博客、论文、电子书等资源。
 
-周刊自 2019 年开始发布，截止目前已经持续到了 198 期。
+![](./archive/2024/assets/0706-0712/1720656710695-8d1c9052-c8c1-4890-8b8f-ec285ffc311c.webp)
 
-![](./archive/2023/assets/1693200352218.webp)
+### 3. [掘金翻译计划](https://github.com/xitu/gold-miner)
 
-### 3. [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
+可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 
-一份通俗易懂、风趣幽默的 `Java` 学习指南，内容涵盖 `Java` 基础、`Java` 并发编程、`Java` 虚拟机、`Java` 企业级开发、`Java` 面试等核心知识点。
-
-![](./archive/2023/assets/1694476546323.webp)
+![](./archive/2024/assets/0302-0308/20240229-1709165032.webp)
 
 ## ✍️ 说明
 
