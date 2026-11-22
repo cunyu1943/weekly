@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 21 日
+# 每日推荐 · 2026 年 11 月 22 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,109 +28,110 @@ tag:
 
 ## 一、项目
 
-### 1. [book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+### 1. [AgentGPT](https://github.com/reworkd/AgentGPT)
 
-将任意技术类书籍PDF转化为Claude Code技能，可随时用于学习、查阅以及工作实操。
+类似于 `ChatGPT-Next-Web`，拥有自己的 `OpenAI API` 的 `key` 之后，就能通部署自己的 `AI` 助理。该项目基于 `NextJs` + `Typescript` 技术栈开发，不仅支持自己手动部署，还支持 `Docker`，可以说是十分方便了！
 
-![](./2026/assets/0613-0619/1781050273.webp)
+![](./archive/2023/assets/agent-gpt.png)
 
-### 2. [SQLE](https://github.com/actiontech/sqle)
+### 2. [DrawStampUtils.js](https://github.com/xxss0903/drawstamputils)
 
-一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的 SQL 全生命周期质量管理平台。
+一个使用 TypeScript 制作电子印章的工具。仓库同时包含一个基于 Vue 3 + Vite 的本地示例界面，界面只保留一个基于 StampWorkspace.vue 的编辑器 Demo，用于在浏览器中交互式调整印章配置并导出图片，不再依赖任何后端接口或 Cloudflare Workers。
 
-![](./archive/2025/assets/0524-0530/1748304079626-2b584900-79bc-4cc4-bd5d-bf1200d5c3c0.webp)
+![](./2026/assets/0808-0814/20260723200800031.webp)
 
-### 3. [一个字的一生](https://github.com/Ivan666jjj/yigezi)
+### 3. [Go Ldap Admin](https://github.com/eryajf/go-ldap-admin)
 
-展示了一个字从甲骨文 → 小篆 → 繁体 → 简体的演变过程，看一个汉字三千年中的样子。
+基于 Go + Vue 实现的 openLDAP 后台管理项目，旨在为 openLDAP 服务端提供一个简单易用，清晰美观的现代化管理后台。
 
-![](./2026/assets/1024-1030/20261019081903832.webp)
+![](./archive/2024/assets/1005-1011/1728345947994-f8b1f2c6-fa7f-4d25-94b9-7e855f9816ce.webp)
 
 ## 二、软件
 
-### 1. [千问输入法](https://ime.qianwen.com)
+### 1. [Tai](https://github.com/Planshit/Tai)
 
-阿里出品的语音输入法，最快 300 字 / 分，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。
+在 Windows 上统计软件使用时长和网站浏览时长，帮助你了解自己把时间花在了什么地方，从而更好地做一些计划。或者，为了每周回顾自己的摸鱼成果。
 
-![](./2026/assets/0919-0925/20260719095623404.webp)
+![](./archive/2024/assets/1123-1129/1732665911521-1dd45fa8-e684-4e1a-8bfd-2bfba5a3f527.webp)
 
-### 2. [Cursor](https://www.cursor.com/)
+### 2. [微商截图侠](https://www.wsjtxia.com)
 
-基于 GPT3.5 的 AI 代码编辑器，支持智能编码、聊天、自动生成测试和注释、查看代码 Diff 等功能。
+在线制作微信对话生成器和支付宝转账，微信聊天记录生成，免费微信对话在线制作，微信转账，支付宝聊天，微信余额，微信零钱，微信红包等截图，一款微商截图神器。
 
-![](./archive/2024/assets/0629-0705/1719878990816-bb9b748d-7608-4d5a-a141-c9882f375fb5.png)
+![](./archive/2025/assets/0405-0411/1744025204414-16ec753b-e924-44b8-a66b-4fa84b4241cc.webp)
 
-### 3. [Moeli 阅读](https://reader.moeli.top)
+### 3. [卡巴斯基](https://www.kaspersky.com.cn/free-antivirus)
 
-一款多功能本地书籍阅读软件，支持多种功能，提供完善的阅读体验。
+下载适用于 PC 、Android 和 iOS 的卡巴斯基安全云免费反病毒软件，并获得强大的保护，以防范病毒、勒索软件、间谍软件、网络钓鱼、木马和危险网站。畅享安全上网体验！
 
-![](./2026/assets/0418-0424/375ab20fd6fe45fc8f2ccf69f78d1b2b.webp)
+![](./archive/2024/assets/1019-1025/1729684353538-b7624519-af93-41d7-a1a2-609df20a7446.webp)
 
 ## 三、网站
 
-### 1. [HDQwalls](https://hdqwalls.com/)
+### 1. [BYLO AI](https://bylo.ai)
 
-高质量壁纸汇聚地，有 `4K`、`5K`、`8K` 等清晰度的壁纸下载，而且完全免费，更有各种尺寸壁纸供你选择。
+免费 AI 文本生成图像，使用 Bylo.ai 的高级 AI 图像生成器，将您的想法转化为高质量图像，而且免费快速，支持定制化。
 
-![](./archive/2023/assets/image.7endcn4oges0.webp)
+![](./archive/2024/assets/1221-1227/1734394163956-9c550118-5894-4bd8-ae15-38e5716d25a4.webp)
 
-### 2. [发票提取助手](https://airegex.cn)
+### 2. [轻工具导航](https://qinggongju.com)
 
-在线的免费的发票提取工具，支持电子发票一键批量提取到 Excel 表中。
+一个专注收集分享优质免费资源的导航网站。
 
-![](./archive/2025/assets/1018-1024/1760875136452-a2feddb4-22ae-4c5a-bc13-d4d1f67042c9.webp)
+![](./2026/assets/0418-0424/a6241a4732df4b6c8cb6b78f0deac6ed.webp)
 
-### 3. [cvbee.ai](https://cvbee.ai/zh-CN)
+### 3. [逗比表情包](https://www.dbbqb.com/)
 
-您的智能简历助手，使用 AI 技术，轻松创建、优化您的简历，为你的求职保驾护航。
+专业的表情包搜索网站，不仅有精选表情，还有精选套图以及表情自定义。
 
-![](./archive/2024/assets/0921-0927/1727176960850-094dfec3-8146-4b47-8e65-8e275e1aa482.webp)
+![](./archive/2024/assets/0113-0119/image-20231201080504953.webp)
 
 ## 四、插件
 
-### 1. [极速翻译](https://chromewebstore.google.com/detail/极速翻译/pmjagijikomfjjoafjbdeojcinngkcpe?hl=zh-CN)
+### 1. [v2ex plus](https://chromewebstore.google.com/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo)
 
-一款专业的翻译扩展，支持划词翻译、全文翻译、在线翻译、截图翻译、翻译发音，修复谷歌翻译在中国大陆无法使用的问题，自动识别语言，支持上百种语言互译，帮助用户无障碍阅读外文文献。
+优雅便捷的 V2EX 扩展，支持如下功能：
 
-![](./archive/2023/assets/1699834459487.webp)
+-   通知功能：更新提醒、未读消息
+-   登录态判断：未登录 icon 提醒
+-   半小时自动签到
+-   主题列表预览及忽略功能
+-   新窗口浏览主题
+-   ……
 
-### 2. [在云端](https://chromewebstore.google.com/detail/在云端-ai-阅读助手/icdjfbhmnnheggmifcelflcdpnbdcnfm)
+![](./archive/2025/assets/0301-0307/1741085022781-3d4f35f3-2daf-4267-98ec-b27e7bad5575.webp)
 
-由阿里云开发者社区的一群开发者设计开发的一款多功能浏览器插件。新标签页美，体现了摄影美学、专注力以及先进云技术资讯。我们力求可以通过这项工作使得大家在这个快节奏信息爆炸的时代可以保持领先的同时获得内心的一份平静与祥和。AI 阅读助手采用通义前文大语言模型协助用户进行日常网页浏览，高效获取信息。
+### 2. [FaceBook 视频下载器](https://chromewebstore.google.com/detail/kjnmedaeobfmoehceokbmpamheibpdjj?hl=zh-CN)
 
-![](./archive/2025/assets/0329-0404/1743638505383-977dd7a8-88f3-4d1d-8132-2281121d950f.webp)
+使用此扩展程序，您不仅可以从 `facebook.com` 下载 `Facebook` 视频，还可以从其他网站下载。 
 
-### 3. [歪脖子新标签页](https://chromewebstore.google.com/detail/ackimleclkemolnfcfajficenpbnaiba)
+![](./archive/2024/assets/0406-0412/1712534842160-1b135264-2ea8-490e-980f-d32343d8a538.webp)
 
-一款可以预防颈椎病的新标签页扩展。具有如下功能：
+### 3. [冥想](https://chromewebstore.google.com/detail/andfohanhajengikbobaoblbdkmlkicp)
 
-- 活动脖子，预防颈椎病
-- 三种模式支持，强度自己选择
-- 休息日指南，快速知晓下一个休息日
-- 当季蔬果提示，健康饮食每一天
-- 历史上的今天，回顾历史长河
+一款冥想计时器，可帮助您在任何地方进行冥想。简单、美观且易于使用。
 
-![](./archive/2024/assets/0622-0628/1719273710494-75e48b03-abe5-467a-8b73-c59a0d6475c3.webp)
+![](./archive/2024/assets/0622-0628/1719273736687-df305759-3d70-4f07-ab3c-7a03e62bcab5.webp)
 
 ## 五、资料
 
-### 1. [JavaScript 工程师的 Python 指南](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### 1. [网道](https://wangdoc.com/)
 
-一本基于 `abook` 编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言。
+一个互联网开发文档网站，提供各种软件文档。目标是提供高质量、自主版权、可自由使用的中文软件文档。目前已有 `HTML`、`JavaScript`、`ES6`、`Web API`、`C 语言`、`Bash`、`SSH` 等诸多内容。
 
-![](./archive/2024/assets/0406-0412/chrome_1710461948.webp)
+![](./archive/2023/assets/image.4uiewhpvwgi0.webp)
 
-### 2. [Effective-Resouirces](https://github.com/wususu/effective-resourses)
+### 2. [springcloud-learning](https://github.com/macrozheng/springcloud-learning)
 
-学习资源合集，主要包含大数据、Java、Python、JavaScript、PHP、网络、数据库、Linux 等方面的优秀博客、论文、电子书等资源。
+2024 最新微服务实战教程，Spring Cloud 组件、微服务项目实战、Kubernetes 容器化部署全方位解析。
 
-![](./archive/2024/assets/0706-0712/1720656710695-8d1c9052-c8c1-4890-8b8f-ec285ffc311c.webp)
+![](./archive/2025/assets/0201-0207/1738800117594-8b85c568-da86-4dd5-9c0a-2646d3b89e87.webp)
 
-### 3. [掘金翻译计划](https://github.com/xitu/gold-miner)
+### 3. [SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook)
 
-可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+项目分享了中山大学计算机学院本科和研究生阶段的课程资料、笔记、期末考试卷和其他实用的相关资源。
 
-![](./archive/2024/assets/0302-0308/20240229-1709165032.webp)
+![](./archive/2025/assets/0412-0418/1744675246261-08c81dcc-2075-49b9-beac-30027ae5db1f.webp)
 
 ## ✍️ 说明
 
