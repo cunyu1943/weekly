@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 22 日
+# 每日推荐 · 2026 年 11 月 23 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,110 +28,105 @@ tag:
 
 ## 一、项目
 
-### 1. [AgentGPT](https://github.com/reworkd/AgentGPT)
+### 1. [layui-vue](https://gitee.com/layui/layui-vue)
 
-类似于 `ChatGPT-Next-Web`，拥有自己的 `OpenAI API` 的 `key` 之后，就能通部署自己的 `AI` 助理。该项目基于 `NextJs` + `Typescript` 技术栈开发，不仅支持自己手动部署，还支持 `Docker`，可以说是十分方便了！
+一套 Vue 3.0 的桌面端组件库。
 
-![](./archive/2023/assets/agent-gpt.png)
+![](./archive/2023/assets/image.60xvwd1fbws0.webp)
 
-### 2. [DrawStampUtils.js](https://github.com/xxss0903/drawstamputils)
+### 2. [Dax-Pay](https://gitee.com/dromara/dax-pay)
 
-一个使用 TypeScript 制作电子印章的工具。仓库同时包含一个基于 Vue 3 + Vite 的本地示例界面，界面只保留一个基于 StampWorkspace.vue 的编辑器 Demo，用于在浏览器中交互式调整印章配置并导出图片，不再依赖任何后端接口或 Cloudflare Workers。
+一款免费开源的支付系统，支持支付宝、微信、云闪付等通道，提供收单、退款、聚合支付、对账、分账等功能。通过 HTTP 方式进行调用，不与其他系统产生耦合关联，提供可视化界面进行管理。
 
-![](./2026/assets/0808-0814/20260723200800031.webp)
+![](./archive/2024/assets/0803-0809/1722939989142-61cd7c81-7bdf-44a5-a747-3f50935ea63e.webp)
 
-### 3. [Go Ldap Admin](https://github.com/eryajf/go-ldap-admin)
+### 3. [netease-recent-profile](https://github.com/zonemeen/netease-recent-profile)
 
-基于 Go + Vue 实现的 openLDAP 后台管理项目，旨在为 openLDAP 服务端提供一个简单易用，清晰美观的现代化管理后台。
+通过使用该组件，可以在 `Github Profile` 上显示你在网易云音乐上的听歌记录。
 
-![](./archive/2024/assets/1005-1011/1728345947994-f8b1f2c6-fa7f-4d25-94b9-7e855f9816ce.webp)
+![](./archive/2023/assets/netease-recent-profile.png)
 
 ## 二、软件
 
-### 1. [Tai](https://github.com/Planshit/Tai)
+### 1. [悟空图像](https://www.photosir.com)
 
-在 Windows 上统计软件使用时长和网站浏览时长，帮助你了解自己把时间花在了什么地方，从而更好地做一些计划。或者，为了每周回顾自己的摸鱼成果。
+国内一款可以替代 AdobePhotoShop 的专业图像处理软件，采用全新的设计理念和人工智能算法，让每个用户都能快速上手、快速出图。悟空图像支持 50 亿像素级超大图片处理，双向兼容 PS 文件格式，更支持全平台运行。悟空图像提供海量素材与模板，让你的创作不再从 “0” 开始；多达一百多种各类画笔，让创意设计更加得心应手；超多种组合特色功能，能够准确高效地实现用户办公需求。
 
-![](./archive/2024/assets/1123-1129/1732665911521-1dd45fa8-e684-4e1a-8bfd-2bfba5a3f527.webp)
+![](./archive/2024/assets/0706-0712/1720656540914-8562ad52-655d-459d-aec7-a21ac1abf6c6.webp)
 
-### 2. [微商截图侠](https://www.wsjtxia.com)
+### 2. [Abu (阿布)](https://github.com/PM-Shawn/Abu-Cowork)
 
-在线制作微信对话生成器和支付宝转账，微信聊天记录生成，免费微信对话在线制作，微信转账，支付宝聊天，微信余额，微信零钱，微信红包等截图，一款微商截图神器。
+你的 AI 桌面办公搭子 — 交给阿布就行啦。本地运行的 AI 桌面办公助手，灵感来自 Claude Code 的 Cowork 模式。 你说需求，阿布干活 — 读文件、跑命令、写文档、做报表，全在本地完成。
 
-![](./archive/2025/assets/0405-0411/1744025204414-16ec753b-e924-44b8-a66b-4fa84b4241cc.webp)
+![](./2026/assets/0919-0925/20260719094751776.webp)
 
-### 3. [卡巴斯基](https://www.kaspersky.com.cn/free-antivirus)
+### 3. [PicPick](https://picpick.app/zh/)
 
-下载适用于 PC 、Android 和 iOS 的卡巴斯基安全云免费反病毒软件，并获得强大的保护，以防范病毒、勒索软件、间谍软件、网络钓鱼、木马和危险网站。畅享安全上网体验！
+一款全能的设计工具，并且这款工具适宜每个人使用。
 
-![](./archive/2024/assets/1019-1025/1729684353538-b7624519-af93-41d7-a1a2-609df20a7446.webp)
+一个全功能的屏幕截图工具,直观的图像编辑器,颜色选择器,颜色调色板,像素标尺,量角器,瞄准线和白板等等。
+
+![](./archive/2023/assets/image-20230522110255001.png)
 
 ## 三、网站
 
-### 1. [BYLO AI](https://bylo.ai)
+### 1. [WithoutAD](https://withoutad.com)
 
-免费 AI 文本生成图像，使用 Bylo.ai 的高级 AI 图像生成器，将您的想法转化为高质量图像，而且免费快速，支持定制化。
+免费无广告，致力于帮助同学们搞定“学起来痛苦但需要掌握”的知识，青少年专属的益智游戏与趣味学习平台。
 
-![](./archive/2024/assets/1221-1227/1734394163956-9c550118-5894-4bd8-ae15-38e5716d25a4.webp)
+![](./archive/2025/assets/0531-0606/1748908702411-0f70be6a-8159-433a-9d47-62b1abd11cc9.png)
 
-### 2. [轻工具导航](https://qinggongju.com)
+### 2. [XCloud 音乐](https://music.xcloudv.top)
 
-一个专注收集分享优质免费资源的导航网站。
+在线听歌，跨平台音乐播放器，支持网易云、酷狗、酷我多平台！
 
-![](./2026/assets/0418-0424/a6241a4732df4b6c8cb6b78f0deac6ed.webp)
+![](./archive/2025/assets/0705-0711/1751973267321-77c3a84e-5e36-4040-af26-043865850745.webp)
 
-### 3. [逗比表情包](https://www.dbbqb.com/)
+### 3. [MyScript](https://webdemo.myscript.com/)
 
-专业的表情包搜索网站，不仅有精选表情，还有精选套图以及表情自定义。
+你还在苦恼复杂的数学公式和化学方程式没办法用电脑打出来吗？有了这个神器，就可以轻松地以手绘的方式画出来，交给电脑自动帮你转化。
 
-![](./archive/2024/assets/0113-0119/image-20231201080504953.webp)
+![](./archive/2023/assets/1700439870917.webp)
 
 ## 四、插件
 
-### 1. [v2ex plus](https://chromewebstore.google.com/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo)
+### 1. [手机模拟器](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
 
-优雅便捷的 V2EX 扩展，支持如下功能：
+在电脑上模拟智能手机和平板电脑，提供多种型号以测试您的移动网站和响应式网站。在多种设备上检查显示效果，为客户创建令人印象深刻的演示，并在测试中节省时间。
 
--   通知功能：更新提醒、未读消息
--   登录态判断：未登录 icon 提醒
--   半小时自动签到
--   主题列表预览及忽略功能
--   新窗口浏览主题
--   ……
+![](./archive/2025/assets/1122-1128/1764157036075-454f359b-796e-4237-931a-cfba41b9a6b1.webp)
 
-![](./archive/2025/assets/0301-0307/1741085022781-3d4f35f3-2daf-4267-98ec-b27e7bad5575.webp)
+### 2. [Smart Bookmark](https://chromewebstore.google.com/detail/smart-bookmark/nlboajobccgidfcdoedphgfaklelifoa)
 
-### 2. [FaceBook 视频下载器](https://chromewebstore.google.com/detail/kjnmedaeobfmoehceokbmpamheibpdjj?hl=zh-CN)
+智能书签管家，AI 驱动，自动生成标签，语义化搜索，让整理和查找变得更简单。
 
-使用此扩展程序，您不仅可以从 `facebook.com` 下载 `Facebook` 视频，还可以从其他网站下载。 
+![](./2026/assets/0502-0508/1778110983868.webp)
 
-![](./archive/2024/assets/0406-0412/1712534842160-1b135264-2ea8-490e-980f-d32343d8a538.webp)
+### 3. [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
 
-### 3. [冥想](https://chromewebstore.google.com/detail/andfohanhajengikbobaoblbdkmlkicp)
+浏览网站时，通过鼠标指针悬停在链接或者缩略图上即可在当前页弹出展示图片、`HTML5` 视频/音频和内容专辑。
 
-一款冥想计时器，可帮助您在任何地方进行冥想。简单、美观且易于使用。
-
-![](./archive/2024/assets/0622-0628/1719273736687-df305759-3d70-4f07-ab3c-7a03e62bcab5.webp)
+![](./archive/2024/assets/0323-0329/chrome_1710979763.webp)
 
 ## 五、资料
 
-### 1. [网道](https://wangdoc.com/)
+### 1. [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-一个互联网开发文档网站，提供各种软件文档。目标是提供高质量、自主版权、可自由使用的中文软件文档。目前已有 `HTML`、`JavaScript`、`ES6`、`Web API`、`C 语言`、`Bash`、`SSH` 等诸多内容。
+使用 Python 和 Flask 开发你的第一个 Web 程序，本书基于 Flask 2.1.x，支持 Python 3.6 及以上版本和全平台。
 
-![](./archive/2023/assets/image.4uiewhpvwgi0.webp)
+![](./archive/2025/assets/0301-0307/1741133188353-6855970b-27e9-422c-893b-13b683b40428.webp)
 
-### 2. [springcloud-learning](https://github.com/macrozheng/springcloud-learning)
+### 2. [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
 
-2024 最新微服务实战教程，Spring Cloud 组件、微服务项目实战、Kubernetes 容器化部署全方位解析。
+一个专为中文用户打造的 MCP（模型上下文协议）资源合集！ 这里有 MCP 的基础介绍、玩法、客户端、服务器和社区资源，帮你快速上手这个 AI 界的 “万能插头”。
 
-![](./archive/2025/assets/0201-0207/1738800117594-8b85c568-da86-4dd5-9c0a-2646d3b89e87.webp)
+![](./archive/2025/assets/1108-1114/1762905955386-db2ac8d2-3e0a-47e9-8771-09ae48acbec5.webp)
 
-### 3. [SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook)
+### 3. [Agent Offer](https://github.com/guoguo-tju/agent_java_offer)
 
-项目分享了中山大学计算机学院本科和研究生阶段的课程资料、笔记、期末考试卷和其他实用的相关资源。
+一份面向后端转型到 AI Agent 的公开复习资料库。目的是把分散笔记重组为更适合复习、口述和追问深挖的结构化目录。
 
-![](./archive/2025/assets/0412-0418/1744675246261-08c81dcc-2075-49b9-beac-30027ae5db1f.webp)
+![](./2026/assets/0502-0508/1778111380009.webp)
 
 ## ✍️ 说明
 
