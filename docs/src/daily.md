@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 23 日
+# 每日推荐 · 2026 年 11 月 24 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,105 +28,135 @@ tag:
 
 ## 一、项目
 
-### 1. [layui-vue](https://gitee.com/layui/layui-vue)
+### 1. [Claude Code PM](https://github.com/automazeio/ccpm)
 
-一套 Vue 3.0 的桌面端组件库。
+针对 Claude Code 的项目管理系统，使用 GitHub issue 和 Git 工作树进行并代理执行。
 
-![](./archive/2023/assets/image.60xvwd1fbws0.webp)
+![](./archive/2025/assets/0823-0829/1756166910111-eed7a127-86fe-4e4c-88d1-9cc0cd620a57.webp)
 
-### 2. [Dax-Pay](https://gitee.com/dromara/dax-pay)
+### 2. [Antigravity Tools](https://github.com/lbjlaq/Antigravity-Manager)
 
-一款免费开源的支付系统，支持支付宝、微信、云闪付等通道，提供收单、退款、聚合支付、对账、分账等功能。通过 HTTP 方式进行调用，不与其他系统产生耦合关联，提供可视化界面进行管理。
+一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的 本地 AI 中转站。通过本应用，您可以将常见的 Web 端 Session (Google / Anthropic) 转化为标准化的 API 接口，彻底消除不同厂商间的协议鸿沟。
 
-![](./archive/2024/assets/0803-0809/1722939989142-61cd7c81-7bdf-44a5-a747-3f50935ea63e.webp)
+![](./archive/2025/assets/1227-0102/1767052462534-01ac9a50-938e-4bf1-ade5-959a79b29218.webp)
 
-### 3. [netease-recent-profile](https://github.com/zonemeen/netease-recent-profile)
+### 3. [Restful Fast Request](https://github.com/dromara/fast-request)
 
-通过使用该组件，可以在 `Github Profile` 上显示你在网易云音乐上的听歌记录。
+一个类似于 Postman 的 IDEA 插件。它是一个强大的 restful api 工具包插件，可以根据已有的方法帮助您快速生成 url 和 params。 Restful Fast Request = API调试工具 + API管理工具 + API搜索工具。 它有一个漂亮的界面来完成请求、检查服务器响应、存储你的 api 请求和导出 api 请求。插件帮助你在 IDEA 界面内更快更高效得调试你的 API。
 
-![](./archive/2023/assets/netease-recent-profile.png)
+对比于 HTTP Client，Fast Request 不仅拥有 HTTP Client 内置的功能，还提供了友好易懂直观的界面，让使用者调试 API 的时候能够更加方便、简捷。同时各种类型参数也提供了不同的定制方式，更加灵活。而且集成了搜索、Postman 集成，Swagger 支持等额外的功能。
+
+![](./archive/2024/assets/0120-0126/1705129660484.webp)
 
 ## 二、软件
 
-### 1. [悟空图像](https://www.photosir.com)
+### 1. [Sequel Pro](https://sequelpro.com)
 
-国内一款可以替代 AdobePhotoShop 的专业图像处理软件，采用全新的设计理念和人工智能算法，让每个用户都能快速上手、快速出图。悟空图像支持 50 亿像素级超大图片处理，双向兼容 PS 文件格式，更支持全平台运行。悟空图像提供海量素材与模板，让你的创作不再从 “0” 开始；多达一百多种各类画笔，让创意设计更加得心应手；超多种组合特色功能，能够准确高效地实现用户办公需求。
+开源 MySQL 数据库管理工具，仅支持 macOS。界面简洁直观，管理高效便捷。
 
-![](./archive/2024/assets/0706-0712/1720656540914-8562ad52-655d-459d-aec7-a21ac1abf6c6.webp)
+![](./archive/2024/assets/0817-0823/1723680774250-7d51fd53-01da-431a-ba64-7960308e6095.png)
 
-### 2. [Abu (阿布)](https://github.com/PM-Shawn/Abu-Cowork)
+### 2. [Tiny Image](https://github.com/kyleduo/TinyPNG4Mac)
 
-你的 AI 桌面办公搭子 — 交给阿布就行啦。本地运行的 AI 桌面办公助手，灵感来自 Claude Code 的 Cowork 模式。 你说需求，阿布干活 — 读文件、跑命令、写文档、做报表，全在本地完成。
+TinyPNG 的第三方客户端，使用它，无需打开浏览器即可压缩图片，专为 macOS 用户打造。
 
-![](./2026/assets/0919-0925/20260719094751776.webp)
+![](./archive/2025/assets/0315-0321/1742383771731-323656eb-cf93-4a16-83e4-650578270bc7.webp)
 
-### 3. [PicPick](https://picpick.app/zh/)
+### 3. [AIdea](https://github.com/mylxsw/aidea-server)
 
-一款全能的设计工具，并且这款工具适宜每个人使用。
+一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
-一个全功能的屏幕截图工具,直观的图像编辑器,颜色选择器,颜色调色板,像素标尺,量角器,瞄准线和白板等等。
-
-![](./archive/2023/assets/image-20230522110255001.png)
+![](./archive/2023/assets/1693527566834.webp)
 
 ## 三、网站
 
-### 1. [WithoutAD](https://withoutad.com)
+### 1. [QR-艺术二维码](https://chenyating.github.io/art-qrcode/)
 
-免费无广告，致力于帮助同学们搞定“学起来痛苦但需要掌握”的知识，青少年专属的益智游戏与趣味学习平台。
+只需输入你要生成二维码的内容，点击开始生成即可生成你的艺术二维码。
 
-![](./archive/2025/assets/0531-0606/1748908702411-0f70be6a-8159-433a-9d47-62b1abd11cc9.png)
+![](./archive/2023/assets/image.2mwptzvlxtq0.webp)
 
-### 2. [XCloud 音乐](https://music.xcloudv.top)
+### 2. [什么值得读](https://book.jiandan.link/)
 
-在线听歌，跨平台音乐播放器，支持网易云、酷狗、酷我多平台！
+专注于书单的好书推荐网站，内容包括书单、视频书、电子书下载导航、专栏好文。网站持续更新优质书单、读书笔记、读书心得、创业思考、资源网站等内容，包含名人推荐书单、知乎豆瓣高分好书、高分小说等。当你不知道读什么的时候，就来什么值得读吧，这里有高质量书籍推荐，也有超过 10万人的读书社群！在这里，你可以发现真正值得读的内容，找到你想读的那本书。
 
-![](./archive/2025/assets/0705-0711/1751973267321-77c3a84e-5e36-4040-af26-043865850745.webp)
+![](./archive/2024/assets/1123-1129/1732707254606-340bee02-1a90-4aa9-bb5f-d886bde24d40.webp)
 
-### 3. [MyScript](https://webdemo.myscript.com/)
+### 3. [EverydayNews](https://news.ravelloh.top)
 
-你还在苦恼复杂的数学公式和化学方程式没办法用电脑打出来吗？有了这个神器，就可以轻松地以手绘的方式画出来，交给电脑自动帮你转化。
+在这里你能搜索到近 3 年的新闻历史记录的文字版内容。
 
-![](./archive/2023/assets/1700439870917.webp)
+![](./archive/2025/assets/0712-0718/1752624582011-74c3085b-3d41-436a-b466-de6160d07219.webp)
 
 ## 四、插件
 
-### 1. [手机模拟器](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+### 1. [Adblock Plus](https://chromewebstore.google.com/detail/adblock-plus-免费的广告拦截器/cfhdojbkjhnklbpkdaibdccddilifddb)
 
-在电脑上模拟智能手机和平板电脑，提供多种型号以测试您的移动网站和响应式网站。在多种设备上检查显示效果，为客户创建令人印象深刻的演示，并在测试中节省时间。
+阻止 `YouTube™` 广告、弹出窗口并抵御恶意软件！
 
-![](./archive/2025/assets/1122-1128/1764157036075-454f359b-796e-4237-931a-cfba41b9a6b1.webp)
+享受没有恼人广告的网络世界，插件会屏蔽以下内容
 
-### 2. [Smart Bookmark](https://chromewebstore.google.com/detail/smart-bookmark/nlboajobccgidfcdoedphgfaklelifoa)
+-   横幅 
+-   `YouTube` 视频广告
+-   `Facebook` 广告
+-   弹出窗口
+-   所有其他显眼的广告
 
-智能书签管家，AI 驱动，自动生成标签，语义化搜索，让整理和查找变得更简单。
+![](./archive/2023/assets/1694563749220.webp)
 
-![](./2026/assets/0502-0508/1778110983868.webp)
+### 2. [扩展管理器](https://chromewebstore.google.com/detail/扩展管理器/efolofldmcajcobffimbnokcnfcicooc)
 
-### 3. [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
+快速轻松的开启、关闭、卸载扩展程序，查看卸载记录；自定义分组、设置别称或备注；支持置顶或收藏插件，并支持导出 `CSV`。最好用的插件管理工具，具有以下特色功能：
 
-浏览网站时，通过鼠标指针悬停在链接或者缩略图上即可在当前页弹出展示图片、`HTML5` 视频/音频和内容专辑。
+- 插件列表：漂亮的 `UI` 设计，列表展示所有插件内容、版本、分组、别称。同时显示一共有多少插件，多少开启和关闭的以及卸载的插件数量；
+- 一键启用：在列表页，可以一键启用插件；
+- 一键禁用：在列表页，可以一键禁用插件，同时也支持一键关闭所有的插件；
+- 一键卸载：在列表页，可以一键卸载不需要的插件；
+- 智能搜索：可以根据插件名称或者别称匹配到想要的插件；
+- 卸载记录：可以查看已经卸载过的历史记录，并支持重新安装；
+- 智能跳转：支持一键跳转官方主页、系统选项页；
+- 备注别称：支持给插件设置别称或备注，方便查找，也可以通过搜索快速定位；
+- 喜欢搜藏：支持收藏自己喜欢的插件，并在最前面显示；
+- 更多点击：可以点击管理插件、快速去商城地址等；
+- 智能分组：可以自定义创建分组，并且分组会在插件列表页展示；
 
-![](./archive/2024/assets/0323-0329/chrome_1710979763.webp)
+![](./archive/2023/assets/1702858154497.webp)
+
+### 3. [1Block](https://chromewebstore.google.com/detail/1block-best-adblocker-for/jajikjbellknnfcomfjjinfjokihcfoi?hl=zh-CN)
+
+快速、高效、注重隐私的广告拦截器。
+
+旨在与最新的 `Manifest V3` 架构无缝协作，是您的一站式解决方案，可提供更干净、更快、更愉快的浏览体验。
+
+![](./archive/2023/assets/1701161707973.webp)
 
 ## 五、资料
 
-### 1. [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### 1. [Student-resources](https://github.com/ivmm/Student-resources)
 
-使用 Python 和 Flask 开发你的第一个 Web 程序，本书基于 Flask 2.1.x，支持 Python 3.6 及以上版本和全平台。
+主要介绍利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益。
 
-![](./archive/2025/assets/0301-0307/1741133188353-6855970b-27e9-422c-893b-13b683b40428.webp)
+![](./archive/2025/assets/0426-0502/1745971715310-31bb1c9e-150b-4eed-9d6e-23f947ff521a.webp)
 
-### 2. [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
+### 2. [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/index.html)
 
-一个专为中文用户打造的 MCP（模型上下文协议）资源合集！ 这里有 MCP 的基础介绍、玩法、客户端、服务器和社区资源，帮你快速上手这个 AI 界的 “万能插头”。
+本书分为四个部分：气候、地理、景观、地质。
 
-![](./archive/2025/assets/1108-1114/1762905955386-db2ac8d2-3e0a-47e9-8771-09ae48acbec5.webp)
+气候篇中的内容为课外读物，包括一些杂谈随笔，可以增长知识。
 
-### 3. [Agent Offer](https://github.com/guoguo-tju/agent_java_offer)
+地理篇为必修课，它是这本书的核心，包含一些基本教程。这一部分的内容，建议熟读。
 
-一份面向后端转型到 AI Agent 的公开复习资料库。目的是把分散笔记重组为更适合复习、口述和追问深挖的结构化目录。
+景观篇为选修课，里面的内容为实用的解决方案，但并不是每个人都需要。
 
-![](./2026/assets/0502-0508/1778111380009.webp)
+地质篇的内容为开源运动史。
+
+![](./archive/2024/assets/0120-0126/image-20240108081450137.webp)
+
+### 3. [AI 精准操作手册：从 Prompt 工程到认知导航](https://github.com/1Haschwalth/prompt-engineering)
+
+书中汇集了作者操作 deepseek 等模型的一手经验，将看似神秘的“提示词技巧”系统化为可学习、可复用的方法论。无论你是学生、创作者、开发者还是企业家，这些方法都能帮你把AI转化为持续的竞争优势。
+
+![](./archive/2025/assets/1122-1128/1763942950281-bd02922a-58c7-4bcc-aeb1-664291957195.webp)
 
 ## ✍️ 说明
 
