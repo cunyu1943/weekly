@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 25 日
+# 每日推荐 · 2026 年 11 月 26 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,109 +28,107 @@ tag:
 
 ## 一、项目
 
-### 1. [DataRoom](https://gitee.com/gcpaas/DataRoom)
+### 1. [Ecoku](https://github.com/DejavuMoe/Ecoku)
 
-基于 Vue 的大屏可视化设计器，前后端一体化解决方案，几十种炫酷图表，支持多种数据来源接入，适用于大屏、低代码、BI 场景，使用简单，代码完全开源。
+自托管，多站点。专注文字讨论。给博客与个人网站的评论系统，访客无需注册，评论提交即公开，数据由你保管。
 
-![](./archive/2024/assets/0713-0719/1721087943558-36e4ce9c-2b5a-4ab8-9d22-120361d86d9d.webp)
+![](./2026/assets/1017-1023/20261008134027154.webp)
 
-### 2. [Discovery](https://github.com/Nepxion/Discovery)
+### 2. [pay-java-parent](https://github.com/egzosn/pay-java-parent)
 
-云原生微服务解决方案，支持蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活。
+全能第三方支付对接 Java 开发工具包。优雅的轻量级支付模块集成支付对接支付整合（微信，支付宝，银联，友店，富友，跨境支付 paypal，payoneer (P 卡派安盈) 易极付）app，扫码，网页支付刷卡付条码付刷脸付转账红包服务商模式，微信分账，合并支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统。
 
-![](./archive/2023/assets/1693268061437.webp)
+![](./archive/2025/assets/0531-0606/1749033416166-edee2324-5c39-40ff-b522-fe7e40bca3ff.webp)
 
-### 3. [野火 IM 解决方案](https://github.com/wildfirechat/im-server)
+### 3. [Firefly](https://github.com/yangjianxin1/Firefly)
 
-一套通用的即时通讯和实时音视频组件，能够更加容易地赋予客户 IM 和 RTC 能力，使客户可以快速的在自有产品上添加聊天和通话功能或者直接使用野火提供的应用。使用野火可以替代云通讯产品或减少自研即时通讯和实时音视频的工作量，降低客户研发成本和难度。具有以下特性：
+一站式大模型训练工具，一个开源的大模型训练项目，支持对主流的大模型进行预训练、指令微调和 DPO，包括但不限于 Qwen2、Yi-1.5、Llama3、Gemma、Qwen1.5、MiniCPM、Llama、InternLM、Baichuan、ChatGLM、Yi、Deepseek、Qwen、Orion、Ziya、Xverse、Mistral、Mixtral-8x7B、Zephyr、Vicuna、Bloom 等。支持全量参数训练、LoRA、QLoRA 高效训练，支持预训练、SFT、DPO。
 
-- 极致地硬件利用率，IM 服务最低 128M 内存即可运行，上不封顶。
-- 协议先进，采用 MQTT+Protobuf 组合，流量和性能极致优化
-- 性能强大，专业版 IM 服务支持百万在线和集群部署，业内顶尖性能水平，详情参考野火性能报告。
-- 部署运维简单，依赖服务少，稍加配置一键启动。
-- ……
-
-![](https://cdn.jsdelivr.net/gh/cunyu1943/weekly@main/docs/src/2024/assets/1116-1122/1732147071928-18d1c152-46cc-403f-8498-e9dd8aa31ed8.webp)
+![](./archive/2024/assets/1019-1025/1729555351776-dbb1cb58-5e0e-4211-83e7-55b71143f124.webp)
 
 ## 二、软件
 
-### 1. [Listen 1](https://github.com/listen1/listen1_desktop)
+### 1. [Motrix](https://motrix.app/zh-CN/)
+
+一款全能的下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链接等资源。最最重要的是，他完全跨平台且免费。
+
+软件界面设计简约清新，方便实用。用户可轻松监控、管理下载任务，并自由更改下载路径和速度限制。此外，还支持多点续传和流媒体下载，同时提供暂停、恢复、取消等快捷功能。
+
+![](./archive/2023/assets/image.6t70owhdbt40.webp)
+
+### 2. [SplitLanzou](https://github.com/Yu2002s/SplitLanzou)
+
+第三方蓝奏云客户端。双面板快速管理文件，突破上传文件限制，分割上传文件。
+
+![](./archive/2025/assets/0802-0808/1754316745565-a2f824c2-c8b4-4a33-b303-db5336cbbef0.webp)
+
+### 3. [Listen 1](https://github.com/listen1/listen1_desktop)
 
 可以搜索和播放来自网易云音乐，QQ 音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 
 ![](./archive/2024/assets/0601-0607/1717589323281-fb7bafa1-0609-43ae-91ef-1bbf87d121ce.webp)
 
-### 2. [灵动桌面](https://www.wallpaperplay.cn)
-
-打造你的精美桌面，海量精品壁纸，超清动态壁纸任意换，搭配桌面组件打造个性桌面。
-
-![](./archive/2025/assets/0329-0404/1742947115672-1b270992-a16f-45c3-83df-1daf111e763e.webp)
-
-### 3. [ThunderBird](https://www.thunderbird.net)
-
-借助这款迅捷的应用，来一站式查看邮件、日历、联系人，随心筛选和整理项目，并且可以选择是分别打理各个账户，还是合并到一个收件箱。
-
-![](./archive/2025/assets/1108-1114/1761749292618-b14a19f1-890b-43c0-a10a-6837468d85b3.webp)
-
 ## 三、网站
 
-### 1. [Cloudflare](https://www.cloudflare.com/zh-cn/)
+### 1. [Quick QR Art](https://quickqr.art/)
 
-一个全球性的云平台，它为世界各地的各种规模的企业提供广泛的网络服务，从而使企业更加安全，同时提高其关键互联网资产的性能和可靠性。
+一款借助 `AI` 模型来生成艺术二维码的工具，原理是利用了 `Stable Diffusion` 中的 `Control Net` 模型。仅需几步，就能创建属于自己定制的艺术二维码。
 
-![](./archive/2025/assets/1228-0103/1735603885642-a2d6a602-b712-46a3-b762-96b3016b0eaf.webp)
 
-### 2. [Made A Pie](https://madeapie.com/#/)
 
-Echarts 图表制作、案例分享、教程分享。汇聚了超多 Echarts 绘制案例，主要有以下类别：
+![](./archive/2023/assets/image.6zovd484t3k0.webp)
 
-![](./archive/2023/assets/image.3au9zsyy08m0.webp)
+### 2. [国家数据](https://data.stats.gov.cn/)
 
-### 3. [Booklet AI](https://bookletai.org/tools/booklet-maker.html)
+数据源于国家统计局，包含了我国经济民生等多个方面的数据，包含普查数据、地区数据、部门数据、国际数据等多方面内容，并且在月度、季度、年度都有覆盖，十分全面。
 
-一个通过对话创建专业小册子的 AI 工具。用户输入主题后，AI 会先追问受众、用途和风格，再自动联网调研、整理大纲，并逐页生成图文混排的 A4 小册子。
+![](./archive/2023/assets/1694045793670.webp)
 
-![](./2026/assets/0418-0424/362a41af4a374fc5b57e75e99580a786.webp)
+### 3. [物言卡片](https://mono.cards/)
+
+将任何内容转化为精美的视觉卡片，在社交媒体上更出众、更抓眼，包括链接、音乐、文章、文字、代码等。
+
+![](./archive/2025/assets/0503-0509/1746576274673-4fe5b55e-4915-4b73-b287-6d15b73148c4.webp)
 
 ## 四、插件
 
-### 1. [AB Download Manager](https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj)
+### 1. [XApi](https://chromewebstore.google.com/detail/xapi-http-client-api-test/ilcnglohbiokfdcokfceihebobkpeaij)
 
-一款免费开源 Chrome 下载管理扩展，可右键调用、自动捕获链接并识别音视频与 HLS 流，将下载任务交由客户端管理。
+支持自动捕获当前页面的 Fetch 与 XHR 网络请求，还能改写 Cookie、Origin、Referer 等字段信息，开发调试神器。
 
-![](./2026/assets/0516-0522/1779149395891.webp)
+![](./2026/assets/0110-0116/1768263137044-3e1f8216-fa21-4982-bf1b-a4341fcdf6b1.webp)
 
-### 2. [Mailtrack 和邮件合并](https://chromewebstore.google.com/detail/gmail-的-mailtrack-和邮件合并/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=zh-CN)
+### 2. [FetchV](https://chromewebstore.google.com/detail/fetchv-m3u8hls视频下载器/imleiiaoeclikefimmcdkjabjbpcdgaj)
 
-一款 Gmail 和 Inbox 电子邮件跟踪扩展程序，可是让你了解你发送的电子邮件是否为已读或未读。拥有超过 200 万活跃用户，免费且无限制。
+通用的网页视频下载器，免费、安全、简单易用。帮助你轻松将 `m3u8`、直播、`mp4`、`webm` 等在线视频下载到本地。支持多线程下载模式，在视频服务器和你的带宽条件允许之下，一个约 `1GB` 的视频可以在约十分钟内下载完成。
 
-![](./archive/2025/assets/0208-0214/1739145838489-51f0ef51-2480-4a8e-96c7-8aae8a85d70e.webp)
+![](./archive/2024/assets/0302-0308/20240228-1709079828.webp)
 
-### 3. [文字缩放与阅读模式](https://chromewebstore.google.com/detail/mamgplcihonkbopicdfhbadppehecgoahttps://chromewebstore.google.com/detail/mamgplcihonkbopicdfhbadppehecgoa)
+### 3. [Image Downloader](https://chromewebstore.google.com/detail/image-downloader-save-pic/daeljdgmllhgmbdkpgnaojldjkdgkbjg)
 
-根据自己的喜好定制浏览环境，从而提高可读性，减少干扰，优化加载速度。
+一个可以帮助您找到发布在网页上的图像。这是一个免费的工具，无需注册，只需点击几下，就可以让图像在几秒钟内保存到您的本地。
 
-![](./archive/2024/assets/0713-0719/1721088148105-7ecc3942-e121-4cc7-a822-12ff4cf946c7.webp)
+![](./archive/2024/assets/0720-0726/1721647071217-4d80d981-7619-4825-8e32-bc87d0304814.webp)
 
 ## 五、资料
 
-### 1. [鱼皮的编程宝典](https://github.com/liyupi/codefather)
+### 1. [动手学大模型](https://github.com/Lordog/dive-into-llms)
 
-程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。
+《动手学大模型》系列编程实践教程，由上海交通大学 2024 年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来，旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。
 
-![](./archive/2024/assets/0106-0112/1704672386119.webp)
+![](./archive/2025/assets/0705-0711/1752019942257-4961fb54-59f8-404e-82a0-324f093e8075.webp)
 
-### 2. [Dive into LangGraph](https://github.com/luochang212/dive-into-langgraph)
+### 2. [软考中级教程](https://github.com/luckyzhz/Software-Designer)
 
-LangGraph 是由 LangChain 团队开发的开源智能体框架，责工作流和状态管理，仓库着重介绍该框架的实践。
+一份“软件设计师”的学习路径，含有 APP、真题、课本、参考文档等内容。
 
-![](./archive/2025/assets/1129-1205/1764634020665-e0d06341-aa5e-4b59-b766-4fee0bae83d2.webp)
+![](./archive/2024/assets/1109-1115/1731499169994-62c4fe13-d1a9-402a-abbd-bf4f85a7bca7.webp)
 
-### 3. [Js Tips](https://www.jstips.co/)
+### 3. [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 
-每天一条 `JavaScript` 小技巧。只需要花上两分钟的时间，就能读到性能、框架、约定、技巧、面试问题等有助于提高编写代码效率的小技巧。
+面向入门开发者的专业知识与技术面试百科，不过是韩文的，适合能读懂韩文的朋友。
 
-![](./archive/2023/assets/js-tips.png)
+![](./archive/2025/assets/1011-1017/1760439768003-20a8d5a6-eb10-45e0-a384-9a56be962f08.webp)
 
 ## ✍️ 说明
 
