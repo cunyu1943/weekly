@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 26 日
+# 每日推荐 · 2026 年 11 月 27 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,107 +28,103 @@ tag:
 
 ## 一、项目
 
-### 1. [Ecoku](https://github.com/DejavuMoe/Ecoku)
+### 1. [capcut-cli](https://github.com/renezander030/capcut-cli)
 
-自托管，多站点。专注文字讨论。给博客与个人网站的评论系统，访客无需注册，评论提交即公开，数据由你保管。
+在终端里创建和编辑真正的 CapCut / 剪映项目，在 CapCut 中打开成果，每条轨道依然可编辑。capcut-cli 直接操作本地草稿存储：JSON 进、JSON 出，没有上传、没有 API、没有 MCP 服务，也没有 HTTP 守护进程。
 
-![](./2026/assets/1017-1023/20261008134027154.webp)
+![](./2026/assets/1017-1023/20260923080032806.webp)
 
-### 2. [pay-java-parent](https://github.com/egzosn/pay-java-parent)
+### 2. [uView-Pro](https://github.com/anyup/uView-Pro)
 
-全能第三方支付对接 Java 开发工具包。优雅的轻量级支付模块集成支付对接支付整合（微信，支付宝，银联，友店，富友，跨境支付 paypal，payoneer (P 卡派安盈) 易极付）app，扫码，网页支付刷卡付条码付刷脸付转账红包服务商模式，微信分账，合并支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统。
+全面支持 Vue3.0、TypeScript 的 uni-app 生态框架，uView Pro 的基线版本是基于 uView 1.8.8 修改，使用 TypeScript 完全重构，已覆盖 Android、iOS、鸿蒙以及微信/头条/支付宝等主流小程序平台，真正实现 “一套代码，多端运行”，支持多主题系统、暗黑模式与国际化（i18n）。
 
-![](./archive/2025/assets/0531-0606/1749033416166-edee2324-5c39-40ff-b522-fe7e40bca3ff.webp)
+![](./2026/assets/0815-0821/20260729144858451.webp)
 
-### 3. [Firefly](https://github.com/yangjianxin1/Firefly)
+### 3. [Vapor](https://github.com/vapor/vapor)
 
-一站式大模型训练工具，一个开源的大模型训练项目，支持对主流的大模型进行预训练、指令微调和 DPO，包括但不限于 Qwen2、Yi-1.5、Llama3、Gemma、Qwen1.5、MiniCPM、Llama、InternLM、Baichuan、ChatGLM、Yi、Deepseek、Qwen、Orion、Ziya、Xverse、Mistral、Mixtral-8x7B、Zephyr、Vicuna、Bloom 等。支持全量参数训练、LoRA、QLoRA 高效训练，支持预训练、SFT、DPO。
+一个流行的 Swift 语言 Web 框架，基于非阻塞事件驱动库 SwiftNIO 构建。它提供了 ORM、模板引擎、用户身份验证等模块，使得开发者能够快速创建网站、接口等服务。
 
-![](./archive/2024/assets/1019-1025/1729555351776-dbb1cb58-5e0e-4211-83e7-55b71143f124.webp)
+![](./archive/2024/assets/0810-0816/1723593625444-64607fb4-dd80-4f16-aed0-bfa552d83ead.webp)
 
 ## 二、软件
 
-### 1. [Motrix](https://motrix.app/zh-CN/)
+### 1. [md2wechat](https://github.com/geekjourneyx/md2wechat-skill)
 
-一款全能的下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链接等资源。最最重要的是，他完全跨平台且免费。
+一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理。
 
-软件界面设计简约清新，方便实用。用户可轻松监控、管理下载任务，并自由更改下载路径和速度限制。此外，还支持多点续传和流媒体下载，同时提供暂停、恢复、取消等快捷功能。
+![](./2026/assets/0822-0828/20260630195130432.webp)
 
-![](./archive/2023/assets/image.6t70owhdbt40.webp)
+### 2. [知云文献翻译](https://www.zhiyunwenxian.cn/)
 
-### 2. [SplitLanzou](https://github.com/Yu2002s/SplitLanzou)
+一款 Windows 平台下的划选翻译软件，自带 PDF 阅读器同时包含几乎所有主流翻译引擎，支持中英互译，帮助提高您的英语科研文献或书籍阅读效率！
 
-第三方蓝奏云客户端。双面板快速管理文件，突破上传文件限制，分割上传文件。
+![](./archive/2025/assets/0308-0314/1741652665564-9c39eff3-0f5a-4407-9f1a-bc035ee6d866.webp)
 
-![](./archive/2025/assets/0802-0808/1754316745565-a2f824c2-c8b4-4a33-b303-db5336cbbef0.webp)
+### 3. [OFPlayer](https://ofplayer.org)
 
-### 3. [Listen 1](https://github.com/listen1/listen1_desktop)
+一款本地优先的现代音乐播放器。支持 FLAC/MP3 无损播放、智能歌单管理、音频元数据解析，专为认真听歌的人设计。
 
-可以搜索和播放来自网易云音乐，QQ 音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
-
-![](./archive/2024/assets/0601-0607/1717589323281-fb7bafa1-0609-43ae-91ef-1bbf87d121ce.webp)
+![](./2026/assets/0704-0710/1781002080.webp)
 
 ## 三、网站
 
-### 1. [Quick QR Art](https://quickqr.art/)
+### 1. [小众软件](https://www.appinn.com/)
 
-一款借助 `AI` 模型来生成艺术二维码的工具，原理是利用了 `Stable Diffusion` 中的 `Control Net` 模型。仅需几步，就能创建属于自己定制的艺术二维码。
+一个分享、体验、评测电脑软件、手机应用、互联网产品的网站。
 
+![](./archive/2023/assets/1693873231875.webp)
 
+### 2. [工具王](https://www.toolsking.top)
 
-![](./archive/2023/assets/image.6zovd484t3k0.webp)
+功能强大的免费在线工具网站。
 
-### 2. [国家数据](https://data.stats.gov.cn/)
+![](./2026/assets/0606-0612/1780446066203.webp)
 
-数据源于国家统计局，包含了我国经济民生等多个方面的数据，包含普查数据、地区数据、部门数据、国际数据等多方面内容，并且在月度、季度、年度都有覆盖，十分全面。
+### 3. [劳动计算器](https://web.laofa.com/calculator/)
 
-![](./archive/2023/assets/1694045793670.webp)
+全国劳动法数据快速精确计算应用。根据用户输入的条件计算法定经济补偿金、法定年休假、工伤待遇等项目，并给出计算依据提示。已收录城市计算口径已经经过数万次计算验证。
 
-### 3. [物言卡片](https://mono.cards/)
-
-将任何内容转化为精美的视觉卡片，在社交媒体上更出众、更抓眼，包括链接、音乐、文章、文字、代码等。
-
-![](./archive/2025/assets/0503-0509/1746576274673-4fe5b55e-4915-4b73-b287-6d15b73148c4.webp)
+![](./archive/2025/assets/0906-0912/1755701240085-4cb0ae9b-bd37-472c-bcc3-d5ab99d374c9.webp)
 
 ## 四、插件
 
-### 1. [XApi](https://chromewebstore.google.com/detail/xapi-http-client-api-test/ilcnglohbiokfdcokfceihebobkpeaij)
+### 1. [Gemini to PDF](https://chromewebstore.google.com/detail/ai-chat-to-pdf/nlfkaldinolmacagmiddfpnfaeclfibn)
 
-支持自动捕获当前页面的 Fetch 与 XHR 网络请求，还能改写 Cookie、Origin、Referer 等字段信息，开发调试神器。
+将你的 Gemini AI 对话转换为精美格式的 PDF，使用该工具来保存和分享宝贵的 Gemini 交互内容。无论是存档研究讨论、保存创意思维碰撞，还是记录技术解决方案，Gemini to PDF 都能每次都呈现完美结果！  
 
-![](./2026/assets/0110-0116/1768263137044-3e1f8216-fa21-4982-bf1b-a4341fcdf6b1.webp)
+![](./2026/assets/0117-0123/1768953922602-a5996c0c-7843-4de1-a215-c09e51f9fd09.webp)
 
-### 2. [FetchV](https://chromewebstore.google.com/detail/fetchv-m3u8hls视频下载器/imleiiaoeclikefimmcdkjabjbpcdgaj)
+### 2. [Ctool 程序开发常用工具](https://chromewebstore.google.com/detail/ipfcebkfhpkjeikaammlkcnalknjahmh?utm_source=item-share-cb)
 
-通用的网页视频下载器，免费、安全、简单易用。帮助你轻松将 `m3u8`、直播、`mp4`、`webm` 等在线视频下载到本地。支持多线程下载模式，在视频服务器和你的带宽条件允许之下，一个约 `1GB` 的视频可以在约十分钟内下载完成。
+程序开发常用工具，支持哈希/加解密/编码转换/时间戳/二维码/拼音/IP查询/代码优化/Unicode/正则等功能，同时支持离线使用。
 
-![](./archive/2024/assets/0302-0308/20240228-1709079828.webp)
+![](./archive/2025/assets/0719-0725/1753229297702-43221842-1a98-4bca-8a3b-90a418a1745a.webp)
 
-### 3. [Image Downloader](https://chromewebstore.google.com/detail/image-downloader-save-pic/daeljdgmllhgmbdkpgnaojldjkdgkbjg)
+### 3. [飞书剪存](https://chromewebstore.google.com/detail/飞书剪存/mofcmpgnbnnlcdkfchnggdilcelpgegn)
 
-一个可以帮助您找到发布在网页上的图像。这是一个免费的工具，无需注册，只需点击几下，就可以让图像在几秒钟内保存到您的本地。
+使用飞书剪存将网页正文一键保存到飞书云文档，告别手动复制粘贴。同时支持智能去除网页广告，告别无用干扰信息。
 
-![](./archive/2024/assets/0720-0726/1721647071217-4d80d981-7619-4825-8e32-bc87d0304814.webp)
+![](./archive/2025/assets/0315-0321/1742384442627-bc738537-65f7-4c12-8a0b-b06c87b15337.webp)
 
 ## 五、资料
 
-### 1. [动手学大模型](https://github.com/Lordog/dive-into-llms)
+### 1. [JavaHome](https://github.com/whx123/JavaHome)
 
-《动手学大模型》系列编程实践教程，由上海交通大学 2024 年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来，旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。
+一份超级详细的 Java 面试题【大厂面试真题 + Java 学习指南 + 工作总结】。
 
-![](./archive/2025/assets/0705-0711/1752019942257-4961fb54-59f8-404e-82a0-324f093e8075.webp)
+![](./archive/2025/assets/0104-0110/1736387230329-c4ea3edc-38ff-4a0b-b889-775871377a49.webp)
 
-### 2. [软考中级教程](https://github.com/luckyzhz/Software-Designer)
+### 2. [Modern Java](https://github.com/Together-Java/ModernJava)
 
-一份“软件设计师”的学习路径，含有 APP、真题、课本、参考文档等内容。
+面向初学者的现代 Java 教程，内容基于 Java 21。
 
-![](./archive/2024/assets/1109-1115/1731499169994-62c4fe13-d1a9-402a-abbd-bf4f85a7bca7.webp)
+![](./2026/assets/0124-0130/1769167020049-052b0c04-d96a-474c-b335-3cccd8d229da.webp)
 
-### 3. [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+### 3. [程序员英语词汇宝典](https://github.com/Wei-Xia/most-frequent-technology-english-words)
 
-面向入门开发者的专业知识与技术面试百科，不过是韩文的，适合能读懂韩文的朋友。
+本列表中的单词是英语类计算机书籍、文档、文章中高频常见的技术词汇，也是程序员工作中常见的英语词汇，最终目的是希望程序员集合自身的英语基础，在掌握列表中的词汇后，可以无障碍阅读英语技术文章和文档。
 
-![](./archive/2025/assets/1011-1017/1760439768003-20a8d5a6-eb10-45e0-a384-9a56be962f08.webp)
+![](./archive/2023/assets/1695021839312.webp)
 
 ## ✍️ 说明
 
