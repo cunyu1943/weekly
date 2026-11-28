@@ -12,7 +12,7 @@ tag:
 
 ---
 
-# 每日推荐 · 2026 年 11 月 27 日
+# 每日推荐 · 2026 年 11 月 28 日
 
 > 作者：[村雨遥](https://github.com/cunyu1943)
 > 
@@ -28,103 +28,126 @@ tag:
 
 ## 一、项目
 
-### 1. [capcut-cli](https://github.com/renezander030/capcut-cli)
+### 1. [Kirara AI](https://github.com/lss233/kirara-ai)
 
-在终端里创建和编辑真正的 CapCut / 剪映项目，在 CapCut 中打开成果，每条轨道依然可编辑。capcut-cli 直接操作本地草稿存储：JSON 进、JSON 出，没有上传、没有 API、没有 MCP 服务，也没有 HTTP 守护进程。
+一款支持主流大语言模型、主流聊天平台的聊天的机器人！支持快速接入微信、 QQ、Telegram 等聊天平台。支持 DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI 等大模型，具备工作流系统、网页搜索、AI 画图、人设调教、虚拟女仆、语音对话等功能。
 
-![](./2026/assets/1017-1023/20260923080032806.webp)
+![](./archive/2025/assets/0426-0502/1745970686278-104fef1c-4980-4808-9fae-68e0cae33dbf.webp)
 
-### 2. [uView-Pro](https://github.com/anyup/uView-Pro)
+### 2. [AI as Workspace](https://github.com/NitroRCr/AIaW)
 
-全面支持 Vue3.0、TypeScript 的 uni-app 生态框架，uView Pro 的基线版本是基于 uView 1.8.8 修改，使用 TypeScript 完全重构，已覆盖 Android、iOS、鸿蒙以及微信/头条/支付宝等主流小程序平台，真正实现 “一套代码，多端运行”，支持多主题系统、暗黑模式与国际化（i18n）。
+精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先 + 实时云同步、Artifacts。
 
-![](./2026/assets/0815-0821/20260729144858451.webp)
+![](./archive/2025/assets/0208-0214/1739318400735-a3080824-f547-4754-86d8-d77ac1b680ae.webp)
 
-### 3. [Vapor](https://github.com/vapor/vapor)
+### 3. [咕泡学院](https://github.com/2227324689/gpmall)
 
-一个流行的 Swift 语言 Web 框架，基于非阻塞事件驱动库 SwiftNIO 构建。它提供了 ORM、模板引擎、用户身份验证等模块，使得开发者能够快速创建网站、接口等服务。
+基于 SpringBoot+Dubbo 构建的电商平台，包含了微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch 等一系列技术。
 
-![](./archive/2024/assets/0810-0816/1723593625444-64607fb4-dd80-4f16-aed0-bfa552d83ead.webp)
+![](./archive/2024/assets/0727-0802/1722298091228-2703bfc0-a053-4ade-bbfc-a37950cd56bc.webp)
 
 ## 二、软件
 
-### 1. [md2wechat](https://github.com/geekjourneyx/md2wechat-skill)
+### 1. [重启还原](https://www.huanyuan.cn)
 
-一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理。
+一款免费的虚拟系统还原软件，不影响电脑性能，不占 CPU 使用率，真正做到零内存占用，全程使用无感知进入，虚拟系统速度和普通系统速度相差无几!
 
-![](./2026/assets/0822-0828/20260630195130432.webp)
+![](./archive/2025/assets/0614-0620/1749206765707-0c67358a-53c5-464b-b82f-e4856fe71d29.webp)
 
-### 2. [知云文献翻译](https://www.zhiyunwenxian.cn/)
+### 2. [Abu (阿布)](https://github.com/PM-Shawn/Abu-Cowork)
 
-一款 Windows 平台下的划选翻译软件，自带 PDF 阅读器同时包含几乎所有主流翻译引擎，支持中英互译，帮助提高您的英语科研文献或书籍阅读效率！
+你的 AI 桌面办公搭子 — 交给阿布就行啦。本地运行的 AI 桌面办公助手，灵感来自 Claude Code 的 Cowork 模式。 你说需求，阿布干活 — 读文件、跑命令、写文档、做报表，全在本地完成。
 
-![](./archive/2025/assets/0308-0314/1741652665564-9c39eff3-0f5a-4407-9f1a-bc035ee6d866.webp)
+![](./2026/assets/0919-0925/20260719094751776.webp)
 
-### 3. [OFPlayer](https://ofplayer.org)
+### 3. [享咖小记](https://coffee-note.xiangshikeji.com/)
 
-一款本地优先的现代音乐播放器。支持 FLAC/MP3 无损播放、智能歌单管理、音频元数据解析，专为认真听歌的人设计。
+从咖啡豆、冲煮器具、研磨器三个基础数据再配合上冲煮过程中使用的各个器材的设置、水温、时长、注水量等参数，系统的记录下每一杯咖啡的冲煮过程。
 
-![](./2026/assets/0704-0710/1781002080.webp)
+![](./archive/2025/assets/0201-0207/1737021102273-8f80da48-0d8a-4fba-a175-0dfb94a7f5be.webp)
 
 ## 三、网站
 
-### 1. [小众软件](https://www.appinn.com/)
+### 1. [官网下](https://guanwangxia.com)
 
-一个分享、体验、评测电脑软件、手机应用、互联网产品的网站。
+官网下人工核验软件厂商的官方 HTTPS 下载来源，快速找到 Windows、macOS、Linux 和移动端软件的官方下载入口。
 
-![](./archive/2023/assets/1693873231875.webp)
+![](./2026/assets/0926-1002/20260726091412133.webp)
 
-### 2. [工具王](https://www.toolsking.top)
+### 2. [RantBase](https://rantbase.app)
 
-功能强大的免费在线工具网站。
+AI 驱动的 App Store 评论分析工具。查看任意应用的真实用户吐槽、缺失功能和实际问题。
 
-![](./2026/assets/0606-0612/1780446066203.webp)
+![](./2026/assets/0718-0724/20260628204334991.webp)
 
-### 3. [劳动计算器](https://web.laofa.com/calculator/)
+### 3. [读典籍](https://dudianji.com)
 
-全国劳动法数据快速精确计算应用。根据用户输入的条件计算法定经济补偿金、法定年休假、工伤待遇等项目，并给出计算依据提示。已收录城市计算口径已经经过数万次计算验证。
+提供丰富的中华经典阅读体验，包括文白对照、交互式注释及导读工具。平台让阅读古籍变得轻松有趣，提供文章分节、人物、事件等丰富的阅读辅助功能。
 
-![](./archive/2025/assets/0906-0912/1755701240085-4cb0ae9b-bd37-472c-bcc3-d5ab99d374c9.webp)
+![](./archive/2025/assets/0426-0502/1745838134966-98d2a7f0-54c1-4f9a-817d-6bc9600e72a3.webp)
 
 ## 四、插件
 
-### 1. [Gemini to PDF](https://chromewebstore.google.com/detail/ai-chat-to-pdf/nlfkaldinolmacagmiddfpnfaeclfibn)
+### 1. [超级复制](https://chromewebstore.google.com/detail/supercopy-超级复制/onepmapfbjohnegdmfhndpefjkppbjkm)
 
-将你的 Gemini AI 对话转换为精美格式的 PDF，使用该工具来保存和分享宝贵的 Gemini 交互内容。无论是存档研究讨论、保存创意思维碰撞，还是记录技术解决方案，Gemini to PDF 都能每次都呈现完美结果！  
+在禁止复制、禁止右键、禁止选择的站点，一键复制，一键粘贴，一键选择，启用右键，启用复制，启用选择，启用粘贴。
 
-![](./2026/assets/0117-0123/1768953922602-a5996c0c-7843-4de1-a215-c09e51f9fd09.webp)
+主要特性：
 
-### 2. [Ctool 程序开发常用工具](https://chromewebstore.google.com/detail/ipfcebkfhpkjeikaammlkcnalknjahmh?utm_source=item-share-cb)
+1、一键破解 `js` 方式的禁止复制网站。
 
-程序开发常用工具，支持哈希/加解密/编码转换/时间戳/二维码/拼音/IP查询/代码优化/Unicode/正则等功能，同时支持离线使用。
+2、一键破解 `css` 方式的禁止复制网站。
 
-![](./archive/2025/assets/0719-0725/1753229297702-43221842-1a98-4bca-8a3b-90a418a1745a.webp)
+3、具有记忆功能，下次打开相同页面自动破解禁止复制。
 
-### 3. [飞书剪存](https://chromewebstore.google.com/detail/飞书剪存/mofcmpgnbnnlcdkfchnggdilcelpgegn)
+4、具有联想功能，打开同站点其他页面自动破解禁止复制。
 
-使用飞书剪存将网页正文一键保存到飞书云文档，告别手动复制粘贴。同时支持智能去除网页广告，告别无用干扰信息。
+![](./archive/2023/assets/1701172656126.webp)
 
-![](./archive/2025/assets/0315-0321/1742384442627-bc738537-65f7-4c12-8a0b-b06c87b15337.webp)
+### 2. [d3coder](https://chromewebstore.google.com/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol)
+
+编码/解码插件，支持包括 base64，rot13 或 unix timestamp 编码的转换。
+
+![](./archive/2024/assets/0921-0927/1727049721371-23164a12-c6f8-4323-aa2c-2134047b768e.webp)
+
+### 3. [Infinity Pro](https://microsoftedge.microsoft.com/addons/detail/infinity-新标签页-pro/hajlmbnnniemimmaehcefkamdadpjlfa?hl=zh-CN)
+
+全球上百万用户选择的最佳新标签页，功能包括：网站图标，搜索引擎，高清壁纸，书签管理、天气、笔记、待办事项、扩展管理、历史记录等。
+`Infinity` 新标签页 (`Pro`) 是一款基于 `html5` 开发的扩展程序，它能够替换浏览器的起始页与新标签页，提升其美观性与生产力。
+
+`Infinity` 独创了多种强大且实用的功能，可以让您以任何喜欢的方式来打造新标签页。
+
+![](./archive/2023/assets/1693144805646.webp)
 
 ## 五、资料
 
-### 1. [JavaHome](https://github.com/whx123/JavaHome)
+### 1. [Learn-Vim](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-一份超级详细的 Java 面试题【大厂面试真题 + Java 学习指南 + 工作总结】。
+Vim 学习之道翻译版本，初学者和高级用户均可适用。从简单的概念入手，然后落在特殊的、进阶的技巧上。
 
-![](./archive/2025/assets/0104-0110/1736387230329-c4ea3edc-38ff-4a0b-b889-775871377a49.webp)
+![](./archive/2024/assets/0831-0906/1725322509360-104b725a-4457-443e-ab94-c5256031a650.webp)
 
-### 2. [Modern Java](https://github.com/Together-Java/ModernJava)
+### 2. [SQL 样式指南](https://www.sqlstyle.guide/)
 
-面向初学者的现代 Java 教程，内容基于 Java 21。
+教你如何写出规范的 SQL 语句，用于规范项目中代码的一致性，使得代码简单、可读和易于维护，从一定程度上提高代码质量。
 
-![](./2026/assets/0124-0130/1769167020049-052b0c04-d96a-474c-b335-3cccd8d229da.webp)
+![](./archive/2024/assets/1221-1227/1734915566907-41f6386c-a9d1-4bce-84d1-be66ddf61a2b.webp)
 
-### 3. [程序员英语词汇宝典](https://github.com/Wei-Xia/most-frequent-technology-english-words)
+### 3. [深入浅出 Webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-本列表中的单词是英语类计算机书籍、文档、文章中高频常见的技术词汇，也是程序员工作中常见的英语词汇，最终目的是希望程序员集合自身的英语基础，在掌握列表中的词汇后，可以无障碍阅读英语技术文章和文档。
+本书是国内第一本系统全面讲解 `Webpack` 的图书，涵盖了 `Webpack` 的入门、配置、实战、优化、原理。
 
-![](./archive/2023/assets/1695021839312.webp)
+-   第 1 章教你从 0 开始学会使用 `Webpack`；
+-   第 2 章详细的讲解了 `Webpack` 提供的常用配置项；
+-   第 3 章结合实际项目中常见的场景给出最佳实践；
+-   第 4 章罗列出了各种优化 `Webpack` 的手段；
+-   第 5 章剖析了 `Webpack` 原理以及如何开发 `Plugin` 和 `Loader`。
+
+除了深入讲解 `Webpack`，本书还附带介绍了 `ES6`、`TypeScript`、`PostCSS`、`Prepack`、离线缓存、单页应用、`CDN` 等 `Web` 开发相关的技能。
+
+无论是对 `Webpack` 一无所知的初学者，还是经验丰富的工程师，相信都能通过本书进一步提高对 `Webpack` 的理解，让你在 `Web` 开发中更加熟练的运用 `Webpack`。
+
+![](./archive/2023/assets/1695709833569.webp)
 
 ## ✍️ 说明
 
